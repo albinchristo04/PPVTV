@@ -1,20 +1,23 @@
 #!/usr/bin/env python3
+"""Advanced M3U8 discovery for public event iframe pages.
 
-"""
-EVaultHub M3U8 Extractor
+Reads events.json and writes events_with_m3u8.json.  It uses several
+independent discovery techniques:
+  1. HTML/source and decoded/escaped strings
+  2. Recursive iframe discovery
+  3. Browser network requests/responses
+  4. Performance/resource entries exposed by the page
+  5. Common player/config objects and data-* attributes
+  6. JS URL candidates discovered from scripts
 
-Reads events.json, visits each event iframe, discovers an M3U8 playlist URL,
-and writes the result to events_with_m3u8.json without modifying events.json.
-
-The extractor first checks the iframe HTML for obvious playlist URLs and then
-falls back to Playwright for JavaScript-generated URLs.
+It does not attempt to bypass DRM, authentication, paywalls, or other
+access controls.
 """
 
 import asyncio
 import json
 import os
 import re
-import time
 from datetime import datetime, timezone
 from urllib.parse import urljoin
 
@@ -23,112 +26,185 @@ from playwright.async_api import async_playwright, TimeoutError as PlaywrightTim
 
 INPUT_FILE = "events.json"
 OUTPUT_FILE = "events_with_m3u8.json"
-
 REQUEST_TIMEOUT = 20
-PLAYWRIGHT_TIMEOUT = 25_000
-MAX_CONCURRENT = 4
+PLAYWRIGHT_TIMEOUT = 30_000
+MAX_CONCURRENT = 3
 RETRY_COUNT = 2
 RETRY_DELAY = 2
+MAX_IFRAMES = 8
 
-M3U8_RE = re.compile(
-    r"https?://[^\"'<>\\\s]+?\.m3u8(?:\?[^\"'<>\\\s]*)?",
-    re.IGNORECASE,
-)
+ABS_M3U8_RE = re.compile(r"https?://[^\"'<>\\\s]+?\.m3u8(?:\?[^\"'<>\\\s]*)?", re.I)
+REL_M3U8_RE = re.compile(r"(?:^|[\"'`=:\s(])([^\"'`<>\s]+?\.m3u8(?:\?[^\"'`<>\s]*)?)", re.I)
+URLISH_RE = re.compile(r"https?://[^\"'<>\\\s]+", re.I)
 
 
-def load_events():
-    with open(INPUT_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
+def normalize_text(text):
+    if not text:
+        return ""
+    replacements = {
+        r"\\/": "/",
+        r"\u0026": "&",
+        r"\u003d": "=",
+        r"\u003f": "?",
+        r"\u002F": "/",
+        r"\x2f": "/",
+        r"\x26": "&",
+        "&amp;": "&",
+        "\\u0026": "&",
+        "\\u003d": "=",
+        "\\u003f": "?",
+    }
+    for old, new in replacements.items():
+        text = text.replace(old, new)
+    return text
+
+
+def clean_url(url):
+    if not url:
+        return None
+    url = normalize_text(url).strip().strip("\\\"'` )],;>")
+    if url.startswith("//"):
+        url = "https:" + url
+    return url if ".m3u8" in url.lower() else None
 
 
 def find_m3u8(text, base_url=None):
-    """Find the first usable M3U8 URL in text."""
+    text = normalize_text(text)
     if not text:
         return None
 
-    # Normalize common JS/HTML escaping.
-    text = (
-        text.replace(r"\\/", "/")
-        .replace(r"\u0026", "&")
-        .replace(r"\u003d", "=")
-        .replace("&amp;", "&")
-    )
-
-    match = M3U8_RE.search(text)
+    match = ABS_M3U8_RE.search(text)
     if match:
-        return match.group(0).rstrip("\\\"' )],;")
+        return clean_url(match.group(0))
 
-    # Also support relative playlist paths.
-    relative = re.search(
-        r"[\"']([^\"']+\.m3u8(?:\?[^\"']*)?)[\"']",
-        text,
-        re.IGNORECASE,
-    )
-    if relative and base_url:
-        return urljoin(base_url, relative.group(1))
+    match = REL_M3U8_RE.search(text)
+    if match:
+        candidate = match.group(1)
+        if base_url:
+            return clean_url(urljoin(base_url, candidate))
 
+    # Last pass: look at URL-like strings and decode obvious JSON escaping.
+    for candidate in URLISH_RE.findall(text):
+        candidate = clean_url(candidate)
+        if candidate:
+            return candidate
     return None
 
 
-def http_extract(iframe_url):
-    """Try extracting the playlist directly from iframe HTML."""
+def http_extract(url):
     headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/140.0.0.0 Safari/537.36"
-        ),
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/140 Safari/537.36",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Referer": "https://ppv.to/",
     }
-
-    response = requests.get(
-        iframe_url,
-        headers=headers,
-        timeout=REQUEST_TIMEOUT,
-    )
+    response = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
     response.raise_for_status()
-    return find_m3u8(response.text, iframe_url)
+    result = find_m3u8(response.text, url)
+    if result:
+        return result, "html"
+
+    # Some pages put the actual player URL in an iframe src.
+    iframe_srcs = re.findall(r"<iframe[^>]+src=[\"']([^\"']+)", response.text, re.I)
+    for src in iframe_srcs[:MAX_IFRAMES]:
+        nested = urljoin(url, normalize_text(src))
+        try:
+            r = requests.get(nested, headers={**headers, "Referer": url}, timeout=REQUEST_TIMEOUT)
+            r.raise_for_status()
+            result = find_m3u8(r.text, nested)
+            if result:
+                return result, "nested_html"
+        except Exception:
+            continue
+    return None, None
 
 
-async def playwright_extract(page, iframe_url):
-    """Load the iframe in a real browser and capture playlist requests/responses."""
+async def extract_from_page(page, url):
     found = []
 
-    def remember(url):
-        if url and ".m3u8" in url.lower() and url not in found:
-            found.append(url)
+    def remember(candidate):
+        candidate = clean_url(candidate)
+        if candidate and candidate not in found:
+            found.append(candidate)
 
-    page.on("request", lambda request: remember(request.url))
-    page.on("response", lambda response: remember(response.url))
+    def on_request(request):
+        remember(request.url)
+
+    def on_response(response):
+        remember(response.url)
+
+    page.on("request", on_request)
+    page.on("response", on_response)
 
     try:
-        await page.goto(
-            iframe_url,
-            wait_until="domcontentloaded",
-            timeout=PLAYWRIGHT_TIMEOUT,
-        )
+        await page.goto(url, wait_until="domcontentloaded", timeout=PLAYWRIGHT_TIMEOUT)
     except PlaywrightTimeoutError:
-        # A video page may continue loading indefinitely; captured requests
-        # are still useful, so continue instead of treating this as fatal.
         pass
 
-    # Give player JavaScript a little time to initialize.
-    await page.wait_for_timeout(5000)
+    # Let delayed player initialization/network calls happen.
+    await page.wait_for_timeout(7000)
 
     if found:
-        return found[0]
+        return found[0], "network"
 
-    # Inspect the rendered HTML and scripts as a second fallback.
+    # Collect browser resource URLs. This catches resources that were loaded
+    # before event listeners were attached or via fetch/XHR.
     try:
-        html = await page.content()
-        result = find_m3u8(html, iframe_url)
-        if result:
-            return result
+        resources = await page.evaluate("""
+            () => performance.getEntriesByType('resource').map(x => x.name)
+        """)
+        for resource in resources or []:
+            remember(resource)
+    except Exception:
+        pass
+    if found:
+        return found[0], "performance"
+
+    # Search DOM, inline scripts, data attributes and player configuration.
+    try:
+        candidates = await page.evaluate("""
+            () => {
+              const out = [];
+              const push = x => { if (typeof x === 'string') out.push(x); };
+              push(document.documentElement?.outerHTML || '');
+              for (const s of document.scripts) push(s.textContent || '');
+              for (const e of document.querySelectorAll('*')) {
+                for (const a of e.attributes || []) push(a.value || '');
+              }
+              for (const k of ['playerConfig','player','config','video','source','stream','sources']) {
+                try { push(JSON.stringify(window[k])); } catch (_) {}
+              }
+              return out;
+            }
+        """)
+        for text in candidates or []:
+            result = find_m3u8(text, url)
+            if result:
+                return result, "page_data"
     except Exception:
         pass
 
-    return None
+    # Inspect nested iframes. A common layout is iframe -> player iframe -> stream.
+    try:
+        frames = page.frames
+        for frame in frames[1:MAX_IFRAMES + 1]:
+            try:
+                html = await frame.content()
+                result = find_m3u8(html, frame.url or url)
+                if result:
+                    return result, "nested_frame"
+                resources = await frame.evaluate("""
+                    () => performance.getEntriesByType('resource').map(x => x.name)
+                """)
+                for resource in resources or []:
+                    result = clean_url(resource)
+                    if result:
+                        return result, "nested_performance"
+            except Exception:
+                continue
+    except Exception:
+        pass
+
+    return None, None
 
 
 async def extract_one(browser, semaphore, item, index, total):
@@ -139,17 +215,17 @@ async def extract_one(browser, semaphore, item, index, total):
         return
 
     async with semaphore:
-        print(f"[{index}/{total}] {item.get('name', item.get('title', 'Unnamed'))}")
-        print(f"  iframe: {iframe_url[:120]}...")
+        name = item.get("name", item.get("title", "Unnamed"))
+        print(f"[{index}/{total}] {name}")
+        print(f"  iframe: {iframe_url[:140]}")
 
-        # Fast path: ordinary HTTP request.
         for attempt in range(1, RETRY_COUNT + 1):
             try:
-                result = await asyncio.to_thread(http_extract, iframe_url)
+                result, method = await asyncio.to_thread(http_extract, iframe_url)
                 if result:
                     item["m3u8"] = result
-                    item["m3u8_status"] = "found_http"
-                    print(f"  ✓ M3U8 found via HTTP")
+                    item["m3u8_status"] = "found_" + method
+                    print(f"  ✓ M3U8 found via {method}")
                     return
                 break
             except Exception as exc:
@@ -157,46 +233,36 @@ async def extract_one(browser, semaphore, item, index, total):
                 if attempt < RETRY_COUNT:
                     await asyncio.sleep(RETRY_DELAY)
 
-        # Browser fallback for JavaScript-generated players.
-        page = await browser.new_page()
+        page = await browser.new_page(
+            viewport={"width": 1280, "height": 720},
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/140 Safari/537.36",
+        )
         try:
-            result = await playwright_extract(page, iframe_url)
+            result, method = await extract_from_page(page, iframe_url)
             if result:
                 item["m3u8"] = result
-                item["m3u8_status"] = "found_playwright"
-                print("  ✓ M3U8 found via Playwright")
+                item["m3u8_status"] = "found_" + method
+                print(f"  ✓ M3U8 found via {method}")
             else:
                 item["m3u8"] = None
                 item["m3u8_status"] = "not_found"
-                print("  ✗ M3U8 not found")
+                print("  ✗ M3U8 not found after advanced discovery")
         except Exception as exc:
             item["m3u8"] = None
             item["m3u8_status"] = "error"
             item["m3u8_error"] = str(exc)
-            print(f"  ✗ Playwright failed: {exc}")
+            print(f"  ✗ Browser failed: {exc}")
         finally:
             await page.close()
 
 
 def get_stream_items(data):
-    """Return all stream dictionaries while preserving their original structure."""
     events = data.get("events") if isinstance(data, dict) else data
+    categories = events.get("streams", []) if isinstance(events, dict) else events
     items = []
-
-    if isinstance(events, dict):
-        categories = events.get("streams", [])
-    elif isinstance(events, list):
-        categories = events
-    else:
-        categories = []
-
-    for category in categories:
-        if not isinstance(category, dict):
-            continue
-        for item in category.get("streams", []):
-            if isinstance(item, dict):
-                items.append(item)
-
+    for category in categories or []:
+        if isinstance(category, dict):
+            items.extend(x for x in category.get("streams", []) if isinstance(x, dict))
     return items
 
 
@@ -204,63 +270,50 @@ async def main_async():
     if not os.path.exists(INPUT_FILE):
         raise SystemExit(f"Missing {INPUT_FILE}")
 
-    data = load_events()
+    data = json.load(open(INPUT_FILE, "r", encoding="utf-8"))
     items = get_stream_items(data)
 
     print("=" * 60)
-    print("EVaultHub M3U8 Extractor")
+    print("ADVANCED M3U8 EXTRACTOR")
     print("=" * 60)
-    print(f"Input: {INPUT_FILE}")
     print(f"Streams: {len(items)}")
-    print(f"Output: {OUTPUT_FILE}")
 
     if not items:
-        print("✗ No stream items found in events.json")
-        raise SystemExit(1)
+        raise SystemExit("No stream items found in events.json")
 
     semaphore = asyncio.Semaphore(MAX_CONCURRENT)
-
     async with async_playwright() as playwright:
-        browser = await playwright.chromium.launch(
-            headless=True,
-            args=["--disable-dev-shm-usage"],
-        )
-
+        browser = await playwright.chromium.launch(headless=True, args=["--disable-dev-shm-usage"])
         try:
-            tasks = [
+            await asyncio.gather(*[
                 extract_one(browser, semaphore, item, i, len(items))
                 for i, item in enumerate(items, 1)
-            ]
-            await asyncio.gather(*tasks)
+            ])
         finally:
             await browser.close()
 
+    found = sum(1 for item in items if item.get("m3u8"))
     data["m3u8_metadata"] = {
         "extracted_at": datetime.now(timezone.utc).isoformat(),
         "source_file": INPUT_FILE,
         "total_streams": len(items),
-        "found": sum(1 for item in items if item.get("m3u8")),
+        "found": found,
+        "not_found": len(items) - found,
+        "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames",
     }
 
-    temp_file = OUTPUT_FILE + ".tmp"
-    with open(temp_file, "w", encoding="utf-8") as f:
+    tmp = OUTPUT_FILE + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
-    os.replace(temp_file, OUTPUT_FILE)
+    os.replace(tmp, OUTPUT_FILE)
 
-    found = sum(1 for item in items if item.get("m3u8"))
-    print("\n" + "=" * 60)
-    print("SUMMARY")
     print("=" * 60)
     print(f"Total streams: {len(items)}")
     print(f"M3U8 found:    {found}")
     print(f"Not found:     {len(items) - found}")
-    print(f"✓ Saved:       {OUTPUT_FILE}")
+    print(f"Saved:         {OUTPUT_FILE}")
     print("=" * 60)
 
 
-def main():
-    asyncio.run(main_async())
-
-
 if __name__ == "__main__":
-    main()
+    asyncio.run(main_async())
