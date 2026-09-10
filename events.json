@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-09-10T15:44:07.945847+00:00",
+    "fetched_at": "2026-09-10T20:21:42.460122+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1789055050,
+    "timestamp": 1789071710,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.04346489906311035,
+    "performance": 0.0449521541595459,
     "streams": [
       {
         "category": "American Football",
@@ -55,7 +55,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-09-10/sf-lar",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "5"
           },
           {
             "id": 28159,
@@ -243,6 +243,27 @@
             "locale": "en",
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfl/2026-09-12/ott-tor",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 28444,
+            "name": "NFL RedZone",
+            "tag": "NFL",
+            "source_tag": "NFL RedZone",
+            "poster": "https://static.ppvservices.st/assets/thumb/371c59170d5e526147957ec7857caf1b-thumbnail.jpg",
+            "blurhash": "L6OlvXm,L#%g4.$%i_Ipy@t78uRj",
+            "colors": [
+              "#d92026",
+              "#db232b"
+            ],
+            "uri_name": "nfl/2026-09-12/redzone",
+            "starts_at": 1789232400,
+            "ends_at": 1789257600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-09-12/redzone",
             "substreams": [],
             "viewers": "0"
           },
@@ -790,7 +811,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-09-13/mia-lv",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 28150,
@@ -975,27 +996,6 @@
         "always_live": false,
         "streams": [
           {
-            "id": 28431,
-            "name": "Tampa Bay Rays vs. Atlanta Braves",
-            "tag": "MLB",
-            "source_tag": "BravesVision",
-            "poster": "https://static.ppvservices.st/assets/thumb/8f966f3c80f571ab33acac278705a494-thumbnail.jpg",
-            "blurhash": "L6B{4g3ZrErWaLozofae00[Bx]xu",
-            "colors": [
-              "#1a3e6e",
-              "#b01c2e"
-            ],
-            "uri_name": "mlb/2026-09-10/tb-atl",
-            "starts_at": 1789056900,
-            "ends_at": 1789069500,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-10/tb-atl",
-            "substreams": [],
-            "viewers": "2"
-          },
-          {
             "id": 28432,
             "name": "Houston Astros vs. Philadelphia Phillies",
             "tag": "MLB",
@@ -1014,7 +1014,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-10/hou-phi",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "34"
           },
           {
             "id": 28433,
@@ -1035,7 +1035,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-10/tex-sea",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "140"
           },
           {
             "id": 28434,
@@ -1124,7 +1124,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "52"
+            "viewers": "3"
           },
           {
             "id": 27496,
@@ -1145,7 +1145,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "20"
+            "viewers": "2"
           }
         ]
       },
@@ -1154,89 +1154,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 28385,
-            "name": "Sundby vs. FC Midtjylland",
-            "tag": "Danish Cup",
-            "source_tag": "Viaplay Sport News",
-            "poster": "https://static.ppvservices.st/assets/thumb/bceb549b3c5c5a3afad8d90a64e8f0bf-thumbnail.jpg",
-            "blurhash": "L2A]jd8J1b@r@u^k3CEz00[BB:G]",
-            "colors": [
-              "#2a2836",
-              "#333b48"
-            ],
-            "uri_name": "danish-cup/2026-09-10/sun-mid",
-            "starts_at": 1789056000,
-            "ends_at": 1789065000,
-            "always_live": 0,
-            "locale": "da",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/danish-cup/2026-09-10/sun-mid",
-            "substreams": [],
-            "viewers": "2"
-          },
-          {
-            "id": 28276,
-            "name": "Fenerbahce vs. AS Roma",
-            "tag": "Champions League",
-            "source_tag": "TNT Sports 2",
-            "poster": "https://static.ppvservices.st/assets/thumb/85c310c1293b5c394effc2403c63904e-thumbnail.jpg",
-            "blurhash": "LeHUBU?;o]e-oKfQfQj@4=MzahWG",
-            "colors": [
-              "#ffff00",
-              "#970a2c"
-            ],
-            "uri_name": "ucl/2026-09-10/fen-roma",
-            "starts_at": 1789058700,
-            "ends_at": 1789067700,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/ucl/2026-09-10/fen-roma",
-            "substreams": [
-              {
-                "id": 28436,
-                "name": "Fenerbahce vs. AS Roma",
-                "tag": "Champions League",
-                "uri_name": "ucl/2026-09-10/fen-roma/paramount-en",
-                "source_tag": "Paramount+",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/ucl/2026-09-10/fen-roma/paramount-en"
-              }
-            ],
-            "viewers": "14"
-          },
-          {
-            "id": 28277,
-            "name": "PSV Eindhoven vs. Shakhtar Donetsk",
-            "tag": "Champions League",
-            "source_tag": "TNT Sports 3",
-            "poster": "https://static.ppvservices.st/assets/thumb/7a23cd78f69d9160c4fa8ce05be21232-thumbnail.jpg",
-            "blurhash": "L2KH5:0[z:Di+]Rjf6t700qtK*?u",
-            "colors": [
-              "#ed1c24",
-              "#ff5900"
-            ],
-            "uri_name": "ucl/2026-09-10/psv-shk",
-            "starts_at": 1789058700,
-            "ends_at": 1789067700,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/ucl/2026-09-10/psv-shk",
-            "substreams": [
-              {
-                "id": 28437,
-                "name": "PSV Eindhoven vs. Shakhtar Donetsk",
-                "tag": "Champions League",
-                "uri_name": "ucl/2026-09-10/psv-shk/paramount-en",
-                "source_tag": "Paramount+",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/ucl/2026-09-10/psv-shk/paramount-en"
-              }
-            ],
-            "viewers": "1"
-          },
           {
             "id": 28278,
             "name": "Bayern Munich vs. Bodo/Glimt",
@@ -1266,7 +1183,7 @@
                 "iframe": "https://embedindia.st/embed/ucl/2026-09-10/bay-bodo/paramount-en"
               }
             ],
-            "viewers": "4"
+            "viewers": "4795"
           },
           {
             "id": 28279,
@@ -1297,7 +1214,7 @@
                 "iframe": "https://embedindia.st/embed/ucl/2026-09-10/como-rbl/paramount-en"
               }
             ],
-            "viewers": "0"
+            "viewers": "908"
           },
           {
             "id": 28280,
@@ -1328,7 +1245,7 @@
                 "iframe": "https://embedindia.st/embed/ucl/2026-09-10/mun-sab/paramount-en"
               }
             ],
-            "viewers": "7"
+            "viewers": "8937"
           },
           {
             "id": 28281,
@@ -1348,8 +1265,18 @@
             "locale": "en",
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/ucl/2026-09-10/slp-rcl",
-            "substreams": [],
-            "viewers": "0"
+            "substreams": [
+              {
+                "id": 28443,
+                "name": "Slavia Prague vs. Lens",
+                "tag": "Champions League",
+                "uri_name": "ucl/2026-09-10/slp-rcl/canal-360-pl",
+                "source_tag": "CANAL+ 360",
+                "locale": "pl",
+                "iframe": "https://embedindia.st/embed/ucl/2026-09-10/slp-rcl/canal-360-pl"
+              }
+            ],
+            "viewers": "575"
           },
           {
             "id": 28388,
@@ -1370,13 +1297,13 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/ucl/2026-09-10/golazo",
             "substreams": [],
-            "viewers": "2"
+            "viewers": "414"
           },
           {
             "id": 28282,
             "name": "Pumas UNAM vs. León",
             "tag": "Liga MX",
-            "source_tag": "Liga MX",
+            "source_tag": "TUDN",
             "poster": "https://static.ppvservices.st/assets/thumb/f600a28ce8fd7070b23f403de97d2105-thumbnail.jpg",
             "blurhash": "L45~qDDG0J.5WUofayWB00.O~qIV",
             "colors": [
@@ -1853,7 +1780,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/pl/2026-09-12/cry-ips",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 28210,
@@ -2231,7 +2158,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/ligue1/2026-09-12/par-lyon",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 28305,
@@ -2882,7 +2809,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-09-13/genk-gent",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 28193,
@@ -3511,7 +3438,7 @@
                 "iframe": "https://embedindia.st/embed/f1/2026/spain/fp1/viaplay-nl"
               }
             ],
-            "viewers": "2"
+            "viewers": "0"
           },
           {
             "id": 28399,
@@ -3843,7 +3770,7 @@
             "category_name": "Rugby",
             "iframe": "https://embedindia.st/embed/247-fox-league",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "4"
           },
           {
             "id": 28321,
@@ -3983,7 +3910,7 @@
                 "iframe": "https://embedindia.st/embed/us-open-espn--espn2/abc-en"
               }
             ],
-            "viewers": "40"
+            "viewers": "42"
           }
         ]
       },
@@ -4081,7 +4008,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "8"
+            "viewers": "4"
           },
           {
             "id": 3663,
@@ -4102,7 +4029,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-cows",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 8008,
@@ -4123,7 +4050,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "7"
+            "viewers": "11"
           },
           {
             "id": 5191,
@@ -4144,7 +4071,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "2"
+            "viewers": "1"
           },
           {
             "id": 16623,
@@ -4165,7 +4092,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 17270,
@@ -4186,7 +4113,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/rally-tv",
             "substreams": [],
-            "viewers": "5"
+            "viewers": "3"
           }
         ]
       }
