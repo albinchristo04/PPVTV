@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-09-14T17:30:31.445399+00:00",
+    "fetched_at": "2026-09-14T21:21:06.082161+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1789407040,
+    "timestamp": 1789420870,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.05023598670959473,
+    "performance": 0.044953107833862305,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "8",
+            "viewers": "22",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -67,7 +67,7 @@
                 "iframe": "https://embedindia.st/embed/denver-broncos-at-kansas-city-chiefs-28843"
               }
             ],
-            "viewers": "2",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -580,7 +580,7 @@
             "category_name": "Australian Football",
             "iframe": "https://embedindia.st/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -679,7 +679,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-14/lad-cin",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -794,7 +794,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-14/sf-stl",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -965,7 +965,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -976,121 +976,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 28223,
-            "name": "Como vs. Parma",
-            "tag": "Serie A",
-            "source_tag": "Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/e428a0e53e3cbafc159cc552b9ac520e-thumbnail.jpg",
-            "blurhash": "L58#8WgQ00nMxtkDf5ax00Vq_Mbw",
-            "colors": [
-              "#0033a0",
-              "#0033a0"
-            ],
-            "uri_name": "seriea/2026-09-14/como-par",
-            "starts_at": 1789403400,
-            "ends_at": 1789412400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/seriea/2026-09-14/como-par",
-            "substreams": [],
-            "viewers": "172",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28224,
-            "name": "Torino vs. AS Roma",
-            "tag": "Serie A",
-            "source_tag": "Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/6ab5cb7f52ab93fef8720ad32dd34038-thumbnail.jpg",
-            "blurhash": "L6Cq+57z8wR4%2off5WB00vz.Txv",
-            "colors": [
-              "#670e36",
-              "#970a2c"
-            ],
-            "uri_name": "seriea/2026-09-14/tor-roma",
-            "starts_at": 1789403400,
-            "ends_at": 1789412400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/seriea/2026-09-14/tor-roma",
-            "substreams": [],
-            "viewers": "217",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28317,
-            "name": "Djurgården vs. GAIS",
-            "tag": "Allsvenskan",
-            "source_tag": "TV4 Fotboll",
-            "poster": "https://static.ppvservices.st/assets/thumb/5f463e989dd6626aa18e159a8eddb02a-thumbnail.jpg",
-            "blurhash": "LF8;_PD{NI-5w_SffQn+02$]xaJ9",
-            "colors": [
-              "#1d5caa",
-              "#00843d"
-            ],
-            "uri_name": "allsvenskan/2026-09-14/dju-gais",
-            "starts_at": 1789405200,
-            "ends_at": 1789414200,
-            "always_live": 0,
-            "locale": "sv",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/allsvenskan/2026-09-14/dju-gais",
-            "substreams": [],
-            "viewers": "80",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28318,
-            "name": "IK Sirius vs. Degerfors IF",
-            "tag": "Allsvenskan",
-            "source_tag": "TV4 Sportkanalen",
-            "poster": "https://static.ppvservices.st/assets/thumb/71190919f2a610497659c6f9783d82b5-thumbnail.jpg",
-            "blurhash": "LDD@wZ1,v*=btQWBfRkC00}8kpI;",
-            "colors": [
-              "#0b3d91",
-              "#d6001c"
-            ],
-            "uri_name": "allsvenskan/2026-09-14/sir-deg",
-            "starts_at": 1789405200,
-            "ends_at": 1789414200,
-            "always_live": 0,
-            "locale": "sv",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/allsvenskan/2026-09-14/sir-deg",
-            "substreams": [],
-            "viewers": "23",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28225,
-            "name": "Inter Milan vs. Udinese",
-            "tag": "Serie A",
-            "source_tag": "Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/42eed3750f7e496a018c9b4008a3b3f2-thumbnail.jpg",
-            "blurhash": "L68XY5^s4U9Dj]oLf5WV009F_3-@",
-            "colors": [
-              "#0a2540",
-              "#0033a0"
-            ],
-            "uri_name": "seriea/2026-09-14/int-udi",
-            "starts_at": 1789411500,
-            "ends_at": 1789420500,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/seriea/2026-09-14/int-udi",
-            "substreams": [],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 28196,
             "name": "Villarreal vs. Real Betis",
@@ -1110,7 +995,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/laliga/2026-09-14/vil-bet",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "38",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1161,7 +1046,7 @@
                 "iframe": "https://embedindia.st/embed/leeds-united-vs-newcastle-united-28796"
               }
             ],
-            "viewers": "15",
+            "viewers": "499",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1276,7 +1161,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/laliga/2026-09-15/elc-rma",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4158,8 +4043,8 @@
         ]
       },
       {
-        "category": "Miscellaneous",
-        "id": 44,
+        "category": "Motorsports",
+        "id": 35,
         "always_live": false,
         "streams": [
           {
@@ -4178,20 +4063,13 @@
             "ends_at": 1789585200,
             "always_live": 0,
             "locale": "en",
-            "category_name": "Miscellaneous",
+            "category_name": "Motorsports",
             "iframe": "https://embedindia.st/embed/max-vs-100-28844",
             "substreams": [],
             "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
-          }
-        ]
-      },
-      {
-        "category": "Motorsports",
-        "id": 35,
-        "always_live": false,
-        "streams": [
+          },
           {
             "id": 28798,
             "name": "Azerbaijan Grand Prix - Practice 1",
@@ -4806,7 +4684,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "3",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4829,7 +4707,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-cows",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4852,7 +4730,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "8",
+            "viewers": "7",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4875,7 +4753,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4898,7 +4776,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4930,11 +4808,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-09-14T17:40:29.418173+00:00",
+    "extracted_at": "2026-09-14T21:30:43.189164+00:00",
     "source_file": "events.json",
-    "total_streams": 196,
+    "total_streams": 191,
     "found": 0,
-    "not_found": 196,
+    "not_found": 191,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
