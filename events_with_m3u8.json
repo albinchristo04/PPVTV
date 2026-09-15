@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-09-15T16:06:44.752731+00:00",
+    "fetched_at": "2026-09-15T20:47:40.468785+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1789488410,
+    "timestamp": 1789505260,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.04816603660583496,
+    "performance": 0.025825977325439453,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "10",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -80,7 +80,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfb/2026-09-18/mia-wake",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -975,7 +975,7 @@
             "category_name": "Combat Sports",
             "iframe": "https://embedindia.st/embed/dwcs/2026-09-15",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1024,7 +1024,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "74",
+            "viewers": "25",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1047,7 +1047,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "8",
+            "viewers": "12",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1058,98 +1058,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 28869,
-            "name": "Genoa vs. Sudtirol",
-            "tag": "Coppa Italia",
-            "source_tag": "Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/8e841f6a6adaca6405a16e25406b8595-thumbnail.jpg",
-            "blurhash": "L69Gq$IQj1-pxbtQfkRQ00%QkRE5",
-            "colors": [
-              "#0134a1",
-              "#1f20ec"
-            ],
-            "uri_name": "coppa-italia/2026-09-15/gen-sud",
-            "starts_at": 1789488000,
-            "ends_at": 1789497000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/coppa-italia/2026-09-15/gen-sud",
-            "substreams": [],
-            "viewers": "9",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28653,
-            "name": "Rayo Vallecano vs. Espanyol",
-            "tag": "LaLiga",
-            "source_tag": "ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/aedb607aaf1021b401635b0363c554b7-thumbnail.jpg",
-            "blurhash": "LQDH%R}6r[RQj[j[ayay0dItbbkW",
-            "colors": [
-              "#c8102e",
-              "#0044a6"
-            ],
-            "uri_name": "laliga/2026-09-15/ray-esp",
-            "starts_at": 1789491600,
-            "ends_at": 1789500600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/laliga/2026-09-15/ray-esp",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28654,
-            "name": "Alavés vs. Valencia",
-            "tag": "LaLiga",
-            "source_tag": "ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/bd1c87668f2965e2e0f346784bd20b9c-thumbnail.jpg",
-            "blurhash": "LJF4c.1-+#ngbIjsf6a}0J+?S}xH",
-            "colors": [
-              "#004fa3",
-              "#ff6600"
-            ],
-            "uri_name": "laliga/2026-09-15/ala-val",
-            "starts_at": 1789495200,
-            "ends_at": 1789504200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/laliga/2026-09-15/ala-val",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28754,
-            "name": "Ajax Amsterdam vs. Willem II",
-            "tag": "Eredivisie",
-            "source_tag": "ESPN2",
-            "poster": "https://static.ppvservices.st/assets/thumb/720206a9243cf5023ec7f3fc37486fbd-thumbnail.jpg",
-            "blurhash": "LPDuDU}Yrsiwofa|fQj@0KM{kWT0",
-            "colors": [
-              "#d2122e",
-              "#0e2c6b"
-            ],
-            "uri_name": "eredivisie/2026-09-15/aja-wil",
-            "starts_at": 1789495200,
-            "ends_at": 1789504200,
-            "always_live": 0,
-            "locale": "nl",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/eredivisie/2026-09-15/aja-wil",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 28864,
             "name": "Peterborough United vs. Barnsley",
@@ -1169,7 +1077,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/carabao-cup/2026-09-15/pet-bar",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "10",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1192,7 +1100,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/efl-championship/2026-09-15/brc-lcn",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1215,7 +1123,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/efl-championship/2026-09-15/mid-mil",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "13",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1238,7 +1146,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/carabao-cup/2026-09-15/whu-ful",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "81",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1261,7 +1169,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/carabao-cup/2026-09-15/ips-ars",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2406",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1284,7 +1192,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/carabao-cup/2026-09-15/liv-tot",
             "substreams": [],
-            "viewers": "6",
+            "viewers": "5847",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1307,7 +1215,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/carabao-cup/2026-09-15/rea-bre",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "83",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1330,7 +1238,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/coppa-italia/2026-09-15/fio-pis",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "20",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1353,7 +1261,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/laliga/2026-09-15/elc-rma",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "4242",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4876,7 +4784,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "9",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4922,7 +4830,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "7",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4968,7 +4876,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5000,11 +4908,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-09-15T16:16:53.837162+00:00",
+    "extracted_at": "2026-09-15T20:57:42.420387+00:00",
     "source_file": "events.json",
-    "total_streams": 201,
+    "total_streams": 197,
     "found": 0,
-    "not_found": 201,
+    "not_found": 197,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
