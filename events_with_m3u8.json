@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-09-16T10:44:23.736511+00:00",
+    "fetched_at": "2026-09-16T15:59:39.996113+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1789555470,
+    "timestamp": 1789574380,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.04378509521484375,
+    "performance": 0.04424786567687988,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "9",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -994,7 +994,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "2",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1017,7 +1017,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "6",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1032,7 +1032,7 @@
             "id": 28725,
             "name": "Ararat-Armenia vs. Sparta Prague",
             "tag": "Europa League",
-            "source_tag": "Europa League",
+            "source_tag": "TNT Sports 3",
             "poster": "https://static.ppvservices.st/assets/thumb/f09fd2f7df341f1fdc3bbd124f5abc4e-thumbnail.jpg",
             "blurhash": "LPFM3E|wr?ayjZjtfQfQ0|JRbbSg",
             "colors": [
@@ -1043,11 +1043,21 @@
             "starts_at": 1789577100,
             "ends_at": 1789586100,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-gb",
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uel/2026-09-16/ara-spp",
-            "substreams": [],
-            "viewers": "0",
+            "substreams": [
+              {
+                "id": 28891,
+                "name": "Ararat-Armenia vs. Sparta Prague",
+                "tag": "Europa League",
+                "uri_name": "ararat-armenia-vs-sparta-prague-28891",
+                "source_tag": "Nova Sport 5",
+                "locale": "cs",
+                "iframe": "https://embedindia.st/embed/ararat-armenia-vs-sparta-prague-28891"
+              }
+            ],
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1055,7 +1065,7 @@
             "id": 28726,
             "name": "Omonia Nicosia vs. Celta Vigo",
             "tag": "Europa League",
-            "source_tag": "Europa League",
+            "source_tag": "TNT Sports 4",
             "poster": "https://static.ppvservices.st/assets/thumb/54dd64a834a4c005ed8db5ae927c0a85-thumbnail.jpg",
             "blurhash": "L85%clqGOJRqaeWBfQof00T5w@tR",
             "colors": [
@@ -1066,11 +1076,11 @@
             "starts_at": 1789577100,
             "ends_at": 1789586100,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-gb",
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uel/2026-09-16/omon-cel",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1078,7 +1088,7 @@
             "id": 28656,
             "name": "Atlético Madrid vs. Osasuna",
             "tag": "LaLiga",
-            "source_tag": "LaLiga",
+            "source_tag": "ESPN+",
             "poster": "https://static.ppvservices.st/assets/thumb/135119f1072dded015e4090d67f22a13-thumbnail.jpg",
             "blurhash": "L3J5170uMcrAkWSPayoI00|CyE-r",
             "colors": [
@@ -1101,7 +1111,7 @@
             "id": 28657,
             "name": "Deportivo vs. Sevilla",
             "tag": "LaLiga",
-            "source_tag": "LaLiga",
+            "source_tag": "ESPN+",
             "poster": "https://static.ppvservices.st/assets/thumb/566ec4e62c97facc5524e17c13f6ecba-thumbnail.jpg",
             "blurhash": "LFEA]83Z+~s9j[WBaykB00+tSzs9",
             "colors": [
@@ -1124,7 +1134,7 @@
             "id": 28773,
             "name": "AIK vs. Mjällby AIF",
             "tag": "Allsvenskan",
-            "source_tag": "TV4 Play",
+            "source_tag": "TV4 Fotboll",
             "poster": "https://static.ppvservices.st/assets/thumb/73aaa16ea2f82048bc691e1830b23f3d-thumbnail.jpg",
             "blurhash": "L4J%Nauf#Ox8$~a#azaz00R4KSV~",
             "colors": [
@@ -1144,10 +1154,56 @@
             "m3u8_status": "not_found"
           },
           {
+            "id": 28887,
+            "name": "Everton vs. Wolverhampton Wanderers",
+            "tag": "Carabao Cup",
+            "source_tag": "Sky Sports+",
+            "poster": "https://static.ppvservices.st/assets/thumb/80ad9ea90dc8bb8803085ace7e4de8d1-thumbnail.jpg",
+            "blurhash": "LFD[zz0I=LxToLa#fQfQ0K^FODs;",
+            "colors": [
+              "#003399",
+              "#fcb913"
+            ],
+            "uri_name": "carabao-cup/2026-09-16/eve-wol",
+            "starts_at": 1789584300,
+            "ends_at": 1789593300,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/carabao-cup/2026-09-16/eve-wol",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 28888,
+            "name": "Fleetwood Town vs. Sheffield United",
+            "tag": "Carabao Cup",
+            "source_tag": "Sky Sports+",
+            "poster": "https://static.ppvservices.st/assets/thumb/e0783dab15e0bd7525389332f7fcbd11-thumbnail.jpg",
+            "blurhash": "L3IKxW1M_*F_xGe.f6X800xZ8F[W",
+            "colors": [
+              "#c8142f",
+              "#f32728"
+            ],
+            "uri_name": "carabao-cup/2026-09-16/fle-shu",
+            "starts_at": 1789584300,
+            "ends_at": 1789593300,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/carabao-cup/2026-09-16/fle-shu",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
             "id": 28727,
             "name": "AC Milan vs. Benfica",
             "tag": "Europa League",
-            "source_tag": "Europa League",
+            "source_tag": "TNT Sports 2",
             "poster": "https://static.ppvservices.st/assets/thumb/f3df44ebc108879c31de1c4a2456d659-thumbnail.jpg",
             "blurhash": "L6Hu6G{Pn5oxr=kDf6e.00O;b]Rk",
             "colors": [
@@ -1158,11 +1214,11 @@
             "starts_at": 1789585200,
             "ends_at": 1789594200,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-gb",
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uel/2026-09-16/mil-slb",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1170,7 +1226,7 @@
             "id": 28728,
             "name": "Anderlecht vs. Lyon",
             "tag": "Europa League",
-            "source_tag": "Europa League",
+            "source_tag": "TNT Sports 4",
             "poster": "https://static.ppvservices.st/assets/thumb/92818f87bf0b779170d53f1da25392a8-thumbnail.jpg",
             "blurhash": "L9Ev]t24w5$*xGSOfQo000]hbtnN",
             "colors": [
@@ -1181,7 +1237,7 @@
             "starts_at": 1789585200,
             "ends_at": 1789594200,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-gb",
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uel/2026-09-16/and-lyon",
             "substreams": [],
@@ -1193,7 +1249,7 @@
             "id": 28729,
             "name": "Bayer Leverkusen vs. NK Celje",
             "tag": "Europa League",
-            "source_tag": "Europa League",
+            "source_tag": "TNT Sports 3",
             "poster": "https://static.ppvservices.st/assets/thumb/910f0dbdc64fe62dd304db96e409cb18-thumbnail.jpg",
             "blurhash": "LUD*F[|DwNbcjujufQfi4.J:X6WB",
             "colors": [
@@ -1204,11 +1260,11 @@
             "starts_at": 1789585200,
             "ends_at": 1789594200,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-gb",
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uel/2026-09-16/b04-nkc",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1216,7 +1272,7 @@
             "id": 28730,
             "name": "Hapoel Be'er vs. Dinamo Zagreb",
             "tag": "Europa League",
-            "source_tag": "Europa League",
+            "source_tag": "Paramount+",
             "poster": "https://static.ppvservices.st/assets/thumb/23c1e2397a5ab71437460293388e83c0-thumbnail.jpg",
             "blurhash": "LcFpK]{xwNkCo0ayfQj[5PK5bZR+",
             "colors": [
@@ -1239,7 +1295,7 @@
             "id": 28731,
             "name": "Olympiacos vs. Jagiellonia Bialystok",
             "tag": "Europa League",
-            "source_tag": "Europa League",
+            "source_tag": "Paramount+",
             "poster": "https://static.ppvservices.st/assets/thumb/bf62e1b560e025bd94ed9c79dff5ea8f-thumbnail.jpg",
             "blurhash": "LOD76H{tr{buoLayfQj?1EOtbDR:",
             "colors": [
@@ -1262,7 +1318,7 @@
             "id": 28732,
             "name": "SK Sturm Graz vs. Stade Rennais",
             "tag": "Europa League",
-            "source_tag": "Europa League",
+            "source_tag": "Paramount+",
             "poster": "https://static.ppvservices.st/assets/thumb/0ad607367e7f77373a8de569a06f5876-thumbnail.jpg",
             "blurhash": "L4IKo8C,#8u*xYjFjtbb00*eKiT|",
             "colors": [
@@ -1285,7 +1341,7 @@
             "id": 28733,
             "name": "Sunderland vs. AZ Alkmaar",
             "tag": "Europa League",
-            "source_tag": "Europa League",
+            "source_tag": "TNT Sports 1",
             "poster": "https://static.ppvservices.st/assets/thumb/84f12accbcad90908c92188f77362431-thumbnail.jpg",
             "blurhash": "L2I,u=|E#8Rm#9oMf6ae00KjO=s-",
             "colors": [
@@ -1296,7 +1352,7 @@
             "starts_at": 1789585200,
             "ends_at": 1789594200,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-gb",
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uel/2026-09-16/sun-az",
             "substreams": [],
@@ -1305,10 +1361,56 @@
             "m3u8_status": "not_found"
           },
           {
+            "id": 28889,
+            "name": "Coventry City vs. Aston Villa",
+            "tag": "Carabao Cup",
+            "source_tag": "Sky Sports+",
+            "poster": "https://static.ppvservices.st/assets/thumb/beac53002d5ad117b219b562e4949d2e-thumbnail.jpg",
+            "blurhash": "LPAwe;pyXTf+oLaza|j[8_i^oIaJ",
+            "colors": [
+              "#6cb0df",
+              "#660e36"
+            ],
+            "uri_name": "carabao-cup/2026-09-16/cov-avl",
+            "starts_at": 1789585200,
+            "ends_at": 1789594200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/carabao-cup/2026-09-16/cov-avl",
+            "substreams": [],
+            "viewers": "1",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 28890,
+            "name": "Manchester United vs. Brighton & Hove Albion",
+            "tag": "Carabao Cup",
+            "source_tag": "Sky Sports Football",
+            "poster": "https://static.ppvservices.st/assets/thumb/5f7c45c6995eb3340cd59907aa59bb18-thumbnail.jpg",
+            "blurhash": "LRDkTG{HwOXnj[jsfQa|0eKkX5V?",
+            "colors": [
+              "#da020f",
+              "#0158b7"
+            ],
+            "uri_name": "carabao-cup/2026-09-16/mun-bha",
+            "starts_at": 1789585200,
+            "ends_at": 1789594200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/carabao-cup/2026-09-16/mun-bha",
+            "substreams": [],
+            "viewers": "4",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
             "id": 28658,
             "name": "Barcelona vs. Racing Santander",
             "tag": "LaLiga",
-            "source_tag": "LaLiga",
+            "source_tag": "ESPN+",
             "poster": "https://static.ppvservices.st/assets/thumb/1bece805337cea1f183aa84735c9bfef-thumbnail.jpg",
             "blurhash": "LHA]pP{8r=ShoJoeazWC0MKNozk8",
             "colors": [
@@ -1323,7 +1425,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/laliga/2026-09-16/bar-rac",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1331,7 +1433,7 @@
             "id": 28659,
             "name": "Levante vs. Athletic Club",
             "tag": "LaLiga",
-            "source_tag": "LaLiga",
+            "source_tag": "ESPN+",
             "poster": "https://static.ppvservices.st/assets/thumb/f39b0d5a2d229ecc4b3e2797803ee3de-thumbnail.jpg",
             "blurhash": "LADth_1A+h%gozV@aykC00}rTIZ#",
             "colors": [
@@ -3906,7 +4008,7 @@
             "category_name": "Motorsports",
             "iframe": "https://embedindia.st/embed/max-vs-100-28844",
             "substreams": [],
-            "viewers": "7",
+            "viewers": "298",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4501,7 +4603,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "6",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4547,7 +4649,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "5",
+            "viewers": "11",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4593,7 +4695,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4616,7 +4718,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/rally-tv",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4625,11 +4727,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-09-16T10:53:21.029202+00:00",
+    "extracted_at": "2026-09-16T16:08:58.298123+00:00",
     "source_file": "events.json",
-    "total_streams": 185,
+    "total_streams": 189,
     "found": 0,
-    "not_found": 185,
+    "not_found": 189,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
