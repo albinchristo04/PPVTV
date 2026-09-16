@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-09-15T20:47:40.468785+00:00",
+    "fetched_at": "2026-09-16T03:00:43.925185+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1789505260,
+    "timestamp": 1789527650,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.025825977325439453,
+    "performance": 0.04938006401062012,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "8",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -80,7 +80,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfb/2026-09-18/mia-wake",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -605,167 +605,6 @@
         "always_live": false,
         "streams": [
           {
-            "id": 28847,
-            "name": "Athletics vs. Tampa Bay Rays",
-            "tag": "MLB",
-            "source_tag": "Rays.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/7b9d1f7fdcbe02ca52d0eda916b6b75e-thumbnail.jpg",
-            "blurhash": "L57Ur5I7D*yGbIa|WBof00yG-pQ,",
-            "colors": [
-              "#004b3a",
-              "#1a3e6e"
-            ],
-            "uri_name": "mlb/2026-09-15/ath-tb",
-            "starts_at": 1789512000,
-            "ends_at": 1789524600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-15/ath-tb",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28848,
-            "name": "Chicago White Sox vs. Cleveland Guardians",
-            "tag": "MLB",
-            "source_tag": "CLEGuardians.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/d508ecf6e7a4ce01370c6d1a5df71412-thumbnail.jpg",
-            "blurhash": "L8D7w43TrD:+oLbHoLj[00{gtlO?",
-            "colors": [
-              "#2b2b2b",
-              "#c41e3a"
-            ],
-            "uri_name": "mlb/2026-09-15/chw-cle",
-            "starts_at": 1789512000,
-            "ends_at": 1789524600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-15/chw-cle",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28849,
-            "name": "Los Angeles Dodgers vs. Cincinnati Reds",
-            "tag": "MLB",
-            "source_tag": "Reds.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/942b1474035c0323062207100fdbd298-thumbnail.jpg",
-            "blurhash": "LIB.Zz3?r]m,WBWVj[oe0dvfoyo}",
-            "colors": [
-              "#005a9c",
-              "#b0021b"
-            ],
-            "uri_name": "mlb/2026-09-15/lad-cin",
-            "starts_at": 1789512000,
-            "ends_at": 1789524600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-15/lad-cin",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28850,
-            "name": "Milwaukee Brewers vs. Pittsburgh Pirates",
-            "tag": "MLB",
-            "source_tag": "MLB.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/f3dfbdac35804ab2e8a49b65d8651fcd-thumbnail.jpg",
-            "blurhash": "L7D92~0Fv|-6oJWCj[oL01}*tSba",
-            "colors": [
-              "#1a2f5a",
-              "#c9a227"
-            ],
-            "uri_name": "mlb/2026-09-15/mil-pit",
-            "starts_at": 1789512000,
-            "ends_at": 1789524600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-15/mil-pit",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28851,
-            "name": "Philadelphia Phillies vs. Washington Nationals",
-            "tag": "MLB",
-            "source_tag": "Nationals.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/a1dc42daf5e2a817cc7bc04def148aed-thumbnail.jpg",
-            "blurhash": "L6Gii@}GVYV@xuozj[Rj00J*tlSg",
-            "colors": [
-              "#c8102e",
-              "#ab0003"
-            ],
-            "uri_name": "mlb/2026-09-15/phi-wsh",
-            "starts_at": 1789512300,
-            "ends_at": 1789524900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-15/phi-wsh",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28852,
-            "name": "Detroit Tigers vs. Toronto Blue Jays",
-            "tag": "MLB",
-            "source_tag": "Sportsnet",
-            "poster": "https://static.ppvservices.st/assets/thumb/2edc37f0dcaea44f27c4e3e6f9ceb622-thumbnail.jpg",
-            "blurhash": "L47UiQx5D[D=ogfkj[ae00RJ.5%N",
-            "colors": [
-              "#102a44",
-              "#1d4ed8"
-            ],
-            "uri_name": "mlb/2026-09-15/det-tor",
-            "starts_at": 1789513620,
-            "ends_at": 1789526220,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-15/det-tor",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28853,
-            "name": "Baltimore Orioles vs. New York Mets",
-            "tag": "MLB",
-            "source_tag": "SNY",
-            "poster": "https://static.ppvservices.st/assets/thumb/e92b62a11e68ff1c30443d6c4cc92fb6-thumbnail.jpg",
-            "blurhash": "LRCXgQ|:rtSOjta|fRjt5jJVkVjb",
-            "colors": [
-              "#d04a02",
-              "#003f87"
-            ],
-            "uri_name": "mlb/2026-09-15/bal-nym",
-            "starts_at": 1789513800,
-            "ends_at": 1789526400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-15/bal-nym",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 28854,
             "name": "Atlanta Braves vs. Chicago Cubs",
             "tag": "MLB",
@@ -784,7 +623,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-15/atl-chc",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "6",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -807,7 +646,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-15/nyy-min",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -830,7 +669,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-15/sf-stl",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -853,7 +692,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-15/bos-tex",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "10",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -876,7 +715,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-15/kc-hou",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -899,7 +738,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-15/sd-col",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "12",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -922,7 +761,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-15/sea-laa",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "17",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -945,37 +784,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-15/mia-ari",
             "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          }
-        ]
-      },
-      {
-        "category": "Combat Sports",
-        "id": 33,
-        "always_live": false,
-        "streams": [
-          {
-            "id": 28786,
-            "name": "Dana White's Contender Series",
-            "tag": "Mixed Martial Arts (MMA)",
-            "source_tag": "Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/a5f35940ef6309a61060dede0638e1d3-thumbnail.jpg",
-            "blurhash": "L97#+in%0LV@t7emR*a}03X9~Voz",
-            "colors": [
-              "#169bbc",
-              "#15abcc"
-            ],
-            "uri_name": "dwcs/2026-09-15",
-            "starts_at": 1789513200,
-            "ends_at": 1789527600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Combat Sports",
-            "iframe": "https://embedindia.st/embed/dwcs/2026-09-15",
-            "substreams": [],
-            "viewers": "4",
+            "viewers": "7",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1024,7 +833,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "25",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1047,7 +856,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "12",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1058,213 +867,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 28864,
-            "name": "Peterborough United vs. Barnsley",
-            "tag": "Carabao Cup",
-            "source_tag": "Sky Sports+",
-            "poster": "https://static.ppvservices.st/assets/thumb/7de652447c27dcc1d11a6f22dd1bb482-thumbnail.jpg",
-            "blurhash": "LeE1Id7QwPV@jbbHfQjZ9YrpX4t5",
-            "colors": [
-              "#0000f8",
-              "#f32728"
-            ],
-            "uri_name": "carabao-cup/2026-09-15/pet-bar",
-            "starts_at": 1789497000,
-            "ends_at": 1789506000,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/carabao-cup/2026-09-15/pet-bar",
-            "substreams": [],
-            "viewers": "10",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28862,
-            "name": "Bristol City vs. Lincoln City",
-            "tag": "EFL Championship",
-            "source_tag": "Sky Sports+",
-            "poster": "https://static.ppvservices.st/assets/thumb/0395090e28759f5bb7438cfffe3d8e8a-thumbnail.jpg",
-            "blurhash": "LBI-sQ}siIrXs:ayf6j[00Iok=TJ",
-            "colors": [
-              "#f32728",
-              "#c8142f"
-            ],
-            "uri_name": "efl-championship/2026-09-15/brc-lcn",
-            "starts_at": 1789497900,
-            "ends_at": 1789506900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/efl-championship/2026-09-15/brc-lcn",
-            "substreams": [],
-            "viewers": "5",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28863,
-            "name": "Middlesbrough vs. Millwall",
-            "tag": "EFL Championship",
-            "source_tag": "Sky Sports+",
-            "poster": "https://static.ppvservices.st/assets/thumb/461b4738013d82bc47c35cadf5851327-thumbnail.jpg",
-            "blurhash": "LfEdG6}DrrRkj[jZfQj[9sI;kWkC",
-            "colors": [
-              "#f32728",
-              "#091452"
-            ],
-            "uri_name": "efl-championship/2026-09-15/mid-mil",
-            "starts_at": 1789497900,
-            "ends_at": 1789506900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/efl-championship/2026-09-15/mid-mil",
-            "substreams": [],
-            "viewers": "13",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28865,
-            "name": "West Ham United vs. Fulham",
-            "tag": "Carabao Cup",
-            "source_tag": "Sky Sports+",
-            "poster": "https://static.ppvservices.st/assets/thumb/288654513db40648384b3fa52bc89a1e-thumbnail.jpg",
-            "blurhash": "L49j7+_hr2?bxtj]a#jY00pft#9a",
-            "colors": [
-              "#7d2c3b",
-              "#0134a1"
-            ],
-            "uri_name": "carabao-cup/2026-09-15/whu-ful",
-            "starts_at": 1789497900,
-            "ends_at": 1789506900,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/carabao-cup/2026-09-15/whu-ful",
-            "substreams": [],
-            "viewers": "81",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28866,
-            "name": "Ipswich Town vs. Arsenal",
-            "tag": "Carabao Cup",
-            "source_tag": "Sky Sports+",
-            "poster": "https://static.ppvservices.st/assets/thumb/1041887faa0854f83c2ad3e83597a8c2-thumbnail.jpg",
-            "blurhash": "LHE15v3Z,0s8ofjsfQbH0d+tS^sT",
-            "colors": [
-              "#0f63ac",
-              "#ee0107"
-            ],
-            "uri_name": "carabao-cup/2026-09-15/ips-ars",
-            "starts_at": 1789498800,
-            "ends_at": 1789507800,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/carabao-cup/2026-09-15/ips-ars",
-            "substreams": [],
-            "viewers": "2406",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28867,
-            "name": "Liverpool vs. Tottenham Hotspur",
-            "tag": "Carabao Cup",
-            "source_tag": "Sky Sports Football",
-            "poster": "https://static.ppvservices.st/assets/thumb/3cea8c6bfb2db505c11a2cfd7bb73fdc-thumbnail.jpg",
-            "blurhash": "LPB_Mf|sw0S3j[jtfQf69tJTXRj[",
-            "colors": [
-              "#c7102e",
-              "#142458"
-            ],
-            "uri_name": "carabao-cup/2026-09-15/liv-tot",
-            "starts_at": 1789498800,
-            "ends_at": 1789507800,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/carabao-cup/2026-09-15/liv-tot",
-            "substreams": [],
-            "viewers": "5847",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28868,
-            "name": "Reading vs. Brentford",
-            "tag": "Carabao Cup",
-            "source_tag": "Sky Sports+",
-            "poster": "https://static.ppvservices.st/assets/thumb/bf221d597028648d58474c3d83f18447-thumbnail.jpg",
-            "blurhash": "LaEwFx7QwPWCjua}fRfk55wHX3s*",
-            "colors": [
-              "#0000f8",
-              "#ee0107"
-            ],
-            "uri_name": "carabao-cup/2026-09-15/rea-bre",
-            "starts_at": 1789498800,
-            "ends_at": 1789507800,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/carabao-cup/2026-09-15/rea-bre",
-            "substreams": [],
-            "viewers": "83",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28870,
-            "name": "Fiorentina vs. Pisa",
-            "tag": "Coppa Italia",
-            "source_tag": "Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/43f22865dde6819f5635d5e81971d993-thumbnail.jpg",
-            "blurhash": "L97mw4=kWGI:t6ofjtWB0JI-oexY",
-            "colors": [
-              "#4b0081",
-              "#1a1a1a"
-            ],
-            "uri_name": "coppa-italia/2026-09-15/fio-pis",
-            "starts_at": 1789498800,
-            "ends_at": 1789507800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/coppa-italia/2026-09-15/fio-pis",
-            "substreams": [],
-            "viewers": "20",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28655,
-            "name": "Elche vs. Real Madrid",
-            "tag": "LaLiga",
-            "source_tag": "ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/3da3fedfe5c22d7a6d043869b3a50456-thumbnail.jpg",
-            "blurhash": "L5K,4EyzroXS$$ozjZV@00RWT2n5",
-            "colors": [
-              "#ffcc00",
-              "#ffb300"
-            ],
-            "uri_name": "laliga/2026-09-15/elc-rma",
-            "starts_at": 1789500600,
-            "ends_at": 1789509600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/laliga/2026-09-15/elc-rma",
-            "substreams": [],
-            "viewers": "4242",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 28744,
             "name": "Puebla vs. Toluca",
@@ -1284,7 +886,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/liga-mx/2026-09-15/pue-tol",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4166,7 +3768,7 @@
             "category_name": "Motorsports",
             "iframe": "https://embedindia.st/embed/max-vs-100-28844",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4644,29 +4246,6 @@
         "always_live": false,
         "streams": [
           {
-            "id": 28787,
-            "name": "WWE NXT",
-            "tag": "Wrestling",
-            "source_tag": "CW on ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
-            "blurhash": "LLGSDh4n00RjD%~qof4nD%%MWBj[",
-            "colors": [
-              "#030303",
-              "#040404"
-            ],
-            "uri_name": "wwe/2026-09-15",
-            "starts_at": 1789516800,
-            "ends_at": 1789527600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Wrestling",
-            "iframe": "https://embedindia.st/embed/wwe/2026-09-15",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 28788,
             "name": "AEW Wednesday Night Dynamite",
             "tag": "Wrestling",
@@ -4784,7 +4363,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "8",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4830,7 +4409,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "8",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4853,7 +4432,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4908,11 +4487,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-09-15T20:57:42.420387+00:00",
+    "extracted_at": "2026-09-16T03:10:02.384592+00:00",
     "source_file": "events.json",
-    "total_streams": 197,
+    "total_streams": 179,
     "found": 0,
-    "not_found": 197,
+    "not_found": 179,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
