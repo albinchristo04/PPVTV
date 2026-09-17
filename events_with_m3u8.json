@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-09-17T10:51:32.508799+00:00",
+    "fetched_at": "2026-09-17T16:06:25.228863+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1789642300,
+    "timestamp": 1789661190,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.04336404800415039,
+    "performance": 0.03763318061828613,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "6",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -57,7 +57,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-09-17/det-buf",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -80,7 +80,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfb/2026-09-18/mia-wake",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -623,7 +623,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-17/mil-pit",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -978,7 +978,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "1",
+            "viewers": "50",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1001,7 +1001,83 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "5",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          }
+        ]
+      },
+      {
+        "category": "Darts",
+        "id": 32,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 28910,
+            "name": "World Series of Darts Finals - Day 1",
+            "tag": "Darts",
+            "source_tag": "PDC.TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/60dd5428936c68c6dcf88f77d664eb57-thumbnail.jpg",
+            "blurhash": "LoK[rb~CNaIUW;oLn%WVVsVsWVoz",
+            "colors": [
+              "#96070b",
+              "#0f0f1b"
+            ],
+            "uri_name": "world-series-of-darts-finals---day-1-28910",
+            "starts_at": 1789664400,
+            "ends_at": 1789678800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Darts",
+            "iframe": "https://embedindia.st/embed/world-series-of-darts-finals---day-1-28910",
+            "substreams": [],
+            "viewers": "1",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 28911,
+            "name": "World Series of Darts Finals - Day 2 Afternoon",
+            "tag": "Darts",
+            "source_tag": "PDC.TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/60dd5428936c68c6dcf88f77d664eb57-thumbnail.jpg",
+            "blurhash": "LoK[rb~CNaIUW;oLn%WVVsVsWVoz",
+            "colors": [
+              "#96070b",
+              "#0f0f1b"
+            ],
+            "uri_name": "world-series-of-darts-finals---day-2-afternoon-28911",
+            "starts_at": 1789729200,
+            "ends_at": 1789743600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Darts",
+            "iframe": "https://embedindia.st/embed/world-series-of-darts-finals---day-2-afternoon-28911",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 28912,
+            "name": "World Series of Darts Finals - Day 2 Evening",
+            "tag": "Darts",
+            "source_tag": "PDC.TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/60dd5428936c68c6dcf88f77d664eb57-thumbnail.jpg",
+            "blurhash": "LoK[rb~CNaIUW;oLn%WVVsVsWVoz",
+            "colors": [
+              "#96070b",
+              "#0f0f1b"
+            ],
+            "uri_name": "world-series-of-darts-finals---day-2-evening-28912",
+            "starts_at": 1789750800,
+            "ends_at": 1789765200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Darts",
+            "iframe": "https://embedindia.st/embed/world-series-of-darts-finals---day-2-evening-28912",
+            "substreams": [],
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1054,7 +1130,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uel/2026-09-17/ofi-tsg",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1146,7 +1222,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uel/2026-09-17/cel-fer",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1169,7 +1245,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uel/2026-09-17/cry-lech",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1215,7 +1291,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uel/2026-09-17/lil-tor",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1261,7 +1337,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uel/2026-09-17/plz-usg",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2457,7 +2533,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/mls/2026-09-19/sj-lafc",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4140,7 +4216,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "8",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4255,7 +4331,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/rally-tv",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4264,11 +4340,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-09-17T11:00:20.927400+00:00",
+    "extracted_at": "2026-09-17T16:15:26.253005+00:00",
     "source_file": "events.json",
-    "total_streams": 169,
+    "total_streams": 172,
     "found": 0,
-    "not_found": 169,
+    "not_found": 172,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
