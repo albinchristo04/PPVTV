@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-09-18T10:27:02.528352+00:00",
+    "fetched_at": "2026-09-18T15:42:26.640288+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1789727230,
+    "timestamp": 1789746150,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.04289889335632324,
+    "performance": 0.04445290565490723,
     "streams": [
       {
         "category": "American Football",
@@ -39,29 +39,6 @@
             "m3u8_status": "not_found"
           },
           {
-            "id": 28649,
-            "name": "Miami Hurricanes at Wake Forest Demon Deacons",
-            "tag": "College Football",
-            "source_tag": "ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/a1386ff27434ec0a356d0e7e268cacc2-thumbnail.jpg",
-            "blurhash": "LCIpVE_PxGtPoKjZfQfk01K$N_Nd",
-            "colors": [
-              "#f47423",
-              "#ceb888"
-            ],
-            "uri_name": "cfb/2026-09-18/mia-wake",
-            "starts_at": 1789774200,
-            "ends_at": 1789788600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/cfb/2026-09-18/mia-wake",
-            "substreams": [],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 28650,
             "name": "Montreal Alouettes at Hamilton Tiger-Cats",
             "tag": "Canadian Football",
@@ -79,6 +56,164 @@
             "locale": "en",
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfl/2026-09-18/mtl-ham",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 28984,
+            "name": "Miami Hurricanes at Wake Forest Demon Deacons",
+            "tag": "College Football",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/a1386ff27434ec0a356d0e7e268cacc2-thumbnail.jpg",
+            "blurhash": "LCIpVE_PxGtPoKjZfQfk01K$N_Nd",
+            "colors": [
+              "#f47423",
+              "#ceb888"
+            ],
+            "uri_name": "cfb/2026-09-18/mia-wake",
+            "starts_at": 1789774200,
+            "ends_at": 1789788600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-18/mia-wake",
+            "substreams": [
+              {
+                "id": 28985,
+                "name": "Miami Hurricanes at Wake Forest Demon Deacons",
+                "tag": "College Football",
+                "uri_name": "miami-hurricanes-at-wake-forest-demon-deacons-28985",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/miami-hurricanes-at-wake-forest-demon-deacons-28985"
+              }
+            ],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 28986,
+            "name": "Houston Cougars at Texas Tech Red Raiders",
+            "tag": "College Football",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/3e63528294187ded82da014f9d8a14a7-thumbnail.jpg",
+            "blurhash": "L0I1sB0tqGxF}aNZ%2-W00;JUa=x",
+            "colors": [
+              "#c8102e",
+              "#da291c"
+            ],
+            "uri_name": "cfb/2026-09-18/hou-ttu",
+            "starts_at": 1789776000,
+            "ends_at": 1789790400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-18/hou-ttu",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 28987,
+            "name": "Portland State Vikings at Oregon Ducks",
+            "tag": "College Football",
+            "source_tag": "BTN",
+            "poster": "https://static.ppvservices.st/assets/thumb/a2cf7836b6b576e34e9ef42b2a177873-thumbnail.jpg",
+            "blurhash": "L48rNr8[OS%8t7ofj[ax00.BxbOe",
+            "colors": [
+              "#00311e",
+              "#00934b"
+            ],
+            "uri_name": "cfb/2026-09-18/prst-ore",
+            "starts_at": 1789785000,
+            "ends_at": 1789799400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-18/prst-ore",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 28988,
+            "name": "Georgia Bulldogs at Arkansas Razorbacks",
+            "tag": "College Football",
+            "source_tag": "ABC",
+            "poster": "https://static.ppvservices.st/assets/thumb/5a8523095b959945fa51a4d1629b5a22-thumbnail.jpg",
+            "blurhash": "L5ES*D~CVsMJspj[fQay00H?o}u3",
+            "colors": [
+              "#ba0c2f",
+              "#a32136"
+            ],
+            "uri_name": "cfb/2026-09-19/uga-ark",
+            "starts_at": 1789833600,
+            "ends_at": 1789848000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/uga-ark",
+            "substreams": [
+              {
+                "id": 28989,
+                "name": "Georgia Bulldogs at Arkansas Razorbacks",
+                "tag": "College Football",
+                "uri_name": "georgia-bulldogs-at-arkansas-razorbacks-28989",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/georgia-bulldogs-at-arkansas-razorbacks-28989"
+              }
+            ],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 28990,
+            "name": "Kent State Golden Flashes at Ohio State Buckeyes",
+            "tag": "College Football",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/0092dfafc8a6410dbd35d4b3a6bdd27f-thumbnail.jpg",
+            "blurhash": "L5BxpN15:+-;jFkBoeay00}tTJZ#",
+            "colors": [
+              "#002664",
+              "#ba0c2f"
+            ],
+            "uri_name": "cfb/2026-09-19/kent-osu",
+            "starts_at": 1789833600,
+            "ends_at": 1789848000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/kent-osu",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 28991,
+            "name": "Buffalo Bulls at Penn State Nittany Lions",
+            "tag": "College Football",
+            "source_tag": "BTN",
+            "poster": "https://static.ppvservices.st/assets/thumb/ce686013e588f9d787d496727c5f81c8-thumbnail.jpg",
+            "blurhash": "LO8Xnl%jWYIUofj[fQfP4mITocxt",
+            "colors": [
+              "#005bbb",
+              "#061440"
+            ],
+            "uri_name": "cfb/2026-09-19/buff-psu",
+            "starts_at": 1789833600,
+            "ends_at": 1789848000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/buff-psu",
             "substreams": [],
             "viewers": "0",
             "m3u8": null,
@@ -108,6 +243,210 @@
             "m3u8_status": "not_found"
           },
           {
+            "id": 28992,
+            "name": "Kentucky Wildcats at Texas A&M Aggies",
+            "tag": "College Football",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/53820be927b72b2d1f1c1464db56a4fc-thumbnail.jpg",
+            "blurhash": "LFATZ*TOakV@ofayofof00aIobt6",
+            "colors": [
+              "#0033a0",
+              "#500000"
+            ],
+            "uri_name": "cfb/2026-09-19/uk-tam",
+            "starts_at": 1789846200,
+            "ends_at": 1789860600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/uk-tam",
+            "substreams": [
+              {
+                "id": 28993,
+                "name": "Kentucky Wildcats at Texas A&M Aggies",
+                "tag": "College Football",
+                "uri_name": "kentucky-wildcats-at-texas-am-aggies-28993",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/kentucky-wildcats-at-texas-am-aggies-28993"
+              }
+            ],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 28994,
+            "name": "Florida State Seminoles at Alabama Crimson Tide",
+            "tag": "College Football",
+            "source_tag": "ABC",
+            "poster": "https://static.ppvservices.st/assets/thumb/8313882651726a89819f61a76525b628-thumbnail.jpg",
+            "blurhash": "L3Da[i0dtRd?RQkWtRMx00}[V@yC",
+            "colors": [
+              "#782f40",
+              "#9e1b32"
+            ],
+            "uri_name": "cfb/2026-09-19/fsu-ala",
+            "starts_at": 1789846200,
+            "ends_at": 1789860600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/fsu-ala",
+            "substreams": [
+              {
+                "id": 28995,
+                "name": "Florida State Seminoles at Alabama Crimson Tide",
+                "tag": "College Football",
+                "uri_name": "florida-state-seminoles-at-alabama-crimson-tide-28995",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/florida-state-seminoles-at-alabama-crimson-tide-28995"
+              }
+            ],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 28996,
+            "name": "USC Trojans at Rutgers Scarlet Knights",
+            "tag": "College Football",
+            "source_tag": "CBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/a45f18f9f071336858aa0be25ba8c821-thumbnail.jpg",
+            "blurhash": "L4F_|V1Fa0^8sAkBj?oL00}ao}In",
+            "colors": [
+              "#9d2235",
+              "#ce0e2d"
+            ],
+            "uri_name": "cfb/2026-09-19/usc-rutg",
+            "starts_at": 1789846200,
+            "ends_at": 1789860600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/usc-rutg",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 28997,
+            "name": "SMU Mustangs at Louisville Cardinals",
+            "tag": "College Football",
+            "source_tag": "ESPN2",
+            "poster": "https://static.ppvservices.st/assets/thumb/eb32173b1c68535393fcc11ed68c3019-thumbnail.jpg",
+            "blurhash": "L0Fej01GQRVE[uXlniaf00|pys}]",
+            "colors": [
+              "#a80000",
+              "#c9001f"
+            ],
+            "uri_name": "cfb/2026-09-19/smu-lou",
+            "starts_at": 1789846200,
+            "ends_at": 1789860600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/smu-lou",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 28998,
+            "name": "Utah State Aggies at Utah Utes",
+            "tag": "College Football",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/1f38d6bd170e46a5373deead0d948480-thumbnail.jpg",
+            "blurhash": "L6EBv?0f+w?boLbHV@oz00}[S~VE",
+            "colors": [
+              "#0f2439",
+              "#be0000"
+            ],
+            "uri_name": "cfb/2026-09-19/usu-utah",
+            "starts_at": 1789846200,
+            "ends_at": 1789860600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/usu-utah",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 28999,
+            "name": "UTEP Miners at Michigan Wolverines",
+            "tag": "College Football",
+            "source_tag": "BTN",
+            "poster": "https://static.ppvservices.st/assets/thumb/dbca2743e386330e0574922d4b4dffca-thumbnail.jpg",
+            "blurhash": "LYGGn0|?$Nt4j@jtfQfQ0%OpSgNK",
+            "colors": [
+              "#ff8200",
+              "#00274c"
+            ],
+            "uri_name": "cfb/2026-09-19/utep-mich",
+            "starts_at": 1789846200,
+            "ends_at": 1789860600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/utep-mich",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 29000,
+            "name": "Western Kentucky Hilltoppers at Indiana Hoosiers",
+            "tag": "College Football",
+            "source_tag": "Peacock",
+            "poster": "https://static.ppvservices.st/assets/thumb/cd5fd73d087b508059d2f31dd62f2eaa-thumbnail.jpg",
+            "blurhash": "LAGsAt_%ni.Ss:jZjtjZ00lSkDDi",
+            "colors": [
+              "#e13a3e",
+              "#970310"
+            ],
+            "uri_name": "cfb/2026-09-19/wku-iu",
+            "starts_at": 1789848000,
+            "ends_at": 1789862400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/wku-iu",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 29001,
+            "name": "Northern Iowa Panthers at Iowa Hawkeyes",
+            "tag": "College Football",
+            "source_tag": "FS1",
+            "poster": "https://static.ppvservices.st/assets/thumb/4ad301da072786e50e4711a28827fa59-thumbnail.jpg",
+            "blurhash": "L896?zN9N2%FodWDa#od02%CxsIq",
+            "colors": [
+              "#473282",
+              "#231f20"
+            ],
+            "uri_name": "cfb/2026-09-19/uni-iowa",
+            "starts_at": 1789848000,
+            "ends_at": 1789862400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/uni-iowa",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
             "id": 28652,
             "name": "Ottawa RedBlacks at Calgary Stampeders",
             "tag": "Canadian Football",
@@ -125,6 +464,200 @@
             "locale": "en",
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfl/2026-09-19/ott-cgy",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 29002,
+            "name": "Troy Trojans at Missouri Tigers",
+            "tag": "College Football",
+            "source_tag": "SECN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/a9db86ee1f40d8d8877d70d0ea005e1e-thumbnail.jpg",
+            "blurhash": "L3GH6X0H-}IR-px]j[Mx00~JRp^*",
+            "colors": [
+              "#862633",
+              "#f1b82d"
+            ],
+            "uri_name": "cfb/2026-09-19/troy-miz",
+            "starts_at": 1789858800,
+            "ends_at": 1789873200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/troy-miz",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 29003,
+            "name": "Michigan State Spartans at Notre Dame Fighting Irish",
+            "tag": "College Football",
+            "source_tag": "NBC",
+            "poster": "https://static.ppvservices.st/assets/thumb/a3dcd42ccd485f8865fb7157de3a201c-thumbnail.jpg",
+            "blurhash": "LA9tDY*0WBMIofofj[ay00Q+oftn",
+            "colors": [
+              "#173f35",
+              "#062340"
+            ],
+            "uri_name": "cfb/2026-09-19/msu-nd",
+            "starts_at": 1789860600,
+            "ends_at": 1789875000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/msu-nd",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 29004,
+            "name": "LSU Tigers at Ole Miss Rebels",
+            "tag": "College Football",
+            "source_tag": "ABC",
+            "poster": "https://static.ppvservices.st/assets/thumb/1de35d7b75840e7cd76ae6b266d195dd-thumbnail.jpg",
+            "blurhash": "L38y[4x{E3[1NbxGS2jt00Q=-oGi",
+            "colors": [
+              "#461d76",
+              "#13294b"
+            ],
+            "uri_name": "cfb/2026-09-19/lsu-miss",
+            "starts_at": 1789860600,
+            "ends_at": 1789875000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/lsu-miss",
+            "substreams": [
+              {
+                "id": 29005,
+                "name": "LSU Tigers at Ole Miss Rebels",
+                "tag": "College Football",
+                "uri_name": "lsu-tigers-at-ole-miss-rebels-29005",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/lsu-tigers-at-ole-miss-rebels-29005"
+              }
+            ],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 29006,
+            "name": "BYU Cougars at Colorado State Rams",
+            "tag": "College Football",
+            "source_tag": "CBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/68d36f0b9d956fe8e771222337e96213-thumbnail.jpg",
+            "blurhash": "LK8}fNoTWGWTj]ayfQj[00R#ocoe",
+            "colors": [
+              "#0047ba",
+              "#004c23"
+            ],
+            "uri_name": "cfb/2026-09-19/byu-csu",
+            "starts_at": 1789860600,
+            "ends_at": 1789875000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/byu-csu",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 29007,
+            "name": "New Mexico Lobos at Oklahoma Sooners",
+            "tag": "College Football",
+            "source_tag": "ESPN2",
+            "poster": "https://static.ppvservices.st/assets/thumb/8549e7b689c5aafacc6eb55dc34b3571-thumbnail.jpg",
+            "blurhash": "L4EJJY}ua1+bt7ofayf600ivo}GF",
+            "colors": [
+              "#ba0c2f",
+              "#990000"
+            ],
+            "uri_name": "cfb/2026-09-19/unm-ou",
+            "starts_at": 1789860600,
+            "ends_at": 1789875000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/unm-ou",
+            "substreams": [],
+            "viewers": "1",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 29008,
+            "name": "West Virginia Mountaineers at Virginia Cavaliers",
+            "tag": "College Football",
+            "source_tag": "ACC Network",
+            "poster": "https://static.ppvservices.st/assets/thumb/e09fb47529cd7bc7f5d28c4069afbc3d-thumbnail.jpg",
+            "blurhash": "LaE.5-~8w]RPofj]fkay4:IWW=o#",
+            "colors": [
+              "#eaaa00",
+              "#232d4b"
+            ],
+            "uri_name": "cfb/2026-09-19/wvu-uva",
+            "starts_at": 1789860600,
+            "ends_at": 1789875000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/wvu-uva",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 29009,
+            "name": "Kennesaw State Owls at Tennessee Volunteers",
+            "tag": "College Football",
+            "source_tag": "SEC Network",
+            "poster": "https://static.ppvservices.st/assets/thumb/cc0bfeec145fda4e16498a823d16b1d2-thumbnail.jpg",
+            "blurhash": "L8K]A62hsk~qx]RPa|oz00^SS$9F",
+            "colors": [
+              "#fdbb30",
+              "#ff8200"
+            ],
+            "uri_name": "cfb/2026-09-19/kenn-tenn",
+            "starts_at": 1789861500,
+            "ends_at": 1789875900,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/kenn-tenn",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 29010,
+            "name": "UTSA Roadrunners at Texas Longhorns",
+            "tag": "College Football",
+            "source_tag": "SECN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/8a19770e0d23790e16ea80aeb40f8848-thumbnail.jpg",
+            "blurhash": "L6A+pp0P+]={ofayj[j[00}rS~M{",
+            "colors": [
+              "#0c2340",
+              "#af5c37"
+            ],
+            "uri_name": "cfb/2026-09-19/utsa-tex",
+            "starts_at": 1789862400,
+            "ends_at": 1789876800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-09-19/utsa-tex",
             "substreams": [],
             "viewers": "0",
             "m3u8": null,
@@ -448,7 +981,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-09-20/mia-sf",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -524,30 +1057,7 @@
             "category_name": "Australian Football",
             "iframe": "https://embedindia.st/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "6",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28782,
-            "name": "Sydney Swans vs. Fremantle",
-            "tag": "AFL",
-            "source_tag": "AFL",
-            "poster": "https://static.ppvservices.st/assets/thumb/38562e3add40fd794bdb5edb1dc6cba8-thumbnail.jpg",
-            "blurhash": "LFCz*n{HnRTJoLjZfQfk0xKjkWi_",
-            "colors": [
-              "#b61300",
-              "#5d368f"
-            ],
-            "uri_name": "afl/2026-09-18/syd-fre",
-            "starts_at": 1789724400,
-            "ends_at": 1789735200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Australian Football",
-            "iframe": "https://embedindia.st/embed/afl/2026-09-18/syd-fre",
-            "substreams": [],
-            "viewers": "176",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -669,7 +1179,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-18/ath-cle",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -830,7 +1340,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-18/wsh-stl",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -853,7 +1363,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-18/min-laa",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1047,7 +1557,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "2",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1070,7 +1580,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "5",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1082,31 +1592,8 @@
         "always_live": false,
         "streams": [
           {
-            "id": 28911,
-            "name": "World Series of Darts Finals - Day 2 Afternoon",
-            "tag": "Darts",
-            "source_tag": "PDC.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/60dd5428936c68c6dcf88f77d664eb57-thumbnail.jpg",
-            "blurhash": "LoK[rb~CNaIUW;oLn%WVVsVsWVoz",
-            "colors": [
-              "#96070b",
-              "#0f0f1b"
-            ],
-            "uri_name": "world-series-of-darts-finals---day-2-afternoon-28911",
-            "starts_at": 1789729200,
-            "ends_at": 1789743600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Darts",
-            "iframe": "https://embedindia.st/embed/world-series-of-darts-finals---day-2-afternoon-28911",
-            "substreams": [],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 28912,
-            "name": "World Series of Darts Finals - Day 2 Evening",
+            "name": "World Series of Darts Finals - Day 2",
             "tag": "Darts",
             "source_tag": "PDC.TV",
             "poster": "https://static.ppvservices.st/assets/thumb/60dd5428936c68c6dcf88f77d664eb57-thumbnail.jpg",
@@ -1115,13 +1602,13 @@
               "#96070b",
               "#0f0f1b"
             ],
-            "uri_name": "world-series-of-darts-finals---day-2-evening-28912",
+            "uri_name": "world-series-of-darts-finals---day-2-28912",
             "starts_at": 1789750800,
             "ends_at": 1789765200,
             "always_live": 0,
             "locale": "en",
             "category_name": "Darts",
-            "iframe": "https://embedindia.st/embed/world-series-of-darts-finals---day-2-evening-28912",
+            "iframe": "https://embedindia.st/embed/world-series-of-darts-finals---day-2-28912",
             "substreams": [],
             "viewers": "0",
             "m3u8": null,
@@ -1138,7 +1625,7 @@
             "id": 28755,
             "name": "FC Groningen vs. PEC Zwolle",
             "tag": "Eredivisie",
-            "source_tag": "ESPN",
+            "source_tag": "ESPN2",
             "poster": "https://static.ppvservices.st/assets/thumb/d51425df65dd9816e04852dfc031e164-thumbnail.jpg",
             "blurhash": "LI8YkzywNZRQn$WWfQoJ00Q[xat7",
             "colors": [
@@ -1161,7 +1648,7 @@
             "id": 28672,
             "name": "Bayern Munich vs. 1. FC Union Berlin",
             "tag": "Bundesliga",
-            "source_tag": "Bundesliga",
+            "source_tag": "Fandango",
             "poster": "https://static.ppvservices.st/assets/thumb/eff357d324629442eb123dc275423f6f-thumbnail.jpg",
             "blurhash": "L5JE9]80QSvJsobHf6js00znuOY7",
             "colors": [
@@ -1176,7 +1663,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/bundesliga/2026-09-18/bay-fcu",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1184,7 +1671,7 @@
             "id": 28691,
             "name": "Monza vs. Sassuolo",
             "tag": "Serie A",
-            "source_tag": "Serie A",
+            "source_tag": "Paramount+",
             "poster": "https://static.ppvservices.st/assets/thumb/fb4dc8e2fec89d91d26b22dab97c0123-thumbnail.jpg",
             "blurhash": "L7Id@0{,qZ7Ixaj[axay007GUH;4",
             "colors": [
@@ -1207,7 +1694,7 @@
             "id": 28701,
             "name": "AS Monaco vs. Lens",
             "tag": "Ligue 1",
-            "source_tag": "Ligue 1",
+            "source_tag": "Ligue 1+",
             "poster": "https://static.ppvservices.st/assets/thumb/f87ee329427c9782a187b3a33a45c6a5-thumbnail.jpg",
             "blurhash": "L1JD|TuqqZ?s%LQ-X8t,00uFUHD,",
             "colors": [
@@ -1227,33 +1714,10 @@
             "m3u8_status": "not_found"
           },
           {
-            "id": 28764,
-            "name": "KAA Gent vs. Standard Liege",
-            "tag": "Belgian Pro League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/50857477061b9f8ba218c7498d45144b-thumbnail.jpg",
-            "blurhash": "L9D@q42xzqwFxbkDj[WA00|ppIs?",
-            "colors": [
-              "#0a1f44",
-              "#e30613"
-            ],
-            "uri_name": "belgian-pro-league/2026-09-18/gent-stl",
-            "starts_at": 1789757100,
-            "ends_at": 1789766100,
-            "always_live": 0,
-            "locale": "nl-be",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-09-18/gent-stl",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 28662,
             "name": "Espanyol vs. Elche",
             "tag": "LaLiga",
-            "source_tag": "LaLiga",
+            "source_tag": "ESPN+",
             "poster": "https://static.ppvservices.st/assets/thumb/b181072bb5f04de5d12c3f295216f158-thumbnail.jpg",
             "blurhash": "LFFE_g0I,[obofWBf6oM01?6S#xV",
             "colors": [
@@ -1276,7 +1740,7 @@
             "id": 28681,
             "name": "Brentford vs. Chelsea",
             "tag": "Premier League",
-            "source_tag": "Premier League",
+            "source_tag": "Sky Sports Premier League",
             "poster": "https://static.ppvservices.st/assets/thumb/23afd284c6e99a6c71e43df32f3c76d8-thumbnail.jpg",
             "blurhash": "LWE^sm{dwMkWj[f6fQj@0eOYX7R*",
             "colors": [
@@ -1291,7 +1755,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/pl/2026-09-18/bre-che",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1322,7 +1786,7 @@
             "id": 28745,
             "name": "Puebla vs. Atlante",
             "tag": "Liga MX",
-            "source_tag": "Liga MX",
+            "source_tag": "SportsGrid",
             "poster": "https://static.ppvservices.st/assets/thumb/0abd66ea183899d2a9d5784c4e0f539f-thumbnail.jpg",
             "blurhash": "LA7nqr%jD*IUofWCayoe00IT-:%M",
             "colors": [
@@ -1337,7 +1801,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/liga-mx/2026-09-18/pue-atl",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1360,7 +1824,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/liga-mx/2026-09-18/jua-uanl",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1664,29 +2128,6 @@
             "m3u8_status": "not_found"
           },
           {
-            "id": 28765,
-            "name": "OH Leuven vs. RAAL La Louvière",
-            "tag": "Belgian Pro League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/1f16fa6a7dfdb3d77194ed89db8f1441-thumbnail.jpg",
-            "blurhash": "LLCP-kGdR:tQbIWCj[oe00sjt6iw",
-            "colors": [
-              "#4a8fd4",
-              "#9b1b30"
-            ],
-            "uri_name": "belgian-pro-league/2026-09-19/ohl-rll",
-            "starts_at": 1789826400,
-            "ends_at": 1789835400,
-            "always_live": 0,
-            "locale": "nl-be",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-09-19/ohl-rll",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 28797,
             "name": "Wrexham vs. Southampton",
             "tag": "EFL Championship",
@@ -1820,30 +2261,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/seriea/2026-09-19/roma-int",
             "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28766,
-            "name": "Royal Charleroi SC vs. Cercle Brugge KSV",
-            "tag": "Belgian Pro League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/75357d015594936f4af118f1dd1f282c-thumbnail.jpg",
-            "blurhash": "L27CE0?}0cGpI-eooLg200HQ~XxC",
-            "colors": [
-              "#262626",
-              "#00843d"
-            ],
-            "uri_name": "belgian-pro-league/2026-09-19/cha-cbk",
-            "starts_at": 1789834500,
-            "ends_at": 1789843500,
-            "always_live": 0,
-            "locale": "nl-be",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-09-19/cha-cbk",
-            "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2072,52 +2490,6 @@
             "locale": "fr",
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/ligue1/2026-09-19/tou-hac",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28767,
-            "name": "Anderlecht vs. Zulte-Waregem",
-            "tag": "Belgian Pro League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/303b439c421b4df790022f38a604188e-thumbnail.jpg",
-            "blurhash": "LC8XOl+.RQM_ofjvj[a{00NExutR",
-            "colors": [
-              "#5c2d91",
-              "#046a38"
-            ],
-            "uri_name": "belgian-pro-league/2026-09-19/and-zul",
-            "starts_at": 1789843500,
-            "ends_at": 1789852500,
-            "always_live": 0,
-            "locale": "nl-be",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-09-19/and-zul",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28768,
-            "name": "Lommel SK vs. KV Mechelen",
-            "tag": "Belgian Pro League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/8231e8ce5b53e3017080b8b81d64fa14-thumbnail.jpg",
-            "blurhash": "L8FFWR1,:*vyocWqj[js00{vTK%4",
-            "colors": [
-              "#009a44",
-              "#f5a800"
-            ],
-            "uri_name": "belgian-pro-league/2026-09-19/lom-kvm",
-            "starts_at": 1789843500,
-            "ends_at": 1789852500,
-            "always_live": 0,
-            "locale": "nl-be",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-09-19/lom-kvm",
             "substreams": [],
             "viewers": "0",
             "m3u8": null,
@@ -2607,29 +2979,6 @@
             "m3u8_status": "not_found"
           },
           {
-            "id": 28769,
-            "name": "Antwerp vs. Union St.-Gilloise",
-            "tag": "Belgian Pro League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/0782ce11e870b3bc8c25cb0a68b7846e-thumbnail.jpg",
-            "blurhash": "L4J64h0GyI0x-7WFbHoI00PuOv~U",
-            "colors": [
-              "#d2001e",
-              "#ffc72c"
-            ],
-            "uri_name": "belgian-pro-league/2026-09-20/ant-usg",
-            "starts_at": 1789903800,
-            "ends_at": 1789912800,
-            "always_live": 0,
-            "locale": "nl-be",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-09-20/ant-usg",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 28667,
             "name": "Getafe vs. Málaga",
             "tag": "LaLiga",
@@ -2929,29 +3278,6 @@
             "m3u8_status": "not_found"
           },
           {
-            "id": 28770,
-            "name": "Sint-Truidense vs. KVC Westerlo",
-            "tag": "Belgian Pro League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/2a7760145bab15ebae184f536a02b93b-thumbnail.jpg",
-            "blurhash": "L6JtRV|=r.D?XAs+ayWY00E8S+%F",
-            "colors": [
-              "#ffd100",
-              "#fbe122"
-            ],
-            "uri_name": "belgian-pro-league/2026-09-20/stvv-kvcw",
-            "starts_at": 1789912800,
-            "ends_at": 1789921800,
-            "always_live": 0,
-            "locale": "nl-be",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-09-20/stvv-kvcw",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 28668,
             "name": "Atlético Madrid vs. Real Madrid",
             "tag": "LaLiga",
@@ -3182,52 +3508,6 @@
             "m3u8_status": "not_found"
           },
           {
-            "id": 28771,
-            "name": "Club Brugge vs. Racing Genk",
-            "tag": "Belgian Pro League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/510957c6737f9945da78458c29fd53f2-thumbnail.jpg",
-            "blurhash": "L88EP,L#IU*0kDWBfkof00u6%LMc",
-            "colors": [
-              "#0a2e7a",
-              "#1c4fa8"
-            ],
-            "uri_name": "belgian-pro-league/2026-09-20/bru-genk",
-            "starts_at": 1789921800,
-            "ends_at": 1789930800,
-            "always_live": 0,
-            "locale": "nl-be",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-09-20/bru-genk",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 28772,
-            "name": "KV Kortrijk vs. Waasland-Beveren",
-            "tag": "Belgian Pro League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/3793d1ecd464ae1660c2458867a730a0-thumbnail.jpg",
-            "blurhash": "LRDRN.|FrsNGafjsj[a}0eJ7ozoz",
-            "colors": [
-              "#c8102e",
-              "#0e4c92"
-            ],
-            "uri_name": "belgian-pro-league/2026-09-20/kvk-waa",
-            "starts_at": 1789924500,
-            "ends_at": 1789933500,
-            "always_live": 0,
-            "locale": "nl-be",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-09-20/kvk-waa",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 28680,
             "name": "SC Paderborn 07 vs. TSG Hoffenheim",
             "tag": "Bundesliga",
@@ -3418,29 +3698,6 @@
         "id": 35,
         "always_live": false,
         "streams": [
-          {
-            "id": 28916,
-            "name": "Austria - Practice",
-            "tag": "MotoGP",
-            "source_tag": "TNT Sports 2",
-            "poster": "https://static.ppvservices.st/assets/thumb/bf1c2241470073898f54c70ce5a2a076-thumbnail.jpg",
-            "blurhash": "L49Z$THX~CMd.800-;$*VE;|-Bs:",
-            "colors": [
-              "#0e0e0e",
-              "#535552"
-            ],
-            "uri_name": "motogp/2026/austria/practice",
-            "starts_at": 1789730100,
-            "ends_at": 1789740900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Motorsports",
-            "iframe": "https://embedindia.st/embed/motogp/2026/austria/practice",
-            "substreams": [],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 28917,
             "name": "Austria - Practice 2",
@@ -3949,7 +4206,7 @@
             "category_name": "Rugby",
             "iframe": "https://embedindia.st/embed/247-fox-league",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4078,7 +4335,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "11",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4124,7 +4381,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "19",
+            "viewers": "13",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4147,7 +4404,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4170,7 +4427,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "4",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4193,7 +4450,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/rally-tv",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4202,11 +4459,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-09-18T10:35:10.927536+00:00",
+    "extracted_at": "2026-09-18T15:51:07.794916+00:00",
     "source_file": "events.json",
-    "total_streams": 166,
+    "total_streams": 175,
     "found": 0,
-    "not_found": 166,
+    "not_found": 175,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
