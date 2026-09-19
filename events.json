@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-09-19T10:12:00.073666+00:00",
+    "fetched_at": "2026-09-19T15:13:54.441396+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1789812720,
+    "timestamp": 1789830840,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.04632377624511719,
+    "performance": 0.05570197105407715,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "5"
+            "viewers": "7"
           },
           {
             "id": 28988,
@@ -65,7 +65,7 @@
                 "iframe": "https://embedindia.st/embed/georgia-bulldogs-at-arkansas-razorbacks-28989"
               }
             ],
-            "viewers": "0"
+            "viewers": "11"
           },
           {
             "id": 28990,
@@ -86,7 +86,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfb/2026-09-19/kent-osu",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "8"
           },
           {
             "id": 28991,
@@ -107,7 +107,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfb/2026-09-19/buff-psu",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "2"
           },
           {
             "id": 28651,
@@ -190,7 +190,7 @@
                 "iframe": "https://embedindia.st/embed/florida-state-seminoles-at-alabama-crimson-tide-28995"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 28996,
@@ -295,7 +295,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfb/2026-09-19/wku-iu",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 29001,
@@ -358,7 +358,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfb/2026-09-19/troy-miz",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 29017,
@@ -441,7 +441,7 @@
                 "iframe": "https://embedindia.st/embed/lsu-tigers-at-ole-miss-rebels-29005"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 29006,
@@ -910,28 +910,7 @@
             "category_name": "Australian Football",
             "iframe": "https://embedindia.st/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "7"
-          },
-          {
-            "id": 28783,
-            "name": "Hawthorn vs. Brisbane Lions",
-            "tag": "AFL",
-            "source_tag": "AFL",
-            "poster": "https://static.ppvservices.st/assets/thumb/adb60994c1fbe08907aaa327cf575e2d-thumbnail.jpg",
-            "blurhash": "L29~jN3HDh}ZWFs.jZR+00[e.95l",
-            "colors": [
-              "#462d22",
-              "#6d144a"
-            ],
-            "uri_name": "afl/2026-09-19/haw-bl",
-            "starts_at": 1789802100,
-            "ends_at": 1789812900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Australian Football",
-            "iframe": "https://embedindia.st/embed/afl/2026-09-19/haw-bl",
-            "substreams": [],
-            "viewers": "95"
+            "viewers": "2"
           }
         ]
       },
@@ -1324,6 +1303,48 @@
             "iframe": "https://embedindia.st/embed/wnba/2026-09-19/sea-gs",
             "substreams": [],
             "viewers": "0"
+          },
+          {
+            "id": 29057,
+            "name": "New Zealand Breakers vs. Illawarra Hawks",
+            "tag": "NBL",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/be1dd9cfac2fa0212f40b44791d85ea7-thumbnail.jpg",
+            "blurhash": "LAH*d][$rdS_oLjbfQbG0cKHTHn5",
+            "colors": [
+              "#e33c95",
+              "#ce202f"
+            ],
+            "uri_name": "nbl/2026-09-20/nzl-hwk",
+            "starts_at": 1789880400,
+            "ends_at": 1789891200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://embedindia.st/embed/nbl/2026-09-20/nzl-hwk",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29058,
+            "name": "Sydney Kings vs. Cairns Taipans",
+            "tag": "NBL",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/be9476a0a9d2afeabdc608b99a1a774c-thumbnail.jpg",
+            "blurhash": "L6FD[60G,Fk?ogR,jtoe00~AS~;0",
+            "colors": [
+              "#552583",
+              "#f69138"
+            ],
+            "uri_name": "nbl/2026-09-20/syd-cns",
+            "starts_at": 1789887600,
+            "ends_at": 1789898400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://embedindia.st/embed/nbl/2026-09-20/syd-cns",
+            "substreams": [],
+            "viewers": "0"
           }
         ]
       },
@@ -1332,6 +1353,27 @@
         "id": 33,
         "always_live": false,
         "streams": [
+          {
+            "id": 29072,
+            "name": "Hedges vs. Brown",
+            "tag": "Boxing",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/0da192ca1d7aa49e247b8bb6cdf99192-thumbnail.jpg",
+            "blurhash": "LAEV4=E#DgOF$#kq%2NG00Rk^-$*",
+            "colors": [
+              "#2a3035",
+              "#61372c"
+            ],
+            "uri_name": "hedges-vs-brown-29072",
+            "starts_at": 1789840800,
+            "ends_at": 1789862400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Combat Sports",
+            "iframe": "https://embedindia.st/embed/hedges-vs-brown-29072",
+            "substreams": [],
+            "viewers": "0"
+          },
           {
             "id": 29012,
             "name": "Crypto.com UFC 331: Van vs. Pantoja 2",
@@ -1370,7 +1412,28 @@
                 "iframe": "https://embedindia.st/embed/cryptocom-ufc-331-van-vs-pantoja-2-29014"
               }
             ],
-            "viewers": "6"
+            "viewers": "26"
+          },
+          {
+            "id": 29073,
+            "name": "Cruz vs. Bravo",
+            "tag": "Boxing",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/3c330162ae1900eaa8c369151c46543b-thumbnail.jpg",
+            "blurhash": "LELoNJI:pwv~_kn%EgNb8wt7JPo}",
+            "colors": [
+              "#ef9684",
+              "#fff5f2"
+            ],
+            "uri_name": "cruz-vs-bravo-29073",
+            "starts_at": 1789862400,
+            "ends_at": 1789884000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Combat Sports",
+            "iframe": "https://embedindia.st/embed/cruz-vs-bravo-29073",
+            "substreams": [],
+            "viewers": "0"
           }
         ]
       },
@@ -1417,7 +1480,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "0"
+            "viewers": "29"
           },
           {
             "id": 27496,
@@ -1438,7 +1501,77 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "4"
+            "viewers": "6"
+          }
+        ]
+      },
+      {
+        "category": "Darts",
+        "id": 32,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 29061,
+            "name": "World Series of Darts Finals | Day 3 - Evening Session",
+            "tag": "Darts",
+            "source_tag": "PDC.TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/95fd025aa6552635f441932909809d37-thumbnail.jpg",
+            "blurhash": "LoKumD~CNaIUW;oLn%WVVsVsWVoz",
+            "colors": [
+              "#a4080c",
+              "#0f0d18"
+            ],
+            "uri_name": "world-series-of-darts-finals--day-3---evening-session-29061",
+            "starts_at": 1789837200,
+            "ends_at": 1789851600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Darts",
+            "iframe": "https://embedindia.st/embed/world-series-of-darts-finals--day-3---evening-session-29061",
+            "substreams": [],
+            "viewers": "1"
+          },
+          {
+            "id": 29062,
+            "name": "World Series of Darts Finals | Day 4 - Afternoon Session",
+            "tag": "Darts",
+            "source_tag": "PDC.TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/95fd025aa6552635f441932909809d37-thumbnail.jpg",
+            "blurhash": "LoKumD~CNaIUW;oLn%WVVsVsWVoz",
+            "colors": [
+              "#a4080c",
+              "#0f0d18"
+            ],
+            "uri_name": "world-series-of-darts-finals--day-4---afternoon-session-29062",
+            "starts_at": 1789902000,
+            "ends_at": 1789916400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Darts",
+            "iframe": "https://embedindia.st/embed/world-series-of-darts-finals--day-4---afternoon-session-29062",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29063,
+            "name": "World Series of Darts Finals | Day 4 - Evening Session",
+            "tag": "Darts",
+            "source_tag": "PDC.TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/95fd025aa6552635f441932909809d37-thumbnail.jpg",
+            "blurhash": "LoKumD~CNaIUW;oLn%WVVsVsWVoz",
+            "colors": [
+              "#a4080c",
+              "#0f0d18"
+            ],
+            "uri_name": "world-series-of-darts-finals--day-4---evening-session-29063",
+            "starts_at": 1789923600,
+            "ends_at": 1789938000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Darts",
+            "iframe": "https://embedindia.st/embed/world-series-of-darts-finals--day-4---evening-session-29063",
+            "substreams": [],
+            "viewers": "0"
           }
         ]
       },
@@ -1447,132 +1580,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 28682,
-            "name": "Tottenham Hotspur vs. Aston Villa",
-            "tag": "Premier League",
-            "source_tag": "TNT Sports 1",
-            "poster": "https://static.ppvservices.st/assets/thumb/4394f09331b0e6ed2a90c915d8f4203b-thumbnail.jpg",
-            "blurhash": "L48;4D05Me_LxtRkayt600_1%M8|",
-            "colors": [
-              "#132257",
-              "#670e36"
-            ],
-            "uri_name": "pl/2026-09-19/tot-avl",
-            "starts_at": 1789817400,
-            "ends_at": 1789826400,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/pl/2026-09-19/tot-avl",
-            "substreams": [],
-            "viewers": "19"
-          },
-          {
-            "id": 29044,
-            "name": "Stoke City vs. Sheffield United",
-            "tag": "EFL Championship",
-            "source_tag": "Sky Sports+",
-            "poster": "https://static.ppvservices.st/assets/thumb/87393dcbb732585419ae8b57614bc3a6-thumbnail.jpg",
-            "blurhash": "L3Jz#}-UujNe$*n$aySg00I=Q7wI",
-            "colors": [
-              "#f32728",
-              "#f32728"
-            ],
-            "uri_name": "efl-championship/2026-09-19/stk-shu",
-            "starts_at": 1789817400,
-            "ends_at": 1789826400,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/efl-championship/2026-09-19/stk-shu",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
-            "id": 29045,
-            "name": "Millwall vs. West Ham United",
-            "tag": "EFL Championship",
-            "source_tag": "Sky Sports Football",
-            "poster": "https://static.ppvservices.st/assets/thumb/0159f83a0c15068c4fd3a670d35e88f3-thumbnail.jpg",
-            "blurhash": "L38|Cy194T=rxvWVWVju00}7~qI]",
-            "colors": [
-              "#091452",
-              "#7d2c3b"
-            ],
-            "uri_name": "efl-championship/2026-09-19/mil-whu",
-            "starts_at": 1789817400,
-            "ends_at": 1789826400,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/efl-championship/2026-09-19/mil-whu",
-            "substreams": [],
-            "viewers": "9"
-          },
-          {
-            "id": 29046,
-            "name": "Rochdale vs. Oldham Athletic",
-            "tag": "EFL League Two",
-            "source_tag": "Sky Sports+",
-            "poster": "https://static.ppvservices.st/assets/thumb/c189973296a7efe5b8a0c301c99f2f14-thumbnail.jpg",
-            "blurhash": "L89aFH_59j8_oeoMa#ax009J?9-@",
-            "colors": [
-              "#0f1086",
-              "#0e00f6"
-            ],
-            "uri_name": "efl-league-two/2026-09-19/rch-old",
-            "starts_at": 1789817400,
-            "ends_at": 1789826400,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/efl-league-two/2026-09-19/rch-old",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
-            "id": 29047,
-            "name": "Hartlepool United vs. Worthing",
-            "tag": "National League",
-            "source_tag": "DAZN National League",
-            "poster": "https://static.ppvservices.st/assets/thumb/c44cb9b2f42a947b6ff0e7337fb62aa3-thumbnail.jpg",
-            "blurhash": "LcGZqV7jwiNIa#a#juj@0di^Sd$e",
-            "colors": [
-              "#0000fe",
-              "#fe0000"
-            ],
-            "uri_name": "national-league/2026-09-19/har-wor",
-            "starts_at": 1789817400,
-            "ends_at": 1789826400,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/national-league/2026-09-19/har-wor",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
-            "id": 28663,
-            "name": "Osasuna vs. Rayo Vallecano",
-            "tag": "LaLiga",
-            "source_tag": "ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/15e23aa7ef425707cf3cb69e7ced72a5-thumbnail.jpg",
-            "blurhash": "LDJOFt|prq%Ms:ayf6j[00TKXTIV",
-            "colors": [
-              "#ff6600",
-              "#c8102e"
-            ],
-            "uri_name": "laliga/2026-09-19/osa-ray",
-            "starts_at": 1789819200,
-            "ends_at": 1789828200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/laliga/2026-09-19/osa-ray",
-            "substreams": [],
-            "viewers": "1"
-          },
           {
             "id": 28692,
             "name": "Bologna vs. Torino",
@@ -1592,7 +1599,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/seriea/2026-09-19/bol-tor",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "5"
           },
           {
             "id": 28693,
@@ -1613,7 +1620,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/seriea/2026-09-19/udi-cag",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "7"
           },
           {
             "id": 28774,
@@ -1634,7 +1641,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/allsvenskan/2026-09-19/bro-got",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "7"
           },
           {
             "id": 28775,
@@ -1655,7 +1662,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/allsvenskan/2026-09-19/vas-mal",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "7"
           },
           {
             "id": 28673,
@@ -1676,7 +1683,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/bundesliga/2026-09-19/bmg-m05",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "168"
           },
           {
             "id": 28674,
@@ -1697,7 +1704,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/bundesliga/2026-09-19/sge-scf",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "393"
           },
           {
             "id": 28675,
@@ -1718,7 +1725,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/bundesliga/2026-09-19/hsv-koe",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "310"
           },
           {
             "id": 28676,
@@ -1739,7 +1746,38 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/bundesliga/2026-09-19/svw-fca",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "194"
+          },
+          {
+            "id": 27180,
+            "name": "Goal Rush",
+            "tag": "Premier League",
+            "source_tag": "Peacock",
+            "poster": "https://static.ppvservices.st/assets/thumb/38fc920f1e8474d74ae5314c519943ae-thumbnail.jpg",
+            "blurhash": "L6970FWB00ofWBofofWB00t7~XWB",
+            "colors": [
+              "#260829",
+              "#260829"
+            ],
+            "uri_name": "pl/2026-09-19/goal-rush",
+            "starts_at": 1789826400,
+            "ends_at": 1789835400,
+            "always_live": 0,
+            "locale": "en-nz",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/pl/2026-09-19/goal-rush",
+            "substreams": [
+              {
+                "id": 29068,
+                "name": "Goal Rush",
+                "tag": "Premier League",
+                "uri_name": "goal-rush-29068",
+                "source_tag": "Sky Sport 8",
+                "locale": "en-nz",
+                "iframe": "https://embedindia.st/embed/goal-rush-29068"
+              }
+            ],
+            "viewers": "447"
           },
           {
             "id": 28683,
@@ -1760,7 +1798,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/pl/2026-09-19/bha-ars",
             "substreams": [],
-            "viewers": "3"
+            "viewers": "12017"
           },
           {
             "id": 28684,
@@ -1781,7 +1819,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/pl/2026-09-19/eve-ips",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "823"
           },
           {
             "id": 28685,
@@ -1802,7 +1840,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/pl/2026-09-19/new-hul",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "1186"
           },
           {
             "id": 28797,
@@ -1823,7 +1861,28 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/efl-championship/2026-09-19/wxm-sou",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "124"
+          },
+          {
+            "id": 29064,
+            "name": "Burnley vs. Derby County",
+            "tag": "EFL Championship",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/d09306b7df35662c709eceb2b4e92837-thumbnail.jpg",
+            "blurhash": "LDGuUd00tk%Mofayfkay00_Mn%a$",
+            "colors": [
+              "#6b1d44",
+              "#ffffff"
+            ],
+            "uri_name": "efl-championship/2026-09-19/bur-der",
+            "starts_at": 1789826400,
+            "ends_at": 1789835400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/efl-championship/2026-09-19/bur-der",
+            "substreams": [],
+            "viewers": "57"
           },
           {
             "id": 28664,
@@ -1844,7 +1903,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/laliga/2026-09-19/ath-ala",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "34"
           },
           {
             "id": 28756,
@@ -1865,7 +1924,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/eredivisie/2026-09-19/ado-cam",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "21"
           },
           {
             "id": 28702,
@@ -1886,7 +1945,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/ligue1/2026-09-19/par-str",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "19"
           },
           {
             "id": 28776,
@@ -1928,7 +1987,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/seriea/2026-09-19/roma-int",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "3"
           },
           {
             "id": 28665,
@@ -1970,7 +2029,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/bundesliga/2026-09-19/vfb-dor",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 28686,
@@ -1991,7 +2050,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/pl/2026-09-19/nfo-cov",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 28757,
@@ -2495,7 +2554,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/mls/2026-09-19/rsl-van",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 28723,
@@ -2873,7 +2932,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/laliga/2026-09-20/atm-rma",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 28780,
@@ -3020,7 +3079,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/seriea/2026-09-20/juv-ata",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 28669,
@@ -3235,6 +3294,34 @@
         ]
       },
       {
+        "category": "Golf",
+        "id": 64,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 29059,
+            "name": "Sky Sports Golf",
+            "tag": "24/7 channel",
+            "source_tag": "NOWTV",
+            "poster": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
+            "blurhash": "L86RM@t700Rjj[fQayfQ00Rj~qt7",
+            "colors": [
+              "#010208",
+              "#010208"
+            ],
+            "uri_name": "sky-sports-golf-29059",
+            "starts_at": 0,
+            "ends_at": 0,
+            "always_live": 1,
+            "locale": "en",
+            "category_name": "Golf",
+            "iframe": "https://embedindia.st/embed/sky-sports-golf-29059",
+            "substreams": [],
+            "viewers": "7"
+          }
+        ]
+      },
+      {
         "category": "Ice Hockey",
         "id": 39,
         "always_live": false,
@@ -3243,7 +3330,7 @@
             "id": 29019,
             "name": "Montreal Canadiens vs. Toronto Maple Leafs",
             "tag": "NHL",
-            "source_tag": "NHL",
+            "source_tag": "TSN2",
             "poster": "https://static.ppvservices.st/assets/thumb/c4a03829dc94b00115521ff382c64a5b-thumbnail.jpg",
             "blurhash": "LJCrB9{Jw0tRf7j[fQay0JO?bvM|",
             "colors": [
@@ -3254,17 +3341,17 @@
             "starts_at": 1789858800,
             "ends_at": 1789869600,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-ca",
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-09-19/mtl-tor",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 29020,
             "name": "Toronto Maple Leafs vs. Montreal Canadiens",
             "tag": "NHL",
-            "source_tag": "NHL Net",
+            "source_tag": "Sportsnet One",
             "poster": "https://static.ppvservices.st/assets/thumb/5b73497f45210a03be19160c04e05ddc-thumbnail.jpg",
             "blurhash": "LACrB93?#9R5f6WVf6j[00z:b]%L",
             "colors": [
@@ -3275,51 +3362,9 @@
             "starts_at": 1789858800,
             "ends_at": 1789869600,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-ca",
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-09-19/tor-mtl",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
-            "id": 29021,
-            "name": "Dallas Stars vs. St. Louis Blues",
-            "tag": "NHL",
-            "source_tag": "Blues App",
-            "poster": "https://static.ppvservices.st/assets/thumb/1d48dee2057540ecf0fdf9d48b90aef6-thumbnail.jpg",
-            "blurhash": "L44zjWyaE9amoyWVayoK00RJ-nj[",
-            "colors": [
-              "#20864c",
-              "#0070b9"
-            ],
-            "uri_name": "nhl/2026-09-19/dal-stl",
-            "starts_at": 1789858800,
-            "ends_at": 1789869600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-09-19/dal-stl",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
-            "id": 29022,
-            "name": "Winnipeg Jets vs. Edmonton Oilers",
-            "tag": "NHL",
-            "source_tag": "NHL",
-            "poster": "https://static.ppvservices.st/assets/thumb/b809f7dced90a62d647aae0ff0651d0b-thumbnail.jpg",
-            "blurhash": "L17-mROl00tA?HIoWC%200a+~pny",
-            "colors": [
-              "#002d62",
-              "#00205b"
-            ],
-            "uri_name": "nhl/2026-09-19/wpg-edm",
-            "starts_at": 1789862400,
-            "ends_at": 1789873200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-09-19/wpg-edm",
             "substreams": [],
             "viewers": "0"
           },
@@ -3394,48 +3439,6 @@
         "always_live": false,
         "streams": [
           {
-            "id": 28918,
-            "name": "Austria - Qualifying",
-            "tag": "MotoGP",
-            "source_tag": "TNT Sports 2",
-            "poster": "https://static.ppvservices.st/assets/thumb/67a42dc4726b12ccd3d93b937fc95819-thumbnail.jpg",
-            "blurhash": "L49jM_HX~CIA.800-;$*d=;|$*s:",
-            "colors": [
-              "#0e0e0e",
-              "#535552"
-            ],
-            "uri_name": "motogp/2026/austria/qualifying",
-            "starts_at": 1789804800,
-            "ends_at": 1789821900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Motorsports",
-            "iframe": "https://embedindia.st/embed/motogp/2026/austria/qualifying",
-            "substreams": [],
-            "viewers": "21"
-          },
-          {
-            "id": 28919,
-            "name": "Austria - Sprint",
-            "tag": "MotoGP",
-            "source_tag": "TNT Sports 2",
-            "poster": "https://static.ppvservices.st/assets/thumb/fb32b79cc0fad6480a35dd9bcf30b813-thumbnail.jpg",
-            "blurhash": "L49Z$THX~CQ-?b00-;xaQ-,p-BxG",
-            "colors": [
-              "#0e0e0e",
-              "#535552"
-            ],
-            "uri_name": "motogp/2026/austria/sprint",
-            "starts_at": 1789821900,
-            "ends_at": 1789825500,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Motorsports",
-            "iframe": "https://embedindia.st/embed/motogp/2026/austria/sprint",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
             "id": 15856,
             "name": "Pro Motocross: Los Angeles",
             "tag": "Peacock",
@@ -3454,7 +3457,7 @@
             "category_name": "Motorsports",
             "iframe": "https://embedindia.st/embed/smx-rd30",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "4"
           },
           {
             "id": 29016,
@@ -3495,7 +3498,17 @@
             "locale": "en",
             "category_name": "Motorsports",
             "iframe": "https://embedindia.st/embed/motogp/2026/austria/race",
-            "substreams": [],
+            "substreams": [
+              {
+                "id": 29066,
+                "name": "Austria - Race",
+                "tag": "MotoGP",
+                "uri_name": "austria---race-29066",
+                "source_tag": "VideoPass",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/austria---race-29066"
+              }
+            ],
             "viewers": "0"
           },
           {
@@ -3904,28 +3917,7 @@
             "category_name": "Rugby",
             "iframe": "https://embedindia.st/embed/247-fox-league",
             "substreams": [],
-            "viewers": "16"
-          },
-          {
-            "id": 28784,
-            "name": "Roosters vs. Sharks",
-            "tag": "Rugby League (NRL)",
-            "source_tag": "Fox League",
-            "poster": "https://static.ppvservices.st/assets/thumb/ba99588a531aca3b621324630ac2fcc0-thumbnail.jpg",
-            "blurhash": "LUCYI3{#r?NHj[j[f6f69sJ7bbt6",
-            "colors": [
-              "#d12b3f",
-              "#1a746e"
-            ],
-            "uri_name": "nrl/2026-09-19/syd-cro",
-            "starts_at": 1789811400,
-            "ends_at": 1789820400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Rugby",
-            "iframe": "https://embedindia.st/embed/nrl/2026-09-19/syd-cro",
-            "substreams": [],
-            "viewers": "216"
+            "viewers": "1"
           },
           {
             "id": 28785,
@@ -4002,7 +3994,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "6"
+            "viewers": "2"
           },
           {
             "id": 3663,
@@ -4023,7 +4015,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-cows",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 8008,
@@ -4044,7 +4036,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "19"
+            "viewers": "14"
           },
           {
             "id": 5191,
@@ -4086,7 +4078,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "4"
+            "viewers": "3"
           },
           {
             "id": 17270,
