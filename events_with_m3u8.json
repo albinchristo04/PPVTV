@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-09-22T16:09:09.563691+00:00",
+    "fetched_at": "2026-09-22T20:47:57.631584+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1790093350,
+    "timestamp": 1790110080,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.08002614974975586,
+    "performance": 0.04433894157409668,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "10",
+            "viewers": "18",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -425,7 +425,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-09-27/bal-dal",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -558,29 +558,6 @@
         "id": 36,
         "always_live": false,
         "streams": [
-          {
-            "id": 29211,
-            "name": "Tampa Bay Rays vs. New York Yankees",
-            "tag": "MLB",
-            "source_tag": "YES",
-            "poster": "https://static.ppvservices.st/assets/thumb/87041ef1a76f1feaeae30212907339f9-thumbnail.jpg",
-            "blurhash": "L38ESpKB4o%1azt7t7of00$__2Io",
-            "colors": [
-              "#1a3e6e",
-              "#0c2340"
-            ],
-            "uri_name": "mlb/2026-09-22/tb-nyy",
-            "starts_at": 1790096700,
-            "ends_at": 1790109300,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-22/tb-nyy",
-            "substreams": [],
-            "viewers": "2",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 29212,
             "name": "Toronto Blue Jays vs. Baltimore Orioles",
@@ -738,7 +715,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-22/cin-atl",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -922,7 +899,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-22/sd-lad",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1097,7 +1074,7 @@
             "category_name": "Combat Sports",
             "iframe": "https://embedindia.st/embed/dwcs/2026-09-22",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "12",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1146,7 +1123,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "41",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1169,74 +1146,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "17",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          }
-        ]
-      },
-      {
-        "category": "Darts",
-        "id": 32,
-        "always_live": false,
-        "streams": [
-          {
-            "id": 29227,
-            "name": "Players Championship 29 - Den Bosch",
-            "tag": "Darts",
-            "source_tag": "Board 1",
-            "poster": "https://static.ppvservices.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg",
-            "blurhash": "LSKvm#}[I:v~0e9t?HNbM{I:NG%2",
-            "colors": [
-              "#d41a0b",
-              "#000000"
-            ],
-            "uri_name": "players-championship-29---den-bosch-29227",
-            "starts_at": 1790078400,
-            "ends_at": 1790107200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Darts",
-            "iframe": "https://embedindia.st/embed/players-championship-29---den-bosch-29227",
-            "substreams": [
-              {
-                "id": 29228,
-                "name": "Players Championship 29 - Den Bosch",
-                "tag": "Darts",
-                "uri_name": "players-championship-29---den-bosch-29228",
-                "source_tag": "Board 2",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/players-championship-29---den-bosch-29228"
-              },
-              {
-                "id": 29229,
-                "name": "Players Championship 29 - Den Bosch",
-                "tag": "Darts",
-                "uri_name": "players-championship-29---den-bosch-29229",
-                "source_tag": "Board 3",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/players-championship-29---den-bosch-29229"
-              },
-              {
-                "id": 29230,
-                "name": "Players Championship 29 - Den Bosch",
-                "tag": "Darts",
-                "uri_name": "players-championship-29---den-bosch-29230",
-                "source_tag": "Board 4",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/players-championship-29---den-bosch-29230"
-              },
-              {
-                "id": 29231,
-                "name": "Players Championship 29 - Den Bosch",
-                "tag": "Darts",
-                "uri_name": "players-championship-29---den-bosch-29231",
-                "source_tag": "Board 1",
-                "locale": "de",
-                "iframe": "https://embedindia.st/embed/players-championship-29---den-bosch-29231"
-              }
-            ],
-            "viewers": "126",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1247,6 +1157,29 @@
         "id": 34,
         "always_live": false,
         "streams": [
+          {
+            "id": 29236,
+            "name": "Bromley vs. Brentford U21",
+            "tag": "EFL Trophy",
+            "source_tag": "Sky Sports+",
+            "poster": "https://static.ppvservices.st/assets/thumb/a666859e8b4c9ad4fc4331993b100c2a-thumbnail.jpg",
+            "blurhash": "LWK9y3qFo|o}oLjtjtbH0Ki_WWVs",
+            "colors": [
+              "#ffffff",
+              "#f32728"
+            ],
+            "uri_name": "efl-trophy/2026-09-22/bro-bre",
+            "starts_at": 1790101800,
+            "ends_at": 1790110800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/efl-trophy/2026-09-22/bro-bre",
+            "substreams": [],
+            "viewers": "3",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
           {
             "id": 29159,
             "name": "Seattle Sounders FC vs. Real Salt Lake",
@@ -1749,7 +1682,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/liga-mx/2026-09-27/unam-asl",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1848,7 +1781,7 @@
             "category_name": "Golf",
             "iframe": "https://embedindia.st/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1859,29 +1792,6 @@
         "id": 39,
         "always_live": false,
         "streams": [
-          {
-            "id": 29232,
-            "name": "HC Sparta Praha vs. BK Mladá Boleslav",
-            "tag": "Tipsport Extraliga",
-            "source_tag": "Oneplay Sport MD1",
-            "poster": "https://static.ppvservices.st/assets/thumb/51ce141718b9fd272a727cdbe89ae644-thumbnail.jpg",
-            "blurhash": "LHBNTm~q?HM{ozRkW=R*009YM|tR",
-            "colors": [
-              "#113b61",
-              "#14365a"
-            ],
-            "uri_name": "hc-sparta-praha-vs-bk-mlad-boleslav-29232",
-            "starts_at": 1790094600,
-            "ends_at": 1790105400,
-            "always_live": 0,
-            "locale": "cs",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/hc-sparta-praha-vs-bk-mlad-boleslav-29232",
-            "substreams": [],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 29195,
             "name": "Philadelphia Flyers vs. Boston Bruins",
@@ -2512,7 +2422,7 @@
             "category_name": "Rugby",
             "iframe": "https://embedindia.st/embed/247-fox-league",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2710,7 +2620,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "22",
+            "viewers": "15",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2733,7 +2643,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-cows",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2756,7 +2666,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "8",
+            "viewers": "14",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2779,7 +2689,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2802,7 +2712,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "5",
+            "viewers": "6",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2834,11 +2744,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-09-22T16:14:22.624195+00:00",
+    "extracted_at": "2026-09-22T20:53:06.100196+00:00",
     "source_file": "events.json",
-    "total_streams": 104,
+    "total_streams": 102,
     "found": 0,
-    "not_found": 104,
+    "not_found": 102,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
