@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-09-21T21:37:16.899259+00:00",
+    "fetched_at": "2026-09-22T02:59:30.731221+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1790026640,
+    "timestamp": 1790045970,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.022179841995239258,
+    "performance": 0.07646417617797852,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "28",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -56,8 +56,18 @@
             "locale": "en",
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-09-21/nyg-lar",
-            "substreams": [],
-            "viewers": "4",
+            "substreams": [
+              {
+                "id": 29194,
+                "name": "New York Giants at Los Angeles Rams",
+                "tag": "NFL",
+                "uri_name": "new-york-giants-at-los-angeles-rams-29194",
+                "source_tag": "ESPN2 (Manningcast)",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/new-york-giants-at-los-angeles-rams-29194"
+              }
+            ],
+            "viewers": "6229",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -80,7 +90,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-09-24/atl-gb",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -582,52 +592,6 @@
         "always_live": false,
         "streams": [
           {
-            "id": 29152,
-            "name": "Toronto Blue Jays vs. Baltimore Orioles",
-            "tag": "MLB",
-            "source_tag": "MASN",
-            "poster": "https://static.ppvservices.st/assets/thumb/bf27506ed6500d261158c741fd47167e-thumbnail.jpg",
-            "blurhash": "LVC}bm77r{nhj[jufRa|5OwGk9od",
-            "colors": [
-              "#1d4ed8",
-              "#d04a02"
-            ],
-            "uri_name": "mlb/2026-09-21/tor-bal",
-            "starts_at": 1790030100,
-            "ends_at": 1790042700,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-21/tor-bal",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29153,
-            "name": "Washington Nationals vs. Detroit Tigers",
-            "tag": "MLB",
-            "source_tag": "Tigers.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/822c8848a491e014c3e612890472561c-thumbnail.jpg",
-            "blurhash": "LIC5e*|GnOS2j[f6fQfQ0KJTozj[",
-            "colors": [
-              "#ab0003",
-              "#102a44"
-            ],
-            "uri_name": "mlb/2026-09-21/wsh-det",
-            "starts_at": 1790030400,
-            "ends_at": 1790043000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-21/wsh-det",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 29154,
             "name": "Minnesota Twins vs. San Francisco Giants",
             "tag": "MLB",
@@ -646,7 +610,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-21/min-sf",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "106",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -676,7 +640,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/wnba/2026-09-21/atl-ny",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "30",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -699,7 +663,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/wnba/2026-09-21/dal-phx",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "115",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -801,7 +765,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "3",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -824,7 +788,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1436,7 +1400,7 @@
             "category_name": "Golf",
             "iframe": "https://embedindia.st/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1447,98 +1411,6 @@
         "id": 39,
         "always_live": false,
         "streams": [
-          {
-            "id": 29125,
-            "name": "Philadelphia Flyers vs. Washington Capitals",
-            "tag": "NHL",
-            "source_tag": "MNMT",
-            "poster": "https://static.ppvservices.st/assets/thumb/9442b9f518ba74c931dfa3c602e132b6-thumbnail.jpg",
-            "blurhash": "L7I-TZ~4rW+^oLbHjZn%00rtTKFd",
-            "colors": [
-              "#fe5823",
-              "#d71830"
-            ],
-            "uri_name": "nhl/2026-09-21/phi-wsh",
-            "starts_at": 1790031600,
-            "ends_at": 1790042400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-09-21/phi-wsh",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29129,
-            "name": "Buffalo Sabres vs. Pittsburgh Penguins",
-            "tag": "NHL",
-            "source_tag": "ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/c00680c832d18b63c5caada9140bafc2-thumbnail.jpg",
-            "blurhash": "LB7BNEk]NLoHt7offQaf00jCxtR.",
-            "colors": [
-              "#00468b",
-              "#000000"
-            ],
-            "uri_name": "nhl/2026-09-21/buf-pit",
-            "starts_at": 1790031600,
-            "ends_at": 1790042400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-09-21/buf-pit",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29131,
-            "name": "New York Rangers vs. New Jersey Devils",
-            "tag": "NHL",
-            "source_tag": "MSGSN",
-            "poster": "https://static.ppvservices.st/assets/thumb/c623295688d1552e93059528343798ba-thumbnail.jpg",
-            "blurhash": "LJE1Ra3Z#rnhj[WVayj[0J+tX6s.",
-            "colors": [
-              "#0056ae",
-              "#e30b2b"
-            ],
-            "uri_name": "nhl/2026-09-21/nyr-nj",
-            "starts_at": 1790031600,
-            "ends_at": 1790042400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-09-21/nyr-nj",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29133,
-            "name": "Ottawa Senators vs. Montreal Canadiens",
-            "tag": "NHL",
-            "source_tag": "Sportsnet One",
-            "poster": "https://static.ppvservices.st/assets/thumb/9341429fc86d6b80bdba80c39424adf8-thumbnail.jpg",
-            "blurhash": "L5HH+W{KvM%4sojZf6bH00TeTwIn",
-            "colors": [
-              "#dd1a32",
-              "#c41230"
-            ],
-            "uri_name": "nhl/2026-09-21/ott-mtl",
-            "starts_at": 1790031600,
-            "ends_at": 1790042400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-09-21/ott-mtl",
-            "substreams": [],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 29138,
             "name": "Minnesota Wild vs. Chicago Blackhawks",
@@ -1558,7 +1430,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-09-21/min-chi",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1581,7 +1453,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-09-21/stl-dal",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "6",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -2206,7 +2078,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "15",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2229,7 +2101,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-cows",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2252,7 +2124,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "18",
+            "viewers": "12",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2275,7 +2147,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2298,7 +2170,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "4",
+            "viewers": "6",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2330,11 +2202,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-09-21T21:41:37.310531+00:00",
+    "extracted_at": "2026-09-22T03:03:18.905380+00:00",
     "source_file": "events.json",
-    "total_streams": 84,
+    "total_streams": 78,
     "found": 0,
-    "not_found": 84,
+    "not_found": 78,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
