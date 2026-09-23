@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-09-23T15:58:41.344182+00:00",
+    "fetched_at": "2026-09-23T20:59:52.674253+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1790179130,
+    "timestamp": 1790197200,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.08223104476928711,
+    "performance": 0.042858123779296875,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "8",
+            "viewers": "11",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -356,7 +356,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-09-27/ne-jax",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -425,7 +425,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-09-27/bal-dal",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -559,29 +559,6 @@
         "always_live": false,
         "streams": [
           {
-            "id": 29246,
-            "name": "Washington Nationals vs. Detroit Tigers",
-            "tag": "MLB",
-            "source_tag": "Tigers.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/822c8848a491e014c3e612890472561c-thumbnail.jpg",
-            "blurhash": "LIC5e*|GnOS2j[f6fQfQ0KJTozj[",
-            "colors": [
-              "#ab0003",
-              "#102a44"
-            ],
-            "uri_name": "mlb/2026-09-23/wsh-det",
-            "starts_at": 1790183400,
-            "ends_at": 1790196000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-23/wsh-det",
-            "substreams": [],
-            "viewers": "2",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 29247,
             "name": "Toronto Blue Jays vs. Baltimore Orioles",
             "tag": "MLB",
@@ -600,7 +577,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-23/tor-bal",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "41",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -623,7 +600,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-23/min-sf",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "153",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -646,7 +623,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-23/tor-bal/game-2",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -952,7 +929,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/wnba/2026-09-23/atl-ny",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1028,6 +1005,36 @@
         ]
       },
       {
+        "category": "Combat Sports",
+        "id": 33,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 29267,
+            "name": "UFC BJJ 11: Musumeci vs. Mitchell",
+            "tag": "Brazillian Jiu-Jitsu",
+            "source_tag": "Sportsnet+",
+            "poster": "https://static.ppvservices.st/assets/thumb/14d0c432486a52917977c02a144e1392-thumbnail.jpg",
+            "blurhash": "LhNc]BkV.8kq~qRPRjWV9ZV@RiWB",
+            "colors": [
+              "#c7c7c7",
+              "#fce8f1"
+            ],
+            "uri_name": "ufc-bjj-11-musumeci-vs-mitchell-29267",
+            "starts_at": 1790294400,
+            "ends_at": 1790308800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Combat Sports",
+            "iframe": "https://embedindia.st/embed/ufc-bjj-11-musumeci-vs-mitchell-29267",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          }
+        ]
+      },
+      {
         "category": "Cricket",
         "id": 47,
         "always_live": false,
@@ -1070,7 +1077,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "0",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1100,73 +1107,6 @@
         ]
       },
       {
-        "category": "Darts",
-        "id": 32,
-        "always_live": false,
-        "streams": [
-          {
-            "id": 29262,
-            "name": "Players Championship 30 - Den Bosch",
-            "tag": "Darts",
-            "source_tag": "Board 1",
-            "poster": "https://static.ppvservices.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg",
-            "blurhash": "LSKvm#}[I:v~0e9t?HNbM{I:NG%2",
-            "colors": [
-              "#d41a0b",
-              "#000000"
-            ],
-            "uri_name": "players-championship-30---den-bosch-29262",
-            "starts_at": 1790161200,
-            "ends_at": 1790186400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Darts",
-            "iframe": "https://embedindia.st/embed/players-championship-30---den-bosch-29262",
-            "substreams": [
-              {
-                "id": 29263,
-                "name": "Players Championship 30 - Den Bosch",
-                "tag": "Darts",
-                "uri_name": "players-championship-30---den-bosch-29263",
-                "source_tag": "Board 2",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/players-championship-30---den-bosch-29263"
-              },
-              {
-                "id": 29264,
-                "name": "Players Championship 30 - Den Bosch",
-                "tag": "Darts",
-                "uri_name": "players-championship-30---den-bosch-29264",
-                "source_tag": "Board 3",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/players-championship-30---den-bosch-29264"
-              },
-              {
-                "id": 29265,
-                "name": "Players Championship 30 - Den Bosch",
-                "tag": "Darts",
-                "uri_name": "players-championship-30---den-bosch-29265",
-                "source_tag": "Board 4",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/players-championship-30---den-bosch-29265"
-              },
-              {
-                "id": 29266,
-                "name": "Players Championship 30 - Den Bosch",
-                "tag": "Darts",
-                "uri_name": "players-championship-30---den-bosch-29266",
-                "source_tag": "Board 1",
-                "locale": "de",
-                "iframe": "https://embedindia.st/embed/players-championship-30---den-bosch-29266"
-              }
-            ],
-            "viewers": "120",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          }
-        ]
-      },
-      {
         "category": "Football",
         "id": 34,
         "always_live": false,
@@ -1190,7 +1130,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/mls/2026-09-23/sea-rsl",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1772,7 +1712,7 @@
             "category_name": "Golf",
             "iframe": "https://embedindia.st/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1910,7 +1850,7 @@
                 "iframe": "https://embedindia.st/embed/azerbaijan-grand-prix---practice-1-28806"
               }
             ],
-            "viewers": "2",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2252,7 +2192,7 @@
             "category_name": "Rugby",
             "iframe": "https://embedindia.st/embed/247-fox-league",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2473,7 +2413,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "7",
+            "viewers": "12",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2496,7 +2436,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "3",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2519,7 +2459,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "6",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2542,7 +2482,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/rally-tv",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -2551,11 +2491,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-09-23T16:03:11.510694+00:00",
+    "extracted_at": "2026-09-23T21:04:26.978551+00:00",
     "source_file": "events.json",
-    "total_streams": 92,
+    "total_streams": 91,
     "found": 0,
-    "not_found": 92,
+    "not_found": 91,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
