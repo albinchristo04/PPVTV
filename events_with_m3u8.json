@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-09-24T16:22:30.931849+00:00",
+    "fetched_at": "2026-09-24T21:04:26.508850+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1790266950,
+    "timestamp": 1790283870,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.05377197265625,
+    "performance": 0.042283058166503906,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "14",
+            "viewers": "7",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -559,29 +559,6 @@
         "always_live": false,
         "streams": [
           {
-            "id": 29285,
-            "name": "St. Louis Cardinals vs. Pittsburgh Pirates",
-            "tag": "MLB",
-            "source_tag": "MLB.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/5edb9b4dfb835f70553fee92189c1243-thumbnail.jpg",
-            "blurhash": "L4Gs-}0GNpy2slR+oes.00ywx^al",
-            "colors": [
-              "#b22234",
-              "#c9a227"
-            ],
-            "uri_name": "mlb/2026-09-24/stl-pit",
-            "starts_at": 1790267700,
-            "ends_at": 1790280300,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-24/stl-pit",
-            "substreams": [],
-            "viewers": "9",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 29286,
             "name": "Chicago White Sox vs. Kansas City Royals",
             "tag": "MLB",
@@ -600,7 +577,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-24/chw-kc",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "24",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -623,7 +600,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-24/mia-chc",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "58",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -646,7 +623,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-24/nym-tex",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "123",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -669,7 +646,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-24/ari-col",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "57",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -692,7 +669,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-09-24/mil-phi",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -842,29 +819,6 @@
         "always_live": false,
         "streams": [
           {
-            "id": 29308,
-            "name": "Hapoel Tel Aviv vs. Bayern München",
-            "tag": "EuroLeague",
-            "source_tag": "EuroLeague TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/6690fba5c67ce224c8c84b36480ae232-thumbnail.jpg",
-            "blurhash": "LBSm.LNCDks=ocnBWUbX_OyC%ea2",
-            "colors": [
-              "#fe6321",
-              "#ff493c"
-            ],
-            "uri_name": "hapoel-tel-aviv-vs-bayern-mnchen-29308",
-            "starts_at": 1790265600,
-            "ends_at": 1790276400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://embedindia.st/embed/hapoel-tel-aviv-vs-bayern-mnchen-29308",
-            "substreams": [],
-            "viewers": "34",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 29309,
             "name": "Panathinaikos BC vs. Paris Basketball",
             "tag": "EuroLeague",
@@ -883,7 +837,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/panathinaikos-bc-vs-paris-basketball-29309",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1051,7 +1005,7 @@
             "category_name": "Combat Sports",
             "iframe": "https://embedindia.st/embed/ufc-bjj-11-musumeci-vs-mitchell-29267",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1100,7 +1054,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "52",
+            "viewers": "7",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1123,7 +1077,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "8",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1134,29 +1088,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 29303,
-            "name": "Andorra vs. Malta",
-            "tag": "UEFA Nations League",
-            "source_tag": "FOX Soccer Plus",
-            "poster": "https://static.ppvservices.st/assets/thumb/35f17e75ea7acdd4f5a38e2620c5223f-thumbnail.jpg",
-            "blurhash": "L6InUQQ,Zh*0sofQayaz00%Nl9H;",
-            "colors": [
-              "#e70103",
-              "#dc2400"
-            ],
-            "uri_name": "uefa-nations-league/2026-09-24/and-mlt",
-            "starts_at": 1790265600,
-            "ends_at": 1790274600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-24/and-mlt",
-            "substreams": [],
-            "viewers": "27",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 29297,
             "name": "Austria vs. Israel",
@@ -1176,7 +1107,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-24/aut-isr",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "27",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1199,7 +1130,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-24/kos-irl",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "25",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1222,7 +1153,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-24/lie-ltu",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1245,7 +1176,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-24/ned-ger",
             "substreams": [],
-            "viewers": "5",
+            "viewers": "823",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1268,7 +1199,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-24/nor-den",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "127",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1291,7 +1222,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-24/srb-gre",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "18",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1314,7 +1245,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-24/por-wal",
             "substreams": [],
-            "viewers": "3",
+            "viewers": "266",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1337,7 +1268,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/afcon-qualifying/2026-09-24/cmr-com",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "42",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1360,7 +1291,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/afcon-qualifying/2026-09-24/civ-gha",
             "substreams": [],
-            "viewers": "4",
+            "viewers": "185",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1942,7 +1873,7 @@
             "category_name": "Golf",
             "iframe": "https://embedindia.st/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "11",
+            "viewers": "51",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1953,29 +1884,6 @@
         "id": 39,
         "always_live": false,
         "streams": [
-          {
-            "id": 29307,
-            "name": "Luleå HF vs. Frölunda HC",
-            "tag": "SHL",
-            "source_tag": "TV4 Sport Live 1",
-            "poster": "https://static.ppvservices.st/assets/thumb/03f5ae9d900830ff408bc03cf1d39581-thumbnail.jpg",
-            "blurhash": "LGIXz0~C00XT9FbGoft7y?%hyWa0",
-            "colors": [
-              "#911316",
-              "#8b1428"
-            ],
-            "uri_name": "lule-hf-vs-frlunda-hc-29307",
-            "starts_at": 1790269200,
-            "ends_at": 1790281800,
-            "always_live": 0,
-            "locale": "sv",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/lule-hf-vs-frlunda-hc-29307",
-            "substreams": [],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 29268,
             "name": "Boston Bruins vs. Philadelphia Flyers",
@@ -2310,7 +2218,7 @@
                 "iframe": "https://embedindia.st/embed/azerbaijan-grand-prix---practice-3-28824"
               }
             ],
-            "viewers": "3",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2388,7 +2296,7 @@
                 "iframe": "https://embedindia.st/embed/azerbaijan-grand-prix---qualifying-28833"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2648,7 +2556,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "15",
+            "viewers": "10",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2740,7 +2648,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "4",
+            "viewers": "9",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2763,7 +2671,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/rally-tv",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -2772,11 +2680,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-09-24T16:27:51.264341+00:00",
+    "extracted_at": "2026-09-24T21:09:45.404450+00:00",
     "source_file": "events.json",
-    "total_streams": 108,
+    "total_streams": 104,
     "found": 0,
-    "not_found": 108,
+    "not_found": 104,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
