@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-09-25T16:22:45.685883+00:00",
+    "fetched_at": "2026-09-25T21:01:22.084700+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1790353370,
+    "timestamp": 1790370090,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.04491686820983887,
+    "performance": 0.045857906341552734,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "14",
+            "viewers": "11",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -57,7 +57,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfl/2026-09-25/tor-wpg",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -80,7 +80,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfl/2026-09-25/ssk-bc",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -126,7 +126,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfl/2026-09-26/ham-edm",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -149,7 +149,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-09-27/lac-buf",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -264,7 +264,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-09-27/ten-nyg",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -310,7 +310,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-09-27/sea-wsh",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -501,7 +501,7 @@
             "category_name": "Australian Football",
             "iframe": "https://embedindia.st/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -524,7 +524,7 @@
             "category_name": "Australian Football",
             "iframe": "https://embedindia.st/embed/afl/2026-09-26/fre-bl",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -535,39 +535,6 @@
         "id": 36,
         "always_live": false,
         "streams": [
-          {
-            "id": 29362,
-            "name": "Chicago Cubs vs. Boston Red Sox (Game 1)",
-            "tag": "MLB",
-            "source_tag": "MLB.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/6c7f1d7942bcc6d2cc422a1aa5a204f2-thumbnail.jpg",
-            "blurhash": "LBCOU,3ZixaJjua}j[fQ00vztRxZ",
-            "colors": [
-              "#1d428a",
-              "#a51c30"
-            ],
-            "uri_name": "mlb/2026-09-25/chc-bos",
-            "starts_at": 1790355900,
-            "ends_at": 1790368500,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-25/chc-bos",
-            "substreams": [
-              {
-                "id": 29363,
-                "name": "Chicago Cubs vs. Boston Red Sox (Game 1)",
-                "tag": "MLB",
-                "uri_name": "mlb/2026-09-25/chc-bos/away",
-                "source_tag": "Marquee Sports Net",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/mlb/2026-09-25/chc-bos/away"
-              }
-            ],
-            "viewers": "5",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 29364,
             "name": "Baltimore Orioles vs. New York Yankees (Game 1)",
@@ -597,7 +564,7 @@
                 "iframe": "https://embedindia.st/embed/mlb/2026-09-25/bal-nyy/away"
               }
             ],
-            "viewers": "0",
+            "viewers": "229",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1072,7 +1039,7 @@
                 "iframe": "https://embedindia.st/embed/mlb/2026-09-25/lad-sf/away"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1151,7 +1118,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "4",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1174,7 +1141,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1185,52 +1152,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 29332,
-            "name": "Armenia vs. Latvia",
-            "tag": "UEFA Nations League",
-            "source_tag": "Fubo Sports",
-            "poster": "https://static.ppvservices.st/assets/thumb/96adc3320d4d01dc1224ec22dcf2dc2e-thumbnail.jpg",
-            "blurhash": "LIF.oD|Gr?Sen+jaayfj0{K2S#jJ",
-            "colors": [
-              "#dc2400",
-              "#982242"
-            ],
-            "uri_name": "uefa-nations-league/2026-09-25/arm-lva",
-            "starts_at": 1790352000,
-            "ends_at": 1790361000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-25/arm-lva",
-            "substreams": [],
-            "viewers": "60",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29333,
-            "name": "Georgia vs. Northern Ireland",
-            "tag": "UEFA Nations League",
-            "source_tag": "FOX Soccer Plus",
-            "poster": "https://static.ppvservices.st/assets/thumb/01c7ef402dd258b8c2068cbf6b6d33de-thumbnail.jpg",
-            "blurhash": "LbJGc^.mtlbHj[j[fQfQ0KRPV@V@",
-            "colors": [
-              "#ffffff",
-              "#cc0001"
-            ],
-            "uri_name": "uefa-nations-league/2026-09-25/geo-nir",
-            "starts_at": 1790352000,
-            "ends_at": 1790361000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-25/geo-nir",
-            "substreams": [],
-            "viewers": "294",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 29334,
             "name": "Hungary vs. Ukraine",
@@ -1250,7 +1171,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-25/hun-ukr",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "34",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1273,7 +1194,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-25/ita-bel",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "182",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1296,7 +1217,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-25/mne-cyp",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1319,7 +1240,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-25/pol-bih",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "22",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1342,7 +1263,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-25/swe-rou",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "120",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1365,7 +1286,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-25/tur-fra",
             "substreams": [],
-            "viewers": "5",
+            "viewers": "867",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1572,7 +1493,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/mls/2026-09-26/rbny-stl",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1947,7 +1868,7 @@
             "category_name": "Golf",
             "iframe": "https://embedindia.st/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "13",
+            "viewers": "64",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -2138,7 +2059,7 @@
             "category_name": "Rugby",
             "iframe": "https://embedindia.st/embed/247-fox-league",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "12",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2244,7 +2165,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "13",
+            "viewers": "17",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2313,7 +2234,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2336,7 +2257,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "6",
+            "viewers": "7",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2359,7 +2280,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/rally-tv",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -2368,11 +2289,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-09-25T16:27:10.128771+00:00",
+    "extracted_at": "2026-09-25T21:05:38.253903+00:00",
     "source_file": "events.json",
-    "total_streams": 89,
+    "total_streams": 86,
     "found": 0,
-    "not_found": 89,
+    "not_found": 86,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
