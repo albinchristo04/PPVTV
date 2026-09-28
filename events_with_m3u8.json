@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-09-27T20:45:35.666397+00:00",
+    "fetched_at": "2026-09-28T03:15:17.267099+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1790541940,
+    "timestamp": 1790565320,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.0981440544128418,
+    "performance": 0.04803013801574707,
     "streams": [
       {
         "category": "American Football",
@@ -39,328 +39,6 @@
             "m3u8_status": "not_found"
           },
           {
-            "id": 29537,
-            "name": "NFL RedZone",
-            "tag": "NFL",
-            "source_tag": "NFL RedZone",
-            "poster": "https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg",
-            "blurhash": "LNPnht|_0e,@i_f6oKaeQmj[pcfk",
-            "colors": [
-              "#e12424",
-              "#921717"
-            ],
-            "uri_name": "nfl-redzone-29537",
-            "starts_at": 1790527800,
-            "ends_at": 1790553540,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/nfl-redzone-29537",
-            "substreams": [],
-            "viewers": "3932",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29128,
-            "name": "Los Angeles Chargers at Buffalo Bills",
-            "tag": "NFL",
-            "source_tag": "FOX",
-            "poster": "https://static.ppvservices.st/assets/thumb/6c780fd7f628b8c6cc57d9f14db2015e-thumbnail.jpg",
-            "blurhash": "LC5ippYRNGnPoLj@j[az4Tn3xtX4",
-            "colors": [
-              "#0080c6",
-              "#00338d"
-            ],
-            "uri_name": "nfl/2026-09-27/lac-buf",
-            "starts_at": 1790528400,
-            "ends_at": 1790542800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/nfl/2026-09-27/lac-buf",
-            "substreams": [],
-            "viewers": "328",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29130,
-            "name": "Carolina Panthers at Cleveland Browns",
-            "tag": "NFL",
-            "source_tag": "FOX",
-            "poster": "https://static.ppvservices.st/assets/thumb/4852ff6ffb581110b4c25e4125f21f35-thumbnail.jpg",
-            "blurhash": "LKEnPP3G#s-AnibbjZjZ0d]hbXNG",
-            "colors": [
-              "#0085ca",
-              "#ff3c00"
-            ],
-            "uri_name": "nfl/2026-09-27/car-cle",
-            "starts_at": 1790528400,
-            "ends_at": 1790542800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/nfl/2026-09-27/car-cle",
-            "substreams": [],
-            "viewers": "215",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29132,
-            "name": "New York Jets at Detroit Lions",
-            "tag": "NFL",
-            "source_tag": "FOX",
-            "poster": "https://static.ppvservices.st/assets/thumb/89c5f3c2fe1ecf511d493529726e325c-thumbnail.jpg",
-            "blurhash": "L36Spc@qD;9*R*Rjj[j]005e-:?G",
-            "colors": [
-              "#125740",
-              "#0076b6"
-            ],
-            "uri_name": "nfl/2026-09-27/nyj-det",
-            "starts_at": 1790528400,
-            "ends_at": 1790542800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/nfl/2026-09-27/nyj-det",
-            "substreams": [],
-            "viewers": "135",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29134,
-            "name": "Houston Texans at Indianapolis Colts",
-            "tag": "NFL",
-            "source_tag": "CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/6254d169257ebf7f9ee773bb06dab992-thumbnail.jpg",
-            "blurhash": "L26kYa]J0L2cbHWVkCof005t~W}B",
-            "colors": [
-              "#03202f",
-              "#002c5f"
-            ],
-            "uri_name": "nfl/2026-09-27/hou-ind",
-            "starts_at": 1790528400,
-            "ends_at": 1790542800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/nfl/2026-09-27/hou-ind",
-            "substreams": [],
-            "viewers": "124",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29135,
-            "name": "Kansas City Chiefs at Miami Dolphins",
-            "tag": "NFL",
-            "source_tag": "CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/6cb1f95e116518a586edbafe792bce67-thumbnail.jpg",
-            "blurhash": "LVD[kd{Lw_W;j[jZfQfQ4.J,W;X8",
-            "colors": [
-              "#e31837",
-              "#008e97"
-            ],
-            "uri_name": "nfl/2026-09-27/kc-mia",
-            "starts_at": 1790528400,
-            "ends_at": 1790542800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/nfl/2026-09-27/kc-mia",
-            "substreams": [],
-            "viewers": "225",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29137,
-            "name": "Tennessee Titans at New York Giants",
-            "tag": "NFL",
-            "source_tag": "CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/5855c2087d1617ed7c260c977a895119-thumbnail.jpg",
-            "blurhash": "LLA^wuY8W=s9j[j[ayj[00r;oeR*",
-            "colors": [
-              "#4b92db",
-              "#0b2265"
-            ],
-            "uri_name": "nfl/2026-09-27/ten-nyg",
-            "starts_at": 1790528400,
-            "ends_at": 1790542800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/nfl/2026-09-27/ten-nyg",
-            "substreams": [],
-            "viewers": "138",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29139,
-            "name": "Cincinnati Bengals at Pittsburgh Steelers",
-            "tag": "NFL",
-            "source_tag": "CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/120005743844ec68be00d98bc2f17bd2-thumbnail.jpg",
-            "blurhash": "L8K+GpQ8V=uPs,R,j[oK00uho~Q+",
-            "colors": [
-              "#fb4f14",
-              "#ffb612"
-            ],
-            "uri_name": "nfl/2026-09-27/cin-pit",
-            "starts_at": 1790528400,
-            "ends_at": 1790542800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/nfl/2026-09-27/cin-pit",
-            "substreams": [],
-            "viewers": "344",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29141,
-            "name": "Seattle Seahawks at Washington Commanders",
-            "tag": "NFL",
-            "source_tag": "FOX",
-            "poster": "https://static.ppvservices.st/assets/thumb/3b4e39598856bea3aede7a3e314546b7-thumbnail.jpg",
-            "blurhash": "LLA1UVhZS]nOj@a|fRj@4qm.s;WZ",
-            "colors": [
-              "#69be28",
-              "#5a1414"
-            ],
-            "uri_name": "nfl/2026-09-27/sea-wsh",
-            "starts_at": 1790528400,
-            "ends_at": 1790542800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/nfl/2026-09-27/sea-wsh",
-            "substreams": [],
-            "viewers": "333",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29142,
-            "name": "New England Patriots at Jacksonville Jaguars",
-            "tag": "NFL",
-            "source_tag": "CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/00eb4eb8806918f646a1383212a4d12f-thumbnail.jpg",
-            "blurhash": "L168,C0000^z-QXAoLsR00_L~qA1",
-            "colors": [
-              "#002244",
-              "#006778"
-            ],
-            "uri_name": "nfl/2026-09-27/ne-jax",
-            "starts_at": 1790528400,
-            "ends_at": 1790542800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/nfl/2026-09-27/ne-jax",
-            "substreams": [],
-            "viewers": "130",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29143,
-            "name": "Arizona Cardinals at San Francisco 49ers",
-            "tag": "NFL",
-            "source_tag": "FOX",
-            "poster": "https://static.ppvservices.st/assets/thumb/6b20d6f8c4749fbc15609de68579b1a2-thumbnail.jpg",
-            "blurhash": "L1E0c[2300^+$kkCt7o|00}@~qDh",
-            "colors": [
-              "#97233f",
-              "#aa0000"
-            ],
-            "uri_name": "nfl/2026-09-27/ari-sf",
-            "starts_at": 1790539500,
-            "ends_at": 1790553900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/nfl/2026-09-27/ari-sf",
-            "substreams": [],
-            "viewers": "2216",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29145,
-            "name": "Minnesota Vikings at Tampa Bay Buccaneers",
-            "tag": "NFL",
-            "source_tag": "FOX",
-            "poster": "https://static.ppvservices.st/assets/thumb/cc542d288ef35a665653f87b10c634f0-thumbnail.jpg",
-            "blurhash": "L9D%kH3Za3R7ofbHj[a{0J+axt$|",
-            "colors": [
-              "#4f2683",
-              "#d50a0a"
-            ],
-            "uri_name": "nfl/2026-09-27/min-tb",
-            "starts_at": 1790539500,
-            "ends_at": 1790553900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/nfl/2026-09-27/min-tb",
-            "substreams": [],
-            "viewers": "1338",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29146,
-            "name": "Baltimore Ravens at Dallas Cowboys",
-            "tag": "NFL",
-            "source_tag": "CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/cfa952e51b772802090bf4f87685bb26-thumbnail.jpg",
-            "blurhash": "L25rDwzT4nXnWFs.oeWC00TM_3n$",
-            "colors": [
-              "#241773",
-              "#003594"
-            ],
-            "uri_name": "nfl/2026-09-27/bal-dal",
-            "starts_at": 1790540700,
-            "ends_at": 1790555100,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/nfl/2026-09-27/bal-dal",
-            "substreams": [],
-            "viewers": "3203",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29148,
-            "name": "Las Vegas Raiders at New Orleans Saints",
-            "tag": "NFL",
-            "source_tag": "CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/803689dfad24e7c483e94eb7df0796c4-thumbnail.jpg",
-            "blurhash": "L7Frnk0[M{skt6a#j[j@00-3xuoK",
-            "colors": [
-              "#a5acaf",
-              "#d3bc8d"
-            ],
-            "uri_name": "nfl/2026-09-27/lv-no",
-            "starts_at": 1790540700,
-            "ends_at": 1790555100,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/nfl/2026-09-27/lv-no",
-            "substreams": [],
-            "viewers": "1909",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 29149,
             "name": "Los Angeles Rams at Denver Broncos",
             "tag": "NFL",
@@ -379,7 +57,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-09-27/lar-den",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "6060",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -402,7 +80,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-09-28/phi-chi",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -432,433 +110,7 @@
             "category_name": "Australian Football",
             "iframe": "https://embedindia.st/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "2",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          }
-        ]
-      },
-      {
-        "category": "Baseball",
-        "id": 36,
-        "always_live": false,
-        "streams": [
-          {
-            "id": 29504,
-            "name": "Chicago Cubs vs. Boston Red Sox",
-            "tag": "MLB",
-            "source_tag": "MLB.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/6c7f1d7942bcc6d2cc422a1aa5a204f2-thumbnail.jpg",
-            "blurhash": "LBCOU,3ZixaJjua}j[fQ00vztRxZ",
-            "colors": [
-              "#1d428a",
-              "#a51c30"
-            ],
-            "uri_name": "mlb/2026-09-27/chc-bos",
-            "starts_at": 1790535900,
-            "ends_at": 1790548500,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-27/chc-bos",
-            "substreams": [
-              {
-                "id": 29505,
-                "name": "Chicago Cubs vs. Boston Red Sox",
-                "tag": "MLB",
-                "uri_name": "mlb/2026-09-27/chc-bos/away",
-                "source_tag": "Marquee Sports Net",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/mlb/2026-09-27/chc-bos/away"
-              }
-            ],
-            "viewers": "77",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29506,
-            "name": "Tampa Bay Rays vs. Philadelphia Phillies",
-            "tag": "MLB",
-            "source_tag": "NBC Sports Phil",
-            "poster": "https://static.ppvservices.st/assets/thumb/0a4b4a653cd33b10c3848d3ffeb79f61-thumbnail.jpg",
-            "blurhash": "L7DH:W2_vg-AtRV@oft700|YtlaL",
-            "colors": [
-              "#1a3e6e",
-              "#c8102e"
-            ],
-            "uri_name": "mlb/2026-09-27/tb-phi",
-            "starts_at": 1790535900,
-            "ends_at": 1790548500,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-27/tb-phi",
-            "substreams": [
-              {
-                "id": 29507,
-                "name": "Tampa Bay Rays vs. Philadelphia Phillies",
-                "tag": "MLB",
-                "uri_name": "mlb/2026-09-27/tb-phi/away",
-                "source_tag": "Rays.TV",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/mlb/2026-09-27/tb-phi/away"
-              }
-            ],
-            "viewers": "115",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29508,
-            "name": "Houston Astros vs. Athletics",
-            "tag": "MLB",
-            "source_tag": "NBC Sports CA",
-            "poster": "https://static.ppvservices.st/assets/thumb/bd1813b03531180cd4208085e7fd3f41-thumbnail.jpg",
-            "blurhash": "L57UPE#eD*I,azoKj[WW00I+-;xv",
-            "colors": [
-              "#002d62",
-              "#004b3a"
-            ],
-            "uri_name": "mlb/2026-09-27/hou-ath",
-            "starts_at": 1790535900,
-            "ends_at": 1790548500,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-27/hou-ath",
-            "substreams": [
-              {
-                "id": 29509,
-                "name": "Houston Astros vs. Athletics",
-                "tag": "MLB",
-                "uri_name": "mlb/2026-09-27/hou-ath/away",
-                "source_tag": "Space City Home Network",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/mlb/2026-09-27/hou-ath/away"
-              }
-            ],
-            "viewers": "91",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29510,
-            "name": "Los Angeles Dodgers vs. San Francisco Giants",
-            "tag": "MLB",
-            "source_tag": "NBC Sports BA",
-            "poster": "https://static.ppvservices.st/assets/thumb/ccb0d74e19173a71c0ec4f32039ddb10-thumbnail.jpg",
-            "blurhash": "LJE1t33Z#WrWafWVj[oe0K+ZXRo}",
-            "colors": [
-              "#005a9c",
-              "#e05a1e"
-            ],
-            "uri_name": "mlb/2026-09-27/lad-sf",
-            "starts_at": 1790535900,
-            "ends_at": 1790548500,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-27/lad-sf",
-            "substreams": [
-              {
-                "id": 29511,
-                "name": "Los Angeles Dodgers vs. San Francisco Giants",
-                "tag": "MLB",
-                "uri_name": "mlb/2026-09-27/lad-sf/away",
-                "source_tag": "SportsNet LA",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/mlb/2026-09-27/lad-sf/away"
-              }
-            ],
-            "viewers": "177",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29512,
-            "name": "Cincinnati Reds vs. Toronto Blue Jays",
-            "tag": "MLB",
-            "source_tag": "Sportsnet",
-            "poster": "https://static.ppvservices.st/assets/thumb/7c9653d855c6b9597026ba0dab5ee3ab-thumbnail.jpg",
-            "blurhash": "LIBxXF{HrxT0juf6j[fj0vKRkUi{",
-            "colors": [
-              "#b0021b",
-              "#1d4ed8"
-            ],
-            "uri_name": "mlb/2026-09-27/cin-tor",
-            "starts_at": 1790536020,
-            "ends_at": 1790548620,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-27/cin-tor",
-            "substreams": [
-              {
-                "id": 29513,
-                "name": "Cincinnati Reds vs. Toronto Blue Jays",
-                "tag": "MLB",
-                "uri_name": "mlb/2026-09-27/cin-tor/away",
-                "source_tag": "Reds.TV",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/mlb/2026-09-27/cin-tor/away"
-              }
-            ],
-            "viewers": "136",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29514,
-            "name": "Atlanta Braves vs. Miami Marlins",
-            "tag": "MLB",
-            "source_tag": "Marlins.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/32d5ed8b72852a44a453990843fc443b-thumbnail.jpg",
-            "blurhash": "LMA,Oe{KniNGayayf7fk4.F0oztR",
-            "colors": [
-              "#b01c2e",
-              "#008e97"
-            ],
-            "uri_name": "mlb/2026-09-27/atl-mia",
-            "starts_at": 1790536200,
-            "ends_at": 1790548800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-27/atl-mia",
-            "substreams": [
-              {
-                "id": 29515,
-                "name": "Atlanta Braves vs. Miami Marlins",
-                "tag": "MLB",
-                "uri_name": "mlb/2026-09-27/atl-mia/away",
-                "source_tag": "BravesVision",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/mlb/2026-09-27/atl-mia/away"
-              }
-            ],
-            "viewers": "28",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29516,
-            "name": "Pittsburgh Pirates vs. Detroit Tigers",
-            "tag": "MLB",
-            "source_tag": "Tigers.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/65ee00711d9c1a467f1b5a1a4747d51d-thumbnail.jpg",
-            "blurhash": "LOD9CR}%skXAoLjsfka}0MI^bcV?",
-            "colors": [
-              "#c9a227",
-              "#102a44"
-            ],
-            "uri_name": "mlb/2026-09-27/pit-det",
-            "starts_at": 1790536200,
-            "ends_at": 1790548800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-27/pit-det",
-            "substreams": [],
-            "viewers": "17",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29517,
-            "name": "Cleveland Guardians vs. Kansas City Royals",
-            "tag": "MLB",
-            "source_tag": "Royals.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/cc96dad5061a932ce6df281a2387fa32-thumbnail.jpg",
-            "blurhash": "LPC#fc{crsT0j[jZayj[0xKPkVi_",
-            "colors": [
-              "#c41e3a",
-              "#0051a5"
-            ],
-            "uri_name": "mlb/2026-09-27/cle-kc",
-            "starts_at": 1790536200,
-            "ends_at": 1790548800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-27/cle-kc",
-            "substreams": [
-              {
-                "id": 29518,
-                "name": "Cleveland Guardians vs. Kansas City Royals",
-                "tag": "MLB",
-                "uri_name": "mlb/2026-09-27/cle-kc/away",
-                "source_tag": "CLEGuardians.TV",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/mlb/2026-09-27/cle-kc/away"
-              }
-            ],
-            "viewers": "20",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29519,
-            "name": "Colorado Rockies vs. Chicago White Sox",
-            "tag": "MLB",
-            "source_tag": "CHSN",
-            "poster": "https://static.ppvservices.st/assets/thumb/1b1791e7a3372f71110db91730700307-thumbnail.jpg",
-            "blurhash": "L17d%tE800~Vaxfij]xu00?Z~q0L",
-            "colors": [
-              "#3c3c3c",
-              "#2b2b2b"
-            ],
-            "uri_name": "mlb/2026-09-27/col-chw",
-            "starts_at": 1790536200,
-            "ends_at": 1790548800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-27/col-chw",
-            "substreams": [
-              {
-                "id": 29520,
-                "name": "Colorado Rockies vs. Chicago White Sox",
-                "tag": "MLB",
-                "uri_name": "mlb/2026-09-27/col-chw/away",
-                "source_tag": "Rockies.TV",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/mlb/2026-09-27/col-chw/away"
-              }
-            ],
-            "viewers": "16",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29521,
-            "name": "St. Louis Cardinals vs. Milwaukee Brewers",
-            "tag": "MLB",
-            "source_tag": "Brewers.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/8fe5ab6b3e480511e8aceb479f33e0dd-thumbnail.jpg",
-            "blurhash": "LJCEnS{}rrSwayfQj[j@0yK1kWjJ",
-            "colors": [
-              "#b22234",
-              "#1a2f5a"
-            ],
-            "uri_name": "mlb/2026-09-27/stl-mil",
-            "starts_at": 1790536200,
-            "ends_at": 1790548800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-27/stl-mil",
-            "substreams": [
-              {
-                "id": 29522,
-                "name": "St. Louis Cardinals vs. Milwaukee Brewers",
-                "tag": "MLB",
-                "uri_name": "mlb/2026-09-27/stl-mil/away",
-                "source_tag": "Cardinals.TV",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/mlb/2026-09-27/stl-mil/away"
-              }
-            ],
-            "viewers": "23",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29523,
-            "name": "Texas Rangers vs. Minnesota Twins",
-            "tag": "MLB",
-            "source_tag": "Twins.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/594e6be3f703c5fb73be3cfc9e9b4520-thumbnail.jpg",
-            "blurhash": "L18gt4CB02:R~qxGt7S200@w~p7z",
-            "colors": [
-              "#003278",
-              "#003a8f"
-            ],
-            "uri_name": "mlb/2026-09-27/tex-min",
-            "starts_at": 1790536200,
-            "ends_at": 1790548800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-27/tex-min",
-            "substreams": [
-              {
-                "id": 29524,
-                "name": "Texas Rangers vs. Minnesota Twins",
-                "tag": "MLB",
-                "uri_name": "mlb/2026-09-27/tex-min/away",
-                "source_tag": "Rangers Sports Network",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/mlb/2026-09-27/tex-min/away"
-              }
-            ],
-            "viewers": "37",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29525,
-            "name": "Los Angeles Angels vs. Seattle Mariners",
-            "tag": "MLB",
-            "source_tag": "Mariners.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/8ddcf89612d9c52b63766b241cce0eed-thumbnail.jpg",
-            "blurhash": "LKBLC+{zrrXSjZjZjtj[5PK4ozWB",
-            "colors": [
-              "#ba0021",
-              "#0a2f44"
-            ],
-            "uri_name": "mlb/2026-09-27/laa-sea",
-            "starts_at": 1790536200,
-            "ends_at": 1790548800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-27/laa-sea",
-            "substreams": [
-              {
-                "id": 29526,
-                "name": "Los Angeles Angels vs. Seattle Mariners",
-                "tag": "MLB",
-                "uri_name": "mlb/2026-09-27/laa-sea/away",
-                "source_tag": "Angels.TV",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/mlb/2026-09-27/laa-sea/away"
-              }
-            ],
-            "viewers": "27",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29527,
-            "name": "Arizona Diamondbacks vs. San Diego Padres",
-            "tag": "MLB",
-            "source_tag": "Padres.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/a7db1f0ff0810125719184cf2d5b178e-thumbnail.jpg",
-            "blurhash": "L4Bo5K_bI9^tnin%a#kB00%p-;5F",
-            "colors": [
-              "#9a1e2c",
-              "#4a3c31"
-            ],
-            "uri_name": "mlb/2026-09-27/ari-sd",
-            "starts_at": 1790536200,
-            "ends_at": 1790548800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-09-27/ari-sd",
-            "substreams": [
-              {
-                "id": 29528,
-                "name": "Arizona Diamondbacks vs. San Diego Padres",
-                "tag": "MLB",
-                "uri_name": "mlb/2026-09-27/ari-sd/away",
-                "source_tag": "DBACKS.TV",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/mlb/2026-09-27/ari-sd/away"
-              }
-            ],
-            "viewers": "63",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -869,75 +121,6 @@
         "id": 37,
         "always_live": false,
         "streams": [
-          {
-            "id": 29496,
-            "name": "New York Liberty vs. Minnesota Lynx",
-            "tag": "WNBA",
-            "source_tag": "ABC",
-            "poster": "https://static.ppvservices.st/assets/thumb/37978cef4e56759e726e3cebb928f9ff-thumbnail.jpg",
-            "blurhash": "LI9R@5.jXRjbbHj[fQay8wVur?V[",
-            "colors": [
-              "#86cebc",
-              "#266092"
-            ],
-            "uri_name": "wnba/2026-09-27/ny-min",
-            "starts_at": 1790532000,
-            "ends_at": 1790542800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://embedindia.st/embed/wnba/2026-09-27/ny-min",
-            "substreams": [],
-            "viewers": "27",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29497,
-            "name": "Indiana Fever vs. Las Vegas Aces",
-            "tag": "WNBA",
-            "source_tag": "ABC",
-            "poster": "https://static.ppvservices.st/assets/thumb/6b7bdc01e6955584362a63de56a0e20f-thumbnail.jpg",
-            "blurhash": "L3A^B|00%fGaofRkR+SO00yrrr=Z",
-            "colors": [
-              "#002d62",
-              "#a7a8aa"
-            ],
-            "uri_name": "wnba/2026-09-27/ind-lv",
-            "starts_at": 1790539200,
-            "ends_at": 1790550000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://embedindia.st/embed/wnba/2026-09-27/ind-lv",
-            "substreams": [],
-            "viewers": "57",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29498,
-            "name": "Washington Mystics vs. Atlanta Dream",
-            "tag": "WNBA",
-            "source_tag": "Prime Video",
-            "poster": "https://static.ppvservices.st/assets/thumb/887cad066a56394166619fd6850ce8dd-thumbnail.jpg",
-            "blurhash": "L2I25J9ZMx?]x]Vtf6t700?Gx[Dj",
-            "colors": [
-              "#e03a3e",
-              "#e31837"
-            ],
-            "uri_name": "wnba/2026-09-27/wsh-atl",
-            "starts_at": 1790550000,
-            "ends_at": 1790560800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://embedindia.st/embed/wnba/2026-09-27/wsh-atl",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 29499,
             "name": "Dallas Wings vs. Golden State Valkyries",
@@ -957,7 +140,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/wnba/2026-09-27/dal-gs",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "26",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1006,7 +189,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "16",
+            "viewers": "6",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1029,7 +212,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "4",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1040,98 +223,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 29534,
-            "name": "Germany vs. Greece",
-            "tag": "UEFA Nations League",
-            "source_tag": "FS2",
-            "poster": "https://static.ppvservices.st/assets/thumb/8e7df6018af0b64fa1ab2e6196d0fde4-thumbnail.jpg",
-            "blurhash": "LbFPQ+~Uxtbwa#azfQj@4-NLR*RP",
-            "colors": [
-              "#ffffff",
-              "#295da8"
-            ],
-            "uri_name": "uefa-nations-league/2026-09-27/ger-gre",
-            "starts_at": 1790534700,
-            "ends_at": 1790543700,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-27/ger-gre",
-            "substreams": [],
-            "viewers": "562",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29535,
-            "name": "Israel vs. Republic of Ireland",
-            "tag": "UEFA Nations League",
-            "source_tag": "FOX Soccer Plus",
-            "poster": "https://static.ppvservices.st/assets/thumb/04d2bae56dfaa2a81eeda0973c822fbd-thumbnail.jpg",
-            "blurhash": "LB8}_KU@oMX3off8ayfQ00s}W.oy",
-            "colors": [
-              "#2f50a1",
-              "#049962"
-            ],
-            "uri_name": "uefa-nations-league/2026-09-27/isr-irl",
-            "starts_at": 1790534700,
-            "ends_at": 1790543700,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-27/isr-irl",
-            "substreams": [],
-            "viewers": "108",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29536,
-            "name": "Norway vs. Portugal",
-            "tag": "UEFA Nations League",
-            "source_tag": "Fubo PPV",
-            "poster": "https://static.ppvservices.st/assets/thumb/f7d0751434fe89648981ca23acbc3fd2-thumbnail.jpg",
-            "blurhash": "L3Ha;kG0{M1rxGfRafa{00Il7x}I",
-            "colors": [
-              "#c7102e",
-              "#d9291c"
-            ],
-            "uri_name": "uefa-nations-league/2026-09-27/nor-por",
-            "starts_at": 1790534700,
-            "ends_at": 1790543700,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-27/nor-por",
-            "substreams": [],
-            "viewers": "6592",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 29174,
-            "name": "Columbus Crew vs. Inter Miami CF",
-            "tag": "MLS",
-            "source_tag": "Apple TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/96dc5274feda674f51eacac2d955beac-thumbnail.jpg",
-            "blurhash": "LfEfyD}#w~V[j[jtfQfP9HIvWUX9",
-            "colors": [
-              "#fedd00",
-              "#00a1e6"
-            ],
-            "uri_name": "mls/2026-09-27/clb-mia",
-            "starts_at": 1790550000,
-            "ends_at": 1790560800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/mls/2026-09-27/clb-mia",
-            "substreams": [],
-            "viewers": "2",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 29183,
             "name": "León vs. FC Juarez",
@@ -1151,7 +242,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/liga-mx/2026-09-27/leo-jua",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "11",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1174,7 +265,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/liga-mx/2026-09-27/ncx-ame",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "76",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1204,7 +295,7 @@
             "category_name": "Golf",
             "iframe": "https://embedindia.st/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "101",
+            "viewers": "7",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1234,7 +325,7 @@
             "category_name": "Rugby",
             "iframe": "https://embedindia.st/embed/247-fox-league",
             "substreams": [],
-            "viewers": "4",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1264,7 +355,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "11",
+            "viewers": "16",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1310,7 +401,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "19",
+            "viewers": "22",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1333,7 +424,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1356,7 +447,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "4",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1379,7 +470,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/rally-tv",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1388,11 +479,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-09-27T20:48:08.419214+00:00",
+    "extracted_at": "2026-09-28T03:16:10.483492+00:00",
     "source_file": "events.json",
-    "total_streams": 51,
+    "total_streams": 17,
     "found": 0,
-    "not_found": 51,
+    "not_found": 17,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
