@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-09-28T03:15:17.267099+00:00",
+    "fetched_at": "2026-09-28T12:43:51.464640+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1790565320,
+    "timestamp": 1790599440,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.04803013801574707,
+    "performance": 0.036477088928222656,
     "streams": [
       {
         "category": "American Football",
@@ -34,28 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "11"
-          },
-          {
-            "id": 29149,
-            "name": "Los Angeles Rams at Denver Broncos",
-            "tag": "NFL",
-            "source_tag": "NBC",
-            "poster": "https://static.ppvservices.st/assets/thumb/9e9647e7bdc10f5dbc3e6c25e7d6c9c4-thumbnail.jpg",
-            "blurhash": "LFFgU;3G+em,oLbHayay00:%XSxu",
-            "colors": [
-              "#003594",
-              "#fb4f14"
-            ],
-            "uri_name": "nfl/2026-09-27/lar-den",
-            "starts_at": 1790554800,
-            "ends_at": 1790569200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/nfl/2026-09-27/lar-den",
-            "substreams": [],
-            "viewers": "6060"
+            "viewers": "9"
           },
           {
             "id": 29151,
@@ -77,6 +56,791 @@
             "iframe": "https://embedindia.st/embed/nfl/2026-09-28/phi-chi",
             "substreams": [],
             "viewers": "2"
+          },
+          {
+            "id": 29538,
+            "name": "Pittsburgh Steelers at Cleveland Browns",
+            "tag": "NFL",
+            "source_tag": "Prime Video",
+            "poster": "https://static.ppvservices.st/assets/thumb/617c13c6a6e95c2f2bb514fa8da877a9-thumbnail.jpg",
+            "blurhash": "LLL2Cqd8X4m,s9kCf6ay00iJoMbx",
+            "colors": [
+              "#ffb612",
+              "#ff3c00"
+            ],
+            "uri_name": "nfl/2026-10-01/pit-cle",
+            "starts_at": 1790900100,
+            "ends_at": 1790914500,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-01/pit-cle",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29574,
+            "name": "Hamilton Tiger-Cats at Ottawa RedBlacks",
+            "tag": "Canadian Football",
+            "source_tag": "CFL+",
+            "poster": "https://static.ppvservices.st/assets/thumb/d0fb76318e73a64980ec6b2fe02bfd23-thumbnail.jpg",
+            "blurhash": "LLH,bH~MoGW;oLj@j@fP01NLXTRl",
+            "colors": [
+              "#ffb81c",
+              "#b5121b"
+            ],
+            "uri_name": "cfl/2026-10-02/ham-ott",
+            "starts_at": 1790982000,
+            "ends_at": 1790994600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfl/2026-10-02/ham-ott",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29575,
+            "name": "Calgary Stampeders at Saskatchewan Roughriders",
+            "tag": "Canadian Football",
+            "source_tag": "CFL+",
+            "poster": "https://static.ppvservices.st/assets/thumb/41b25114cf112ab0285bf7bcfc955962-thumbnail.jpg",
+            "blurhash": "LOC=xP{8i^R*j[j[fQay0eK0o#kV",
+            "colors": [
+              "#c8102e",
+              "#2d8b3f"
+            ],
+            "uri_name": "cfl/2026-10-02/cgy-ssk",
+            "starts_at": 1790991000,
+            "ends_at": 1791003600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfl/2026-10-02/cgy-ssk",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29554,
+            "name": "Notre Dame Fighting Irish at North Carolina Tar Heels",
+            "tag": "College Football",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/d044dc2a8cd9d7733488d0cee34c19ee-thumbnail.jpg",
+            "blurhash": "LDBW-|4To#yEoff6a|fR00%%n$RN",
+            "colors": [
+              "#062340",
+              "#7bafd4"
+            ],
+            "uri_name": "cfb/2026-10-03/nd-unc",
+            "starts_at": 1791043200,
+            "ends_at": 1791057600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-03/nd-unc",
+            "substreams": [
+              {
+                "id": 29555,
+                "name": "Notre Dame Fighting Irish at North Carolina Tar Heels",
+                "tag": "College Football",
+                "uri_name": "cfb/2026-10-03/nd-unc/skycast",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/cfb/2026-10-03/nd-unc/skycast"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 29556,
+            "name": "Alabama Crimson Tide at Mississippi State Bulldogs",
+            "tag": "College Football",
+            "source_tag": "ABC",
+            "poster": "https://static.ppvservices.st/assets/thumb/280cfa20233d33f31da4f790611ec087-thumbnail.jpg",
+            "blurhash": "LECEzx}[RPD%aeWBaeay0KE1tR%M",
+            "colors": [
+              "#9e1b32",
+              "#5d1725"
+            ],
+            "uri_name": "cfb/2026-10-03/ala-msst",
+            "starts_at": 1791043200,
+            "ends_at": 1791057600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-03/ala-msst",
+            "substreams": [
+              {
+                "id": 29557,
+                "name": "Alabama Crimson Tide at Mississippi State Bulldogs",
+                "tag": "College Football",
+                "uri_name": "cfb/2026-10-03/ala-msst/skycast",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/cfb/2026-10-03/ala-msst/skycast"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 29558,
+            "name": "UCF Knights at Houston Cougars",
+            "tag": "College Football",
+            "source_tag": "ESPN2",
+            "poster": "https://static.ppvservices.st/assets/thumb/a98a4c733da708ffdbeafa6a741ec35a-thumbnail.jpg",
+            "blurhash": "L8Cz^s1?+w;loekCbGof00|3S~Sx",
+            "colors": [
+              "#000000",
+              "#c8102e"
+            ],
+            "uri_name": "cfb/2026-10-03/ucf-hou",
+            "starts_at": 1791043200,
+            "ends_at": 1791057600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-03/ucf-hou",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29559,
+            "name": "Boston College Eagles at SMU Mustangs",
+            "tag": "College Football",
+            "source_tag": "CW",
+            "poster": "https://static.ppvservices.st/assets/thumb/95776ad97e969f4090bfe5ce58a042e2-thumbnail.jpg",
+            "blurhash": "L1DZ#g4SR5u,xGWBj[j[00@ut+Y3",
+            "colors": [
+              "#8c2232",
+              "#a80000"
+            ],
+            "uri_name": "cfb/2026-10-03/bc-smu",
+            "starts_at": 1791043200,
+            "ends_at": 1791057600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-03/bc-smu",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29560,
+            "name": "Vanderbilt Commodores at Georgia Bulldogs",
+            "tag": "College Football",
+            "source_tag": "SEC Network",
+            "poster": "https://static.ppvservices.st/assets/thumb/f1e76a2b0038a9fd2eac0e17706a4c2b-thumbnail.jpg",
+            "blurhash": "L4B_#m3-[W9Gxaoej[ay00vNOr}@",
+            "colors": [
+              "#000000",
+              "#ba0c2f"
+            ],
+            "uri_name": "cfb/2026-10-03/van-uga",
+            "starts_at": 1791045900,
+            "ends_at": 1791060300,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-03/van-uga",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29576,
+            "name": "BC Lions at Toronto Argonauts",
+            "tag": "Canadian Football",
+            "source_tag": "CFL+",
+            "poster": "https://static.ppvservices.st/assets/thumb/a2d7fd89ec1334f8658df451da4e554f-thumbnail.jpg",
+            "blurhash": "LVEU1S{^rrkXofaejtj[56OsozRj",
+            "colors": [
+              "#f05a22",
+              "#003087"
+            ],
+            "uri_name": "cfl/2026-10-03/bc-tor",
+            "starts_at": 1791054000,
+            "ends_at": 1791066600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfl/2026-10-03/bc-tor",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29561,
+            "name": "Ohio State Buckeyes at Iowa Hawkeyes",
+            "tag": "College Football",
+            "source_tag": "CBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/07bb2fc4b5908524a44702fc59457dec-thumbnail.jpg",
+            "blurhash": "LGC#b;|ir?s%o0afazoK0MR}bbNg",
+            "colors": [
+              "#ba0c2f",
+              "#231f20"
+            ],
+            "uri_name": "cfb/2026-10-03/osu-iowa",
+            "starts_at": 1791055800,
+            "ends_at": 1791070200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-03/osu-iowa",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29562,
+            "name": "Florida Gators at Missouri Tigers",
+            "tag": "College Football",
+            "source_tag": "ABC",
+            "poster": "https://static.ppvservices.st/assets/thumb/57081fdbdbfd64dc6b12db1beaf53a67-thumbnail.jpg",
+            "blurhash": "LEDlA.0I-Us*jsbHjtay01-gNuxW",
+            "colors": [
+              "#0021a5",
+              "#f1b82d"
+            ],
+            "uri_name": "cfb/2026-10-03/fla-miz",
+            "starts_at": 1791055800,
+            "ends_at": 1791070200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-03/fla-miz",
+            "substreams": [
+              {
+                "id": 29563,
+                "name": "Florida Gators at Missouri Tigers",
+                "tag": "College Football",
+                "uri_name": "cfb/2026-10-03/fla-miz/skycast",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/cfb/2026-10-03/fla-miz/skycast"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 29564,
+            "name": "Kentucky Wildcats at South Carolina Gamecocks",
+            "tag": "College Football",
+            "source_tag": "SEC Network",
+            "poster": "https://static.ppvservices.st/assets/thumb/4a4d96f76415b3c0c3715592a14376b7-thumbnail.jpg",
+            "blurhash": "LKA0d~cbnnIUj[j[j[j[0JMwk9%2",
+            "colors": [
+              "#0033a0",
+              "#73000a"
+            ],
+            "uri_name": "cfb/2026-10-03/uk-sc",
+            "starts_at": 1791058500,
+            "ends_at": 1791072900,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-03/uk-sc",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29565,
+            "name": "BYU Cougars at TCU Horned Frogs",
+            "tag": "College Football",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/db108b47c9f82a6359ff05a6a314f38a-thumbnail.jpg",
+            "blurhash": "LI8Nr4yZahIUj[a|fQfQ4mIAoe%L",
+            "colors": [
+              "#0047ba",
+              "#4d1979"
+            ],
+            "uri_name": "cfb/2026-10-03/byu-tcu",
+            "starts_at": 1791068400,
+            "ends_at": 1791082800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-03/byu-tcu",
+            "substreams": [
+              {
+                "id": 29566,
+                "name": "BYU Cougars at TCU Horned Frogs",
+                "tag": "College Football",
+                "uri_name": "cfb/2026-10-03/byu-tcu/skycast",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/cfb/2026-10-03/byu-tcu/skycast"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 29577,
+            "name": "Winnipeg Blue Bombers at Montreal Alouettes",
+            "tag": "Canadian Football",
+            "source_tag": "CFL+",
+            "poster": "https://static.ppvservices.st/assets/thumb/0c4dfbe54be1a14a73635a9df14e14a6-thumbnail.jpg",
+            "blurhash": "LDA]mlP;MyH?ofkCfQay00MJx[%g",
+            "colors": [
+              "#1b3d6e",
+              "#7a2b3b"
+            ],
+            "uri_name": "cfl/2026-10-03/wpg-mtl",
+            "starts_at": 1791068400,
+            "ends_at": 1791081000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfl/2026-10-03/wpg-mtl",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29567,
+            "name": "Miami Hurricanes at Clemson Tigers",
+            "tag": "College Football",
+            "source_tag": "ABC",
+            "poster": "https://static.ppvservices.st/assets/thumb/fb734283cdb4fb8503785c76bb771018-thumbnail.jpg",
+            "blurhash": "LBKbK?Hqv}?^nij[j[ae00%$OsDO",
+            "colors": [
+              "#f47423",
+              "#f56600"
+            ],
+            "uri_name": "cfb/2026-10-03/mia-clem",
+            "starts_at": 1791070200,
+            "ends_at": 1791084600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-03/mia-clem",
+            "substreams": [
+              {
+                "id": 29568,
+                "name": "Miami Hurricanes at Clemson Tigers",
+                "tag": "College Football",
+                "uri_name": "cfb/2026-10-03/mia-clem/skycast",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/cfb/2026-10-03/mia-clem/skycast"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 29569,
+            "name": "Texas Tech Red Raiders at Colorado Buffaloes",
+            "tag": "College Football",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/6c1c869cc04e5146cac989e457675941-thumbnail.jpg",
+            "blurhash": "L9HmAV_RkoExs:oLa|bG01C0a$%2",
+            "colors": [
+              "#da291c",
+              "#cfb87c"
+            ],
+            "uri_name": "cfb/2026-10-03/ttu-colo",
+            "starts_at": 1791070200,
+            "ends_at": 1791084600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-03/ttu-colo",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29570,
+            "name": "Washington Huskies at USC Trojans",
+            "tag": "College Football",
+            "source_tag": "NBC",
+            "poster": "https://static.ppvservices.st/assets/thumb/95e4d2dcea6bda02c5937aa747c1244a-thumbnail.jpg",
+            "blurhash": "L6AkqR24rs+[oej[a#jZ0c;JozS$",
+            "colors": [
+              "#33006f",
+              "#9d2235"
+            ],
+            "uri_name": "cfb/2026-10-03/wash-usc",
+            "starts_at": 1791070200,
+            "ends_at": 1791084600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-03/wash-usc",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29571,
+            "name": "Utah State Aggies at Boise State Broncos",
+            "tag": "College Football",
+            "source_tag": "CBSSN",
+            "poster": "https://static.ppvservices.st/assets/thumb/8a650827de5b2f219c7086f8d4d21763-thumbnail.jpg",
+            "blurhash": "L78EDR_7Rp8{a}f6j[j[008}t6?u",
+            "colors": [
+              "#0f2439",
+              "#0033a0"
+            ],
+            "uri_name": "cfb/2026-10-03/usu-bois",
+            "starts_at": 1791070200,
+            "ends_at": 1791084600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-03/usu-bois",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29572,
+            "name": "McNeese Cowboys at LSU Tigers",
+            "tag": "College Football",
+            "source_tag": "SEC Network",
+            "poster": "https://static.ppvservices.st/assets/thumb/a79267db518656ac773aed1607c15c61-thumbnail.jpg",
+            "blurhash": "L87dz}Gdf6wtj]j[j@az00#$ofR:",
+            "colors": [
+              "#00529c",
+              "#461d76"
+            ],
+            "uri_name": "cfb/2026-10-03/mcn-lsu",
+            "starts_at": 1791071100,
+            "ends_at": 1791085500,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-03/mcn-lsu",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29573,
+            "name": "Indiana Hoosiers at Rutgers Scarlet Knights",
+            "tag": "College Football",
+            "source_tag": "BTN",
+            "poster": "https://static.ppvservices.st/assets/thumb/7d3e35fcc3c14605e928b4fdce57b87e-thumbnail.jpg",
+            "blurhash": "L7GY~I4RenQSs:kCayf600u*kW%#",
+            "colors": [
+              "#970310",
+              "#ce0e2d"
+            ],
+            "uri_name": "cfb/2026-10-03/iu-rutg",
+            "starts_at": 1791072000,
+            "ends_at": 1791086400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-03/iu-rutg",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29539,
+            "name": "Indianapolis Colts at Washington Commanders",
+            "tag": "NFL",
+            "source_tag": "NFL Network",
+            "poster": "https://static.ppvservices.st/assets/thumb/b8149ec1bb72a934980c712819ff7e59-thumbnail.jpg",
+            "blurhash": "L77,=V7jMy#ioLa#j[j@00+?%MJW",
+            "colors": [
+              "#002c5f",
+              "#5a1414"
+            ],
+            "uri_name": "nfl/2026-10-04/ind-wsh",
+            "starts_at": 1791120600,
+            "ends_at": 1791135000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-04/ind-wsh",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29540,
+            "name": "New England Patriots at Buffalo Bills",
+            "tag": "NFL",
+            "source_tag": "CBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/767108d56119b37840f0a2e6054ad4c2-thumbnail.jpg",
+            "blurhash": "L25hl+M@4V#txHoes:WB00xN_3KN",
+            "colors": [
+              "#002244",
+              "#00338d"
+            ],
+            "uri_name": "nfl/2026-10-04/ne-buf",
+            "starts_at": 1791133200,
+            "ends_at": 1791147600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-04/ne-buf",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29541,
+            "name": "New York Jets at Chicago Bears",
+            "tag": "NFL",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/fc1ccbc54da269ef63bf0c58292cee3e-thumbnail.jpg",
+            "blurhash": "L68D|ZLyIn*|s9Naays:00v2%MPU",
+            "colors": [
+              "#125740",
+              "#0b162a"
+            ],
+            "uri_name": "nfl/2026-10-04/nyj-chi",
+            "starts_at": 1791133200,
+            "ends_at": 1791147600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-04/nyj-chi",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29542,
+            "name": "Jacksonville Jaguars at Cincinnati Bengals",
+            "tag": "NFL",
+            "source_tag": "CBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/2b05ae2dfb1e0a470ee3891335f59fb1-thumbnail.jpg",
+            "blurhash": "LAE-K}2_:,$QoJoJj[Wq00|HTJwb",
+            "colors": [
+              "#006778",
+              "#fb4f14"
+            ],
+            "uri_name": "nfl/2026-10-04/jax-cin",
+            "starts_at": 1791133200,
+            "ends_at": 1791147600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-04/jax-cin",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29543,
+            "name": "Arizona Cardinals at New York Giants",
+            "tag": "NFL",
+            "source_tag": "CBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/7821e504c9ad747b36faa87b2feb2260-thumbnail.jpg",
+            "blurhash": "L6B.m2.nv#_3oMoLfkof00?^tR4.",
+            "colors": [
+              "#97233f",
+              "#0b2265"
+            ],
+            "uri_name": "nfl/2026-10-04/ari-nyg",
+            "starts_at": 1791133200,
+            "ends_at": 1791147600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-04/ari-nyg",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29544,
+            "name": "Los Angeles Rams at Philadelphia Eagles",
+            "tag": "NFL",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/ade27487e9cf137a87bc909d89f7d7bc-thumbnail.jpg",
+            "blurhash": "LC7-{R%7M{IUofayfRWC00ITxuxu",
+            "colors": [
+              "#003594",
+              "#004c54"
+            ],
+            "uri_name": "nfl/2026-10-04/lar-phi",
+            "starts_at": 1791133200,
+            "ends_at": 1791147600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-04/lar-phi",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29545,
+            "name": "Green Bay Packers at Tampa Bay Buccaneers",
+            "tag": "NFL",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/65570e02df3f6141595cd09b1e655387-thumbnail.jpg",
+            "blurhash": "L5DQ=i4S+HM0oLWUj[j]00..pI?b",
+            "colors": [
+              "#203731",
+              "#d50a0a"
+            ],
+            "uri_name": "nfl/2026-10-04/gb-tb",
+            "starts_at": 1791133200,
+            "ends_at": 1791147600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-04/gb-tb",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29546,
+            "name": "Tennessee Titans at Baltimore Ravens",
+            "tag": "NFL",
+            "source_tag": "CBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/41fa9df7355a291049ec522db2bda45d-thumbnail.jpg",
+            "blurhash": "LR8}cX%%WXM{j[fkfQfQ9DMwoft7",
+            "colors": [
+              "#4b92db",
+              "#241773"
+            ],
+            "uri_name": "nfl/2026-10-04/ten-bal",
+            "starts_at": 1791133200,
+            "ends_at": 1791147600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-04/ten-bal",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29547,
+            "name": "Dallas Cowboys at Houston Texans",
+            "tag": "NFL",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/c8371a1477b2a787779fc0075a3a44d7-thumbnail.jpg",
+            "blurhash": "LA6a_9KBR7s.WWa#jtbG0J$KtRR%",
+            "colors": [
+              "#003594",
+              "#03202f"
+            ],
+            "uri_name": "nfl/2026-10-04/dal-hou",
+            "starts_at": 1791133200,
+            "ends_at": 1791147600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-04/dal-hou",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29548,
+            "name": "Miami Dolphins at Minnesota Vikings",
+            "tag": "NFL",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/97069db88ca3409e557e21ab54a4deea-thumbnail.jpg",
+            "blurhash": "LA8X-0LwNFRikCayjtj[00rDxusq",
+            "colors": [
+              "#008e97",
+              "#4f2683"
+            ],
+            "uri_name": "nfl/2026-10-04/mia-min",
+            "starts_at": 1791144300,
+            "ends_at": 1791158700,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-04/mia-min",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29549,
+            "name": "Kansas City Chiefs at Las Vegas Raiders",
+            "tag": "NFL",
+            "source_tag": "CBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/619c081bb803ea4b32736a89283468c0-thumbnail.jpg",
+            "blurhash": "LJGtBO_%bbNaoLjZfQfQ00FHoMtR",
+            "colors": [
+              "#e31837",
+              "#a5acaf"
+            ],
+            "uri_name": "nfl/2026-10-04/kc-lv",
+            "starts_at": 1791145500,
+            "ends_at": 1791159900,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-04/kc-lv",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29550,
+            "name": "Denver Broncos at San Francisco 49ers",
+            "tag": "NFL",
+            "source_tag": "CBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/2ff926c517550f2f86e568a8e493a3c0-thumbnail.jpg",
+            "blurhash": "LOI1_y}XenR*o0jZfkfk0yJ7ozf+",
+            "colors": [
+              "#fb4f14",
+              "#aa0000"
+            ],
+            "uri_name": "nfl/2026-10-04/den-sf",
+            "starts_at": 1791145500,
+            "ends_at": 1791159900,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-04/den-sf",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29551,
+            "name": "Los Angeles Chargers at Seattle Seahawks",
+            "tag": "NFL",
+            "source_tag": "CBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/0e4ad01c673c8ca1eb05b712d6e7f28c-thumbnail.jpg",
+            "blurhash": "LM7:UlI6WFobj[jufRa#D5t0s:j=",
+            "colors": [
+              "#0080c6",
+              "#69be28"
+            ],
+            "uri_name": "nfl/2026-10-04/lac-sea",
+            "starts_at": 1791145500,
+            "ends_at": 1791159900,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-04/lac-sea",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29552,
+            "name": "Detroit Lions at Carolina Panthers",
+            "tag": "NFL",
+            "source_tag": "NBC",
+            "poster": "https://static.ppvservices.st/assets/thumb/720b814fc9288f55828e89b14ee1cc32-thumbnail.jpg",
+            "blurhash": "L23^~$=p4oDgbda}axae00Dh_2.T",
+            "colors": [
+              "#0076b6",
+              "#0085ca"
+            ],
+            "uri_name": "nfl/2026-10-04/det-car",
+            "starts_at": 1791159600,
+            "ends_at": 1791174000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-04/det-car",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29553,
+            "name": "Atlanta Falcons at New Orleans Saints",
+            "tag": "NFL",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/988173f5de9aa455e5b66ebbe4e8d834-thumbnail.jpg",
+            "blurhash": "L3F#2R00K@xnxuX8j[ni00?=$-tl",
+            "colors": [
+              "#a71930",
+              "#d3bc8d"
+            ],
+            "uri_name": "nfl/2026-10-05/atl-no",
+            "starts_at": 1791245700,
+            "ends_at": 1791260100,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-05/atl-no",
+            "substreams": [],
+            "viewers": "0"
           }
         ]
       },
@@ -104,35 +868,35 @@
             "category_name": "Australian Football",
             "iframe": "https://embedindia.st/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "2"
           }
         ]
       },
       {
-        "category": "Basketball",
-        "id": 37,
+        "category": "Combat Sports",
+        "id": 33,
         "always_live": false,
         "streams": [
           {
-            "id": 29499,
-            "name": "Dallas Wings vs. Golden State Valkyries",
-            "tag": "WNBA",
-            "source_tag": "USA Net",
-            "poster": "https://static.ppvservices.st/assets/thumb/e0775e09d18951b1f7cbe0cf744d188e-thumbnail.jpg",
-            "blurhash": "L4ATBE00$-w5bFj]a|WU00}xxA%M",
+            "id": 29582,
+            "name": "Dana White's Contender Series",
+            "tag": "Mixed Martial Arts (MMA)",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/a5f35940ef6309a61060dede0638e1d3-thumbnail.jpg",
+            "blurhash": "L97#+in%0LV@t7emR*a}03X9~Voz",
             "colors": [
-              "#002b5c",
-              "#b38fcf"
+              "#169bbc",
+              "#15abcc"
             ],
-            "uri_name": "wnba/2026-09-27/dal-gs",
-            "starts_at": 1790557200,
-            "ends_at": 1790568000,
+            "uri_name": "dwcs/2026-09-29",
+            "starts_at": 1790722800,
+            "ends_at": 1790737200,
             "always_live": 0,
             "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://embedindia.st/embed/wnba/2026-09-27/dal-gs",
+            "category_name": "Combat Sports",
+            "iframe": "https://embedindia.st/embed/dwcs/2026-09-29",
             "substreams": [],
-            "viewers": "26"
+            "viewers": "0"
           }
         ]
       },
@@ -179,7 +943,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "6"
+            "viewers": "10"
           },
           {
             "id": 27496,
@@ -200,7 +964,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "2"
           }
         ]
       },
@@ -210,46 +974,214 @@
         "always_live": false,
         "streams": [
           {
-            "id": 29183,
-            "name": "León vs. FC Juarez",
-            "tag": "Liga MX",
-            "source_tag": "TUDN",
-            "poster": "https://static.ppvservices.st/assets/thumb/7b712fc67ecf32b335d2ab8e8754cba5-thumbnail.jpg",
-            "blurhash": "L56cS|yU0JIBaxWBayof00IC~X%f",
+            "id": 29588,
+            "name": "Armenia vs. Montenegro",
+            "tag": "UEFA Nations League",
+            "source_tag": "FS2",
+            "poster": "https://static.ppvservices.st/assets/thumb/ed426a684c13cb8173703d65faade8a9-thumbnail.jpg",
+            "blurhash": "L2Id5#Gv@[Vo#Eeraef~00eP7ytC",
             "colors": [
-              "#007a33",
-              "#1b7a3d"
+              "#dc2400",
+              "#e70103"
             ],
-            "uri_name": "liga-mx/2026-09-27/leo-jua",
-            "starts_at": 1790557200,
-            "ends_at": 1790566200,
+            "uri_name": "uefa-nations-league/2026-09-28/arm-mne",
+            "starts_at": 1790611200,
+            "ends_at": 1790620200,
             "always_live": 0,
-            "locale": "es-us",
+            "locale": "en",
             "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/liga-mx/2026-09-27/leo-jua",
+            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-28/arm-mne",
             "substreams": [],
-            "viewers": "11"
+            "viewers": "0"
           },
           {
-            "id": 29184,
-            "name": "Necaxa vs. América",
-            "tag": "Liga MX",
-            "source_tag": "FOX Deportes",
-            "poster": "https://static.ppvservices.st/assets/thumb/28f32a77b3fdf64fcd4e05170a4b48ed-thumbnail.jpg",
-            "blurhash": "L6J~oF8@kxF.n%e.j?a$00P[cH=|",
+            "id": 29589,
+            "name": "Georgia vs. Ukraine",
+            "tag": "UEFA Nations League",
+            "source_tag": "Fubo Sports",
+            "poster": "https://static.ppvservices.st/assets/thumb/db526ef2a3742f0760638c4165bd28ce-thumbnail.jpg",
+            "blurhash": "LdKn3Gtpt9WUa~oJfQa#02R#Rjn$",
             "colors": [
-              "#e4002b",
-              "#ffe100"
+              "#ffffff",
+              "#fddc01"
             ],
-            "uri_name": "liga-mx/2026-09-27/ncx-ame",
-            "starts_at": 1790564400,
-            "ends_at": 1790573400,
+            "uri_name": "uefa-nations-league/2026-09-28/geo-ukr",
+            "starts_at": 1790611200,
+            "ends_at": 1790620200,
             "always_live": 0,
-            "locale": "es-us",
+            "locale": "en",
             "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/liga-mx/2026-09-27/ncx-ame",
+            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-28/geo-ukr",
             "substreams": [],
-            "viewers": "76"
+            "viewers": "0"
+          },
+          {
+            "id": 29590,
+            "name": "Latvia vs. Cyprus",
+            "tag": "UEFA Nations League",
+            "source_tag": "FOX Soccer Plus",
+            "poster": "https://static.ppvservices.st/assets/thumb/403e4d4a8449d2eb6202c1071efe7ff0-thumbnail.jpg",
+            "blurhash": "LABo|B*Kr|?uoff6ayj[00.Tfz9H",
+            "colors": [
+              "#982242",
+              "#195dcc"
+            ],
+            "uri_name": "uefa-nations-league/2026-09-28/lva-cyp",
+            "starts_at": 1790611200,
+            "ends_at": 1790620200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-28/lva-cyp",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29591,
+            "name": "Belgium vs. France",
+            "tag": "UEFA Nations League",
+            "source_tag": "FS2",
+            "poster": "https://static.ppvservices.st/assets/thumb/ab45d22b69995f8937075c97f8c77a9a-thumbnail.jpg",
+            "blurhash": "LRE0+^|DwLS%j[jsayfQ0yOGX7ad",
+            "colors": [
+              "#e20612",
+              "#00007e"
+            ],
+            "uri_name": "uefa-nations-league/2026-09-28/bel-fra",
+            "starts_at": 1790621100,
+            "ends_at": 1790630100,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-28/bel-fra",
+            "substreams": [],
+            "viewers": "2"
+          },
+          {
+            "id": 29592,
+            "name": "Northern Ireland vs. Hungary",
+            "tag": "UEFA Nations League",
+            "source_tag": "Fubo Sports",
+            "poster": "https://static.ppvservices.st/assets/thumb/614840834e7fe7810779ed622172af84-thumbnail.jpg",
+            "blurhash": "L1H8]R}a{19Y[]KNWB#T000x7|^S",
+            "colors": [
+              "#cc0001",
+              "#ce2029"
+            ],
+            "uri_name": "uefa-nations-league/2026-09-28/nir-hun",
+            "starts_at": 1790621100,
+            "ends_at": 1790630100,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-28/nir-hun",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29593,
+            "name": "Romania vs. Bosnia-Herzegovina",
+            "tag": "UEFA Nations League",
+            "source_tag": "Fubo Sports 2",
+            "poster": "https://static.ppvservices.st/assets/thumb/fc85c24c5dce2ec6588302c207b5fdbc-thumbnail.jpg",
+            "blurhash": "LcEek{~2xWR.oKa|fQj@9uI[WEjF",
+            "colors": [
+              "#fdd118",
+              "#112854"
+            ],
+            "uri_name": "uefa-nations-league/2026-09-28/rou-bih",
+            "starts_at": 1790621100,
+            "ends_at": 1790630100,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-28/rou-bih",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29594,
+            "name": "Sweden vs. Poland",
+            "tag": "UEFA Nations League",
+            "source_tag": "FOX Soccer Plus",
+            "poster": "https://static.ppvservices.st/assets/thumb/86e80dcd31208d296e916a63858fea28-thumbnail.jpg",
+            "blurhash": "L8KT#Y8w-@=yxuV@a|oz00?KE1BW",
+            "colors": [
+              "#fecb02",
+              "#ffffff"
+            ],
+            "uri_name": "uefa-nations-league/2026-09-28/swe-pol",
+            "starts_at": 1790621100,
+            "ends_at": 1790630100,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-28/swe-pol",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29595,
+            "name": "Türkiye vs. Italy",
+            "tag": "UEFA Nations League",
+            "source_tag": "Fubo PPV",
+            "poster": "https://static.ppvservices.st/assets/thumb/c19cf623acfe7954225fec07ebbf28f1-thumbnail.jpg",
+            "blurhash": "LbFrl0~S%1Xlj[j@fQfQ0dNKR%Vt",
+            "colors": [
+              "#ffffff",
+              "#103cd3"
+            ],
+            "uri_name": "uefa-nations-league/2026-09-28/tur-ita",
+            "starts_at": 1790621100,
+            "ends_at": 1790630100,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-09-28/tur-ita",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29578,
+            "name": "Red Bull New York vs. St. Louis CITY SC",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/3a1da5ddf8d686b368a308c8b2e01deb-thumbnail.jpg",
+            "blurhash": "L3IU3q~j+I8{xaj[jFWV008|K$?u",
+            "colors": [
+              "#e30613",
+              "#dd004a"
+            ],
+            "uri_name": "mls/2026-09-30/rbny-stl",
+            "starts_at": 1790811000,
+            "ends_at": 1790821800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-09-30/rbny-stl",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29579,
+            "name": "Seattle Sounders FC vs. Sporting Kansas City",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/1b1120e1bcdd579aff4b9582d8e2c5b6-thumbnail.jpg",
+            "blurhash": "L34ftTC;E2:^xuWUWCoM00+8%LF.",
+            "colors": [
+              "#005595",
+              "#002395"
+            ],
+            "uri_name": "mls/2026-10-01/sea-skc",
+            "starts_at": 1790904600,
+            "ends_at": 1790915400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-01/sea-skc",
+            "substreams": [],
+            "viewers": "0"
           }
         ]
       },
@@ -277,7 +1209,7 @@
             "category_name": "Golf",
             "iframe": "https://embedindia.st/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "7"
+            "viewers": "2"
           }
         ]
       },
@@ -305,7 +1237,140 @@
             "category_name": "Rugby",
             "iframe": "https://embedindia.st/embed/247-fox-league",
             "substreams": [],
-            "viewers": "3"
+            "viewers": "1"
+          },
+          {
+            "id": 29581,
+            "name": "Roosters vs. Knights",
+            "tag": "Rugby League (NRL)",
+            "source_tag": "Fox League",
+            "poster": "https://static.ppvservices.st/assets/thumb/6a3283a17ffa40fce6e1967b447bd3ef-thumbnail.jpg",
+            "blurhash": "LPDQ~D|Xr?R*oLW;jZn%0xJBbbbb",
+            "colors": [
+              "#d12b3f",
+              "#2e4a92"
+            ],
+            "uri_name": "nrl/2026-10-04/syd-new",
+            "starts_at": 1791102600,
+            "ends_at": 1791111600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Rugby",
+            "iframe": "https://embedindia.st/embed/nrl/2026-10-04/syd-new",
+            "substreams": [],
+            "viewers": "0"
+          }
+        ]
+      },
+      {
+        "category": "Wrestling",
+        "id": 38,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 29583,
+            "name": "WWE NXT",
+            "tag": "Wrestling",
+            "source_tag": "CW on ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
+            "blurhash": "LLGSDh4n00RjD%~qof4nD%%MWBj[",
+            "colors": [
+              "#030303",
+              "#040404"
+            ],
+            "uri_name": "wwe/2026-09-29",
+            "starts_at": 1790726400,
+            "ends_at": 1790737200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Wrestling",
+            "iframe": "https://embedindia.st/embed/wwe/2026-09-29",
+            "substreams": [],
+            "viewers": "2"
+          },
+          {
+            "id": 29584,
+            "name": "AEW Wednesday Night Dynamite",
+            "tag": "Wrestling",
+            "source_tag": "TBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",
+            "blurhash": "LHExeyNWV6M|$dbtRir?ZtWZ~Bwg",
+            "colors": [
+              "#152441",
+              "#9c4ec5"
+            ],
+            "uri_name": "aew/2026-09-30",
+            "starts_at": 1790812800,
+            "ends_at": 1790823600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Wrestling",
+            "iframe": "https://embedindia.st/embed/aew/2026-09-30",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29585,
+            "name": "TNA Impact",
+            "tag": "Wrestling",
+            "source_tag": "AMC",
+            "poster": "https://static.ppvservices.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",
+            "blurhash": "L6GFdr].0|t700EfGZR*3;J-{gt6",
+            "colors": [
+              "#030303",
+              "#050505"
+            ],
+            "uri_name": "tna/2026-10-01",
+            "starts_at": 1790902800,
+            "ends_at": 1790913600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Wrestling",
+            "iframe": "https://embedindia.st/embed/tna/2026-10-01",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29586,
+            "name": "WWE Friday Night Smackdown",
+            "tag": "Wrestling",
+            "source_tag": "USA",
+            "poster": "https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
+            "blurhash": "LF4ezej]M?s{kFkDf2fKIUWGxsfT",
+            "colors": [
+              "#001b65",
+              "#0001b4"
+            ],
+            "uri_name": "wwe/2026-10-02",
+            "starts_at": 1790985600,
+            "ends_at": 1790996400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Wrestling",
+            "iframe": "https://embedindia.st/embed/wwe/2026-10-02",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29587,
+            "name": "AEW Saturday Night Collision",
+            "tag": "Wrestling",
+            "source_tag": "TNT",
+            "poster": "https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
+            "blurhash": "LDDk_9Na01of}mNwNMbF0TS#^cae",
+            "colors": [
+              "#210e10",
+              "#160c0a"
+            ],
+            "uri_name": "aew/2026-10-03",
+            "starts_at": 1791072000,
+            "ends_at": 1791082800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Wrestling",
+            "iframe": "https://embedindia.st/embed/aew/2026-10-03",
+            "substreams": [],
+            "viewers": "0"
           }
         ]
       },
@@ -333,7 +1398,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "16"
+            "viewers": "13"
           },
           {
             "id": 3663,
@@ -354,7 +1419,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-cows",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "2"
           },
           {
             "id": 8008,
@@ -375,7 +1440,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "22"
+            "viewers": "27"
           },
           {
             "id": 5191,
@@ -396,7 +1461,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 16623,
@@ -417,7 +1482,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "5"
+            "viewers": "4"
           },
           {
             "id": 17270,
@@ -438,7 +1503,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/rally-tv",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           }
         ]
       }
