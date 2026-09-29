@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-09-28T22:53:05.603161+00:00",
+    "fetched_at": "2026-09-29T03:52:39.178100+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1790635990,
+    "timestamp": 1790653960,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.037670135498046875,
+    "performance": 0.03627181053161621,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "52",
+            "viewers": "15",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -57,7 +57,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-09-28/phi-chi",
             "substreams": [],
-            "viewers": "48",
+            "viewers": "1245",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -636,7 +636,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-10-04/nyj-chi",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -942,7 +942,7 @@
             "category_name": "Australian Football",
             "iframe": "https://embedindia.st/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -972,7 +972,7 @@
             "category_name": "Combat Sports",
             "iframe": "https://embedindia.st/embed/dwcs/2026-09-29",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1021,7 +1021,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "7",
+            "viewers": "6",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1055,29 +1055,6 @@
         "id": 32,
         "always_live": false,
         "streams": [
-          {
-            "id": 29596,
-            "name": "2026 World Grand Prix | Day 1",
-            "tag": "Darts",
-            "source_tag": "Sky Sports+",
-            "poster": "https://static.ppvservices.st/assets/thumb/47d877cec15c6e8841a0fe15f422225c-thumbnail.jpg",
-            "blurhash": "LiGI]CwnoLI*tSadbXRoNEIcafxo",
-            "colors": [
-              "#150f7b",
-              "#4536d9"
-            ],
-            "uri_name": "2026-world-grand-prix--day-1-29596",
-            "starts_at": 1790614800,
-            "ends_at": 1790636400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Darts",
-            "iframe": "https://embedindia.st/embed/2026-world-grand-prix--day-1-29596",
-            "substreams": [],
-            "viewers": "96",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 29597,
             "name": "2026 World Grand Prix | Day 2",
@@ -1295,7 +1272,7 @@
             "category_name": "Golf",
             "iframe": "https://embedindia.st/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1325,7 +1302,7 @@
             "category_name": "Rugby",
             "iframe": "https://embedindia.st/embed/247-fox-league",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1500,7 +1477,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "17",
+            "viewers": "13",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1546,7 +1523,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "23",
+            "viewers": "29",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1569,7 +1546,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1592,7 +1569,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "4",
+            "viewers": "7",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1615,7 +1592,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/rally-tv",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1624,11 +1601,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-09-28T22:56:20.094280+00:00",
+    "extracted_at": "2026-09-29T03:55:52.521344+00:00",
     "source_file": "events.json",
-    "total_streams": 64,
+    "total_streams": 63,
     "found": 0,
-    "not_found": 64,
+    "not_found": 63,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
