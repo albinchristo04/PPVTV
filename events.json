@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-01T22:16:04.831458+00:00",
+    "fetched_at": "2026-10-02T03:45:11.984286+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1790892970,
+    "timestamp": 1790912720,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.03942704200744629,
+    "performance": 0.041528940200805664,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "23"
+            "viewers": "2"
           },
           {
             "id": 29538,
@@ -55,7 +55,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-10-01/pit-cle",
             "substreams": [],
-            "viewers": "8"
+            "viewers": "3951"
           },
           {
             "id": 29574,
@@ -97,7 +97,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfl/2026-10-02/cgy-ssk",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 29554,
@@ -295,7 +295,7 @@
                 "iframe": "https://embedindia.st/embed/cfb/2026-10-03/fla-miz/skycast"
               }
             ],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 29564,
@@ -441,7 +441,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfb/2026-10-03/wash-usc",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 29571,
@@ -847,35 +847,7 @@
             "category_name": "Australian Football",
             "iframe": "https://embedindia.st/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "2"
-          }
-        ]
-      },
-      {
-        "category": "Baseball",
-        "id": 36,
-        "always_live": false,
-        "streams": [
-          {
-            "id": 29657,
-            "name": "Philadelphia Phillies vs. Atlanta Braves",
-            "tag": "MLB",
-            "source_tag": "NBC",
-            "poster": "https://static.ppvservices.st/assets/thumb/7349d8fd61256dd678ec4033d0de2a26-thumbnail.jpg",
-            "blurhash": "L7Gicy}ZVYMxs:tRj[RP00I:pItR",
-            "colors": [
-              "#c8102e",
-              "#b01c2e"
-            ],
-            "uri_name": "mlb/2026-10-01/phi-atl",
-            "starts_at": 1790899200,
-            "ends_at": 1790911800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-10-01/phi-atl",
-            "substreams": [],
-            "viewers": "6"
+            "viewers": "4"
           }
         ]
       },
@@ -903,7 +875,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/wnba/2026-10-01/ind-lv",
             "substreams": [],
-            "viewers": "3"
+            "viewers": "289"
           },
           {
             "id": 29655,
@@ -992,7 +964,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "5"
+            "viewers": "2"
           },
           {
             "id": 27496,
@@ -1013,7 +985,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "2"
+            "viewers": "1"
           }
         ]
       },
@@ -1022,27 +994,6 @@
         "id": 32,
         "always_live": false,
         "streams": [
-          {
-            "id": 29599,
-            "name": "2026 World Grand Prix | Day 4",
-            "tag": "Darts",
-            "source_tag": "Sky Sports+",
-            "poster": "https://static.ppvservices.st/assets/thumb/47d877cec15c6e8841a0fe15f422225c-thumbnail.jpg",
-            "blurhash": "LiGI]CwnoLI*tSadbXRoNEIcafxo",
-            "colors": [
-              "#150f7b",
-              "#4536d9"
-            ],
-            "uri_name": "2026-world-grand-prix--day-4-29599",
-            "starts_at": 1790877600,
-            "ends_at": 1790899200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Darts",
-            "iframe": "https://embedindia.st/embed/2026-world-grand-prix--day-4-29599",
-            "substreams": [],
-            "viewers": "104"
-          },
           {
             "id": 29600,
             "name": "2026 World Grand Prix | Day 5",
@@ -1132,7 +1083,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/mls/2026-10-01/sea-skc",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "8"
           },
           {
             "id": 29673,
@@ -1153,7 +1104,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/concacaf-nations-league/2026-10-02/slv-jam",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           }
         ]
       },
@@ -1181,7 +1132,7 @@
             "category_name": "Golf",
             "iframe": "https://embedindia.st/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "5"
+            "viewers": "1"
           }
         ]
       },
@@ -1190,90 +1141,6 @@
         "id": 39,
         "always_live": false,
         "streams": [
-          {
-            "id": 29646,
-            "name": "Buffalo Sabres vs. Columbus Blue Jackets",
-            "tag": "NHL",
-            "source_tag": "CBJNHL",
-            "poster": "https://static.ppvservices.st/assets/thumb/6cffdef47b52f8a6b010d8be146bed4f-thumbnail.jpg",
-            "blurhash": "L76kuOyGIVROt7t7j@R*00RN%Lbv",
-            "colors": [
-              "#00468b",
-              "#002d62"
-            ],
-            "uri_name": "nhl/2026-10-01/buf-cbj",
-            "starts_at": 1790895600,
-            "ends_at": 1790906400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-10-01/buf-cbj",
-            "substreams": [],
-            "viewers": "3"
-          },
-          {
-            "id": 29647,
-            "name": "Philadelphia Flyers vs. New Jersey Devils",
-            "tag": "NHL",
-            "source_tag": "Disney+",
-            "poster": "https://static.ppvservices.st/assets/thumb/4ea6372af14f570f454467d1103c74ac-thumbnail.jpg",
-            "blurhash": "L3JNnM^rz.}txaS2jZs:00];L10}",
-            "colors": [
-              "#fe5823",
-              "#e30b2b"
-            ],
-            "uri_name": "nhl/2026-10-01/phi-nj",
-            "starts_at": 1790895600,
-            "ends_at": 1790906400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-10-01/phi-nj",
-            "substreams": [],
-            "viewers": "2"
-          },
-          {
-            "id": 29648,
-            "name": "Tampa Bay Lightning vs. New York Rangers",
-            "tag": "NHL",
-            "source_tag": "MSG",
-            "poster": "https://static.ppvservices.st/assets/thumb/8816b64de8ddd40c956804ad0901b122-thumbnail.jpg",
-            "blurhash": "L27.2vH;02xwWZkBWBM|00sv_LS3",
-            "colors": [
-              "#003e7e",
-              "#0056ae"
-            ],
-            "uri_name": "nhl/2026-10-01/tb-nyr",
-            "starts_at": 1790895600,
-            "ends_at": 1790906400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-10-01/tb-nyr",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
-            "id": 29649,
-            "name": "Minnesota Wild vs. Nashville Predators",
-            "tag": "NHL",
-            "source_tag": "Scripps Sports",
-            "poster": "https://static.ppvservices.st/assets/thumb/b1a1fdb506709f4514344e14c77db2f7-thumbnail.jpg",
-            "blurhash": "LBEeex05=E%1oeayfPa#02~9OYr=",
-            "colors": [
-              "#124734",
-              "#fdba31"
-            ],
-            "uri_name": "nhl/2026-10-01/min-nsh",
-            "starts_at": 1790899200,
-            "ends_at": 1790910000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-10-01/min-nsh",
-            "substreams": [],
-            "viewers": "0"
-          },
           {
             "id": 29650,
             "name": "Seattle Kraken vs. Calgary Flames",
@@ -1293,7 +1160,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-01/sea-cgy",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "44"
           },
           {
             "id": 29651,
@@ -1314,7 +1181,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-01/chi-uta",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "62"
           },
           {
             "id": 29652,
@@ -1335,7 +1202,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-01/fla-sj",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "369"
           },
           {
             "id": 29653,
@@ -1356,7 +1223,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-01/edm-van",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "405"
           }
         ]
       },
@@ -1384,7 +1251,7 @@
             "category_name": "Rugby",
             "iframe": "https://embedindia.st/embed/247-fox-league",
             "substreams": [],
-            "viewers": "2"
+            "viewers": "0"
           },
           {
             "id": 29581,
@@ -1433,7 +1300,7 @@
             "category_name": "Wrestling",
             "iframe": "https://embedindia.st/embed/tna/2026-10-01",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "12"
           },
           {
             "id": 29586,
@@ -1503,7 +1370,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "13"
+            "viewers": "10"
           },
           {
             "id": 3663,
@@ -1545,7 +1412,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "17"
+            "viewers": "15"
           },
           {
             "id": 5191,
@@ -1587,7 +1454,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "3"
+            "viewers": "4"
           },
           {
             "id": 17270,
@@ -1608,7 +1475,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/rally-tv",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "3"
           }
         ]
       }
