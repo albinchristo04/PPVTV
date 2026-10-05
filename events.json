@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-05T03:42:46.654975+00:00",
+    "fetched_at": "2026-10-05T13:25:07.936496+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1791171770,
+    "timestamp": 1791206710,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.0419771671295166,
+    "performance": 0.08605694770812988,
     "streams": [
       {
         "category": "American Football",
@@ -34,28 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "7"
-          },
-          {
-            "id": 29552,
-            "name": "Detroit Lions at Carolina Panthers",
-            "tag": "NFL",
-            "source_tag": "Peacock",
-            "poster": "https://static.ppvservices.st/assets/thumb/720b814fc9288f55828e89b14ee1cc32-thumbnail.jpg",
-            "blurhash": "L23^~$=p4oDgbda}axae00Dh_2.T",
-            "colors": [
-              "#0076b6",
-              "#0085ca"
-            ],
-            "uri_name": "nfl/2026-10-04/det-car",
-            "starts_at": 1791159600,
-            "ends_at": 1791174000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://embedindia.st/embed/nfl/2026-10-04/det-car",
-            "substreams": [],
-            "viewers": "2882"
+            "viewers": "11"
           },
           {
             "id": 29553,
@@ -76,7 +55,843 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-10-05/atl-no",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
+          },
+          {
+            "id": 29819,
+            "name": "Tampa Bay Buccaneers at Dallas Cowboys",
+            "tag": "NFL",
+            "source_tag": "Prime Video",
+            "poster": "https://static.ppvservices.st/assets/thumb/ac750a83dc032b0947fd50846d76bea6-thumbnail.jpg",
+            "blurhash": "LRCN%U{ww1X8juj[fQay9sK5g2WW",
+            "colors": [
+              "#d50a0a",
+              "#003594"
+            ],
+            "uri_name": "nfl/2026-10-08/tb-dal",
+            "starts_at": 1791504900,
+            "ends_at": 1791519300,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-08/tb-dal",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29870,
+            "name": "Edmonton Elks at Hamilton Tiger-Cats",
+            "tag": "Canadian Football",
+            "source_tag": "TSN4",
+            "poster": "https://static.ppvservices.st/assets/thumb/ff60325e7754bfa9a9f5034322d79ef7-thumbnail.jpg",
+            "blurhash": "LAEeo204;1%3oeWVfQj[00~AXnwa",
+            "colors": [
+              "#0f4d2c",
+              "#ffb81c"
+            ],
+            "uri_name": "cfl/2026-10-09/edm-ham",
+            "starts_at": 1791586800,
+            "ends_at": 1791599400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfl/2026-10-09/edm-ham",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29871,
+            "name": "Ottawa RedBlacks at BC Lions",
+            "tag": "Canadian Football",
+            "source_tag": "TSN1",
+            "poster": "https://static.ppvservices.st/assets/thumb/3c6ec2313dab94bbe22b40cce2040369-thumbnail.jpg",
+            "blurhash": "L4HIpO23zAhz$jS3aysA00_~P:.S",
+            "colors": [
+              "#b5121b",
+              "#f05a22"
+            ],
+            "uri_name": "cfl/2026-10-09/ott-bc",
+            "starts_at": 1791597600,
+            "ends_at": 1791610200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfl/2026-10-09/ott-bc",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29844,
+            "name": "Iowa State Cyclones at BYU Cougars",
+            "tag": "College Football",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/78d9ec39b3df471d9be962f6c65ad3df-thumbnail.jpg",
+            "blurhash": "LCB{A]_##syEjujsj[a|00Y8X5IT",
+            "colors": [
+              "#ae192d",
+              "#0047ba"
+            ],
+            "uri_name": "cfb/2026-10-09/isu-byu",
+            "starts_at": 1791598500,
+            "ends_at": 1791612900,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-09/isu-byu",
+            "substreams": [
+              {
+                "id": 29845,
+                "name": "Iowa State Cyclones at BYU Cougars",
+                "tag": "College Football",
+                "uri_name": "cfb/2026-10-09/isu-byu/skycast",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/cfb/2026-10-09/isu-byu/skycast"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 29846,
+            "name": "Indiana Hoosiers at Nebraska Cornhuskers",
+            "tag": "College Football",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/b7648eae34d435a3a1775dd7fdfbf9ed-thumbnail.jpg",
+            "blurhash": "L7Hboj4RrrqHs:f+fkay00..bvyr",
+            "colors": [
+              "#970310",
+              "#e31937"
+            ],
+            "uri_name": "cfb/2026-10-10/iu-neb",
+            "starts_at": 1791648000,
+            "ends_at": 1791662400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/iu-neb",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29847,
+            "name": "Texas A&M Aggies at Missouri Tigers",
+            "tag": "College Football",
+            "source_tag": "ABC",
+            "poster": "https://static.ppvservices.st/assets/thumb/8787926b178d3f48c3da42b2bb8221e9-thumbnail.jpg",
+            "blurhash": "L5FXno0I?R8^t6ogj@V@00+qNM~p",
+            "colors": [
+              "#500000",
+              "#f1b82d"
+            ],
+            "uri_name": "cfb/2026-10-10/tam-miz",
+            "starts_at": 1791648000,
+            "ends_at": 1791662400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/tam-miz",
+            "substreams": [
+              {
+                "id": 29848,
+                "name": "Texas A&M Aggies at Missouri Tigers",
+                "tag": "College Football",
+                "uri_name": "cfb/2026-10-10/tam-miz/skycast",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/cfb/2026-10-10/tam-miz/skycast"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 29849,
+            "name": "UCF Knights at Oklahoma State Cowboys",
+            "tag": "College Football",
+            "source_tag": "ESPN2",
+            "poster": "https://static.ppvservices.st/assets/thumb/467d6b60f408841b95dc56594b126a14-thumbnail.jpg",
+            "blurhash": "L9Em%h0h[:xboefkofjt00}ZK5v}",
+            "colors": [
+              "#000000",
+              "#fe5c00"
+            ],
+            "uri_name": "cfb/2026-10-10/ucf-okst",
+            "starts_at": 1791648000,
+            "ends_at": 1791662400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/ucf-okst",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29850,
+            "name": "North Carolina Tar Heels at Pittsburgh Panthers",
+            "tag": "College Football",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/5205328bbaf395c2ebfcd5ef10848a4e-thumbnail.jpg",
+            "blurhash": "LLBW_b.moyRObHj[azjt00MwjZkX",
+            "colors": [
+              "#7bafd4",
+              "#003594"
+            ],
+            "uri_name": "cfb/2026-10-10/unc-pitt",
+            "starts_at": 1791648000,
+            "ends_at": 1791662400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/unc-pitt",
+            "substreams": [
+              {
+                "id": 29851,
+                "name": "North Carolina Tar Heels at Pittsburgh Panthers",
+                "tag": "College Football",
+                "uri_name": "cfb/2026-10-10/unc-pitt/skycast",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/cfb/2026-10-10/unc-pitt/skycast"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 29852,
+            "name": "South Carolina Gamecocks at Florida Gators",
+            "tag": "College Football",
+            "source_tag": "SEC Network",
+            "poster": "https://static.ppvservices.st/assets/thumb/515cc5126cd4e0cdad2330bdd7edfe2d-thumbnail.jpg",
+            "blurhash": "L68DSO}3nqaLj]jsj[a|00NiotS%",
+            "colors": [
+              "#73000a",
+              "#0021a5"
+            ],
+            "uri_name": "cfb/2026-10-10/sc-fla",
+            "starts_at": 1791650700,
+            "ends_at": 1791665100,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/sc-fla",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29853,
+            "name": "Texas Longhorns at Oklahoma Sooners",
+            "tag": "College Football",
+            "source_tag": "ABC",
+            "poster": "https://static.ppvservices.st/assets/thumb/4c2ecd2a7e81d2420552f6e3b8db7264-thumbnail.jpg",
+            "blurhash": "L5EJ@{_LW,VZs:kCayjt00IBoztR",
+            "colors": [
+              "#af5c37",
+              "#990000"
+            ],
+            "uri_name": "cfb/2026-10-10/tex-ou",
+            "starts_at": 1791660600,
+            "ends_at": 1791675000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/tex-ou",
+            "substreams": [
+              {
+                "id": 29854,
+                "name": "Texas Longhorns at Oklahoma Sooners",
+                "tag": "College Football",
+                "uri_name": "cfb/2026-10-10/tex-ou/skycast",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/cfb/2026-10-10/tex-ou/skycast"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 29855,
+            "name": "Stanford Cardinal at Notre Dame Fighting Irish",
+            "tag": "College Football",
+            "source_tag": "NBC",
+            "poster": "https://static.ppvservices.st/assets/thumb/2aadb232e63610f5460066ec838dc165-thumbnail.jpg",
+            "blurhash": "L8B2li|Ov~nejYafj@j[01SabvOb",
+            "colors": [
+              "#8c1515",
+              "#062340"
+            ],
+            "uri_name": "cfb/2026-10-10/stan-nd",
+            "starts_at": 1791660600,
+            "ends_at": 1791675000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/stan-nd",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29856,
+            "name": "Ole Miss Rebels at Vanderbilt Commodores",
+            "tag": "College Football",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/91bbf3e3acc8903dba83d594426d372d-thumbnail.jpg",
+            "blurhash": "L48py8mBnP.lX8Naso$j00y;b]D5",
+            "colors": [
+              "#13294b",
+              "#000000"
+            ],
+            "uri_name": "cfb/2026-10-10/miss-van",
+            "starts_at": 1791660600,
+            "ends_at": 1791675000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/miss-van",
+            "substreams": [
+              {
+                "id": 29857,
+                "name": "Ole Miss Rebels at Vanderbilt Commodores",
+                "tag": "College Football",
+                "uri_name": "cfb/2026-10-10/miss-van/skycast",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/cfb/2026-10-10/miss-van/skycast"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 29858,
+            "name": "UCLA Bruins at Oregon Ducks",
+            "tag": "College Football",
+            "source_tag": "CBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/440e74593fcc993d1f6ecef882ebc8a3-thumbnail.jpg",
+            "blurhash": "LF7yUxDfWF%Ej[a#fQj?4U-yodIu",
+            "colors": [
+              "#2774ae",
+              "#00934b"
+            ],
+            "uri_name": "cfb/2026-10-10/ucla-ore",
+            "starts_at": 1791660600,
+            "ends_at": 1791675000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/ucla-ore",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29859,
+            "name": "Houston Cougars at Kansas State Wildcats",
+            "tag": "College Football",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/910cff473b34bc812f736ff887418810-thumbnail.jpg",
+            "blurhash": "LSC|wY|@r?Naj[jtj[j[5jJ8bbs.",
+            "colors": [
+              "#c8102e",
+              "#330a57"
+            ],
+            "uri_name": "cfb/2026-10-10/hou-ksu",
+            "starts_at": 1791660600,
+            "ends_at": 1791675000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/hou-ksu",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29860,
+            "name": "Maryland Terrapins at Ohio State Buckeyes",
+            "tag": "College Football",
+            "source_tag": "BTN",
+            "poster": "https://static.ppvservices.st/assets/thumb/9e36e74e42627089c15d27118c514250-thumbnail.jpg",
+            "blurhash": "L5Grf1_#eTctrrn+j[bF00PpkqQm",
+            "colors": [
+              "#ce1126",
+              "#ba0c2f"
+            ],
+            "uri_name": "cfb/2026-10-10/md-osu",
+            "starts_at": 1791663300,
+            "ends_at": 1791677700,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/md-osu",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29861,
+            "name": "Tennessee Volunteers at Arkansas Razorbacks",
+            "tag": "College Football",
+            "source_tag": "SEC Network",
+            "poster": "https://static.ppvservices.st/assets/thumb/b120a49d08436ab391a6ddc97d9875c8-thumbnail.jpg",
+            "blurhash": "LYICc.~AoJMxogkCfQae0zE2bHtR",
+            "colors": [
+              "#ff8200",
+              "#a32136"
+            ],
+            "uri_name": "cfb/2026-10-10/tenn-ark",
+            "starts_at": 1791663300,
+            "ends_at": 1791677700,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/tenn-ark",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29862,
+            "name": "LSU Tigers at Kentucky Wildcats",
+            "tag": "College Football",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/20c9c4ece454b4155863498691930b91-thumbnail.jpg",
+            "blurhash": "L99QauL}V[.Aj]j[WBof00%%t6I9",
+            "colors": [
+              "#461d76",
+              "#0033a0"
+            ],
+            "uri_name": "cfb/2026-10-10/lsu-uk",
+            "starts_at": 1791673200,
+            "ends_at": 1791687600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/lsu-uk",
+            "substreams": [
+              {
+                "id": 29863,
+                "name": "LSU Tigers at Kentucky Wildcats",
+                "tag": "College Football",
+                "uri_name": "cfb/2026-10-10/lsu-uk/skycast",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/cfb/2026-10-10/lsu-uk/skycast"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 29872,
+            "name": "Calgary Stampeders at Winnipeg Blue Bombers",
+            "tag": "Canadian Football",
+            "source_tag": "TSN3",
+            "poster": "https://static.ppvservices.st/assets/thumb/4751ad0c27ba633897d6f19a018bda49-thumbnail.jpg",
+            "blurhash": "LID*q@{0m-tSofayf6j[00TdtRM{",
+            "colors": [
+              "#c8102e",
+              "#1b3d6e"
+            ],
+            "uri_name": "cfl/2026-10-10/cgy-wpg",
+            "starts_at": 1791673200,
+            "ends_at": 1791685800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfl/2026-10-10/cgy-wpg",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29864,
+            "name": "Georgia Bulldogs at Alabama Crimson Tide",
+            "tag": "College Football",
+            "source_tag": "ABC",
+            "poster": "https://static.ppvservices.st/assets/thumb/dce46a1715c8380024ecaf7d73b26603-thumbnail.jpg",
+            "blurhash": "L2F3+5l:-;^Qiwt7tRIU00_NIoBm",
+            "colors": [
+              "#ba0c2f",
+              "#9e1b32"
+            ],
+            "uri_name": "cfb/2026-10-10/uga-ala",
+            "starts_at": 1791675000,
+            "ends_at": 1791689400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/uga-ala",
+            "substreams": [
+              {
+                "id": 29865,
+                "name": "Georgia Bulldogs at Alabama Crimson Tide",
+                "tag": "College Football",
+                "uri_name": "cfb/2026-10-10/uga-ala/skycast",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/cfb/2026-10-10/uga-ala/skycast"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 29866,
+            "name": "USC Trojans at Penn State Nittany Lions",
+            "tag": "College Football",
+            "source_tag": "NBC",
+            "poster": "https://static.ppvservices.st/assets/thumb/3740a7e70aaaf39c03e8c045db7f2a21-thumbnail.jpg",
+            "blurhash": "LFA8=g{yr?T0j[jtj@j[0yKPbbaK",
+            "colors": [
+              "#9d2235",
+              "#061440"
+            ],
+            "uri_name": "cfb/2026-10-10/usc-psu",
+            "starts_at": 1791675000,
+            "ends_at": 1791689400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/usc-psu",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29867,
+            "name": "Kansas Jayhawks at Utah Utes",
+            "tag": "College Football",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/55ee676ff1f89781c90dea421abdb419-thumbnail.jpg",
+            "blurhash": "LADR?b0t#u?vsmjsRkW?00~TX3MI",
+            "colors": [
+              "#0051ba",
+              "#be0000"
+            ],
+            "uri_name": "cfb/2026-10-10/ku-utah",
+            "starts_at": 1791684900,
+            "ends_at": 1791699300,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/ku-utah",
+            "substreams": [
+              {
+                "id": 29868,
+                "name": "Kansas Jayhawks at Utah Utes",
+                "tag": "College Football",
+                "uri_name": "cfb/2026-10-10/ku-utah/skycast",
+                "source_tag": "SkyCast",
+                "locale": "en",
+                "iframe": "https://embedindia.st/embed/cfb/2026-10-10/ku-utah/skycast"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 29869,
+            "name": "Boise State Broncos at Fresno State Bulldogs",
+            "tag": "College Football",
+            "source_tag": "CW",
+            "poster": "https://static.ppvservices.st/assets/thumb/4475ec4a20655ab7a7cb917c62fb6283-thumbnail.jpg",
+            "blurhash": "LABB_P1U#Yx[aekCjtae0J=?XOZ$",
+            "colors": [
+              "#0033a0",
+              "#b1102b"
+            ],
+            "uri_name": "cfb/2026-10-10/bois-fres",
+            "starts_at": 1791685800,
+            "ends_at": 1791700200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/cfb/2026-10-10/bois-fres",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29821,
+            "name": "Philadelphia Eagles at Jacksonville Jaguars",
+            "tag": "NFL",
+            "source_tag": "NFL Network",
+            "poster": "https://static.ppvservices.st/assets/thumb/f9b9f1f9712d796d51b38ece0bfa27a7-thumbnail.jpg",
+            "blurhash": "L16lMhD400#5-SOZR*nN00#j~qPD",
+            "colors": [
+              "#004c54",
+              "#006778"
+            ],
+            "uri_name": "nfl/2026-10-11/phi-jax",
+            "starts_at": 1791725400,
+            "ends_at": 1791739800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-11/phi-jax",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29823,
+            "name": "Chicago Bears at Green Bay Packers",
+            "tag": "NFL",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/3f89e66fdf53480b07c144758907204a-thumbnail.jpg",
+            "blurhash": "L48zZAujD$P:$ixGj[Nu00l.-;Z3",
+            "colors": [
+              "#0b162a",
+              "#203731"
+            ],
+            "uri_name": "nfl/2026-10-11/chi-gb",
+            "starts_at": 1791738000,
+            "ends_at": 1791752400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-11/chi-gb",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29824,
+            "name": "Houston Texans at Tennessee Titans",
+            "tag": "NFL",
+            "source_tag": "CBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/950e19ec65d22b1e7f3afb66c7e1666f-thumbnail.jpg",
+            "blurhash": "LA9ap@8wJDyEflayj[j[00%%$%VY",
+            "colors": [
+              "#03202f",
+              "#4b92db"
+            ],
+            "uri_name": "nfl/2026-10-11/hou-ten",
+            "starts_at": 1791738000,
+            "ends_at": 1791752400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-11/hou-ten",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29826,
+            "name": "Cincinnati Bengals at Miami Dolphins",
+            "tag": "NFL",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/d9be47922bcab85891e4ed20bc7c1129-thumbnail.jpg",
+            "blurhash": "LcE_N^{ewLX8bHayfQjt56K5X8WV",
+            "colors": [
+              "#fb4f14",
+              "#008e97"
+            ],
+            "uri_name": "nfl/2026-10-11/cin-mia",
+            "starts_at": 1791738000,
+            "ends_at": 1791752400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-11/cin-mia",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29828,
+            "name": "Las Vegas Raiders at New England Patriots",
+            "tag": "NFL",
+            "source_tag": "CBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/a32efaa1c4b6da2b7357394164b52b36-thumbnail.jpg",
+            "blurhash": "LGAAq0~qocV[offjfQj[4mMyogWB",
+            "colors": [
+              "#a5acaf",
+              "#002244"
+            ],
+            "uri_name": "nfl/2026-10-11/lv-ne",
+            "starts_at": 1791738000,
+            "ends_at": 1791752400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-11/lv-ne",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29829,
+            "name": "Minnesota Vikings at New Orleans Saints",
+            "tag": "NFL",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/e0590aaf9bde5ebf15bdab2322dc7bd3-thumbnail.jpg",
+            "blurhash": "L3D+Vt06blIpxuWroejY00~f-q~R",
+            "colors": [
+              "#4f2683",
+              "#d3bc8d"
+            ],
+            "uri_name": "nfl/2026-10-11/min-no",
+            "starts_at": 1791738000,
+            "ends_at": 1791752400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-11/min-no",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29831,
+            "name": "Cleveland Browns at New York Jets",
+            "tag": "NFL",
+            "source_tag": "CBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/5a954e1b5229f85060b808063167fca6-thumbnail.jpg",
+            "blurhash": "LfFWzu{|v~W;e.jZj[bH57K4XRWV",
+            "colors": [
+              "#ff3c00",
+              "#125740"
+            ],
+            "uri_name": "nfl/2026-10-11/cle-nyj",
+            "starts_at": 1791738000,
+            "ends_at": 1791752400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-11/cle-nyj",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29833,
+            "name": "Indianapolis Colts at Pittsburgh Steelers",
+            "tag": "NFL",
+            "source_tag": "CBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/7c7fddff3b69ebeb7c05693e14502dc1-thumbnail.jpg",
+            "blurhash": "LDE.Oi04,B.8oeWXj[j@00~UT0R4",
+            "colors": [
+              "#002c5f",
+              "#ffb612"
+            ],
+            "uri_name": "nfl/2026-10-11/ind-pit",
+            "starts_at": 1791738000,
+            "ends_at": 1791752400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-11/ind-pit",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29835,
+            "name": "New York Giants at Washington Commanders",
+            "tag": "NFL",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/234012d4e002af2aa970045868393819-thumbnail.jpg",
+            "blurhash": "LDAS=DyZM{D$j[fkj[j[00I9xu-;",
+            "colors": [
+              "#0b2265",
+              "#5a1414"
+            ],
+            "uri_name": "nfl/2026-10-11/nyg-wsh",
+            "starts_at": 1791738000,
+            "ends_at": 1791752400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-11/nyg-wsh",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29836,
+            "name": "Denver Broncos at Los Angeles Chargers",
+            "tag": "NFL",
+            "source_tag": "CBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/eacc12dd445440d436d97ad31fc8f881-thumbnail.jpg",
+            "blurhash": "LgEx0T{vwNS4jtf6fRj@9ZJ.X7kC",
+            "colors": [
+              "#fb4f14",
+              "#0080c6"
+            ],
+            "uri_name": "nfl/2026-10-11/den-lac",
+            "starts_at": 1791749100,
+            "ends_at": 1791763500,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-11/den-lac",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29838,
+            "name": "Detroit Lions at Arizona Cardinals",
+            "tag": "NFL",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/a97af1686a2ba3655472a8ee009e60b2-thumbnail.jpg",
+            "blurhash": "LJ9s[F80epr;j[bHayj@9Dv|ozbb",
+            "colors": [
+              "#0076b6",
+              "#97233f"
+            ],
+            "uri_name": "nfl/2026-10-11/det-ari",
+            "starts_at": 1791750300,
+            "ends_at": 1791764700,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-11/det-ari",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29839,
+            "name": "San Francisco 49ers at Seattle Seahawks",
+            "tag": "NFL",
+            "source_tag": "FOX",
+            "poster": "https://static.ppvservices.st/assets/thumb/a8c7b0cd3ebc9f26386e836342ec080b-thumbnail.jpg",
+            "blurhash": "LBCisb_UTBOpj[juj[az01K|s=ov",
+            "colors": [
+              "#aa0000",
+              "#69be28"
+            ],
+            "uri_name": "nfl/2026-10-11/sf-sea",
+            "starts_at": 1791750300,
+            "ends_at": 1791764700,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-11/sf-sea",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29840,
+            "name": "Baltimore Ravens at Atlanta Falcons",
+            "tag": "NFL",
+            "source_tag": "NBC",
+            "poster": "https://static.ppvservices.st/assets/thumb/b88e7b34b0b459199cdf2356f867db3a-thumbnail.jpg",
+            "blurhash": "L4AuwP1BQm%Mozaej[kC00]~%#rW",
+            "colors": [
+              "#241773",
+              "#a71930"
+            ],
+            "uri_name": "nfl/2026-10-11/bal-atl",
+            "starts_at": 1791764400,
+            "ends_at": 1791778800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-11/bal-atl",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29841,
+            "name": "Buffalo Bills at Los Angeles Rams",
+            "tag": "NFL",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/075317288821e800317d6184cdeaf5d2-thumbnail.jpg",
+            "blurhash": "L57x9A4TIU_2ogWBoeWV00_M%M8{",
+            "colors": [
+              "#00338d",
+              "#003594"
+            ],
+            "uri_name": "nfl/2026-10-12/buf-lar",
+            "starts_at": 1791850500,
+            "ends_at": 1791864900,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "American Football",
+            "iframe": "https://embedindia.st/embed/nfl/2026-10-12/buf-lar",
+            "substreams": [],
+            "viewers": "0"
           }
         ]
       },
@@ -104,7 +919,56 @@
             "category_name": "Australian Football",
             "iframe": "https://embedindia.st/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "3"
+            "viewers": "0"
+          }
+        ]
+      },
+      {
+        "category": "Baseball",
+        "id": 36,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 29842,
+            "name": "Chicago White Sox vs. Cleveland Guardians",
+            "tag": "MLB",
+            "source_tag": "TBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/d508ecf6e7a4ce01370c6d1a5df71412-thumbnail.jpg",
+            "blurhash": "L8D7w43TrD:+oLbHoLj[00{gtlO?",
+            "colors": [
+              "#2b2b2b",
+              "#c41e3a"
+            ],
+            "uri_name": "mlb/2026-10-05/chw-cle",
+            "starts_at": 1791234000,
+            "ends_at": 1791246600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Baseball",
+            "iframe": "https://embedindia.st/embed/mlb/2026-10-05/chw-cle",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29843,
+            "name": "New York Yankees vs. Tampa Bay Rays",
+            "tag": "MLB",
+            "source_tag": "TBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/e74b9751872b1950d169e70d31443e4d-thumbnail.jpg",
+            "blurhash": "L18ESp+D00E4WDWBRj%L00EV~q-:",
+            "colors": [
+              "#0c2340",
+              "#1a3e6e"
+            ],
+            "uri_name": "mlb/2026-10-05/nyy-tb",
+            "starts_at": 1791244800,
+            "ends_at": 1791257400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Baseball",
+            "iframe": "https://embedindia.st/embed/mlb/2026-10-05/nyy-tb",
+            "substreams": [],
+            "viewers": "0"
           }
         ]
       },
@@ -217,6 +1081,118 @@
             "iframe": "https://embedindia.st/embed/nba/2026-10-05/lal-sac",
             "substreams": [],
             "viewers": "0"
+          },
+          {
+            "id": 29830,
+            "name": "Brooklyn Nets vs. Charlotte Hornets",
+            "tag": "NBA",
+            "source_tag": "NBA TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/e704c7a5fdbae6d9044284398d635bf9-thumbnail.jpg",
+            "blurhash": "L88hg|{bTK4.t7ayfQjt0057s9?b",
+            "colors": [
+              "#000000",
+              "#008ca8"
+            ],
+            "uri_name": "nba/2026-10-06/bkn-cha",
+            "starts_at": 1791327600,
+            "ends_at": 1791338400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://embedindia.st/embed/nba/2026-10-06/bkn-cha",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29832,
+            "name": "New Orleans Pelicans vs. Oklahoma City Thunder",
+            "tag": "NBA",
+            "source_tag": "NBA League Pass",
+            "poster": "https://static.ppvservices.st/assets/thumb/7974fb81723c88aacfdf19dc228997b4-thumbnail.jpg",
+            "blurhash": "L65POfHXI^-qs:WVj[oJ00%jxrIp",
+            "colors": [
+              "#0a2240",
+              "#007ac1"
+            ],
+            "uri_name": "nba/2026-10-06/no-okc",
+            "starts_at": 1791331200,
+            "ends_at": 1791342000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://embedindia.st/embed/nba/2026-10-06/no-okc",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29834,
+            "name": "Denver Nuggets vs. Utah Jazz",
+            "tag": "NBA",
+            "source_tag": "NBA League Pass",
+            "poster": "https://static.ppvservices.st/assets/thumb/4e5dc37469424e4d422f7f5e7c6b41bf-thumbnail.jpg",
+            "blurhash": "L596:_SpMzOwxaWAt7R*00T5%LrV",
+            "colors": [
+              "#0e2240",
+              "#4e008e"
+            ],
+            "uri_name": "nba/2026-10-06/den-utah",
+            "starts_at": 1791334800,
+            "ends_at": 1791345600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://embedindia.st/embed/nba/2026-10-06/den-utah",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29837,
+            "name": "Los Angeles Lakers vs. Golden State Warriors",
+            "tag": "NBA",
+            "source_tag": "NBA TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/87f1918003b213d846cbfd1d7ebe8284-thumbnail.jpg",
+            "blurhash": "L8F4.g0H$y9xWFj?j[WX00sjX9~3",
+            "colors": [
+              "#552583",
+              "#fdb927"
+            ],
+            "uri_name": "nba/2026-10-06/lal-gs",
+            "starts_at": 1791338400,
+            "ends_at": 1791349200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://embedindia.st/embed/nba/2026-10-06/lal-gs",
+            "substreams": [],
+            "viewers": "0"
+          }
+        ]
+      },
+      {
+        "category": "Combat Sports",
+        "id": 33,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 29972,
+            "name": "Dana White's Contender Series",
+            "tag": "Mixed Martial Arts (MMA)",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/a5f35940ef6309a61060dede0638e1d3-thumbnail.jpg",
+            "blurhash": "L97#+in%0LV@t7emR*a}03X9~Voz",
+            "colors": [
+              "#169bbc",
+              "#15abcc"
+            ],
+            "uri_name": "dwcs/2026-10-06",
+            "starts_at": 1791327600,
+            "ends_at": 1791342000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Combat Sports",
+            "iframe": "https://embedindia.st/embed/dwcs/2026-10-06",
+            "substreams": [],
+            "viewers": "0"
           }
         ]
       },
@@ -284,6 +1260,2365 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
+            "viewers": "1"
+          }
+        ]
+      },
+      {
+        "category": "Football",
+        "id": 34,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 30033,
+            "name": "Cyprus vs. Latvia",
+            "tag": "UEFA Nations League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/12e4b6c97d7388ebdaff90d99caade21-thumbnail.jpg",
+            "blurhash": "LSBo^4T#n-Myj[fkaza|4-MwbExt",
+            "colors": [
+              "#195dcc",
+              "#982242"
+            ],
+            "uri_name": "uefa-nations-league/2026-10-05/cyp-lva",
+            "starts_at": 1791216000,
+            "ends_at": 1791225000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-10-05/cyp-lva",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30034,
+            "name": "Bosnia-Herzegovina vs. Poland",
+            "tag": "UEFA Nations League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/d1500d17fdf2d241c6bbf0973c9d425c-thumbnail.jpg",
+            "blurhash": "LCE{X}00?a%2tQadazbb00~WM{o|",
+            "colors": [
+              "#112854",
+              "#ffffff"
+            ],
+            "uri_name": "uefa-nations-league/2026-10-05/bih-pol",
+            "starts_at": 1791225900,
+            "ends_at": 1791234900,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-10-05/bih-pol",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30035,
+            "name": "France vs. Belgium",
+            "tag": "UEFA Nations League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/57715422da5e306ec3b010c2108bf443-thumbnail.jpg",
+            "blurhash": "LCE0+]2z;SNXoLa}aya|00;JOT,]",
+            "colors": [
+              "#00007e",
+              "#e20612"
+            ],
+            "uri_name": "uefa-nations-league/2026-10-05/fra-bel",
+            "starts_at": 1791225900,
+            "ends_at": 1791234900,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-10-05/fra-bel",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30036,
+            "name": "Italy vs. Türkiye",
+            "tag": "UEFA Nations League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/9eb75c962227e9e9985fd29985eefb9a-thumbnail.jpg",
+            "blurhash": "L8Frl000_0R5s;ayazay00}mR5?t",
+            "colors": [
+              "#103cd3",
+              "#ffffff"
+            ],
+            "uri_name": "uefa-nations-league/2026-10-05/ita-tur",
+            "starts_at": 1791225900,
+            "ends_at": 1791234900,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-10-05/ita-tur",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30037,
+            "name": "Montenegro vs. Armenia",
+            "tag": "UEFA Nations League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/ba8da6eb35ed27d152a698794edc6c08-thumbnail.jpg",
+            "blurhash": "L2Id5#:O@[-Z#EkSaei~00Xq7yI*",
+            "colors": [
+              "#e70103",
+              "#dc2400"
+            ],
+            "uri_name": "uefa-nations-league/2026-10-05/mne-arm",
+            "starts_at": 1791225900,
+            "ends_at": 1791234900,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-10-05/mne-arm",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30038,
+            "name": "Northern Ireland vs. Georgia",
+            "tag": "UEFA Nations League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/451421769348db5ec9ff287fec46108e-thumbnail.jpg",
+            "blurhash": "L8JGc^00*Jw{s:axazfQ00.SIApv",
+            "colors": [
+              "#cc0001",
+              "#ffffff"
+            ],
+            "uri_name": "uefa-nations-league/2026-10-05/nir-geo",
+            "starts_at": 1791225900,
+            "ends_at": 1791234900,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-10-05/nir-geo",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30039,
+            "name": "Romania vs. Sweden",
+            "tag": "UEFA Nations League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/41f1a22ebb99dbf9b991a9fa9f3897c3-thumbnail.jpg",
+            "blurhash": "L3K0lO=o-$3X%0jsaybH00BqD=@?",
+            "colors": [
+              "#fdd118",
+              "#fecb02"
+            ],
+            "uri_name": "uefa-nations-league/2026-10-05/rou-swe",
+            "starts_at": 1791225900,
+            "ends_at": 1791234900,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-10-05/rou-swe",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30040,
+            "name": "Ukraine vs. Hungary",
+            "tag": "UEFA Nations League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/62f7ecd76292bf9d18a1d8ed57910aea-thumbnail.jpg",
+            "blurhash": "LQIpbB?+tLj[jcWXa{oJ0MRVR.Rk",
+            "colors": [
+              "#fddc01",
+              "#ce2029"
+            ],
+            "uri_name": "uefa-nations-league/2026-10-05/ukr-hun",
+            "starts_at": 1791225900,
+            "ends_at": 1791234900,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-10-05/ukr-hun",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30041,
+            "name": "Liechtenstein vs. Gibraltar",
+            "tag": "Men's International Friendly",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/bb7388472d18c4b6362417bb0f918460-thumbnail.jpg",
+            "blurhash": "LGDtDL0[#s%MbvWBjtof0c=^SwR4",
+            "colors": [
+              "#0000cc",
+              "#de2a19"
+            ],
+            "uri_name": "mens-international-friendly/2026-10-05/lie-gib",
+            "starts_at": 1791225900,
+            "ends_at": 1791234900,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mens-international-friendly/2026-10-05/lie-gib",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30042,
+            "name": "Argentina vs. Benin",
+            "tag": "Men's International Friendly",
+            "source_tag": "Premier Sports 2",
+            "poster": "https://static.ppvservices.st/assets/thumb/71a438aa413fb1cbdd5d3b687b540ba8-thumbnail.jpg",
+            "blurhash": "LX9k~ax|sqV?kBf8fjfj8_Z}WokD",
+            "colors": [
+              "#74acdd",
+              "#008651"
+            ],
+            "uri_name": "mens-international-friendly/2026-10-06/arg-ben",
+            "starts_at": 1791327600,
+            "ends_at": 1791336600,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mens-international-friendly/2026-10-06/arg-ben",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29921,
+            "name": "Chicago Fire FC vs. Vancouver Whitecaps",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/131fc402a6fdb23c6282b3932235d04b-thumbnail.jpg",
+            "blurhash": "LSCY2?}SwLM{j[fQf6jt4-IpX7o}",
+            "colors": [
+              "#ce1432",
+              "#002395"
+            ],
+            "uri_name": "mls/2026-10-06/chi-van",
+            "starts_at": 1791333000,
+            "ends_at": 1791343800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-06/chi-van",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29964,
+            "name": "IFK Göteborg vs. Västerås SK",
+            "tag": "Allsvenskan",
+            "source_tag": "TV4 Play",
+            "poster": "https://static.ppvservices.st/assets/thumb/2ed91e44cfca0d9e22ede499abbee11f-thumbnail.jpg",
+            "blurhash": "LG8}_PwURoSft7ofayWB00X2t6nh",
+            "colors": [
+              "#005eb8",
+              "#00693e"
+            ],
+            "uri_name": "allsvenskan/2026-10-09/got-vas",
+            "starts_at": 1791565200,
+            "ends_at": 1791574200,
+            "always_live": 0,
+            "locale": "sv",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/allsvenskan/2026-10-09/got-vas",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29946,
+            "name": "PSV Eindhoven vs. Heerenveen",
+            "tag": "Eredivisie",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/01e59834f34ca17e06d5baba19055e3f-thumbnail.jpg",
+            "blurhash": "LZEnG7|:w1WEjaf6fQj[4-JCbubb",
+            "colors": [
+              "#ed1c24",
+              "#003da5"
+            ],
+            "uri_name": "eredivisie/2026-10-09/psv-hee",
+            "starts_at": 1791568800,
+            "ends_at": 1791577800,
+            "always_live": 0,
+            "locale": "nl",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/eredivisie/2026-10-09/psv-hee",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29883,
+            "name": "Borussia Dortmund vs. Werder Bremen",
+            "tag": "Bundesliga",
+            "source_tag": "Bundesliga",
+            "poster": "https://static.ppvservices.st/assets/thumb/002e7bcebed0953ceb98c8adf583ed2c-thumbnail.jpg",
+            "blurhash": "LfEpSZ}*s8W=j@jtfQfQ8~I]f,WB",
+            "colors": [
+              "#fde100",
+              "#009655"
+            ],
+            "uri_name": "bundesliga/2026-10-09/dor-svw",
+            "starts_at": 1791570600,
+            "ends_at": 1791579600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/bundesliga/2026-10-09/dor-svw",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29912,
+            "name": "Lens vs. Lyon",
+            "tag": "Ligue 1",
+            "source_tag": "Ligue 1+",
+            "poster": "https://static.ppvservices.st/assets/thumb/3eca37338a426d12f038b65f2d28a699-thumbnail.jpg",
+            "blurhash": "L2I_4h}4qHIh?GKibb#8006:UY-0",
+            "colors": [
+              "#e30613",
+              "#e30613"
+            ],
+            "uri_name": "ligue1/2026-10-09/rcl-lyon",
+            "starts_at": 1791571500,
+            "ends_at": 1791580500,
+            "always_live": 0,
+            "locale": "fr",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/ligue1/2026-10-09/rcl-lyon",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29955,
+            "name": "Waasland-Beveren vs. Lommel SK",
+            "tag": "Belgian Pro League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/f6785643d2c4de8139a3374ebc72c8dc-thumbnail.jpg",
+            "blurhash": "L585$FHn9t.9R-WEj[od00.j?HD#",
+            "colors": [
+              "#0e4c92",
+              "#009a44"
+            ],
+            "uri_name": "belgian-pro-league/2026-10-09/waa-lom",
+            "starts_at": 1791571500,
+            "ends_at": 1791580500,
+            "always_live": 0,
+            "locale": "nl-be",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-10-09/waa-lom",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29873,
+            "name": "Málaga vs. Espanyol",
+            "tag": "LaLiga",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/7ad4f07cdf10a5e62ee85cdc8f5a23b7-thumbnail.jpg",
+            "blurhash": "L97C8qP;NHwKt6s:azR+00rXxtS0",
+            "colors": [
+              "#0088ce",
+              "#0044a6"
+            ],
+            "uri_name": "laliga/2026-10-09/mcf-esp",
+            "starts_at": 1791572400,
+            "ends_at": 1791581400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/laliga/2026-10-09/mcf-esp",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29937,
+            "name": "Puebla vs. León",
+            "tag": "Liga MX",
+            "source_tag": "Liga MX",
+            "poster": "https://static.ppvservices.st/assets/thumb/bdf0b14881cedcf659af6e969d41db1b-thumbnail.jpg",
+            "blurhash": "LI7.RCv[IpRiayj[ayay4TRz%2t7",
+            "colors": [
+              "#0032a8",
+              "#007a33"
+            ],
+            "uri_name": "liga-mx/2026-10-09/pue-leo",
+            "starts_at": 1791594000,
+            "ends_at": 1791603000,
+            "always_live": 0,
+            "locale": "es-us",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/liga-mx/2026-10-09/pue-leo",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29938,
+            "name": "Tigres UANL vs. Toluca",
+            "tag": "Liga MX",
+            "source_tag": "Liga MX",
+            "poster": "https://static.ppvservices.st/assets/thumb/4ab1019807580e43c58048d2d8826347-thumbnail.jpg",
+            "blurhash": "LEJ$86.Xnyxvn$oca{WW00V~XnMy",
+            "colors": [
+              "#ffb300",
+              "#e4002b"
+            ],
+            "uri_name": "liga-mx/2026-10-09/uanl-tol",
+            "starts_at": 1791601200,
+            "ends_at": 1791610200,
+            "always_live": 0,
+            "locale": "es-us",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/liga-mx/2026-10-09/uanl-tol",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29892,
+            "name": "Arsenal vs. Leeds United",
+            "tag": "Premier League",
+            "source_tag": "Premier League",
+            "poster": "https://static.ppvservices.st/assets/thumb/61c7aef5f23d6490275784c0cce59477-thumbnail.jpg",
+            "blurhash": "LWEd9?{xwMbYj[j[fQay5QOXX7R.",
+            "colors": [
+              "#ef0107",
+              "#1d428a"
+            ],
+            "uri_name": "pl/2026-10-10/ars-lee",
+            "starts_at": 1791631800,
+            "ends_at": 1791640800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/pl/2026-10-10/ars-lee",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30045,
+            "name": "West Bromwich Albion vs. Birmingham City",
+            "tag": "EFL Championship",
+            "source_tag": "Sky Sports Football",
+            "poster": "https://static.ppvservices.st/assets/thumb/706cd155ee2f69bd8a03d328de0460e2-thumbnail.jpg",
+            "blurhash": "L784l~%R4}M}xus:WXWB00M??VtT",
+            "colors": [
+              "#091452",
+              "#0000f8"
+            ],
+            "uri_name": "efl-championship/2026-10-10/wba-bir",
+            "starts_at": 1791631800,
+            "ends_at": 1791640800,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/efl-championship/2026-10-10/wba-bir",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29874,
+            "name": "Rayo Vallecano vs. Athletic Club",
+            "tag": "LaLiga",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/df166518fbec47c5160ad7a27aea398b-thumbnail.jpg",
+            "blurhash": "L1IU|=3,Q8EB_Mn3adXm00qeui~8",
+            "colors": [
+              "#c8102e",
+              "#e30613"
+            ],
+            "uri_name": "laliga/2026-10-10/ray-ath",
+            "starts_at": 1791633600,
+            "ends_at": 1791642600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/laliga/2026-10-10/ray-ath",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29902,
+            "name": "Genoa vs. Fiorentina",
+            "tag": "Serie A",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/6b3d1a9c9748e080e5017c2417b9ec0d-thumbnail.jpg",
+            "blurhash": "L59%JcTe4TWb-;ofaxWB00Sj?]aH",
+            "colors": [
+              "#0033a0",
+              "#4b0082"
+            ],
+            "uri_name": "seriea/2026-10-10/gen-fio",
+            "starts_at": 1791637200,
+            "ends_at": 1791646200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/seriea/2026-10-10/gen-fio",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29965,
+            "name": "AIK vs. IF Brommapojkarna",
+            "tag": "Allsvenskan",
+            "source_tag": "TV4 Play",
+            "poster": "https://static.ppvservices.st/assets/thumb/a46ead0e788ecd3f67c3b1a8c3896057-thumbnail.jpg",
+            "blurhash": "LMI3T;?:otoHj[j@azaz0gM}W?Ro",
+            "colors": [
+              "#ffcc00",
+              "#c8102e"
+            ],
+            "uri_name": "allsvenskan/2026-10-10/aik-bro",
+            "starts_at": 1791637200,
+            "ends_at": 1791646200,
+            "always_live": 0,
+            "locale": "sv",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/allsvenskan/2026-10-10/aik-bro",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29966,
+            "name": "GAIS vs. IK Sirius",
+            "tag": "Allsvenskan",
+            "source_tag": "TV4 Play",
+            "poster": "https://static.ppvservices.st/assets/thumb/fa2d8c08c473d0c7436bdd5343c5544b-thumbnail.jpg",
+            "blurhash": "L78q+-~YIo5[,@wJazS#005c%L=E",
+            "colors": [
+              "#00843d",
+              "#0b3d91"
+            ],
+            "uri_name": "allsvenskan/2026-10-10/gais-sir",
+            "starts_at": 1791637200,
+            "ends_at": 1791646200,
+            "always_live": 0,
+            "locale": "sv",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/allsvenskan/2026-10-10/gais-sir",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29884,
+            "name": "1. FC Union Berlin vs. SV Elversberg",
+            "tag": "Bundesliga",
+            "source_tag": "Bundesliga",
+            "poster": "https://static.ppvservices.st/assets/thumb/69f5aef204cdc03394896ad28ddede9d-thumbnail.jpg",
+            "blurhash": "LVE^Qd{frXkqj@jtfQfQ0fOskWRi",
+            "colors": [
+              "#eb1923",
+              "#000000"
+            ],
+            "uri_name": "bundesliga/2026-10-10/fcu-elv",
+            "starts_at": 1791639000,
+            "ends_at": 1791648000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/bundesliga/2026-10-10/fcu-elv",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29885,
+            "name": "FC Augsburg vs. Bayern Munich",
+            "tag": "Bundesliga",
+            "source_tag": "Bundesliga",
+            "poster": "https://static.ppvservices.st/assets/thumb/3dd75988774f7b5067dc3a36aad82b75-thumbnail.jpg",
+            "blurhash": "L5I-{8,+L#RDxaozj[WB00S+y?o@",
+            "colors": [
+              "#e30613",
+              "#dc052d"
+            ],
+            "uri_name": "bundesliga/2026-10-10/fca-bay",
+            "starts_at": 1791639000,
+            "ends_at": 1791648000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/bundesliga/2026-10-10/fca-bay",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29886,
+            "name": "Mainz vs. Bayer Leverkusen",
+            "tag": "Bundesliga",
+            "source_tag": "Bundesliga",
+            "poster": "https://static.ppvservices.st/assets/thumb/62e9a9d3e45c30b2796ae820c152ca5c-thumbnail.jpg",
+            "blurhash": "L4H*,U01L#uhwgj?fQa#00.ky?qb",
+            "colors": [
+              "#c3141e",
+              "#e32221"
+            ],
+            "uri_name": "bundesliga/2026-10-10/m05-b04",
+            "starts_at": 1791639000,
+            "ends_at": 1791648000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/bundesliga/2026-10-10/m05-b04",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29887,
+            "name": "SC Paderborn 07 vs. VfB Stuttgart",
+            "tag": "Bundesliga",
+            "source_tag": "Bundesliga",
+            "poster": "https://static.ppvservices.st/assets/thumb/9a0704a9a9414850d2e96119e3c5cab1-thumbnail.jpg",
+            "blurhash": "LRE19A1nrexXofayfQj[0c,-o{WA",
+            "colors": [
+              "#0000dd",
+              "#e30613"
+            ],
+            "uri_name": "bundesliga/2026-10-10/scp-vfb",
+            "starts_at": 1791639000,
+            "ends_at": 1791648000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/bundesliga/2026-10-10/scp-vfb",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29888,
+            "name": "TSG Hoffenheim vs. Hamburg SV",
+            "tag": "Bundesliga",
+            "source_tag": "Bundesliga",
+            "poster": "https://static.ppvservices.st/assets/thumb/4b0307449be98d3e6211d3a572daee53-thumbnail.jpg",
+            "blurhash": "L97_vwpM9HM{WDWBfQof00aI?Gt6",
+            "colors": [
+              "#1961b5",
+              "#0a3f86"
+            ],
+            "uri_name": "bundesliga/2026-10-10/tsg-hsv",
+            "starts_at": 1791639000,
+            "ends_at": 1791648000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/bundesliga/2026-10-10/tsg-hsv",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29893,
+            "name": "Aston Villa vs. Brentford",
+            "tag": "Premier League",
+            "source_tag": "Premier League",
+            "poster": "https://static.ppvservices.st/assets/thumb/ccb5c54dc88b28ef5a41d9d56b948a83-thumbnail.jpg",
+            "blurhash": "L6F|493Wz=#9xsoxf6Rl00{gXm%0",
+            "colors": [
+              "#670e36",
+              "#ef0107"
+            ],
+            "uri_name": "pl/2026-10-10/avl-bre",
+            "starts_at": 1791640800,
+            "ends_at": 1791649800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/pl/2026-10-10/avl-bre",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29894,
+            "name": "Chelsea vs. AFC Bournemouth",
+            "tag": "Premier League",
+            "source_tag": "Premier League",
+            "poster": "https://static.ppvservices.st/assets/thumb/91800f50c4bd58172d7cdd0b90ceed87-thumbnail.jpg",
+            "blurhash": "LEDkil3s#WM{j[j[fRWC00vyXR$%",
+            "colors": [
+              "#034694",
+              "#da291c"
+            ],
+            "uri_name": "pl/2026-10-10/che-bou",
+            "starts_at": 1791640800,
+            "ends_at": 1791649800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/pl/2026-10-10/che-bou",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29895,
+            "name": "Ipswich Town vs. Fulham",
+            "tag": "Premier League",
+            "source_tag": "Premier League",
+            "poster": "https://static.ppvservices.st/assets/thumb/9b62d38f3506e1d1f563a99054d7e079-thumbnail.jpg",
+            "blurhash": "L38}DtAcE2_L-VspayW.00-i-n9I",
+            "colors": [
+              "#0e63ad",
+              "#0033a0"
+            ],
+            "uri_name": "pl/2026-10-10/ips-ful",
+            "starts_at": 1791640800,
+            "ends_at": 1791649800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/pl/2026-10-10/ips-ful",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29896,
+            "name": "Sunderland vs. Brighton & Hove Albion",
+            "tag": "Premier League",
+            "source_tag": "Premier League",
+            "poster": "https://static.ppvservices.st/assets/thumb/d9070d12c29aa0a75e7b103525ccd7ef-thumbnail.jpg",
+            "blurhash": "LREUD{_}wNtSjajZfQfk0dO[X7M{",
+            "colors": [
+              "#eb172b",
+              "#0057b7"
+            ],
+            "uri_name": "pl/2026-10-10/sun-bha",
+            "starts_at": 1791640800,
+            "ends_at": 1791649800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/pl/2026-10-10/sun-bha",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29956,
+            "name": "Cercle Brugge KSV vs. Anderlecht",
+            "tag": "Belgian Pro League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/6bf90cc11a755a6fc1b4206fa12b13f4-thumbnail.jpg",
+            "blurhash": "L88OVWC-Iow5bbWUj[oM00vq%MWX",
+            "colors": [
+              "#00843d",
+              "#5c2d91"
+            ],
+            "uri_name": "belgian-pro-league/2026-10-10/cbk-and",
+            "starts_at": 1791640800,
+            "ends_at": 1791649800,
+            "always_live": 0,
+            "locale": "nl-be",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-10-10/cbk-and",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30043,
+            "name": "Derby County vs. Wrexham",
+            "tag": "EFL Championship",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/c21b158b92668b99fdcf544d19284b30-thumbnail.jpg",
+            "blurhash": "LgI|qJ.mkWV@fRj[fQay0LMxayjZ",
+            "colors": [
+              "#ffffff",
+              "#c8142f"
+            ],
+            "uri_name": "efl-championship/2026-10-10/der-wxm",
+            "starts_at": 1791640800,
+            "ends_at": 1791649800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/efl-championship/2026-10-10/der-wxm",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29875,
+            "name": "Alavés vs. Atlético Madrid",
+            "tag": "LaLiga",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/01a89fd0e8bcd2c2ccebcb8b2cb65c79-thumbnail.jpg",
+            "blurhash": "LGC=S:3G#Wi^bbjsf6W;00+tXRs:",
+            "colors": [
+              "#004fa3",
+              "#ce3524"
+            ],
+            "uri_name": "laliga/2026-10-10/ala-atm",
+            "starts_at": 1791641700,
+            "ends_at": 1791650700,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/laliga/2026-10-10/ala-atm",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29947,
+            "name": "Go Ahead Eagles vs. Sparta Rotterdam",
+            "tag": "Eredivisie",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/6137e95eed1df87cecbb75155041245f-thumbnail.jpg",
+            "blurhash": "L8HS[_y@VY?wt6axfQj]00*0pI9E",
+            "colors": [
+              "#d81e05",
+              "#af1e2d"
+            ],
+            "uri_name": "eredivisie/2026-10-10/gae-spa",
+            "starts_at": 1791642600,
+            "ends_at": 1791651600,
+            "always_live": 0,
+            "locale": "nl",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/eredivisie/2026-10-10/gae-spa",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29913,
+            "name": "Lille vs. Le Havre AC",
+            "tag": "Ligue 1",
+            "source_tag": "Ligue 1+",
+            "poster": "https://static.ppvservices.st/assets/thumb/842bbf662b7e180a88d95432ecd4daad-thumbnail.jpg",
+            "blurhash": "LYDacd|@wJR+f6fQj[js9ZJ8X8bb",
+            "colors": [
+              "#e30613",
+              "#003259"
+            ],
+            "uri_name": "ligue1/2026-10-10/lill-hac",
+            "starts_at": 1791645300,
+            "ends_at": 1791654300,
+            "always_live": 0,
+            "locale": "fr",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/ligue1/2026-10-10/lill-hac",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29967,
+            "name": "Mjällby AIF vs. Degerfors IF",
+            "tag": "Allsvenskan",
+            "source_tag": "TV4 Play",
+            "poster": "https://static.ppvservices.st/assets/thumb/22d76fcaf8efb9ab8eb6489832dfb722-thumbnail.jpg",
+            "blurhash": "LEJYX$uUo?=ytQaej[kC03#ZXA9[",
+            "colors": [
+              "#ffb81c",
+              "#d6001c"
+            ],
+            "uri_name": "allsvenskan/2026-10-10/mja-deg",
+            "starts_at": 1791646200,
+            "ends_at": 1791655200,
+            "always_live": 0,
+            "locale": "sv",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/allsvenskan/2026-10-10/mja-deg",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29903,
+            "name": "Inter Milan vs. Parma",
+            "tag": "Serie A",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/49a3132c6dbfc90af4cee2650e7839de-thumbnail.jpg",
+            "blurhash": "L59HI#%S00R2t6WFaxoI00Mw_NtV",
+            "colors": [
+              "#0a2540",
+              "#0033a0"
+            ],
+            "uri_name": "seriea/2026-10-10/int-par",
+            "starts_at": 1791648000,
+            "ends_at": 1791657000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/seriea/2026-10-10/int-par",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29957,
+            "name": "RAAL La Louvière vs. Club Brugge",
+            "tag": "Belgian Pro League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/f0d20718037e3c93a1f6ce24cc2109d4-thumbnail.jpg",
+            "blurhash": "LFBMGh~9VsQnkCkBj[ay00IBxucY",
+            "colors": [
+              "#9b1b30",
+              "#0a2e7a"
+            ],
+            "uri_name": "belgian-pro-league/2026-10-10/rll-bru",
+            "starts_at": 1791648900,
+            "ends_at": 1791657900,
+            "always_live": 0,
+            "locale": "nl-be",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-10-10/rll-bru",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29876,
+            "name": "Barcelona vs. Getafe",
+            "tag": "LaLiga",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/7df01bb1f47867369ae204bb8fad26d0-thumbnail.jpg",
+            "blurhash": "LHA+LT|,nTS5oeoJazWX0dJXoxoN",
+            "colors": [
+              "#a50044",
+              "#0000cc"
+            ],
+            "uri_name": "laliga/2026-10-10/bar-get",
+            "starts_at": 1791649800,
+            "ends_at": 1791658800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/laliga/2026-10-10/bar-get",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29889,
+            "name": "RB Leipzig vs. Eintracht Frankfurt",
+            "tag": "Bundesliga",
+            "source_tag": "Bundesliga",
+            "poster": "https://static.ppvservices.st/assets/thumb/bd4edbd25dcd0fe40ed6b5dbeeec36f1-thumbnail.jpg",
+            "blurhash": "L4JEMMIoQ8=yxGj[fQf600-BuiEf",
+            "colors": [
+              "#e30613",
+              "#e1000f"
+            ],
+            "uri_name": "bundesliga/2026-10-10/rbl-sge",
+            "starts_at": 1791649800,
+            "ends_at": 1791658800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/bundesliga/2026-10-10/rbl-sge",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29897,
+            "name": "Manchester United vs. Tottenham Hotspur",
+            "tag": "Premier League",
+            "source_tag": "Premier League",
+            "poster": "https://static.ppvservices.st/assets/thumb/c2c68264910ff7e01a868b5813c27d2b-thumbnail.jpg",
+            "blurhash": "LWDa7X|rr?Nyj[jtfQfQ5RJVbboI",
+            "colors": [
+              "#da020e",
+              "#132257"
+            ],
+            "uri_name": "pl/2026-10-10/mun-tot",
+            "starts_at": 1791649800,
+            "ends_at": 1791658800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/pl/2026-10-10/mun-tot",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29948,
+            "name": "Feyenoord Rotterdam vs. AZ Alkmaar",
+            "tag": "Eredivisie",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/d5f654b9c7672f3523c5f9fdccff7562-thumbnail.jpg",
+            "blurhash": "L4IK^{PRhzL#rrkCjZae00VZYj.l",
+            "colors": [
+              "#e30613",
+              "#e4002b"
+            ],
+            "uri_name": "eredivisie/2026-10-10/fey-az",
+            "starts_at": 1791650700,
+            "ends_at": 1791659700,
+            "always_live": 0,
+            "locale": "nl",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/eredivisie/2026-10-10/fey-az",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29922,
+            "name": "Toronto FC vs. CF Montréal",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/267bcac33dd972684db31626c259ecf2-thumbnail.jpg",
+            "blurhash": "L26kf2}fD*5?WZWAWBkD005t-:]$",
+            "colors": [
+              "#003087",
+              "#002395"
+            ],
+            "uri_name": "mls/2026-10-10/tor-mtl",
+            "starts_at": 1791651600,
+            "ends_at": 1791662400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-10/tor-mtl",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29949,
+            "name": "Fortuna Sittard vs. FC Twente",
+            "tag": "Eredivisie",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/d82a3df15fb0fe082dac9a2ebdc5e60c-thumbnail.jpg",
+            "blurhash": "LUJ$pJuakjwcj[ayj?oL0MrHfTR.",
+            "colors": [
+              "#ffe500",
+              "#e1001a"
+            ],
+            "uri_name": "eredivisie/2026-10-10/for-twe",
+            "starts_at": 1791655200,
+            "ends_at": 1791664200,
+            "always_live": 0,
+            "locale": "nl",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/eredivisie/2026-10-10/for-twe",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29923,
+            "name": "Chicago Fire FC vs. New York City FC",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/2d5ddf0207dfa7c3f26c7cab19642a01-thumbnail.jpg",
+            "blurhash": "LLEB?q_}o#M{j[jZf7fQ00JBbEpI",
+            "colors": [
+              "#ce1432",
+              "#6cabdd"
+            ],
+            "uri_name": "mls/2026-10-10/chi-nyc",
+            "starts_at": 1791657000,
+            "ends_at": 1791667800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-10/chi-nyc",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29904,
+            "name": "Napoli vs. Frosinone",
+            "tag": "Serie A",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/aa941f775338a229c5424bfba2288c57-thumbnail.jpg",
+            "blurhash": "LVEM~.0uwgf6j]fjfPa#4T$vbJt2",
+            "colors": [
+              "#00a1e6",
+              "#ffed00"
+            ],
+            "uri_name": "seriea/2026-10-10/nap-fro",
+            "starts_at": 1791657900,
+            "ends_at": 1791666900,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/seriea/2026-10-10/nap-fro",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29914,
+            "name": "AS Monaco vs. Toulouse",
+            "tag": "Ligue 1",
+            "source_tag": "Ligue 1+",
+            "poster": "https://static.ppvservices.st/assets/thumb/40eef53c87aa7a05c834eaa2b7c5452e-thumbnail.jpg",
+            "blurhash": "LSFCx9|tnOS5f6f6fkj[0|JUbbfh",
+            "colors": [
+              "#e51b22",
+              "#670e36"
+            ],
+            "uri_name": "ligue1/2026-10-10/mon-tou",
+            "starts_at": 1791657900,
+            "ends_at": 1791666900,
+            "always_live": 0,
+            "locale": "fr",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/ligue1/2026-10-10/mon-tou",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29915,
+            "name": "Brest vs. Angers",
+            "tag": "Ligue 1",
+            "source_tag": "Ligue 1+",
+            "poster": "https://static.ppvservices.st/assets/thumb/0e2245ec33c43f365388162523560e15-thumbnail.jpg",
+            "blurhash": "L7I{mS_OpBTxxHaKbHkD00HUXArq",
+            "colors": [
+              "#ed1c24",
+              "#d9c395"
+            ],
+            "uri_name": "ligue1/2026-10-10/bre-ang",
+            "starts_at": 1791657900,
+            "ends_at": 1791666900,
+            "always_live": 0,
+            "locale": "fr",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/ligue1/2026-10-10/bre-ang",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29916,
+            "name": "Lorient vs. Paris FC",
+            "tag": "Ligue 1",
+            "source_tag": "Ligue 1+",
+            "poster": "https://static.ppvservices.st/assets/thumb/dde8cfb18ee6f81a274cd08ce71f1a30-thumbnail.jpg",
+            "blurhash": "LfEKQP}7wMWXj[fkjtjZ9@JCX7Wq",
+            "colors": [
+              "#ff6600",
+              "#0033a0"
+            ],
+            "uri_name": "ligue1/2026-10-10/lor-par",
+            "starts_at": 1791657900,
+            "ends_at": 1791666900,
+            "always_live": 0,
+            "locale": "fr",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/ligue1/2026-10-10/lor-par",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29917,
+            "name": "Paris Saint-Germain vs. Le Mans",
+            "tag": "Ligue 1",
+            "source_tag": "Ligue 1+",
+            "poster": "https://static.ppvservices.st/assets/thumb/883a923c9e9a732e6d8d7ac0dba6f52d-thumbnail.jpg",
+            "blurhash": "LHCXp,3Gw3rqkCf7fQfk0w#Pg2og",
+            "colors": [
+              "#0033a0",
+              "#d42a1c"
+            ],
+            "uri_name": "ligue1/2026-10-10/psg-mns",
+            "starts_at": 1791657900,
+            "ends_at": 1791666900,
+            "always_live": 0,
+            "locale": "fr",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/ligue1/2026-10-10/psg-mns",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29958,
+            "name": "Racing Genk vs. KV Kortrijk",
+            "tag": "Belgian Pro League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/bd9ef9828c9335e0e999d29b60268207-thumbnail.jpg",
+            "blurhash": "LHDuGu3ZrtwHjukCj[ay00+to|Sg",
+            "colors": [
+              "#1c4fa8",
+              "#c8102e"
+            ],
+            "uri_name": "belgian-pro-league/2026-10-10/genk-kvk",
+            "starts_at": 1791657900,
+            "ends_at": 1791666900,
+            "always_live": 0,
+            "locale": "nl-be",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-10-10/genk-kvk",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29959,
+            "name": "Zulte-Waregem vs. KAA Gent",
+            "tag": "Belgian Pro League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/bc0a277a1760d8dc006f4d455c495ac5-thumbnail.jpg",
+            "blurhash": "L46ukcKo9Ycbx]RikBt800%Q?bZg",
+            "colors": [
+              "#046a38",
+              "#0a1f44"
+            ],
+            "uri_name": "belgian-pro-league/2026-10-10/zul-gent",
+            "starts_at": 1791657900,
+            "ends_at": 1791666900,
+            "always_live": 0,
+            "locale": "nl-be",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-10-10/zul-gent",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29877,
+            "name": "Real Madrid vs. Villarreal",
+            "tag": "LaLiga",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/c4e8519fa1b3895fbafa6ada3c89f198-thumbnail.jpg",
+            "blurhash": "L5KJR;{UrVM{xUe.f6f+00EeT2tk",
+            "colors": [
+              "#ffb300",
+              "#f4c300"
+            ],
+            "uri_name": "laliga/2026-10-10/rma-vil",
+            "starts_at": 1791658800,
+            "ends_at": 1791667800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/laliga/2026-10-10/rma-vil",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29950,
+            "name": "Ajax Amsterdam vs. NEC Nijmegen",
+            "tag": "Eredivisie",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/875a7fe1c98c9f1f387d14dfdfd79e20-thumbnail.jpg",
+            "blurhash": "L6HJ2f_NMdZNnit7ayV@00DOyCY5",
+            "colors": [
+              "#d2122e",
+              "#c8102e"
+            ],
+            "uri_name": "eredivisie/2026-10-10/aja-nec",
+            "starts_at": 1791658800,
+            "ends_at": 1791667800,
+            "always_live": 0,
+            "locale": "nl",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/eredivisie/2026-10-10/aja-nec",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29939,
+            "name": "FC Juárez vs. Tijuana",
+            "tag": "Liga MX",
+            "source_tag": "Liga MX",
+            "poster": "https://static.ppvservices.st/assets/thumb/6775bb6213e75afe2ab11e9d6225dad9-thumbnail.jpg",
+            "blurhash": "LADu0z3LrC-poLbHayfQ00}HyDVY",
+            "colors": [
+              "#1b7a3d",
+              "#e4002b"
+            ],
+            "uri_name": "liga-mx/2026-10-10/jua-tij",
+            "starts_at": 1791673200,
+            "ends_at": 1791682200,
+            "always_live": 0,
+            "locale": "es-us",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/liga-mx/2026-10-10/jua-tij",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29940,
+            "name": "Querétaro vs. Atlante",
+            "tag": "Liga MX",
+            "source_tag": "Liga MX",
+            "poster": "https://static.ppvservices.st/assets/thumb/6c3722f632b050a4f8749d6cdfef8225-thumbnail.jpg",
+            "blurhash": "L68XU[~k4o4nt7WCayoe004o^+?c",
+            "colors": [
+              "#00274d",
+              "#002f87"
+            ],
+            "uri_name": "liga-mx/2026-10-10/qro-atl",
+            "starts_at": 1791673200,
+            "ends_at": 1791682200,
+            "always_live": 0,
+            "locale": "es-us",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/liga-mx/2026-10-10/qro-atl",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29924,
+            "name": "Atlanta United FC vs. FC Cincinnati",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/e753ac03ab87e41bfe4604a2231278c0-thumbnail.jpg",
+            "blurhash": "L5J4@_0L#7~DXTr=n%S$00~CKj55",
+            "colors": [
+              "#ef3e42",
+              "#f05323"
+            ],
+            "uri_name": "mls/2026-10-10/atl-cin",
+            "starts_at": 1791675000,
+            "ends_at": 1791685800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-10/atl-cin",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29925,
+            "name": "Charlotte FC vs. FC Dallas",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/74a8194d636ce62dea07adb906a8482a-thumbnail.jpg",
+            "blurhash": "L6C5D72w+I$%bvn$ayW;00|sXmrs",
+            "colors": [
+              "#1c2c5b",
+              "#c8102e"
+            ],
+            "uri_name": "mls/2026-10-10/clt-dal",
+            "starts_at": 1791675000,
+            "ends_at": 1791685800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-10/clt-dal",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29926,
+            "name": "Inter Miami CF vs. D.C. United",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/6f7ede83ddcbb9d3fc65817c4f158093-thumbnail.jpg",
+            "blurhash": "LQ6I?WY8XAogofayazj[I9jDoIaJ",
+            "colors": [
+              "#00a1e6",
+              "#231f20"
+            ],
+            "uri_name": "mls/2026-10-10/mia-dc",
+            "starts_at": 1791675000,
+            "ends_at": 1791685800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-10/mia-dc",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29927,
+            "name": "New England Revolution vs. Seattle Sounders FC",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/887e3547c745b9f28b758a239d2d3a42-thumbnail.jpg",
+            "blurhash": "L66lJy|}M|0{ofe;ayfj005ixt^8",
+            "colors": [
+              "#003087",
+              "#005595"
+            ],
+            "uri_name": "mls/2026-10-10/ne-sea",
+            "starts_at": 1791675000,
+            "ends_at": 1791685800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-10/ne-sea",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29928,
+            "name": "Orlando City SC vs. Columbus Crew",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/d31250bbeb809709b6cf1d3dd4dba606-thumbnail.jpg",
+            "blurhash": "LBE.k00I^Nott6j@f6WX00^sNe$$",
+            "colors": [
+              "#003087",
+              "#fedd00"
+            ],
+            "uri_name": "mls/2026-10-10/orl-clb",
+            "starts_at": 1791675000,
+            "ends_at": 1791685800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-10/orl-clb",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29929,
+            "name": "Philadelphia Union vs. Real Salt Lake",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/76316630344dc12fa31c57a22f1bb2dd-thumbnail.jpg",
+            "blurhash": "L15hfd%k4sM0%0S5WBsk00H,^*ys",
+            "colors": [
+              "#071b2c",
+              "#003087"
+            ],
+            "uri_name": "mls/2026-10-10/phi-rsl",
+            "starts_at": 1791675000,
+            "ends_at": 1791685800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-10/phi-rsl",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29930,
+            "name": "Red Bull New York vs. San Diego FC",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/f4575ce22523b10dd8eae2d7a6514408-thumbnail.jpg",
+            "blurhash": "LXDaJ[|@wKR*oLfQf6jt9tJ8X8bb",
+            "colors": [
+              "#e30613",
+              "#001f5b"
+            ],
+            "uri_name": "mls/2026-10-10/rbny-sd",
+            "starts_at": 1791675000,
+            "ends_at": 1791685800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-10/rbny-sd",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29931,
+            "name": "Austin FC vs. Nashville SC",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/4e87df443bbc9e7adf341b1063cc0c76-thumbnail.jpg",
+            "blurhash": "LBDT%00C=F-joff8a{a{04~4NfV]",
+            "colors": [
+              "#00a14b",
+              "#ece83a"
+            ],
+            "uri_name": "mls/2026-10-10/atx-nsh",
+            "starts_at": 1791678600,
+            "ends_at": 1791689400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-10/atx-nsh",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29932,
+            "name": "Minnesota United FC vs. Houston Dynamo FC",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/6bb383202d3bb863e7aed5a415f0e247-thumbnail.jpg",
+            "blurhash": "LdFEsJHDo#WAjubHfQjt9Zn3aesA",
+            "colors": [
+              "#8cd2f4",
+              "#e30613"
+            ],
+            "uri_name": "mls/2026-10-10/min-hou",
+            "starts_at": 1791678600,
+            "ends_at": 1791689400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-10/min-hou",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29933,
+            "name": "Sporting Kansas City vs. Portland Timbers",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/d26f9075de030230324f51792361647c-thumbnail.jpg",
+            "blurhash": "LB6IN*RcRos+t7ayayj[4Ts~t6R*",
+            "colors": [
+              "#002395",
+              "#004c2f"
+            ],
+            "uri_name": "mls/2026-10-10/skc-por",
+            "starts_at": 1791678600,
+            "ends_at": 1791689400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-10/skc-por",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29941,
+            "name": "Atlas vs. Guadalajara",
+            "tag": "Liga MX",
+            "source_tag": "Liga MX",
+            "poster": "https://static.ppvservices.st/assets/thumb/18bcb846c502e1ede7866ec4cc16cf66-thumbnail.jpg",
+            "blurhash": "L9H*t7{zU^S}s9a#ayj?00Fwu4jF",
+            "colors": [
+              "#e4002b",
+              "#c8102e"
+            ],
+            "uri_name": "liga-mx/2026-10-10/ats-gdl",
+            "starts_at": 1791680400,
+            "ends_at": 1791689400,
+            "always_live": 0,
+            "locale": "es-us",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/liga-mx/2026-10-10/ats-gdl",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29934,
+            "name": "Colorado Rapids vs. San Jose Earthquakes",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/a0e2016b6457f9b9051c03f33e3c4935-thumbnail.jpg",
+            "blurhash": "LA8|6u{[nPSds:ayayj[0cJVozoN",
+            "colors": [
+              "#862633",
+              "#003087"
+            ],
+            "uri_name": "mls/2026-10-10/col-sj",
+            "starts_at": 1791682200,
+            "ends_at": 1791693000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-10/col-sj",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29935,
+            "name": "LAFC vs. Vancouver Whitecaps",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/fdf3af51891cdc922e52c4cd20dd4a5e-thumbnail.jpg",
+            "blurhash": "LKA,Rs}~xCo#j[ayayj[9YNNW=Rj",
+            "colors": [
+              "#c39e6d",
+              "#002395"
+            ],
+            "uri_name": "mls/2026-10-10/lafc-van",
+            "starts_at": 1791685800,
+            "ends_at": 1791696600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-10/lafc-van",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29942,
+            "name": "América vs. Monterrey",
+            "tag": "Liga MX",
+            "source_tag": "Liga MX",
+            "poster": "https://static.ppvservices.st/assets/thumb/dcf04733f24ac36cd463ab738cbddbb4-thumbnail.jpg",
+            "blurhash": "LfEyF.~IslWFj[fPfQj@9HIvkDWC",
+            "colors": [
+              "#ffe100",
+              "#003da5"
+            ],
+            "uri_name": "liga-mx/2026-10-10/ame-mty",
+            "starts_at": 1791687600,
+            "ends_at": 1791696600,
+            "always_live": 0,
+            "locale": "es-us",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/liga-mx/2026-10-10/ame-mty",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29951,
+            "name": "FC Utrecht vs. Willem II",
+            "tag": "Eredivisie",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/602029ed1784a4b29426d61e26a53b0d-thumbnail.jpg",
+            "blurhash": "LLD8Ib}ArsjYt7kCj[jF0KJ7oyS5",
+            "colors": [
+              "#c1121f",
+              "#0e2c6b"
+            ],
+            "uri_name": "eredivisie/2026-10-11/utr-wil",
+            "starts_at": 1791713700,
+            "ends_at": 1791722700,
+            "always_live": 0,
+            "locale": "nl",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/eredivisie/2026-10-11/utr-wil",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29905,
+            "name": "Como vs. AS Roma",
+            "tag": "Serie A",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/6fde60cae67edad975e298a03cf02642-thumbnail.jpg",
+            "blurhash": "LIBCfqCAR5Vroffkf6f60JrVx]tR",
+            "colors": [
+              "#0033a0",
+              "#970a2c"
+            ],
+            "uri_name": "seriea/2026-10-11/como-roma",
+            "starts_at": 1791714600,
+            "ends_at": 1791723600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/seriea/2026-10-11/como-roma",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29960,
+            "name": "Standard Liege vs. Royal Charleroi SC",
+            "tag": "Belgian Pro League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/721387063096250d15557bc7a5c439d3-thumbnail.jpg",
+            "blurhash": "LVEKAk|HrrWXjZj[jtay57JUkWW.",
+            "colors": [
+              "#e30613",
+              "#262626"
+            ],
+            "uri_name": "belgian-pro-league/2026-10-11/stl-cha",
+            "starts_at": 1791718200,
+            "ends_at": 1791727200,
+            "always_live": 0,
+            "locale": "nl-be",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-10-11/stl-cha",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29878,
+            "name": "Elche vs. Celta Vigo",
+            "tag": "LaLiga",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/42fd2c1884fb3b05206162d2d1a7238d-thumbnail.jpg",
+            "blurhash": "LgEyrG}NwhS6oLj[fQf69FJEW.a#",
+            "colors": [
+              "#ffcc00",
+              "#00a1e6"
+            ],
+            "uri_name": "laliga/2026-10-11/elc-cel",
+            "starts_at": 1791720000,
+            "ends_at": 1791729000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/laliga/2026-10-11/elc-cel",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29968,
+            "name": "Hammarby IF vs. Djurgården",
+            "tag": "Allsvenskan",
+            "source_tag": "TV4 Play",
+            "poster": "https://static.ppvservices.st/assets/thumb/95cc64c0948a74b20ae77fcfd1b95ed7-thumbnail.jpg",
+            "blurhash": "LB8OxE.UNGIqoebHf6jr00IKxtxb",
+            "colors": [
+              "#009a44",
+              "#1d5caa"
+            ],
+            "uri_name": "allsvenskan/2026-10-11/ham-dju",
+            "starts_at": 1791720000,
+            "ends_at": 1791729000,
+            "always_live": 0,
+            "locale": "sv",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/allsvenskan/2026-10-11/ham-dju",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29952,
+            "name": "PEC Zwolle vs. SC Cambuur",
+            "tag": "Eredivisie",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/9be112588b74d23f09866cdf5cbfca9b-thumbnail.jpg",
+            "blurhash": "LGF5pb0I,@t0oLn$fQWr00?5X9t7",
+            "colors": [
+              "#0033a0",
+              "#ffd100"
+            ],
+            "uri_name": "eredivisie/2026-10-11/pec-cam",
+            "starts_at": 1791721800,
+            "ends_at": 1791730800,
+            "always_live": 0,
+            "locale": "nl",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/eredivisie/2026-10-11/pec-cam",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29953,
+            "name": "Telstar vs. ADO Den Haag",
+            "tag": "Eredivisie",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/8cbe3330bb70abd489db2c2dfb1af4a1-thumbnail.jpg",
+            "blurhash": "L98ExShxEMTaxsRkjst600Xw-VrY",
+            "colors": [
+              "#1d3c8c",
+              "#007a33"
+            ],
+            "uri_name": "eredivisie/2026-10-11/tel-ado",
+            "starts_at": 1791721800,
+            "ends_at": 1791730800,
+            "always_live": 0,
+            "locale": "nl",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/eredivisie/2026-10-11/tel-ado",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29898,
+            "name": "Crystal Palace vs. Nottingham Forest",
+            "tag": "Premier League",
+            "source_tag": "Premier League",
+            "poster": "https://static.ppvservices.st/assets/thumb/7484235429782c2e3ac8235875a41a6e-thumbnail.jpg",
+            "blurhash": "LBD@a+3G+#$fV[W;fQn%0J[nS}af",
+            "colors": [
+              "#1b458f",
+              "#e30613"
+            ],
+            "uri_name": "pl/2026-10-11/cry-nfo",
+            "starts_at": 1791723600,
+            "ends_at": 1791732600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/pl/2026-10-11/cry-nfo",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29899,
+            "name": "Hull City vs. Everton",
+            "tag": "Premier League",
+            "source_tag": "Premier League",
+            "poster": "https://static.ppvservices.st/assets/thumb/eee505cefa2663a8841a0ee1b360c3e5-thumbnail.jpg",
+            "blurhash": "LbD*;T}iw{WZfkfQfQjt9sI^W;WU",
+            "colors": [
+              "#f5a11e",
+              "#003399"
+            ],
+            "uri_name": "pl/2026-10-11/hul-eve",
+            "starts_at": 1791723600,
+            "ends_at": 1791732600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/pl/2026-10-11/hul-eve",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29906,
+            "name": "Lazio vs. Monza",
+            "tag": "Serie A",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/beefb1cdc5d93d2f104b6ddf4a06eaa1-thumbnail.jpg",
+            "blurhash": "LYGHfB8cbarroLa{fPfk0dvgogWo",
+            "colors": [
+              "#87ceeb",
+              "#e4002b"
+            ],
+            "uri_name": "seriea/2026-10-11/laz-mon",
+            "starts_at": 1791723600,
+            "ends_at": 1791732600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/seriea/2026-10-11/laz-mon",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29907,
+            "name": "Lecce vs. Bologna",
+            "tag": "Serie A",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/ad36d8f63fa9255cd9c412044e6e4c92-thumbnail.jpg",
+            "blurhash": "LaEm|8|?rqoMbHa|f6jt9tOEbwR+",
+            "colors": [
+              "#ff6600",
+              "#1a2f48"
+            ],
+            "uri_name": "seriea/2026-10-11/lec-bol",
+            "starts_at": 1791723600,
+            "ends_at": 1791732600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/seriea/2026-10-11/lec-bol",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29918,
+            "name": "Nice vs. Strasbourg",
+            "tag": "Ligue 1",
+            "source_tag": "Ligue 1+",
+            "poster": "https://static.ppvservices.st/assets/thumb/b0ab9316b6cabad96c365fcc096e416b-thumbnail.jpg",
+            "blurhash": "LPDt#h{Iw3xvjujYfkj[0dO[X7M{",
+            "colors": [
+              "#e30613",
+              "#0033a0"
+            ],
+            "uri_name": "ligue1/2026-10-11/nice-str",
+            "starts_at": 1791723600,
+            "ends_at": 1791732600,
+            "always_live": 0,
+            "locale": "fr",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/ligue1/2026-10-11/nice-str",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29890,
+            "name": "FC Cologne vs. Borussia Mönchengladbach",
+            "tag": "Bundesliga",
+            "source_tag": "Bundesliga",
+            "poster": "https://static.ppvservices.st/assets/thumb/8735864cf4fc8f32a214e22c6b0cd228-thumbnail.jpg",
+            "blurhash": "LgEm|7{+v~S1jZjZfQfk9tJQbvbb",
+            "colors": [
+              "#fd1220",
+              "#006633"
+            ],
+            "uri_name": "bundesliga/2026-10-11/koe-bmg",
+            "starts_at": 1791725400,
+            "ends_at": 1791734400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/bundesliga/2026-10-11/koe-bmg",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29961,
+            "name": "Union St.-Gilloise vs. OH Leuven",
+            "tag": "Belgian Pro League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/7736e9eb7eb5feaf026438e580143273-thumbnail.jpg",
+            "blurhash": "LWFi3@}Mr^t8j?oJjtaz4nOHkBNH",
+            "colors": [
+              "#ffc72c",
+              "#4a8fd4"
+            ],
+            "uri_name": "belgian-pro-league/2026-10-11/usg-ohl",
+            "starts_at": 1791727200,
+            "ends_at": 1791736200,
+            "always_live": 0,
+            "locale": "nl-be",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-10-11/usg-ohl",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29879,
+            "name": "Real Sociedad vs. Deportivo",
+            "tag": "LaLiga",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/d170843dda5209ea67193f1643c7e068-thumbnail.jpg",
+            "blurhash": "L27xIZD40L~pMyobj?WE00.9_14o",
+            "colors": [
+              "#0033a0",
+              "#0055a5"
+            ],
+            "uri_name": "laliga/2026-10-11/rso-dep",
+            "starts_at": 1791728100,
+            "ends_at": 1791737100,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/laliga/2026-10-11/rso-dep",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29969,
+            "name": "BK Häcken vs. Örgryte IS",
+            "tag": "Allsvenskan",
+            "source_tag": "TV4 Play",
+            "poster": "https://static.ppvservices.st/assets/thumb/8e8e7ebec0221cbc0e26b9e868635afb-thumbnail.jpg",
+            "blurhash": "LRIpeK.ckjj[oMWXayjY0MRUa$V]",
+            "colors": [
+              "#ffe000",
+              "#ce1126"
+            ],
+            "uri_name": "allsvenskan/2026-10-11/bkh-org",
+            "starts_at": 1791729000,
+            "ends_at": 1791738000,
+            "always_live": 0,
+            "locale": "sv",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/allsvenskan/2026-10-11/bkh-org",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29954,
+            "name": "Excelsior vs. FC Groningen",
+            "tag": "Eredivisie",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/e51d5e86c5dc8fefa41e961b26da174b-thumbnail.jpg",
+            "blurhash": "LHCs$[_on|SyWoj[fPf600Kft8bF",
+            "colors": [
+              "#a6192e",
+              "#00a94f"
+            ],
+            "uri_name": "eredivisie/2026-10-11/exc-gro",
+            "starts_at": 1791729900,
+            "ends_at": 1791738900,
+            "always_live": 0,
+            "locale": "nl",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/eredivisie/2026-10-11/exc-gro",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29919,
+            "name": "Stade Rennais vs. AJ Auxerre",
+            "tag": "Ligue 1",
+            "source_tag": "Ligue 1+",
+            "poster": "https://static.ppvservices.st/assets/thumb/3a250a45369c7bec8c46e9bebdfafaec-thumbnail.jpg",
+            "blurhash": "LUDQv]{tw6XTofayfQj[5NKRbXV]",
+            "colors": [
+              "#e30613",
+              "#0000ff"
+            ],
+            "uri_name": "ligue1/2026-10-11/ren-aux",
+            "starts_at": 1791731700,
+            "ends_at": 1791740700,
+            "always_live": 0,
+            "locale": "fr",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/ligue1/2026-10-11/ren-aux",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29891,
+            "name": "SC Freiburg vs. Schalke 04",
+            "tag": "Bundesliga",
+            "source_tag": "Bundesliga",
+            "poster": "https://static.ppvservices.st/assets/thumb/1c95bfd471b5aee03fd6d9c4af11dc0f-thumbnail.jpg",
+            "blurhash": "LfE0~j|qw0WEj[j@fQayE0JBbuX7",
+            "colors": [
+              "#fd1220",
+              "#004d9d"
+            ],
+            "uri_name": "bundesliga/2026-10-11/scf-s04",
+            "starts_at": 1791732600,
+            "ends_at": 1791741600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/bundesliga/2026-10-11/scf-s04",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29900,
+            "name": "Liverpool vs. Manchester City",
+            "tag": "Premier League",
+            "source_tag": "Premier League",
+            "poster": "https://static.ppvservices.st/assets/thumb/6cbcf1b88b3b616d82462c7d494e5858-thumbnail.jpg",
+            "blurhash": "LDE-|A_Oo#x]ofjtayf600T{j=I=",
+            "colors": [
+              "#c8102e",
+              "#6cabdd"
+            ],
+            "uri_name": "pl/2026-10-11/liv-mci",
+            "starts_at": 1791732600,
+            "ends_at": 1791741600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/pl/2026-10-11/liv-mci",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29908,
+            "name": "Sassuolo vs. AC Milan",
+            "tag": "Serie A",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/de433b1a947e5af3cf41d7bb97e983fb-thumbnail.jpg",
+            "blurhash": "L6I1[+F?u%;7s:j[jYf600+eP;F]",
+            "colors": [
+              "#e30613",
+              "#e21c2a"
+            ],
+            "uri_name": "seriea/2026-10-11/sas-mil",
+            "starts_at": 1791734400,
+            "ends_at": 1791743400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/seriea/2026-10-11/sas-mil",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29880,
+            "name": "Real Betis vs. Osasuna",
+            "tag": "LaLiga",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/09b2c2a5529f745b6cf93f9202dd98ac-thumbnail.jpg",
+            "blurhash": "LBEn@63.;3#ToJayf6fk02{gT0s.",
+            "colors": [
+              "#00954c",
+              "#ff6600"
+            ],
+            "uri_name": "laliga/2026-10-11/bet-osa",
+            "starts_at": 1791736200,
+            "ends_at": 1791745200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/laliga/2026-10-11/bet-osa",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29962,
+            "name": "KVC Westerlo vs. Antwerp",
+            "tag": "Belgian Pro League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/1b9dec155ed84b6a885d5857022cafd6-thumbnail.jpg",
+            "blurhash": "LOIpL.uZo@%0j]WXj[oJ0LrcbJIq",
+            "colors": [
+              "#fbe122",
+              "#d2001e"
+            ],
+            "uri_name": "belgian-pro-league/2026-10-11/kvcw-ant",
+            "starts_at": 1791736200,
+            "ends_at": 1791745200,
+            "always_live": 0,
+            "locale": "nl-be",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-10-11/kvcw-ant",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29963,
+            "name": "KV Mechelen vs. Sint-Truidense",
+            "tag": "Belgian Pro League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/6cdb4b10b0051c260cdca95ef81d5c0e-thumbnail.jpg",
+            "blurhash": "L3KS~=.r#41%xZnhj[W?007_K,}k",
+            "colors": [
+              "#f5a800",
+              "#ffd100"
+            ],
+            "uri_name": "belgian-pro-league/2026-10-11/kvm-stvv",
+            "starts_at": 1791738900,
+            "ends_at": 1791747900,
+            "always_live": 0,
+            "locale": "nl-be",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-10-11/kvm-stvv",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29909,
+            "name": "Cagliari vs. Juventus",
+            "tag": "Serie A",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/903f1fe96fc7e599696d74af2bbc5dc0-thumbnail.jpg",
+            "blurhash": "L58gy]x14TNtxujZjYfk00O9_4xG",
+            "colors": [
+              "#002350",
+              "#000000"
+            ],
+            "uri_name": "seriea/2026-10-11/cag-juv",
+            "starts_at": 1791744300,
+            "ends_at": 1791753300,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/seriea/2026-10-11/cag-juv",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29920,
+            "name": "Troyes vs. Marseille",
+            "tag": "Ligue 1",
+            "source_tag": "Ligue 1+",
+            "poster": "https://static.ppvservices.st/assets/thumb/b59146a79727d153f604f68358f60c92-thumbnail.jpg",
+            "blurhash": "L36*;N0H9I_No#ofj@af00_K?F4m",
+            "colors": [
+              "#0000bf",
+              "#0033a0"
+            ],
+            "uri_name": "ligue1/2026-10-11/try-olm",
+            "starts_at": 1791744300,
+            "ends_at": 1791753300,
+            "always_live": 0,
+            "locale": "fr",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/ligue1/2026-10-11/try-olm",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29881,
+            "name": "Racing Santander vs. Valencia",
+            "tag": "LaLiga",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/bcd8b55f5e630a553c7a8ae8edaf8ac6-thumbnail.jpg",
+            "blurhash": "LBE-st3A:+xFWqaef6bI01|IO?wK",
+            "colors": [
+              "#007a33",
+              "#ff6600"
+            ],
+            "uri_name": "laliga/2026-10-11/rac-val",
+            "starts_at": 1791745200,
+            "ends_at": 1791754200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/laliga/2026-10-11/rac-val",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29936,
+            "name": "St. Louis CITY SC vs. LA Galaxy",
+            "tag": "MLS",
+            "source_tag": "Apple TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/9a8fa3211a1f954886088ab0c07a2ee8-thumbnail.jpg",
+            "blurhash": "LSC;G5{_wKX5j[jtaya|9?K4X8WY",
+            "colors": [
+              "#dd004a",
+              "#002395"
+            ],
+            "uri_name": "mls/2026-10-11/stl-la",
+            "starts_at": 1791759600,
+            "ends_at": 1791770400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/mls/2026-10-11/stl-la",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29943,
+            "name": "Atlético de San Luis vs. Santos",
+            "tag": "Liga MX",
+            "source_tag": "Liga MX",
+            "poster": "https://static.ppvservices.st/assets/thumb/5bf145596fa319d1ee5e05a3108d78c8-thumbnail.jpg",
+            "blurhash": "LPC=@;{nn4RijZjZf6fQ0KJ6tRbv",
+            "colors": [
+              "#c8102e",
+              "#007a33"
+            ],
+            "uri_name": "liga-mx/2026-10-11/asl-san",
+            "starts_at": 1791759600,
+            "ends_at": 1791768600,
+            "always_live": 0,
+            "locale": "es-us",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/liga-mx/2026-10-11/asl-san",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29944,
+            "name": "Pachuca vs. Necaxa",
+            "tag": "Liga MX",
+            "source_tag": "Liga MX",
+            "poster": "https://static.ppvservices.st/assets/thumb/ff5836ef3b9d65843e583dcc97fd5cb3-thumbnail.jpg",
+            "blurhash": "LGEweB3ZvhrWjufkf6ay00+ZtktQ",
+            "colors": [
+              "#003399",
+              "#e4002b"
+            ],
+            "uri_name": "liga-mx/2026-10-11/pac-ncx",
+            "starts_at": 1791760500,
+            "ends_at": 1791769500,
+            "always_live": 0,
+            "locale": "es-us",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/liga-mx/2026-10-11/pac-ncx",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29945,
+            "name": "Pumas UNAM vs. Cruz Azul",
+            "tag": "Liga MX",
+            "source_tag": "Liga MX",
+            "poster": "https://static.ppvservices.st/assets/thumb/2703ad65b3857f9003aa409d31c8765b-thumbnail.jpg",
+            "blurhash": "L67d|h004p^,kCayayj[00^-_24:",
+            "colors": [
+              "#00224e",
+              "#003da5"
+            ],
+            "uri_name": "liga-mx/2026-10-11/unam-caz",
+            "starts_at": 1791766800,
+            "ends_at": 1791775800,
+            "always_live": 0,
+            "locale": "es-us",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/liga-mx/2026-10-11/unam-caz",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29910,
+            "name": "Atalanta vs. Venezia",
+            "tag": "Serie A",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/866a9da490232fbc64b13255ab4c5fd6-thumbnail.jpg",
+            "blurhash": "LL7UlBtpIpaJj]bHayjZ9DV=%2kD",
+            "colors": [
+              "#2d5cae",
+              "#000000"
+            ],
+            "uri_name": "seriea/2026-10-12/ata-ven",
+            "starts_at": 1791822600,
+            "ends_at": 1791831600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/seriea/2026-10-12/ata-ven",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29970,
+            "name": "IF Elfsborg vs. Halmstads BK",
+            "tag": "Allsvenskan",
+            "source_tag": "TV4 Play",
+            "poster": "https://static.ppvservices.st/assets/thumb/df09e8afb87b86e710deb17afa93e359-thumbnail.jpg",
+            "blurhash": "LVEx@L}#w^xuoLj?j[az4:SkX8M|",
+            "colors": [
+              "#ffc72c",
+              "#0047ab"
+            ],
+            "uri_name": "allsvenskan/2026-10-12/elf-hbk",
+            "starts_at": 1791824400,
+            "ends_at": 1791833400,
+            "always_live": 0,
+            "locale": "sv",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/allsvenskan/2026-10-12/elf-hbk",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29971,
+            "name": "Malmö FF vs. Kalmar FF",
+            "tag": "Allsvenskan",
+            "source_tag": "TV4 Play",
+            "poster": "https://static.ppvservices.st/assets/thumb/8940dd38fed18dcf8e0718a7660f93fc-thumbnail.jpg",
+            "blurhash": "LYGR3:8JkDr=ofj[fQay0J#Qj?WY",
+            "colors": [
+              "#6cace4",
+              "#e4002b"
+            ],
+            "uri_name": "allsvenskan/2026-10-12/mal-kff",
+            "starts_at": 1791824400,
+            "ends_at": 1791833400,
+            "always_live": 0,
+            "locale": "sv",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/allsvenskan/2026-10-12/mal-kff",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29911,
+            "name": "Torino vs. Udinese",
+            "tag": "Serie A",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/f64555b5e9ab87de57f2557dee67c9e5-thumbnail.jpg",
+            "blurhash": "L89Q8x|mDPIot7t6f6R*00E+.8xc",
+            "colors": [
+              "#670e36",
+              "#0033a0"
+            ],
+            "uri_name": "seriea/2026-10-12/tor-udi",
+            "starts_at": 1791830700,
+            "ends_at": 1791839700,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/seriea/2026-10-12/tor-udi",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29882,
+            "name": "Levante vs. Sevilla",
+            "tag": "LaLiga",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/4d9d4042007bd377c4791979f90a3c56-thumbnail.jpg",
+            "blurhash": "LADtPU1n+i%2oyWCazj[00}STHeS",
+            "colors": [
+              "#0033a0",
+              "#e30613"
+            ],
+            "uri_name": "laliga/2026-10-12/lev-sev",
+            "starts_at": 1791831600,
+            "ends_at": 1791840600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/laliga/2026-10-12/lev-sev",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29901,
+            "name": "Coventry City vs. Newcastle United",
+            "tag": "Premier League",
+            "source_tag": "Premier League",
+            "poster": "https://static.ppvservices.st/assets/thumb/59a1954cde8cb05e6968ac5c69bb1ee1-thumbnail.jpg",
+            "blurhash": "LH8}+I?]X8NIjGj[fPf64TMyoJr?",
+            "colors": [
+              "#6bb1e0",
+              "#0033a0"
+            ],
+            "uri_name": "pl/2026-10-12/cov-new",
+            "starts_at": 1791831600,
+            "ends_at": 1791840600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/pl/2026-10-12/cov-new",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30044,
+            "name": "Wrexham vs. West Bromwich Albion",
+            "tag": "EFL Championship",
+            "source_tag": "Sky Sports+",
+            "poster": "https://static.ppvservices.st/assets/thumb/77e2c9684c4c185c8319af9be1642389-thumbnail.jpg",
+            "blurhash": "LKC=DE{xn4t8ofWBazof0KOstRNG",
+            "colors": [
+              "#c8142f",
+              "#091452"
+            ],
+            "uri_name": "efl-championship/2026-10-13/wxm-wba",
+            "starts_at": 1791917100,
+            "ends_at": 1791926100,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Football",
+            "iframe": "https://embedindia.st/embed/efl-championship/2026-10-13/wxm-wba",
+            "substreams": [],
             "viewers": "0"
           }
         ]
@@ -312,7 +3647,7 @@
             "category_name": "Golf",
             "iframe": "https://embedindia.st/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "4"
+            "viewers": "2"
           }
         ]
       },
@@ -340,28 +3675,568 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl-network-29780",
             "substreams": [],
-            "viewers": "7"
+            "viewers": "1"
           },
           {
-            "id": 29794,
-            "name": "Vegas Golden Knights vs. Vancouver Canucks",
+            "id": 29820,
+            "name": "Philadelphia Flyers vs. Tampa Bay Lightning",
             "tag": "NHL",
-            "source_tag": "ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/1b2015768550483a02a4192b662e3a7a-thumbnail.jpg",
-            "blurhash": "L26*zW+D4o%%M{%Lf6IV00X=_2H?",
+            "source_tag": "The Spot - MTN",
+            "poster": "https://static.ppvservices.st/assets/thumb/9115a0117d4c5de41fbb94f0575245cd-thumbnail.jpg",
+            "blurhash": "LYET}H{_wKozj[fPj[f69ZOYX8Na",
             "colors": [
-              "#344043",
+              "#fe5823",
               "#003e7e"
             ],
-            "uri_name": "nhl/2026-10-04/vgk-van",
-            "starts_at": 1791162000,
-            "ends_at": 1791172800,
+            "uri_name": "nhl/2026-10-05/phi-tb",
+            "starts_at": 1791241200,
+            "ends_at": 1791252000,
             "always_live": 0,
             "locale": "en",
             "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-10-04/vgk-van",
+            "iframe": "https://embedindia.st/embed/nhl/2026-10-05/phi-tb",
             "substreams": [],
-            "viewers": "30"
+            "viewers": "0"
+          },
+          {
+            "id": 29822,
+            "name": "Ottawa Senators vs. Boston Bruins",
+            "tag": "NHL",
+            "source_tag": "NESN",
+            "poster": "https://static.ppvservices.st/assets/thumb/df214005eef18b6f1874bbf867ef5ed2-thumbnail.jpg",
+            "blurhash": "LKETk}{Nv~%KoLjafQfk0fXlXSIp",
+            "colors": [
+              "#dd1a32",
+              "#231f20"
+            ],
+            "uri_name": "nhl/2026-10-05/ott-bos",
+            "starts_at": 1791243000,
+            "ends_at": 1791253800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://embedindia.st/embed/nhl/2026-10-05/ott-bos",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29825,
+            "name": "Winnipeg Jets vs. Pittsburgh Penguins",
+            "tag": "NHL",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/b0e832091abe9e5fc41a672a98d492b9-thumbnail.jpg",
+            "blurhash": "L77UMCtpIWV=t7afazj[00RN%LkX",
+            "colors": [
+              "#002d62",
+              "#000000"
+            ],
+            "uri_name": "nhl/2026-10-05/wpg-pit",
+            "starts_at": 1791243000,
+            "ends_at": 1791253800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://embedindia.st/embed/nhl/2026-10-05/wpg-pit",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29827,
+            "name": "San Jose Sharks vs. Dallas Stars",
+            "tag": "NHL",
+            "source_tag": "Prime Video (Local)",
+            "poster": "https://static.ppvservices.st/assets/thumb/0659a9bc8946e966eed89a6ec51ad7cf-thumbnail.jpg",
+            "blurhash": "L64q5rMsIot5bHa#ayfi4TtJ%2V@",
+            "colors": [
+              "#00788a",
+              "#20864c"
+            ],
+            "uri_name": "nhl/2026-10-05/sj-dal",
+            "starts_at": 1791244800,
+            "ends_at": 1791255600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://embedindia.st/embed/nhl/2026-10-05/sj-dal",
+            "substreams": [],
+            "viewers": "0"
+          }
+        ]
+      },
+      {
+        "category": "Motorsports",
+        "id": 35,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 29978,
+            "name": "Singapore Grand Prix - Practice 1",
+            "tag": "Formula 1",
+            "source_tag": "Sky Sports F1",
+            "poster": "https://static.ppvservices.st/assets/thumb/3689e895694c9f12d3b85a95a32e7a00-thumbnail.jpg",
+            "blurhash": "L39s||Y,vNV?%K4nxb=|M1+t~WD*",
+            "colors": [
+              "#141519",
+              "#241e1e"
+            ],
+            "uri_name": "f1/2026/singapore/fp1",
+            "starts_at": 1791534600,
+            "ends_at": 1791541800,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Motorsports",
+            "iframe": "https://embedindia.st/embed/f1/2026/singapore/fp1",
+            "substreams": [
+              {
+                "id": 29980,
+                "name": "Singapore Grand Prix - Practice 1",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---practice-1-29980",
+                "source_tag": "Apple TV (F1TV)",
+                "locale": "en-us",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---practice-1-29980"
+              },
+              {
+                "id": 29982,
+                "name": "Singapore Grand Prix - Practice 1",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---practice-1-29982",
+                "source_tag": "DAZN F1",
+                "locale": "es",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---practice-1-29982"
+              },
+              {
+                "id": 29983,
+                "name": "Singapore Grand Prix - Practice 1",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---practice-1-29983",
+                "source_tag": "Sky Sport F1",
+                "locale": "de",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---practice-1-29983"
+              },
+              {
+                "id": 29984,
+                "name": "Singapore Grand Prix - Practice 1",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---practice-1-29984",
+                "source_tag": "Sky Sport F1",
+                "locale": "it",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---practice-1-29984"
+              },
+              {
+                "id": 29985,
+                "name": "Singapore Grand Prix - Practice 1",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---practice-1-29985",
+                "source_tag": "V Sport Motor",
+                "locale": "sv",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---practice-1-29985"
+              },
+              {
+                "id": 29986,
+                "name": "Singapore Grand Prix - Practice 1",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---practice-1-29986",
+                "source_tag": "Viaplay",
+                "locale": "nl",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---practice-1-29986"
+              },
+              {
+                "id": 29987,
+                "name": "Singapore Grand Prix - Practice 1",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---practice-1-29987",
+                "source_tag": "Nova Sport 5",
+                "locale": "cs",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---practice-1-29987"
+              },
+              {
+                "id": 29988,
+                "name": "Singapore Grand Prix - Practice 1",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---practice-1-29988",
+                "source_tag": "Eleven Sports 1",
+                "locale": "pl",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---practice-1-29988"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 29989,
+            "name": "Singapore Grand Prix - Sprint Qualifying",
+            "tag": "Formula 1",
+            "source_tag": "Sky Sports F1",
+            "poster": "https://static.ppvservices.st/assets/thumb/084b03e74f5db10e842d9b74f027a0db-thumbnail.jpg",
+            "blurhash": "L29@0ChfMeNEX,00^7^kUd:%~q9G",
+            "colors": [
+              "#141519",
+              "#241e1e"
+            ],
+            "uri_name": "f1/2026/singapore/sprint-q",
+            "starts_at": 1791549000,
+            "ends_at": 1791555240,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Motorsports",
+            "iframe": "https://embedindia.st/embed/f1/2026/singapore/sprint-q",
+            "substreams": [
+              {
+                "id": 29991,
+                "name": "Singapore Grand Prix - Sprint Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---sprint-qualifying-29991",
+                "source_tag": "Apple TV (F1TV)",
+                "locale": "en-us",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-qualifying-29991"
+              },
+              {
+                "id": 29993,
+                "name": "Singapore Grand Prix - Sprint Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---sprint-qualifying-29993",
+                "source_tag": "DAZN F1",
+                "locale": "es",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-qualifying-29993"
+              },
+              {
+                "id": 29994,
+                "name": "Singapore Grand Prix - Sprint Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---sprint-qualifying-29994",
+                "source_tag": "Sky Sport F1",
+                "locale": "de",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-qualifying-29994"
+              },
+              {
+                "id": 29995,
+                "name": "Singapore Grand Prix - Sprint Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---sprint-qualifying-29995",
+                "source_tag": "Sky Sport F1",
+                "locale": "it",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-qualifying-29995"
+              },
+              {
+                "id": 29996,
+                "name": "Singapore Grand Prix - Sprint Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---sprint-qualifying-29996",
+                "source_tag": "V Sport Motor",
+                "locale": "sv",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-qualifying-29996"
+              },
+              {
+                "id": 29997,
+                "name": "Singapore Grand Prix - Sprint Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---sprint-qualifying-29997",
+                "source_tag": "Viaplay",
+                "locale": "nl",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-qualifying-29997"
+              },
+              {
+                "id": 29998,
+                "name": "Singapore Grand Prix - Sprint Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---sprint-qualifying-29998",
+                "source_tag": "Nova Sport 5",
+                "locale": "cs",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-qualifying-29998"
+              },
+              {
+                "id": 29999,
+                "name": "Singapore Grand Prix - Sprint Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---sprint-qualifying-29999",
+                "source_tag": "Eleven Sports 1",
+                "locale": "pl",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-qualifying-29999"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 30000,
+            "name": "Singapore Grand Prix - Sprint",
+            "tag": "Formula 1",
+            "source_tag": "Sky Sports F1",
+            "poster": "https://static.ppvservices.st/assets/thumb/74077fd9d858adcb923e5f0e75bceebe-thumbnail.jpg",
+            "blurhash": "L39jcVQ9vNrq-n4nxb-pHt+t~WD*",
+            "colors": [
+              "#141519",
+              "#241e1e"
+            ],
+            "uri_name": "f1/2026/singapore/sprint",
+            "starts_at": 1791622800,
+            "ends_at": 1791630000,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Motorsports",
+            "iframe": "https://embedindia.st/embed/f1/2026/singapore/sprint",
+            "substreams": [
+              {
+                "id": 30002,
+                "name": "Singapore Grand Prix - Sprint",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---sprint-30002",
+                "source_tag": "Apple TV (F1TV)",
+                "locale": "en-us",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-30002"
+              },
+              {
+                "id": 30004,
+                "name": "Singapore Grand Prix - Sprint",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---sprint-30004",
+                "source_tag": "DAZN F1",
+                "locale": "es",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-30004"
+              },
+              {
+                "id": 30005,
+                "name": "Singapore Grand Prix - Sprint",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---sprint-30005",
+                "source_tag": "Sky Sport F1",
+                "locale": "de",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-30005"
+              },
+              {
+                "id": 30006,
+                "name": "Singapore Grand Prix - Sprint",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---sprint-30006",
+                "source_tag": "Sky Sport F1",
+                "locale": "it",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-30006"
+              },
+              {
+                "id": 30007,
+                "name": "Singapore Grand Prix - Sprint",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---sprint-30007",
+                "source_tag": "V Sport Motor",
+                "locale": "sv",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-30007"
+              },
+              {
+                "id": 30008,
+                "name": "Singapore Grand Prix - Sprint",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---sprint-30008",
+                "source_tag": "Viaplay",
+                "locale": "nl",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-30008"
+              },
+              {
+                "id": 30009,
+                "name": "Singapore Grand Prix - Sprint",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---sprint-30009",
+                "source_tag": "Nova Sport 5",
+                "locale": "cs",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-30009"
+              },
+              {
+                "id": 30010,
+                "name": "Singapore Grand Prix - Sprint",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---sprint-30010",
+                "source_tag": "Eleven Sports 1",
+                "locale": "pl",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-30010"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 30011,
+            "name": "Singapore Grand Prix - Qualifying",
+            "tag": "Formula 1",
+            "source_tag": "Sky Sports F1",
+            "poster": "https://static.ppvservices.st/assets/thumb/05a60ffe419dbfbb9462705a164895ee-thumbnail.jpg",
+            "blurhash": "L39s||dDq^Ri%K0K$+=|M1+t~WD*",
+            "colors": [
+              "#141519",
+              "#241e1e"
+            ],
+            "uri_name": "f1/2026/singapore/qualifying",
+            "starts_at": 1791637200,
+            "ends_at": 1791644400,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Motorsports",
+            "iframe": "https://embedindia.st/embed/f1/2026/singapore/qualifying",
+            "substreams": [
+              {
+                "id": 30013,
+                "name": "Singapore Grand Prix - Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---qualifying-30013",
+                "source_tag": "Apple TV (F1TV)",
+                "locale": "en-us",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---qualifying-30013"
+              },
+              {
+                "id": 30015,
+                "name": "Singapore Grand Prix - Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---qualifying-30015",
+                "source_tag": "DAZN F1",
+                "locale": "es",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---qualifying-30015"
+              },
+              {
+                "id": 30016,
+                "name": "Singapore Grand Prix - Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---qualifying-30016",
+                "source_tag": "Sky Sport F1",
+                "locale": "de",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---qualifying-30016"
+              },
+              {
+                "id": 30017,
+                "name": "Singapore Grand Prix - Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---qualifying-30017",
+                "source_tag": "Sky Sport F1",
+                "locale": "it",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---qualifying-30017"
+              },
+              {
+                "id": 30018,
+                "name": "Singapore Grand Prix - Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---qualifying-30018",
+                "source_tag": "V Sport Motor",
+                "locale": "sv",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---qualifying-30018"
+              },
+              {
+                "id": 30019,
+                "name": "Singapore Grand Prix - Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---qualifying-30019",
+                "source_tag": "Viaplay",
+                "locale": "nl",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---qualifying-30019"
+              },
+              {
+                "id": 30020,
+                "name": "Singapore Grand Prix - Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---qualifying-30020",
+                "source_tag": "Nova Sport 5",
+                "locale": "cs",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---qualifying-30020"
+              },
+              {
+                "id": 30021,
+                "name": "Singapore Grand Prix - Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---qualifying-30021",
+                "source_tag": "Eleven Sports 1",
+                "locale": "pl",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---qualifying-30021"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 30022,
+            "name": "Singapore Grand Prix - Race",
+            "tag": "Formula 1",
+            "source_tag": "Sky Sports F1",
+            "poster": "https://static.ppvservices.st/assets/thumb/bb33c68839419137b1f98852f1f3a016-thumbnail.jpg",
+            "blurhash": "L39jcVL$vNv}-n4nxb-pHt+t~WIB",
+            "colors": [
+              "#141519",
+              "#241e1e"
+            ],
+            "uri_name": "f1/2026/singapore/race",
+            "starts_at": 1791720000,
+            "ends_at": 1791730800,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Motorsports",
+            "iframe": "https://embedindia.st/embed/f1/2026/singapore/race",
+            "substreams": [
+              {
+                "id": 30024,
+                "name": "Singapore Grand Prix - Race",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---race-30024",
+                "source_tag": "Apple TV (F1TV)",
+                "locale": "en-us",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---race-30024"
+              },
+              {
+                "id": 30026,
+                "name": "Singapore Grand Prix - Race",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---race-30026",
+                "source_tag": "DAZN F1",
+                "locale": "es",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---race-30026"
+              },
+              {
+                "id": 30027,
+                "name": "Singapore Grand Prix - Race",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---race-30027",
+                "source_tag": "Sky Sport F1",
+                "locale": "de",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---race-30027"
+              },
+              {
+                "id": 30028,
+                "name": "Singapore Grand Prix - Race",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---race-30028",
+                "source_tag": "Sky Sport F1",
+                "locale": "it",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---race-30028"
+              },
+              {
+                "id": 30029,
+                "name": "Singapore Grand Prix - Race",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---race-30029",
+                "source_tag": "V Sport Motor",
+                "locale": "sv",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---race-30029"
+              },
+              {
+                "id": 30030,
+                "name": "Singapore Grand Prix - Race",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---race-30030",
+                "source_tag": "Viaplay",
+                "locale": "nl",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---race-30030"
+              },
+              {
+                "id": 30031,
+                "name": "Singapore Grand Prix - Race",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---race-30031",
+                "source_tag": "Nova Sport 5",
+                "locale": "cs",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---race-30031"
+              },
+              {
+                "id": 30032,
+                "name": "Singapore Grand Prix - Race",
+                "tag": "Formula 1",
+                "uri_name": "singapore-grand-prix---race-30032",
+                "source_tag": "Eleven Sports 1",
+                "locale": "pl",
+                "iframe": "https://embedindia.st/embed/singapore-grand-prix---race-30032"
+              }
+            ],
+            "viewers": "0"
           }
         ]
       },
@@ -389,7 +4264,119 @@
             "category_name": "Rugby",
             "iframe": "https://embedindia.st/embed/247-fox-league",
             "substreams": [],
-            "viewers": "3"
+            "viewers": "2"
+          }
+        ]
+      },
+      {
+        "category": "Wrestling",
+        "id": 38,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 29973,
+            "name": "WWE NXT",
+            "tag": "Wrestling",
+            "source_tag": "CW on ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
+            "blurhash": "LLGSDh4n00RjD%~qof4nD%%MWBj[",
+            "colors": [
+              "#030303",
+              "#040404"
+            ],
+            "uri_name": "wwe/2026-10-06",
+            "starts_at": 1791331200,
+            "ends_at": 1791342000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Wrestling",
+            "iframe": "https://embedindia.st/embed/wwe/2026-10-06",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29974,
+            "name": "AEW Wednesday Night Dynamite",
+            "tag": "Wrestling",
+            "source_tag": "TBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",
+            "blurhash": "LHExeyNWV6M|$dbtRir?ZtWZ~Bwg",
+            "colors": [
+              "#152441",
+              "#9c4ec5"
+            ],
+            "uri_name": "aew/2026-10-07",
+            "starts_at": 1791417600,
+            "ends_at": 1791428400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Wrestling",
+            "iframe": "https://embedindia.st/embed/aew/2026-10-07",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29975,
+            "name": "TNA Impact",
+            "tag": "Wrestling",
+            "source_tag": "AMC",
+            "poster": "https://static.ppvservices.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",
+            "blurhash": "L6GFdr].0|t700EfGZR*3;J-{gt6",
+            "colors": [
+              "#030303",
+              "#050505"
+            ],
+            "uri_name": "tna/2026-10-08",
+            "starts_at": 1791507600,
+            "ends_at": 1791518400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Wrestling",
+            "iframe": "https://embedindia.st/embed/tna/2026-10-08",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29976,
+            "name": "WWE Friday Night Smackdown",
+            "tag": "Wrestling",
+            "source_tag": "USA",
+            "poster": "https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
+            "blurhash": "LF4ezej]M?s{kFkDf2fKIUWGxsfT",
+            "colors": [
+              "#001b65",
+              "#0001b4"
+            ],
+            "uri_name": "wwe/2026-10-09",
+            "starts_at": 1791590400,
+            "ends_at": 1791601200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Wrestling",
+            "iframe": "https://embedindia.st/embed/wwe/2026-10-09",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 29977,
+            "name": "AEW Saturday Night Collision",
+            "tag": "Wrestling",
+            "source_tag": "TNT",
+            "poster": "https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
+            "blurhash": "LDDk_9Na01of}mNwNMbF0TS#^cae",
+            "colors": [
+              "#210e10",
+              "#160c0a"
+            ],
+            "uri_name": "aew/2026-10-10",
+            "starts_at": 1791676800,
+            "ends_at": 1791687600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Wrestling",
+            "iframe": "https://embedindia.st/embed/aew/2026-10-10",
+            "substreams": [],
+            "viewers": "0"
           }
         ]
       },
@@ -417,7 +4404,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "16"
+            "viewers": "15"
           },
           {
             "id": 3663,
@@ -459,7 +4446,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "21"
+            "viewers": "16"
           },
           {
             "id": 5191,
