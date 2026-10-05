@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-05T13:25:07.936496+00:00",
+    "fetched_at": "2026-10-05T23:38:33.246167+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1791206710,
+    "timestamp": 1791243520,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.08605694770812988,
+    "performance": 0.0502161979675293,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "11",
+            "viewers": "27",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -57,7 +57,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-10-05/atl-no",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "129",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -995,7 +995,7 @@
             "category_name": "Australian Football",
             "iframe": "https://embedindia.st/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1025,7 +1025,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-10-05/chw-cle",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1331",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1048,7 +1048,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-10-05/nyy-tb",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "11",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1078,7 +1078,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/nba/2026-10-05/mem-atl",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "197",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1101,7 +1101,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/nba/2026-10-05/phx-det",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "295",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1124,7 +1124,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/nba/2026-10-05/ny-phi",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1303",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1147,7 +1147,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/nba/2026-10-05/min-mil",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "23",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1170,7 +1170,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/nba/2026-10-05/lal-sac",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1341,7 +1341,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "9",
+            "viewers": "7",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1364,7 +1364,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1375,213 +1375,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 30033,
-            "name": "Cyprus vs. Latvia",
-            "tag": "UEFA Nations League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/12e4b6c97d7388ebdaff90d99caade21-thumbnail.jpg",
-            "blurhash": "LSBo^4T#n-Myj[fkaza|4-MwbExt",
-            "colors": [
-              "#195dcc",
-              "#982242"
-            ],
-            "uri_name": "uefa-nations-league/2026-10-05/cyp-lva",
-            "starts_at": 1791216000,
-            "ends_at": 1791225000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-10-05/cyp-lva",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30034,
-            "name": "Bosnia-Herzegovina vs. Poland",
-            "tag": "UEFA Nations League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/d1500d17fdf2d241c6bbf0973c9d425c-thumbnail.jpg",
-            "blurhash": "LCE{X}00?a%2tQadazbb00~WM{o|",
-            "colors": [
-              "#112854",
-              "#ffffff"
-            ],
-            "uri_name": "uefa-nations-league/2026-10-05/bih-pol",
-            "starts_at": 1791225900,
-            "ends_at": 1791234900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-10-05/bih-pol",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30035,
-            "name": "France vs. Belgium",
-            "tag": "UEFA Nations League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/57715422da5e306ec3b010c2108bf443-thumbnail.jpg",
-            "blurhash": "LCE0+]2z;SNXoLa}aya|00;JOT,]",
-            "colors": [
-              "#00007e",
-              "#e20612"
-            ],
-            "uri_name": "uefa-nations-league/2026-10-05/fra-bel",
-            "starts_at": 1791225900,
-            "ends_at": 1791234900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-10-05/fra-bel",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30036,
-            "name": "Italy vs. Türkiye",
-            "tag": "UEFA Nations League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/9eb75c962227e9e9985fd29985eefb9a-thumbnail.jpg",
-            "blurhash": "L8Frl000_0R5s;ayazay00}mR5?t",
-            "colors": [
-              "#103cd3",
-              "#ffffff"
-            ],
-            "uri_name": "uefa-nations-league/2026-10-05/ita-tur",
-            "starts_at": 1791225900,
-            "ends_at": 1791234900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-10-05/ita-tur",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30037,
-            "name": "Montenegro vs. Armenia",
-            "tag": "UEFA Nations League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/ba8da6eb35ed27d152a698794edc6c08-thumbnail.jpg",
-            "blurhash": "L2Id5#:O@[-Z#EkSaei~00Xq7yI*",
-            "colors": [
-              "#e70103",
-              "#dc2400"
-            ],
-            "uri_name": "uefa-nations-league/2026-10-05/mne-arm",
-            "starts_at": 1791225900,
-            "ends_at": 1791234900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-10-05/mne-arm",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30038,
-            "name": "Northern Ireland vs. Georgia",
-            "tag": "UEFA Nations League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/451421769348db5ec9ff287fec46108e-thumbnail.jpg",
-            "blurhash": "L8JGc^00*Jw{s:axazfQ00.SIApv",
-            "colors": [
-              "#cc0001",
-              "#ffffff"
-            ],
-            "uri_name": "uefa-nations-league/2026-10-05/nir-geo",
-            "starts_at": 1791225900,
-            "ends_at": 1791234900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-10-05/nir-geo",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30039,
-            "name": "Romania vs. Sweden",
-            "tag": "UEFA Nations League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/41f1a22ebb99dbf9b991a9fa9f3897c3-thumbnail.jpg",
-            "blurhash": "L3K0lO=o-$3X%0jsaybH00BqD=@?",
-            "colors": [
-              "#fdd118",
-              "#fecb02"
-            ],
-            "uri_name": "uefa-nations-league/2026-10-05/rou-swe",
-            "starts_at": 1791225900,
-            "ends_at": 1791234900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-10-05/rou-swe",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30040,
-            "name": "Ukraine vs. Hungary",
-            "tag": "UEFA Nations League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/62f7ecd76292bf9d18a1d8ed57910aea-thumbnail.jpg",
-            "blurhash": "LQIpbB?+tLj[jcWXa{oJ0MRVR.Rk",
-            "colors": [
-              "#fddc01",
-              "#ce2029"
-            ],
-            "uri_name": "uefa-nations-league/2026-10-05/ukr-hun",
-            "starts_at": 1791225900,
-            "ends_at": 1791234900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/uefa-nations-league/2026-10-05/ukr-hun",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30041,
-            "name": "Liechtenstein vs. Gibraltar",
-            "tag": "Men's International Friendly",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/bb7388472d18c4b6362417bb0f918460-thumbnail.jpg",
-            "blurhash": "LGDtDL0[#s%MbvWBjtof0c=^SwR4",
-            "colors": [
-              "#0000cc",
-              "#de2a19"
-            ],
-            "uri_name": "mens-international-friendly/2026-10-05/lie-gib",
-            "starts_at": 1791225900,
-            "ends_at": 1791234900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/mens-international-friendly/2026-10-05/lie-gib",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 30042,
             "name": "Argentina vs. Benin",
@@ -1601,7 +1394,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/mens-international-friendly/2026-10-06/arg-ben",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "7",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1624,7 +1417,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/mls/2026-10-06/chi-van",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3977,7 +3770,7 @@
             "category_name": "Golf",
             "iframe": "https://embedindia.st/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4007,7 +3800,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl-network-29780",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4030,7 +3823,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-05/phi-tb",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "212",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4053,7 +3846,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-05/ott-bos",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "108",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4076,7 +3869,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-05/wpg-pit",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "107",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4099,7 +3892,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-05/sj-dal",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4768,7 +4561,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "15",
+            "viewers": "9",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4791,7 +4584,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-cows",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4814,7 +4607,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "16",
+            "viewers": "17",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4837,7 +4630,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4860,7 +4653,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "6",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4883,7 +4676,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/rally-tv",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4892,11 +4685,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-10-05T13:34:47.976549+00:00",
+    "extracted_at": "2026-10-05T23:47:36.297179+00:00",
     "source_file": "events.json",
-    "total_streams": 188,
+    "total_streams": 179,
     "found": 0,
-    "not_found": 188,
+    "not_found": 179,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
