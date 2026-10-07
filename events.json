@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-06T22:12:47.919726+00:00",
+    "fetched_at": "2026-10-07T03:56:55.587889+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1791324770,
+    "timestamp": 1791345420,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.0462040901184082,
+    "performance": 0.053344011306762695,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "14"
+            "viewers": "7"
           },
           {
             "id": 29819,
@@ -76,7 +76,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfl/2026-10-09/edm-ham",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 29871,
@@ -201,7 +201,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfb/2026-10-10/ucf-okst",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 29850,
@@ -681,7 +681,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-10-11/lv-ne",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 29829,
@@ -908,27 +908,6 @@
         "always_live": false,
         "streams": [
           {
-            "id": 30062,
-            "name": "Los Angeles Dodgers vs. Atlanta Braves",
-            "tag": "MLB",
-            "source_tag": "FS1",
-            "poster": "https://static.ppvservices.st/assets/thumb/a8172e5c42ced7685e5159def4a7c6fd-thumbnail.jpg",
-            "blurhash": "LEB.+u3sw3nNV[a}j[oK00#QkVof",
-            "colors": [
-              "#005a9c",
-              "#b01c2e"
-            ],
-            "uri_name": "mlb/2026-10-06/lad-atl",
-            "starts_at": 1791324000,
-            "ends_at": 1791336600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-10-06/lad-atl",
-            "substreams": [],
-            "viewers": "1349"
-          },
-          {
             "id": 30063,
             "name": "Milwaukee Brewers vs. San Diego Padres",
             "tag": "MLB",
@@ -947,7 +926,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-10-06/mil-sd",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "2144"
           }
         ]
       },
@@ -956,68 +935,6 @@
         "id": 37,
         "always_live": false,
         "streams": [
-          {
-            "id": 29830,
-            "name": "Brooklyn Nets vs. Charlotte Hornets",
-            "tag": "NBA",
-            "source_tag": "NBA TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/e704c7a5fdbae6d9044284398d635bf9-thumbnail.jpg",
-            "blurhash": "L88hg|{bTK4.t7ayfQjt0057s9?b",
-            "colors": [
-              "#000000",
-              "#008ca8"
-            ],
-            "uri_name": "nba/2026-10-06/bkn-cha",
-            "starts_at": 1791327600,
-            "ends_at": 1791338400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://embedindia.st/embed/nba/2026-10-06/bkn-cha",
-            "substreams": [
-              {
-                "id": 30075,
-                "name": "Brooklyn Nets vs. Charlotte Hornets",
-                "tag": "NBA",
-                "uri_name": "brooklyn-nets-vs-charlotte-hornets-30075",
-                "source_tag": "Hornets Broadcast",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/brooklyn-nets-vs-charlotte-hornets-30075"
-              }
-            ],
-            "viewers": "6"
-          },
-          {
-            "id": 29832,
-            "name": "New Orleans Pelicans vs. Oklahoma City Thunder",
-            "tag": "NBA",
-            "source_tag": "Thunder Broadcast",
-            "poster": "https://static.ppvservices.st/assets/thumb/7974fb81723c88aacfdf19dc228997b4-thumbnail.jpg",
-            "blurhash": "L65POfHXI^-qs:WVj[oJ00%jxrIp",
-            "colors": [
-              "#0a2240",
-              "#007ac1"
-            ],
-            "uri_name": "nba/2026-10-06/no-okc",
-            "starts_at": 1791331200,
-            "ends_at": 1791342000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://embedindia.st/embed/nba/2026-10-06/no-okc",
-            "substreams": [
-              {
-                "id": 30076,
-                "name": "New Orleans Pelicans vs. Oklahoma City Thunder",
-                "tag": "NBA",
-                "uri_name": "new-orleans-pelicans-vs-oklahoma-city-thunder-30076",
-                "source_tag": "Pelicans Broadcast",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/new-orleans-pelicans-vs-oklahoma-city-thunder-30076"
-              }
-            ],
-            "viewers": "2"
-          },
           {
             "id": 29834,
             "name": "Denver Nuggets vs. Utah Jazz",
@@ -1047,7 +964,7 @@
                 "iframe": "https://embedindia.st/embed/denver-nuggets-vs-utah-jazz-30077"
               }
             ],
-            "viewers": "1"
+            "viewers": "53"
           },
           {
             "id": 29837,
@@ -1087,7 +1004,7 @@
                 "iframe": "https://embedindia.st/embed/los-angeles-lakers-vs-golden-state-warriors-30079"
               }
             ],
-            "viewers": "1"
+            "viewers": "646"
           },
           {
             "id": 30061,
@@ -1218,34 +1135,6 @@
         ]
       },
       {
-        "category": "Combat Sports",
-        "id": 33,
-        "always_live": false,
-        "streams": [
-          {
-            "id": 29972,
-            "name": "Dana White's Contender Series",
-            "tag": "Mixed Martial Arts (MMA)",
-            "source_tag": "Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/a5f35940ef6309a61060dede0638e1d3-thumbnail.jpg",
-            "blurhash": "L97#+in%0LV@t7emR*a}03X9~Voz",
-            "colors": [
-              "#169bbc",
-              "#15abcc"
-            ],
-            "uri_name": "dwcs/2026-10-06",
-            "starts_at": 1791327600,
-            "ends_at": 1791342000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Combat Sports",
-            "iframe": "https://embedindia.st/embed/dwcs/2026-10-06",
-            "substreams": [],
-            "viewers": "17"
-          }
-        ]
-      },
-      {
         "category": "Cricket",
         "id": 47,
         "always_live": false,
@@ -1288,7 +1177,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "8"
+            "viewers": "4"
           },
           {
             "id": 27496,
@@ -1309,7 +1198,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "3"
+            "viewers": "1"
           }
         ]
       },
@@ -1318,109 +1207,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 30042,
-            "name": "Argentina vs. Benin",
-            "tag": "Men's International Friendly",
-            "source_tag": "Premier Sports 2",
-            "poster": "https://static.ppvservices.st/assets/thumb/71a438aa413fb1cbdd5d3b687b540ba8-thumbnail.jpg",
-            "blurhash": "LX9k~ax|sqV?kBf8fjfj8_Z}WokD",
-            "colors": [
-              "#74acdd",
-              "#008651"
-            ],
-            "uri_name": "mens-international-friendly/2026-10-06/arg-ben",
-            "starts_at": 1791327600,
-            "ends_at": 1791336600,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/mens-international-friendly/2026-10-06/arg-ben",
-            "substreams": [],
-            "viewers": "320"
-          },
-          {
-            "id": 30080,
-            "name": "Colombia vs. Peru",
-            "tag": "Men's International Friendly",
-            "source_tag": "M+ Vamos",
-            "poster": "https://static.ppvservices.st/assets/thumb/781997938aaec06fb1a80c45f96aa93a-thumbnail.jpg",
-            "blurhash": "LNI{+a.ao[s;odk9fQa#0NVzaiRj",
-            "colors": [
-              "#fbd534",
-              "#cd2930"
-            ],
-            "uri_name": "mens-international-friendly/2026-10-06/col-per",
-            "starts_at": 1791330300,
-            "ends_at": 1791339300,
-            "always_live": 0,
-            "locale": "es",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/mens-international-friendly/2026-10-06/col-per",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
-            "id": 30081,
-            "name": "United States vs. Canada",
-            "tag": "Men's International Friendly",
-            "source_tag": "TNT",
-            "poster": "https://static.ppvservices.st/assets/thumb/794770faa734073f01ad7be14a77af4c-thumbnail.jpg",
-            "blurhash": "L49?u86FIf=dWZR*WVoK00][$_Ep",
-            "colors": [
-              "#233065",
-              "#1f20ec"
-            ],
-            "uri_name": "mens-international-friendly/2026-10-07/usa-can",
-            "starts_at": 1791331200,
-            "ends_at": 1791340200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/mens-international-friendly/2026-10-07/usa-can",
-            "substreams": [
-              {
-                "id": 30082,
-                "name": "United States vs. Canada",
-                "tag": "Men's International Friendly",
-                "uri_name": "united-states-vs-canada-30082",
-                "source_tag": "TSN1",
-                "locale": "en-ca",
-                "iframe": "https://embedindia.st/embed/united-states-vs-canada-30082"
-              },
-              {
-                "id": 30083,
-                "name": "United States vs. Canada",
-                "tag": "Men's International Friendly",
-                "uri_name": "united-states-vs-canada-30083",
-                "source_tag": "OneSoccer",
-                "locale": "en-ca",
-                "iframe": "https://embedindia.st/embed/united-states-vs-canada-30083"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 29921,
-            "name": "Chicago Fire FC vs. Vancouver Whitecaps",
-            "tag": "MLS",
-            "source_tag": "Apple TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/131fc402a6fdb23c6282b3932235d04b-thumbnail.jpg",
-            "blurhash": "LSCY2?}SwLM{j[fQf6jt4-IpX7o}",
-            "colors": [
-              "#ce1432",
-              "#002395"
-            ],
-            "uri_name": "mls/2026-10-06/chi-van",
-            "starts_at": 1791333000,
-            "ends_at": 1791343800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://embedindia.st/embed/mls/2026-10-06/chi-van",
-            "substreams": [],
-            "viewers": "0"
-          },
           {
             "id": 30084,
             "name": "Mexico vs. Chile",
@@ -1440,7 +1226,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/mens-international-friendly/2026-10-07/mex-chi",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "353"
           },
           {
             "id": 29964,
@@ -1545,7 +1331,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/belgian-pro-league/2026-10-09/waa-lom",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 29873,
@@ -2847,7 +2633,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/laliga/2026-10-11/elc-cel",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 29968,
@@ -3589,7 +3375,7 @@
             "category_name": "Golf",
             "iframe": "https://embedindia.st/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "2"
+            "viewers": "1"
           }
         ]
       },
@@ -3617,154 +3403,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl-network-29780",
             "substreams": [],
-            "viewers": "3"
-          },
-          {
-            "id": 30047,
-            "name": "Carolina Hurricanes vs. Montreal Canadiens",
-            "tag": "NHL",
-            "source_tag": "ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/6fc004a7df4ddb50e198717ed4cec741-thumbnail.jpg",
-            "blurhash": "L8Hkej{|iwShsojZjZjZ00J-kqf5",
-            "colors": [
-              "#e30426",
-              "#c41230"
-            ],
-            "uri_name": "nhl/2026-10-06/car-mtl",
-            "starts_at": 1791327600,
-            "ends_at": 1791338400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-10-06/car-mtl",
-            "substreams": [],
-            "viewers": "5"
-          },
-          {
-            "id": 30048,
-            "name": "Nashville Predators vs. Toronto Maple Leafs",
-            "tag": "NHL",
-            "source_tag": "ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/e59c8803122957f3b0c4fd427e4590bc-thumbnail.jpg",
-            "blurhash": "LaF5T%}%w]ogfQj[fQay4:NgW=Rj",
-            "colors": [
-              "#fdba31",
-              "#003e7e"
-            ],
-            "uri_name": "nhl/2026-10-06/nsh-tor",
-            "starts_at": 1791327600,
-            "ends_at": 1791338400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-10-06/nsh-tor",
-            "substreams": [],
-            "viewers": "4"
-          },
-          {
-            "id": 30049,
-            "name": "Ottawa Senators vs. Detroit Red Wings",
-            "tag": "NHL",
-            "source_tag": "DSN",
-            "poster": "https://static.ppvservices.st/assets/thumb/cc1ead99043e6e69ade45e97964ac7f4-thumbnail.jpg",
-            "blurhash": "L3IdOd1ZzC^8w|jFfkW:00^7LL5i",
-            "colors": [
-              "#dd1a32",
-              "#e30526"
-            ],
-            "uri_name": "nhl/2026-10-06/ott-det",
-            "starts_at": 1791327600,
-            "ends_at": 1791338400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-10-06/ott-det",
-            "substreams": [],
             "viewers": "1"
-          },
-          {
-            "id": 30050,
-            "name": "Utah Mammoth vs. New Jersey Devils",
-            "tag": "NHL",
-            "source_tag": "MSGSN",
-            "poster": "https://static.ppvservices.st/assets/thumb/0764e0dfd0e4c2f7ee5a6bd16a243964-thumbnail.jpg",
-            "blurhash": "LBDQZc1a+b,?ofayjtj[0K}ETJWX",
-            "colors": [
-              "#000000",
-              "#e30b2b"
-            ],
-            "uri_name": "nhl/2026-10-06/uta-nj",
-            "starts_at": 1791327600,
-            "ends_at": 1791338400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-10-06/uta-nj",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
-            "id": 30051,
-            "name": "Minnesota Wild vs. Buffalo Sabres",
-            "tag": "NHL",
-            "source_tag": "MSGB",
-            "poster": "https://static.ppvservices.st/assets/thumb/0aa521648fc56dc88f4a47c0d6244dbf-thumbnail.jpg",
-            "blurhash": "L56IKqDzD+-?xuRjayt700%j-pIA",
-            "colors": [
-              "#124734",
-              "#00468b"
-            ],
-            "uri_name": "nhl/2026-10-06/min-buf",
-            "starts_at": 1791327600,
-            "ends_at": 1791338400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-10-06/min-buf",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
-            "id": 30052,
-            "name": "New York Islanders vs. New York Rangers",
-            "tag": "NHL",
-            "source_tag": "ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/8c600bd85fd275b2a2af480dbe4f940c-thumbnail.jpg",
-            "blurhash": "L28qw5[78|LNo~tRofM{007P?tzo",
-            "colors": [
-              "#00529b",
-              "#0056ae"
-            ],
-            "uri_name": "nhl/2026-10-06/nyi-nyr",
-            "starts_at": 1791329400,
-            "ends_at": 1791340200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-10-06/nyi-nyr",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
-            "id": 30053,
-            "name": "St. Louis Blues vs. Chicago Blackhawks",
-            "tag": "NHL",
-            "source_tag": "CHSN",
-            "poster": "https://static.ppvservices.st/assets/thumb/fab56bd91a52901cda32e180e6af0213-thumbnail.jpg",
-            "blurhash": "LKC#fc3Z#qs7j[j[fQaz55+@X7n,",
-            "colors": [
-              "#0070b9",
-              "#e31937"
-            ],
-            "uri_name": "nhl/2026-10-06/stl-chi",
-            "starts_at": 1791331200,
-            "ends_at": 1791342000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-10-06/stl-chi",
-            "substreams": [],
-            "viewers": "0"
           },
           {
             "id": 30054,
@@ -3785,7 +3424,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-06/vgk-sea",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "100"
           },
           {
             "id": 30055,
@@ -3806,7 +3445,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-06/fla-la",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "114"
           }
         ]
       },
@@ -4311,7 +3950,7 @@
             "category_name": "Rugby",
             "iframe": "https://embedindia.st/embed/247-fox-league",
             "substreams": [],
-            "viewers": "2"
+            "viewers": "1"
           }
         ]
       },
@@ -4320,48 +3959,6 @@
         "id": 38,
         "always_live": false,
         "streams": [
-          {
-            "id": 29973,
-            "name": "WWE NXT",
-            "tag": "Wrestling",
-            "source_tag": "CW on ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
-            "blurhash": "LLGSDh4n00RjD%~qof4nD%%MWBj[",
-            "colors": [
-              "#030303",
-              "#040404"
-            ],
-            "uri_name": "wwe/2026-10-06",
-            "starts_at": 1791331200,
-            "ends_at": 1791342000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Wrestling",
-            "iframe": "https://embedindia.st/embed/wwe/2026-10-06",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
-            "id": 29974,
-            "name": "AEW Wednesday Night Dynamite",
-            "tag": "Wrestling",
-            "source_tag": "TBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",
-            "blurhash": "LHExeyNWV6M|$dbtRir?ZtWZ~Bwg",
-            "colors": [
-              "#152441",
-              "#9c4ec5"
-            ],
-            "uri_name": "aew/2026-10-07",
-            "starts_at": 1791417600,
-            "ends_at": 1791428400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Wrestling",
-            "iframe": "https://embedindia.st/embed/aew/2026-10-07",
-            "substreams": [],
-            "viewers": "0"
-          },
           {
             "id": 29975,
             "name": "TNA Impact",
@@ -4406,7 +4003,7 @@
           },
           {
             "id": 29977,
-            "name": "AEW Saturday Night Collision",
+            "name": "AEW Grand Slam: Collision",
             "tag": "Wrestling",
             "source_tag": "TNT",
             "poster": "https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
@@ -4451,7 +4048,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "20"
+            "viewers": "13"
           },
           {
             "id": 3663,
@@ -4472,7 +4069,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-cows",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "3"
           },
           {
             "id": 8008,
@@ -4493,7 +4090,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "7"
+            "viewers": "29"
           },
           {
             "id": 5191,
@@ -4514,7 +4111,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 16623,
@@ -4535,7 +4132,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "5"
           },
           {
             "id": 17270,
