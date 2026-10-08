@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-07T22:34:26.312110+00:00",
+    "fetched_at": "2026-10-08T04:09:49.324706+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1791412470,
+    "timestamp": 1791432590,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.05836200714111328,
+    "performance": 0.06321215629577637,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "9"
+            "viewers": "4"
           },
           {
             "id": 29819,
@@ -336,7 +336,7 @@
                 "iframe": "https://embedindia.st/embed/cfb/2026-10-10/miss-van/skycast"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 29858,
@@ -898,7 +898,7 @@
             "category_name": "Australian Football",
             "iframe": "https://embedindia.st/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           }
         ]
       },
@@ -907,69 +907,6 @@
         "id": 36,
         "always_live": false,
         "streams": [
-          {
-            "id": 30099,
-            "name": "Cleveland Guardians vs. Chicago White Sox",
-            "tag": "MLB",
-            "source_tag": "TBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/b28bf80d65bc7d52b673b21b198e9774-thumbnail.jpg",
-            "blurhash": "LOD7w4{#rrS~j[jtayfk0yKNkWi_",
-            "colors": [
-              "#c41e3a",
-              "#2b2b2b"
-            ],
-            "uri_name": "mlb/2026-10-07/cle-chw",
-            "starts_at": 1791403200,
-            "ends_at": 1791415800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-10-07/cle-chw",
-            "substreams": [],
-            "viewers": "734"
-          },
-          {
-            "id": 30100,
-            "name": "Los Angeles Dodgers vs. Atlanta Braves",
-            "tag": "MLB",
-            "source_tag": "FS1",
-            "poster": "https://static.ppvservices.st/assets/thumb/a8172e5c42ced7685e5159def4a7c6fd-thumbnail.jpg",
-            "blurhash": "LEB.+u3sw3nNV[a}j[oK00#QkVof",
-            "colors": [
-              "#005a9c",
-              "#b01c2e"
-            ],
-            "uri_name": "mlb/2026-10-07/lad-atl",
-            "starts_at": 1791410400,
-            "ends_at": 1791423000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-10-07/lad-atl",
-            "substreams": [],
-            "viewers": "1207"
-          },
-          {
-            "id": 30101,
-            "name": "Tampa Bay Rays vs. New York Yankees",
-            "tag": "MLB",
-            "source_tag": "TBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/87041ef1a76f1feaeae30212907339f9-thumbnail.jpg",
-            "blurhash": "L38ESpKB4o%1azt7t7of00$__2Io",
-            "colors": [
-              "#1a3e6e",
-              "#0c2340"
-            ],
-            "uri_name": "mlb/2026-10-07/tb-nyy",
-            "starts_at": 1791417600,
-            "ends_at": 1791430200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://embedindia.st/embed/mlb/2026-10-07/tb-nyy",
-            "substreams": [],
-            "viewers": "0"
-          },
           {
             "id": 30102,
             "name": "Milwaukee Brewers vs. San Diego Padres",
@@ -989,6 +926,48 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-10-07/mil-sd",
             "substreams": [],
+            "viewers": "1829"
+          },
+          {
+            "id": 30120,
+            "name": "Cleveland Guardians vs. Chicago White Sox",
+            "tag": "MLB",
+            "source_tag": "TBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/b28bf80d65bc7d52b673b21b198e9774-thumbnail.jpg",
+            "blurhash": "LOD7w4{#rrS~j[jtayfk0yKNkWi_",
+            "colors": [
+              "#c41e3a",
+              "#2b2b2b"
+            ],
+            "uri_name": "mlb/2026-10-08/cle-chw",
+            "starts_at": 1791493200,
+            "ends_at": 1791505800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Baseball",
+            "iframe": "https://embedindia.st/embed/mlb/2026-10-08/cle-chw",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30121,
+            "name": "Tampa Bay Rays vs. New York Yankees",
+            "tag": "MLB",
+            "source_tag": "TBS",
+            "poster": "https://static.ppvservices.st/assets/thumb/87041ef1a76f1feaeae30212907339f9-thumbnail.jpg",
+            "blurhash": "L38ESpKB4o%1azt7t7of00$__2Io",
+            "colors": [
+              "#1a3e6e",
+              "#0c2340"
+            ],
+            "uri_name": "mlb/2026-10-08/tb-nyy",
+            "starts_at": 1791504000,
+            "ends_at": 1791516600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Baseball",
+            "iframe": "https://embedindia.st/embed/mlb/2026-10-08/tb-nyy",
+            "substreams": [],
             "viewers": "0"
           }
         ]
@@ -998,131 +977,6 @@
         "id": 37,
         "always_live": false,
         "streams": [
-          {
-            "id": 30056,
-            "name": "Minnesota Timberwolves vs. Indiana Pacers",
-            "tag": "NBA",
-            "source_tag": "NBA TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/f0c0b35ddaa1aa961adb05593336956d-thumbnail.jpg",
-            "blurhash": "LF84}Vt:WBMws.WXj[j?00VqoftS",
-            "colors": [
-              "#266092",
-              "#0c2340"
-            ],
-            "uri_name": "nba/2026-10-07/min-ind",
-            "starts_at": 1791414000,
-            "ends_at": 1791424800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://embedindia.st/embed/nba/2026-10-07/min-ind",
-            "substreams": [
-              {
-                "id": 30104,
-                "name": "Minnesota Timberwolves vs. Indiana Pacers",
-                "tag": "NBA",
-                "uri_name": "minnesota-timberwolves-vs-indiana-pacers-30104",
-                "source_tag": "Pacers Broadcast",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/minnesota-timberwolves-vs-indiana-pacers-30104"
-              }
-            ],
-            "viewers": "18"
-          },
-          {
-            "id": 30096,
-            "name": "New York Liberty vs. Atlanta Dream",
-            "tag": "WNBA",
-            "source_tag": "ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/4c25c1e3e0baca7a6804bc3f5decebff-thumbnail.jpg",
-            "blurhash": "LKFOT64Rb]t7ofayfQj[01#9niiw",
-            "colors": [
-              "#86cebc",
-              "#e31837"
-            ],
-            "uri_name": "wnba/2026-10-07/ny-atl",
-            "starts_at": 1791415800,
-            "ends_at": 1791426600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://embedindia.st/embed/wnba/2026-10-07/ny-atl",
-            "substreams": [],
-            "viewers": "2"
-          },
-          {
-            "id": 30057,
-            "name": "Orlando Magic vs. Memphis Grizzlies",
-            "tag": "NBA",
-            "source_tag": "NBA League Pass",
-            "poster": "https://static.ppvservices.st/assets/thumb/d80fefde6039fa03a4b8b29b24b9d761-thumbnail.jpg",
-            "blurhash": "L66bvKI$MxITa$azj@j]00M]%M-:",
-            "colors": [
-              "#0150b5",
-              "#5d76a9"
-            ],
-            "uri_name": "nba/2026-10-07/orl-mem",
-            "starts_at": 1791417600,
-            "ends_at": 1791428400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://embedindia.st/embed/nba/2026-10-07/orl-mem",
-            "substreams": [],
-            "viewers": "1"
-          },
-          {
-            "id": 30058,
-            "name": "Milwaukee Bucks vs. Oklahoma City Thunder",
-            "tag": "NBA",
-            "source_tag": "NBA League Pass",
-            "poster": "https://static.ppvservices.st/assets/thumb/db7256f893de96c1eeb3db7a272ef4a8-thumbnail.jpg",
-            "blurhash": "L65ivdL}Iy$-s:WVj[oK00%QxoI;",
-            "colors": [
-              "#00471b",
-              "#007ac1"
-            ],
-            "uri_name": "nba/2026-10-07/mil-okc",
-            "starts_at": 1791417600,
-            "ends_at": 1791428400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://embedindia.st/embed/nba/2026-10-07/mil-okc",
-            "substreams": [],
-            "viewers": "1"
-          },
-          {
-            "id": 30059,
-            "name": "Phoenix Suns vs. Chicago Bulls",
-            "tag": "NBA",
-            "source_tag": "NBA League Pass",
-            "poster": "https://static.ppvservices.st/assets/thumb/8093ae5ae7b15c7e1feb4302025f969c-thumbnail.jpg",
-            "blurhash": "L4DjA62yz?Ixt7WBWXX800|2tk]z",
-            "colors": [
-              "#29127a",
-              "#ce1141"
-            ],
-            "uri_name": "nba/2026-10-07/phx-chi",
-            "starts_at": 1791417600,
-            "ends_at": 1791428400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://embedindia.st/embed/nba/2026-10-07/phx-chi",
-            "substreams": [
-              {
-                "id": 30105,
-                "name": "Phoenix Suns vs. Chicago Bulls",
-                "tag": "NBA",
-                "uri_name": "phoenix-suns-vs-chicago-bulls-30105",
-                "source_tag": "Suns Broadcast",
-                "locale": "en",
-                "iframe": "https://embedindia.st/embed/phoenix-suns-vs-chicago-bulls-30105"
-              }
-            ],
-            "viewers": "1"
-          },
           {
             "id": 30097,
             "name": "Las Vegas Aces vs. Golden State Valkyries",
@@ -1142,7 +996,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/wnba/2026-10-07/lv-gs",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "126"
           },
           {
             "id": 30060,
@@ -1173,7 +1027,7 @@
                 "iframe": "https://embedindia.st/embed/golden-state-warriors-vs-portland-trail-blazers-30106"
               }
             ],
-            "viewers": "0"
+            "viewers": "456"
           },
           {
             "id": 30098,
@@ -1257,7 +1111,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/nba/2026-10-08/phi-bkn",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 30092,
@@ -1331,6 +1185,69 @@
             "iframe": "https://embedindia.st/embed/nba/2026-10-08/sac-lal",
             "substreams": [],
             "viewers": "0"
+          },
+          {
+            "id": 30119,
+            "name": "Illawarra Hawks vs. Tasmania JackJumpers",
+            "tag": "NBL",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/b5a9c5413a377012dd1d3fd3351df7cd-thumbnail.jpg",
+            "blurhash": "LQB{P${PwvS2j[f6fQj[9aK0bbbb",
+            "colors": [
+              "#ce202f",
+              "#008b45"
+            ],
+            "uri_name": "nbl/2026-10-09/hwk-tas",
+            "starts_at": 1791534600,
+            "ends_at": 1791545400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://embedindia.st/embed/nbl/2026-10-09/hwk-tas",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30117,
+            "name": "Houston Rockets vs. Dallas Mavericks",
+            "tag": "NBA",
+            "source_tag": "NBA TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/253a571d26edf4e2239b3094d6455fa8-thumbnail.jpg",
+            "blurhash": "LPCXz9{Ir]kqjujsjta|5PKPg2Rk",
+            "colors": [
+              "#ce0e2d",
+              "#0064b1"
+            ],
+            "uri_name": "nba/2026-10-09/hou-dal",
+            "starts_at": 1791547200,
+            "ends_at": 1791558000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://embedindia.st/embed/nba/2026-10-09/hou-dal",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30118,
+            "name": "Memphis Grizzlies vs. Chicago Bulls",
+            "tag": "NBA",
+            "source_tag": "NBA TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/fff7d6c909d4fc58c833b0dfe3b71523-thumbnail.jpg",
+            "blurhash": "LCDQ=[3ssq,@ofayj[j[0v[of$NG",
+            "colors": [
+              "#5d76a9",
+              "#ce1141"
+            ],
+            "uri_name": "nba/2026-10-09/mem-chi",
+            "starts_at": 1791590400,
+            "ends_at": 1791601200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://embedindia.st/embed/nba/2026-10-09/mem-chi",
+            "substreams": [],
+            "viewers": "0"
           }
         ]
       },
@@ -1377,7 +1294,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "4"
+            "viewers": "2"
           },
           {
             "id": 27496,
@@ -1398,7 +1315,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           }
         ]
       },
@@ -2098,7 +2015,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/laliga/2026-10-10/bar-get",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 29889,
@@ -3603,48 +3520,6 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl-network-29780",
             "substreams": [],
-            "viewers": "1"
-          },
-          {
-            "id": 30086,
-            "name": "Pittsburgh Penguins vs. Washington Capitals",
-            "tag": "NHL",
-            "source_tag": "TNT",
-            "poster": "https://static.ppvservices.st/assets/thumb/ca898515debb465e21b2e3811dfc59fb-thumbnail.jpg",
-            "blurhash": "L6D7UB3Q@[vhs:kCf6WB00{NPAx[",
-            "colors": [
-              "#000000",
-              "#d71830"
-            ],
-            "uri_name": "nhl/2026-10-07/pit-wsh",
-            "starts_at": 1791415800,
-            "ends_at": 1791426600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-10-07/pit-wsh",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
-            "id": 30087,
-            "name": "Colorado Avalanche vs. Winnipeg Jets",
-            "tag": "NHL",
-            "source_tag": "Prime Video",
-            "poster": "https://static.ppvservices.st/assets/thumb/fca38a9d2bcf53dfbd51228674110008-thumbnail.jpg",
-            "blurhash": "L79%3t{KZ$xZn%aeaykC00TIx]JA",
-            "colors": [
-              "#860038",
-              "#002d62"
-            ],
-            "uri_name": "nhl/2026-10-07/col-wpg",
-            "starts_at": 1791415800,
-            "ends_at": 1791426600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://embedindia.st/embed/nhl/2026-10-07/col-wpg",
-            "substreams": [],
             "viewers": "0"
           },
           {
@@ -3665,6 +3540,216 @@
             "locale": "en",
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-07/edm-ana",
+            "substreams": [],
+            "viewers": "397"
+          },
+          {
+            "id": 30107,
+            "name": "Philadelphia Flyers vs. Ottawa Senators",
+            "tag": "NHL",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/42794cdcca63551913131d182f0dc351-thumbnail.jpg",
+            "blurhash": "L7I-TX~7rX#SsoW;jZn%01a1XmK5",
+            "colors": [
+              "#fe5823",
+              "#dd1a32"
+            ],
+            "uri_name": "nhl/2026-10-08/phi-ott",
+            "starts_at": 1791500400,
+            "ends_at": 1791511200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://embedindia.st/embed/nhl/2026-10-08/phi-ott",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30108,
+            "name": "Utah Mammoth vs. Boston Bruins",
+            "tag": "NHL",
+            "source_tag": "NESN",
+            "poster": "https://static.ppvservices.st/assets/thumb/2db84f47917b11429df05640d55b8c25-thumbnail.jpg",
+            "blurhash": "L78W?N0NIU~9oea}fRj[00~9%M59",
+            "colors": [
+              "#000000",
+              "#231f20"
+            ],
+            "uri_name": "nhl/2026-10-08/uta-bos",
+            "starts_at": 1791500400,
+            "ends_at": 1791511200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://embedindia.st/embed/nhl/2026-10-08/uta-bos",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30109,
+            "name": "Dallas Stars vs. Buffalo Sabres",
+            "tag": "NHL",
+            "source_tag": "MSGB",
+            "poster": "https://static.ppvservices.st/assets/thumb/2c3dd61940638eb05e67f3fe61fab78a-thumbnail.jpg",
+            "blurhash": "L56I~XHEIo=~xuRjayt700#c%2E1",
+            "colors": [
+              "#20864c",
+              "#00468b"
+            ],
+            "uri_name": "nhl/2026-10-08/dal-buf",
+            "starts_at": 1791500400,
+            "ends_at": 1791511200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://embedindia.st/embed/nhl/2026-10-08/dal-buf",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30110,
+            "name": "Nashville Predators vs. Montreal Canadiens",
+            "tag": "NHL",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/b14fe1710380f9745ec31ad7baf770e5-thumbnail.jpg",
+            "blurhash": "LJIo:-_Ct1aioLfjfQfQ0LM+W?R+",
+            "colors": [
+              "#fdba31",
+              "#c41230"
+            ],
+            "uri_name": "nhl/2026-10-08/nsh-mtl",
+            "starts_at": 1791500400,
+            "ends_at": 1791511200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://embedindia.st/embed/nhl/2026-10-08/nsh-mtl",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30111,
+            "name": "Minnesota Wild vs. Tampa Bay Lightning",
+            "tag": "NHL",
+            "source_tag": "The Spot - MTN",
+            "poster": "https://static.ppvservices.st/assets/thumb/798dc8e710b9dac6b68a0a7b7e3a67f6-thumbnail.jpg",
+            "blurhash": "L56bS|9DIV.9off6j[WC00.A%LDi",
+            "colors": [
+              "#124734",
+              "#003e7e"
+            ],
+            "uri_name": "nhl/2026-10-08/min-tb",
+            "starts_at": 1791500400,
+            "ends_at": 1791511200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://embedindia.st/embed/nhl/2026-10-08/min-tb",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30112,
+            "name": "Vancouver Canucks vs. Carolina Hurricanes",
+            "tag": "NHL",
+            "source_tag": "CARNHL",
+            "poster": "https://static.ppvservices.st/assets/thumb/7d3f08d2864b53be90e8f289a80698d4-thumbnail.jpg",
+            "blurhash": "L8DaQG3Z[E#,V@RkfRof00{xKhr=",
+            "colors": [
+              "#003e7e",
+              "#e30426"
+            ],
+            "uri_name": "nhl/2026-10-08/van-car",
+            "starts_at": 1791500400,
+            "ends_at": 1791511200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://embedindia.st/embed/nhl/2026-10-08/van-car",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30113,
+            "name": "Chicago Blackhawks vs. New York Islanders",
+            "tag": "NHL",
+            "source_tag": "MSGSN",
+            "poster": "https://static.ppvservices.st/assets/thumb/994f798a65db872b5fcd9b0b577fac07-thumbnail.jpg",
+            "blurhash": "LPD@qK{cw1xbj]ayf7j[0yT0XRI:",
+            "colors": [
+              "#e31937",
+              "#00529b"
+            ],
+            "uri_name": "nhl/2026-10-08/chi-nyi",
+            "starts_at": 1791502200,
+            "ends_at": 1791513000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://embedindia.st/embed/nhl/2026-10-08/chi-nyi",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30114,
+            "name": "San Jose Sharks vs. St. Louis Blues",
+            "tag": "NHL",
+            "source_tag": "Disney+",
+            "poster": "https://static.ppvservices.st/assets/thumb/49599adc9328696786574781b81fa5df-thumbnail.jpg",
+            "blurhash": "L344KgXG9bo%oyWCayoK00kJ?FaK",
+            "colors": [
+              "#00788a",
+              "#0070b9"
+            ],
+            "uri_name": "nhl/2026-10-08/sj-stl",
+            "starts_at": 1791504000,
+            "ends_at": 1791514800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://embedindia.st/embed/nhl/2026-10-08/sj-stl",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30115,
+            "name": "Colorado Avalanche vs. Calgary Flames",
+            "tag": "NHL",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/378d3a4b8de04b1a6dfbad47948e5802-thumbnail.jpg",
+            "blurhash": "L7F.uZ3Xm,:iniWBf6fk00{KpIPB",
+            "colors": [
+              "#860038",
+              "#dd1a32"
+            ],
+            "uri_name": "nhl/2026-10-08/col-cgy",
+            "starts_at": 1791507600,
+            "ends_at": 1791518400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://embedindia.st/embed/nhl/2026-10-08/col-cgy",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30116,
+            "name": "Toronto Maple Leafs vs. Vegas Golden Knights",
+            "tag": "NHL",
+            "source_tag": "Scripps Sports",
+            "poster": "https://static.ppvservices.st/assets/thumb/468bdd453564f8f0d0cf680809bb3832-thumbnail.jpg",
+            "blurhash": "LC7_HByGM|ITjtWVayoL00ISxtx]",
+            "colors": [
+              "#003e7e",
+              "#344043"
+            ],
+            "uri_name": "nhl/2026-10-08/tor-vgk",
+            "starts_at": 1791511200,
+            "ends_at": 1791522000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://embedindia.st/embed/nhl/2026-10-08/tor-vgk",
             "substreams": [],
             "viewers": "0"
           }
@@ -4171,7 +4256,7 @@
             "category_name": "Rugby",
             "iframe": "https://embedindia.st/embed/247-fox-league",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           }
         ]
       },
@@ -4241,7 +4326,7 @@
             "category_name": "Wrestling",
             "iframe": "https://embedindia.st/embed/aew/2026-10-10",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           }
         ]
       },
@@ -4269,7 +4354,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "7"
+            "viewers": "22"
           },
           {
             "id": 3663,
@@ -4311,7 +4396,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-family-guy",
             "substreams": [],
-            "viewers": "13"
+            "viewers": "11"
           },
           {
             "id": 5191,
@@ -4332,7 +4417,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 16623,
@@ -4353,7 +4438,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "2"
           },
           {
             "id": 17270,
