@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-08T12:41:56.032852+00:00",
+    "fetched_at": "2026-10-08T22:46:49.392991+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1791463320,
+    "timestamp": 1791499610,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.046156883239746094,
+    "performance": 0.045735836029052734,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "4",
+            "viewers": "25",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -57,7 +57,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-10-08/tb-dal",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "21",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -159,7 +159,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfb/2026-10-10/iu-neb",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -735,7 +735,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-10-11/lv-ne",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -804,7 +804,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-10-11/ind-pit",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -995,14 +995,14 @@
               "#2b2b2b"
             ],
             "uri_name": "mlb/2026-10-08/cle-chw",
-            "starts_at": 1791493200,
-            "ends_at": 1791505800,
+            "starts_at": 1791504000,
+            "ends_at": 1791516600,
             "always_live": 0,
             "locale": "en",
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-10-08/cle-chw",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "7",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1025,7 +1025,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-10-08/tb-nyy",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1055,7 +1055,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/nba/2026-10-08/bos-cle",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "39",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1078,7 +1078,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/nba/2026-10-08/no-mia",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1101,7 +1101,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/nba/2026-10-08/phi-bkn",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "11",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1134,7 +1134,7 @@
                 "iframe": "https://embedindia.st/embed/nba/2026-10-08/wsh-ny/away"
               }
             ],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1157,7 +1157,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/nba/2026-10-08/atl-sa",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1256,6 +1256,59 @@
         ]
       },
       {
+        "category": "Combat Sports",
+        "id": 33,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 30124,
+            "name": "Iglesias vs. Zaren",
+            "tag": "Boxing",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/ee72b17b792324040254b325fe0be6ac-thumbnail.jpg",
+            "blurhash": "LQGI_HM~~dt7-yWE?VWBR5t5.7oc",
+            "colors": [
+              "#dce76d",
+              "#e7ee6c"
+            ],
+            "uri_name": "iglesias-vs-zaren-30124",
+            "starts_at": 1791498600,
+            "ends_at": 1791520200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Combat Sports",
+            "iframe": "https://embedindia.st/embed/iglesias-vs-zaren-30124",
+            "substreams": [],
+            "viewers": "36",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 30123,
+            "name": "UFC BJJ 12: Moura vs. Fornarino",
+            "tag": "Brazilian Jiu-Jitsu",
+            "source_tag": "Sportsnet+",
+            "poster": "https://static.ppvservices.st/assets/thumb/9ee670b1ab493961b4d3220d8ad92d15-thumbnail.jpg",
+            "blurhash": "LDAl%?ja9un%~BoLNHjZ57s:s.WB",
+            "colors": [
+              "#080300",
+              "#130000"
+            ],
+            "uri_name": "ufc-bjj-12-moura-vs-fornarino-30123",
+            "starts_at": 1791504000,
+            "ends_at": 1791518400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Combat Sports",
+            "iframe": "https://embedindia.st/embed/ufc-bjj-12-moura-vs-fornarino-30123",
+            "substreams": [],
+            "viewers": "1",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          }
+        ]
+      },
+      {
         "category": "Cricket",
         "id": 47,
         "always_live": false,
@@ -1298,7 +1351,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "2",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1321,7 +1374,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -2547,7 +2600,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/mls/2026-10-10/mia-dc",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3704,7 +3757,7 @@
             "category_name": "Golf",
             "iframe": "https://embedindia.st/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -3734,7 +3787,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl-network-29780",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "6",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3757,7 +3810,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-08/phi-ott",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3780,7 +3833,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-08/uta-bos",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3803,7 +3856,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-08/dal-buf",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "6",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3826,7 +3879,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-08/nsh-mtl",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "9",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3849,7 +3902,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-08/min-tb",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3872,7 +3925,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-08/van-car",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4067,7 +4120,7 @@
                 "iframe": "https://embedindia.st/embed/singapore-grand-prix---practice-1-29988"
               }
             ],
-            "viewers": "3",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4163,7 +4216,7 @@
                 "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-qualifying-29999"
               }
             ],
-            "viewers": "2",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4481,7 +4534,7 @@
             "category_name": "Rugby",
             "iframe": "https://embedindia.st/embed/247-fox-league",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4587,7 +4640,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "20",
+            "viewers": "13",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4610,7 +4663,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-cows",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4656,7 +4709,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4679,7 +4732,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4702,7 +4755,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/rally-tv",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4711,11 +4764,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-10-08T12:51:23.871458+00:00",
+    "extracted_at": "2026-10-08T22:56:17.499733+00:00",
     "source_file": "events.json",
-    "total_streams": 180,
+    "total_streams": 182,
     "found": 0,
-    "not_found": 180,
+    "not_found": 182,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }

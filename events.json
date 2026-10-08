@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-08T12:41:56.032852+00:00",
+    "fetched_at": "2026-10-08T22:46:49.392991+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1791463320,
+    "timestamp": 1791499610,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.046156883239746094,
+    "performance": 0.045735836029052734,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl-network",
             "substreams": [],
-            "viewers": "4"
+            "viewers": "25"
           },
           {
             "id": 29819,
@@ -55,7 +55,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-10-08/tb-dal",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "21"
           },
           {
             "id": 29870,
@@ -149,7 +149,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/cfb/2026-10-10/iu-neb",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 29847,
@@ -681,7 +681,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-10-11/lv-ne",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 29829,
@@ -744,7 +744,7 @@
             "category_name": "American Football",
             "iframe": "https://embedindia.st/embed/nfl/2026-10-11/ind-pit",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 29835,
@@ -919,14 +919,14 @@
               "#2b2b2b"
             ],
             "uri_name": "mlb/2026-10-08/cle-chw",
-            "starts_at": 1791493200,
-            "ends_at": 1791505800,
+            "starts_at": 1791504000,
+            "ends_at": 1791516600,
             "always_live": 0,
             "locale": "en",
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-10-08/cle-chw",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "7"
           },
           {
             "id": 30121,
@@ -947,7 +947,7 @@
             "category_name": "Baseball",
             "iframe": "https://embedindia.st/embed/mlb/2026-10-08/tb-nyy",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           }
         ]
       },
@@ -975,7 +975,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/nba/2026-10-08/bos-cle",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "39"
           },
           {
             "id": 30090,
@@ -996,7 +996,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/nba/2026-10-08/no-mia",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "4"
           },
           {
             "id": 30091,
@@ -1017,7 +1017,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/nba/2026-10-08/phi-bkn",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "11"
           },
           {
             "id": 30092,
@@ -1048,7 +1048,7 @@
                 "iframe": "https://embedindia.st/embed/nba/2026-10-08/wsh-ny/away"
               }
             ],
-            "viewers": "0"
+            "viewers": "2"
           },
           {
             "id": 30094,
@@ -1069,7 +1069,7 @@
             "category_name": "Basketball",
             "iframe": "https://embedindia.st/embed/nba/2026-10-08/atl-sa",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 30095,
@@ -1158,6 +1158,55 @@
         ]
       },
       {
+        "category": "Combat Sports",
+        "id": 33,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 30124,
+            "name": "Iglesias vs. Zaren",
+            "tag": "Boxing",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/ee72b17b792324040254b325fe0be6ac-thumbnail.jpg",
+            "blurhash": "LQGI_HM~~dt7-yWE?VWBR5t5.7oc",
+            "colors": [
+              "#dce76d",
+              "#e7ee6c"
+            ],
+            "uri_name": "iglesias-vs-zaren-30124",
+            "starts_at": 1791498600,
+            "ends_at": 1791520200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Combat Sports",
+            "iframe": "https://embedindia.st/embed/iglesias-vs-zaren-30124",
+            "substreams": [],
+            "viewers": "36"
+          },
+          {
+            "id": 30123,
+            "name": "UFC BJJ 12: Moura vs. Fornarino",
+            "tag": "Brazilian Jiu-Jitsu",
+            "source_tag": "Sportsnet+",
+            "poster": "https://static.ppvservices.st/assets/thumb/9ee670b1ab493961b4d3220d8ad92d15-thumbnail.jpg",
+            "blurhash": "LDAl%?ja9un%~BoLNHjZ57s:s.WB",
+            "colors": [
+              "#080300",
+              "#130000"
+            ],
+            "uri_name": "ufc-bjj-12-moura-vs-fornarino-30123",
+            "starts_at": 1791504000,
+            "ends_at": 1791518400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Combat Sports",
+            "iframe": "https://embedindia.st/embed/ufc-bjj-12-moura-vs-fornarino-30123",
+            "substreams": [],
+            "viewers": "1"
+          }
+        ]
+      },
+      {
         "category": "Cricket",
         "id": 47,
         "always_live": false,
@@ -1200,7 +1249,7 @@
                 "iframe": "https://embedindia.st/embed/247-willow-sports"
               }
             ],
-            "viewers": "2"
+            "viewers": "3"
           },
           {
             "id": 27496,
@@ -1221,7 +1270,7 @@
             "category_name": "Cricket",
             "iframe": "https://embedindia.st/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "2"
           }
         ]
       },
@@ -2341,7 +2390,7 @@
             "category_name": "Football",
             "iframe": "https://embedindia.st/embed/mls/2026-10-10/mia-dc",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 29927,
@@ -3398,7 +3447,7 @@
             "category_name": "Golf",
             "iframe": "https://embedindia.st/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "3"
           }
         ]
       },
@@ -3426,7 +3475,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl-network-29780",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "6"
           },
           {
             "id": 30107,
@@ -3447,7 +3496,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-08/phi-ott",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "8"
           },
           {
             "id": 30108,
@@ -3468,7 +3517,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-08/uta-bos",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "4"
           },
           {
             "id": 30109,
@@ -3489,7 +3538,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-08/dal-buf",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "6"
           },
           {
             "id": 30110,
@@ -3510,7 +3559,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-08/nsh-mtl",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "9"
           },
           {
             "id": 30111,
@@ -3531,7 +3580,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-08/min-tb",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 30112,
@@ -3552,7 +3601,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://embedindia.st/embed/nhl/2026-10-08/van-car",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "2"
           },
           {
             "id": 30113,
@@ -3737,7 +3786,7 @@
                 "iframe": "https://embedindia.st/embed/singapore-grand-prix---practice-1-29988"
               }
             ],
-            "viewers": "3"
+            "viewers": "1"
           },
           {
             "id": 29989,
@@ -3831,7 +3880,7 @@
                 "iframe": "https://embedindia.st/embed/singapore-grand-prix---sprint-qualifying-29999"
               }
             ],
-            "viewers": "2"
+            "viewers": "0"
           },
           {
             "id": 30000,
@@ -4141,7 +4190,7 @@
             "category_name": "Rugby",
             "iframe": "https://embedindia.st/embed/247-fox-league",
             "substreams": [],
-            "viewers": "2"
+            "viewers": "0"
           }
         ]
       },
@@ -4239,7 +4288,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-south-park",
             "substreams": [],
-            "viewers": "20"
+            "viewers": "13"
           },
           {
             "id": 3663,
@@ -4260,7 +4309,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-cows",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 8008,
@@ -4302,7 +4351,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 16623,
@@ -4323,7 +4372,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "2"
+            "viewers": "3"
           },
           {
             "id": 17270,
@@ -4344,7 +4393,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://embedindia.st/embed/rally-tv",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           }
         ]
       }
