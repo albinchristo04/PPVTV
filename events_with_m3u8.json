@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-09T04:15:08.922060+00:00",
+    "fetched_at": "2026-10-09T12:29:03.245374+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1791519310,
+    "timestamp": 1791548950,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.04698300361633301,
+    "performance": 0.025534868240356445,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl-network",
             "substreams": [],
-            "viewers": "7",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -102,17 +102,7 @@
             "locale": "en",
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/cfb/2026-10-09/isu-byu",
-            "substreams": [
-              {
-                "id": 29845,
-                "name": "Iowa State Cyclones at BYU Cougars",
-                "tag": "College Football",
-                "uri_name": "cfb/2026-10-09/isu-byu/skycast",
-                "source_tag": "SkyCast",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/cfb/2026-10-09/isu-byu/skycast"
-              }
-            ],
+            "substreams": [],
             "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
@@ -961,52 +951,6 @@
         "always_live": false,
         "streams": [
           {
-            "id": 30095,
-            "name": "Sacramento Kings vs. Los Angeles Lakers",
-            "tag": "NBA",
-            "source_tag": "ESPN2",
-            "poster": "https://static.ppvservices.st/assets/thumb/ea6e42da9129d9d58a3463636ee37bb8-thumbnail.jpg",
-            "blurhash": "L4A,03%%M|Q*e@jIj[bY00e7xtXq",
-            "colors": [
-              "#5a2d81",
-              "#552583"
-            ],
-            "uri_name": "nba/2026-10-08/sac-lal",
-            "starts_at": 1791513000,
-            "ends_at": 1791523800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nba/2026-10-08/sac-lal",
-            "substreams": [],
-            "viewers": "406",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30119,
-            "name": "Illawarra Hawks vs. Tasmania JackJumpers",
-            "tag": "NBL",
-            "source_tag": "ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/b5a9c5413a377012dd1d3fd3351df7cd-thumbnail.jpg",
-            "blurhash": "LQB{P${PwvS2j[f6fQj[9aK0bbbb",
-            "colors": [
-              "#ce202f",
-              "#008b45"
-            ],
-            "uri_name": "nbl/2026-10-09/hwk-tas",
-            "starts_at": 1791534600,
-            "ends_at": 1791545400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nbl/2026-10-09/hwk-tas",
-            "substreams": [],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 30117,
             "name": "Houston Rockets vs. Dallas Mavericks",
             "tag": "NBA",
@@ -1025,7 +969,7 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/nba/2026-10-09/hou-dal",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "363",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1071,7 +1015,7 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/nba/2026-10-09/mem-chi",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1308,36 +1252,6 @@
         ]
       },
       {
-        "category": "Combat Sports",
-        "id": 33,
-        "always_live": false,
-        "streams": [
-          {
-            "id": 30124,
-            "name": "Iglesias vs. Zaren",
-            "tag": "Boxing",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/ee72b17b792324040254b325fe0be6ac-thumbnail.jpg",
-            "blurhash": "LQGI_HM~~dt7-yWE?VWBR5t5.7oc",
-            "colors": [
-              "#dce76d",
-              "#e7ee6c"
-            ],
-            "uri_name": "iglesias-vs-zaren-30124",
-            "starts_at": 1791498600,
-            "ends_at": 1791520200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Combat Sports",
-            "iframe": "https://taifood-blog.asia/embed/iglesias-vs-zaren-30124",
-            "substreams": [],
-            "viewers": "5",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          }
-        ]
-      },
-      {
         "category": "Cricket",
         "id": 47,
         "always_live": false,
@@ -1380,7 +1294,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports"
               }
             ],
-            "viewers": "7",
+            "viewers": "50",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1403,6 +1317,59 @@
             "category_name": "Cricket",
             "iframe": "https://taifood-blog.asia/embed/247-fox-cricket",
             "substreams": [],
+            "viewers": "107",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          }
+        ]
+      },
+      {
+        "category": "Darts",
+        "id": 32,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 30142,
+            "name": "Swiss Darts Trophy | Day 1 - Afternoon Session",
+            "tag": "Darts",
+            "source_tag": "PDC.TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
+            "blurhash": "LFD-EFzY}^B|+PP7t7Dj004nD%%M",
+            "colors": [
+              "#03151f",
+              "#050b17"
+            ],
+            "uri_name": "swiss-darts-trophy--day-1---afternoon-session-30142",
+            "starts_at": 1791543600,
+            "ends_at": 1791558000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Darts",
+            "iframe": "https://taifood-blog.asia/embed/swiss-darts-trophy--day-1---afternoon-session-30142",
+            "substreams": [],
+            "viewers": "81",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 30143,
+            "name": "Swiss Darts Trophy | Day 1 - Evening Session",
+            "tag": "Darts",
+            "source_tag": "PDC.TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
+            "blurhash": "LFD-EFzY}^B|+PP7t7Dj004nD%%M",
+            "colors": [
+              "#03151f",
+              "#050b17"
+            ],
+            "uri_name": "swiss-darts-trophy--day-1---evening-session-30143",
+            "starts_at": 1791565200,
+            "ends_at": 1791579600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Darts",
+            "iframe": "https://taifood-blog.asia/embed/swiss-darts-trophy--day-1---evening-session-30143",
+            "substreams": [],
             "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
@@ -1418,7 +1385,7 @@
             "id": 29964,
             "name": "IFK Göteborg vs. Västerås SK",
             "tag": "Allsvenskan",
-            "source_tag": "TV4 Play",
+            "source_tag": "TV4 Fotboll",
             "poster": "https://static.ppvservices.st/assets/thumb/2ed91e44cfca0d9e22ede499abbee11f-thumbnail.jpg",
             "blurhash": "LG8}_PwURoSft7ofayWB00X2t6nh",
             "colors": [
@@ -1433,7 +1400,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/allsvenskan/2026-10-09/got-vas",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1441,7 +1408,7 @@
             "id": 29946,
             "name": "PSV Eindhoven vs. Heerenveen",
             "tag": "Eredivisie",
-            "source_tag": "ESPN",
+            "source_tag": "ESPN2",
             "poster": "https://static.ppvservices.st/assets/thumb/01e59834f34ca17e06d5baba19055e3f-thumbnail.jpg",
             "blurhash": "LZEnG7|:w1WEjaf6fQj[4-JCbubb",
             "colors": [
@@ -1479,7 +1446,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/keuken-kampioen-divisie/2026-10-09/vol-vit",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1487,7 +1454,7 @@
             "id": 29883,
             "name": "Borussia Dortmund vs. Werder Bremen",
             "tag": "Bundesliga",
-            "source_tag": "Bundesliga",
+            "source_tag": "Fandango",
             "poster": "https://static.ppvservices.st/assets/thumb/002e7bcebed0953ceb98c8adf583ed2c-thumbnail.jpg",
             "blurhash": "LfEpSZ}*s8W=j@jtfQfQ8~I]f,WB",
             "colors": [
@@ -1530,29 +1497,6 @@
             "m3u8_status": "not_found"
           },
           {
-            "id": 29955,
-            "name": "Waasland-Beveren vs. Lommel SK",
-            "tag": "Belgian Pro League",
-            "source_tag": "DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/f6785643d2c4de8139a3374ebc72c8dc-thumbnail.jpg",
-            "blurhash": "L585$FHn9t.9R-WEj[od00.j?HD#",
-            "colors": [
-              "#0e4c92",
-              "#009a44"
-            ],
-            "uri_name": "belgian-pro-league/2026-10-09/waa-lom",
-            "starts_at": 1791571500,
-            "ends_at": 1791580500,
-            "always_live": 0,
-            "locale": "nl-be",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/belgian-pro-league/2026-10-09/waa-lom",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 29873,
             "name": "Málaga vs. Espanyol",
             "tag": "LaLiga",
@@ -1579,7 +1523,7 @@
             "id": 29937,
             "name": "Puebla vs. León",
             "tag": "Liga MX",
-            "source_tag": "Liga MX",
+            "source_tag": "TUDN",
             "poster": "https://static.ppvservices.st/assets/thumb/bdf0b14881cedcf659af6e969d41db1b-thumbnail.jpg",
             "blurhash": "LI7.RCv[IpRiayj[ayay4TRz%2t7",
             "colors": [
@@ -1602,7 +1546,7 @@
             "id": 29938,
             "name": "Tigres UANL vs. Toluca",
             "tag": "Liga MX",
-            "source_tag": "Liga MX",
+            "source_tag": "FS2",
             "poster": "https://static.ppvservices.st/assets/thumb/4ab1019807580e43c58048d2d8826347-thumbnail.jpg",
             "blurhash": "LEJ$86.Xnyxvn$oca{WW00V~XnMy",
             "colors": [
@@ -1613,7 +1557,7 @@
             "starts_at": 1791601200,
             "ends_at": 1791610200,
             "always_live": 0,
-            "locale": "es-us",
+            "locale": "en",
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/liga-mx/2026-10-09/uanl-tol",
             "substreams": [],
@@ -3786,7 +3730,7 @@
             "category_name": "Golf",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "7",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -3816,30 +3760,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl-network-29780",
             "substreams": [],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30116,
-            "name": "Toronto Maple Leafs vs. Vegas Golden Knights",
-            "tag": "NHL",
-            "source_tag": "Scripps Sports",
-            "poster": "https://static.ppvservices.st/assets/thumb/468bdd453564f8f0d0cf680809bb3832-thumbnail.jpg",
-            "blurhash": "LC7_HByGM|ITjtWVayoL00ISxtx]",
-            "colors": [
-              "#003e7e",
-              "#344043"
-            ],
-            "uri_name": "nhl/2026-10-08/tor-vgk",
-            "starts_at": 1791511200,
-            "ends_at": 1791522000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-08/tor-vgk",
-            "substreams": [],
-            "viewers": "383",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3943,102 +3864,6 @@
         "always_live": false,
         "streams": [
           {
-            "id": 29978,
-            "name": "Singapore Grand Prix - Practice 1",
-            "tag": "Formula 1",
-            "source_tag": "Sky Sports F1",
-            "poster": "https://static.ppvservices.st/assets/thumb/3689e895694c9f12d3b85a95a32e7a00-thumbnail.jpg",
-            "blurhash": "L39s||Y,vNV?%K4nxb=|M1+t~WD*",
-            "colors": [
-              "#141519",
-              "#241e1e"
-            ],
-            "uri_name": "f1/2026/singapore/fp1",
-            "starts_at": 1791534600,
-            "ends_at": 1791541800,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Motorsports",
-            "iframe": "https://taifood-blog.asia/embed/f1/2026/singapore/fp1",
-            "substreams": [
-              {
-                "id": 29980,
-                "name": "Singapore Grand Prix - Practice 1",
-                "tag": "Formula 1",
-                "uri_name": "singapore-grand-prix---practice-1-29980",
-                "source_tag": "Apple TV (F1TV)",
-                "locale": "en-us",
-                "iframe": "https://taifood-blog.asia/embed/singapore-grand-prix---practice-1-29980"
-              },
-              {
-                "id": 29982,
-                "name": "Singapore Grand Prix - Practice 1",
-                "tag": "Formula 1",
-                "uri_name": "singapore-grand-prix---practice-1-29982",
-                "source_tag": "DAZN F1",
-                "locale": "es",
-                "iframe": "https://taifood-blog.asia/embed/singapore-grand-prix---practice-1-29982"
-              },
-              {
-                "id": 29983,
-                "name": "Singapore Grand Prix - Practice 1",
-                "tag": "Formula 1",
-                "uri_name": "singapore-grand-prix---practice-1-29983",
-                "source_tag": "Sky Sport F1",
-                "locale": "de",
-                "iframe": "https://taifood-blog.asia/embed/singapore-grand-prix---practice-1-29983"
-              },
-              {
-                "id": 29984,
-                "name": "Singapore Grand Prix - Practice 1",
-                "tag": "Formula 1",
-                "uri_name": "singapore-grand-prix---practice-1-29984",
-                "source_tag": "Sky Sport F1",
-                "locale": "it",
-                "iframe": "https://taifood-blog.asia/embed/singapore-grand-prix---practice-1-29984"
-              },
-              {
-                "id": 29985,
-                "name": "Singapore Grand Prix - Practice 1",
-                "tag": "Formula 1",
-                "uri_name": "singapore-grand-prix---practice-1-29985",
-                "source_tag": "V Sport Motor",
-                "locale": "sv",
-                "iframe": "https://taifood-blog.asia/embed/singapore-grand-prix---practice-1-29985"
-              },
-              {
-                "id": 29986,
-                "name": "Singapore Grand Prix - Practice 1",
-                "tag": "Formula 1",
-                "uri_name": "singapore-grand-prix---practice-1-29986",
-                "source_tag": "Viaplay",
-                "locale": "nl",
-                "iframe": "https://taifood-blog.asia/embed/singapore-grand-prix---practice-1-29986"
-              },
-              {
-                "id": 29987,
-                "name": "Singapore Grand Prix - Practice 1",
-                "tag": "Formula 1",
-                "uri_name": "singapore-grand-prix---practice-1-29987",
-                "source_tag": "Nova Sport 5",
-                "locale": "cs",
-                "iframe": "https://taifood-blog.asia/embed/singapore-grand-prix---practice-1-29987"
-              },
-              {
-                "id": 29988,
-                "name": "Singapore Grand Prix - Practice 1",
-                "tag": "Formula 1",
-                "uri_name": "singapore-grand-prix---practice-1-29988",
-                "source_tag": "Eleven Sports 1",
-                "locale": "pl",
-                "iframe": "https://taifood-blog.asia/embed/singapore-grand-prix---practice-1-29988"
-              }
-            ],
-            "viewers": "4",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 29989,
             "name": "Singapore Grand Prix - Sprint Qualifying",
             "tag": "Formula 1",
@@ -4130,7 +3955,7 @@
                 "iframe": "https://taifood-blog.asia/embed/singapore-grand-prix---sprint-qualifying-29999"
               }
             ],
-            "viewers": "0",
+            "viewers": "1982",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4226,7 +4051,7 @@
                 "iframe": "https://taifood-blog.asia/embed/singapore-grand-prix---sprint-30010"
               }
             ],
-            "viewers": "0",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4418,7 +4243,7 @@
                 "iframe": "https://taifood-blog.asia/embed/singapore-grand-prix---race-30032"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4531,7 +4356,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-south-park",
             "substreams": [],
-            "viewers": "9",
+            "viewers": "11",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4577,7 +4402,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-family-guy",
             "substreams": [],
-            "viewers": "17",
+            "viewers": "10",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4600,7 +4425,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4646,7 +4471,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/rally-tv",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4655,11 +4480,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-10-09T04:24:12.573767+00:00",
+    "extracted_at": "2026-10-09T12:38:01.308634+00:00",
     "source_file": "events.json",
-    "total_streams": 178,
+    "total_streams": 174,
     "found": 0,
-    "not_found": 178,
+    "not_found": 174,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
