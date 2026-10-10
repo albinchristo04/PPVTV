@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-09T22:09:34.048875+00:00",
+    "fetched_at": "2026-10-10T04:00:17.038125+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1791583780,
+    "timestamp": 1791604820,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.0447390079498291,
+    "performance": 0.04995298385620117,
     "streams": [
       {
         "category": "American Football",
@@ -34,28 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl-network",
             "substreams": [],
-            "viewers": "20"
-          },
-          {
-            "id": 29870,
-            "name": "Edmonton Elks at Hamilton Tiger-Cats",
-            "tag": "Canadian Football",
-            "source_tag": "TSN4",
-            "poster": "https://static.ppvservices.st/assets/thumb/ff60325e7754bfa9a9f5034322d79ef7-thumbnail.jpg",
-            "blurhash": "LAEeo204;1%3oeWVfQj[00~AXnwa",
-            "colors": [
-              "#0f4d2c",
-              "#ffb81c"
-            ],
-            "uri_name": "cfl/2026-10-09/edm-ham",
-            "starts_at": 1791586800,
-            "ends_at": 1791599400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/cfl/2026-10-09/edm-ham",
-            "substreams": [],
-            "viewers": "1"
+            "viewers": "4"
           },
           {
             "id": 29871,
@@ -76,7 +55,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/cfl/2026-10-09/ott-bc",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "48"
           },
           {
             "id": 29844,
@@ -97,7 +76,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/cfb/2026-10-09/isu-byu",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "195"
           },
           {
             "id": 29846,
@@ -253,7 +232,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cfb/2026-10-10/tex-ou/skycast"
               }
             ],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 29855,
@@ -472,7 +451,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cfb/2026-10-10/uga-ala/skycast"
               }
             ],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 29866,
@@ -776,7 +755,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-11/det-ari",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 29839,
@@ -877,48 +856,6 @@
         "always_live": false,
         "streams": [
           {
-            "id": 30136,
-            "name": "Atlanta Dream vs. New York Liberty",
-            "tag": "WNBA",
-            "source_tag": "ESPN2",
-            "poster": "https://static.ppvservices.st/assets/thumb/a0d12656df03f9fc6e6bf90ace073238-thumbnail.jpg",
-            "blurhash": "LLFOT6_QgMV@ofj[fQay0KKhnib^",
-            "colors": [
-              "#e31837",
-              "#86cebc"
-            ],
-            "uri_name": "wnba/2026-10-09/atl-ny",
-            "starts_at": 1791588600,
-            "ends_at": 1791599400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/wnba/2026-10-09/atl-ny",
-            "substreams": [],
-            "viewers": "2"
-          },
-          {
-            "id": 30118,
-            "name": "Memphis Grizzlies vs. Chicago Bulls",
-            "tag": "NBA",
-            "source_tag": "NBA TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/fff7d6c909d4fc58c833b0dfe3b71523-thumbnail.jpg",
-            "blurhash": "LCDQ=[3ssq,@ofayj[j[0v[of$NG",
-            "colors": [
-              "#5d76a9",
-              "#ce1141"
-            ],
-            "uri_name": "nba/2026-10-09/mem-chi",
-            "starts_at": 1791590400,
-            "ends_at": 1791601200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nba/2026-10-09/mem-chi",
-            "substreams": [],
-            "viewers": "2"
-          },
-          {
             "id": 30137,
             "name": "Golden State Valkyries vs. Las Vegas Aces",
             "tag": "WNBA",
@@ -937,7 +874,7 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/wnba/2026-10-09/gs-lv",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "167"
           },
           {
             "id": 30138,
@@ -1000,7 +937,7 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/nba/2026-10-10/lac-tor",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 30130,
@@ -1084,7 +1021,7 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/nba/2026-10-10/phi-bos",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 30134,
@@ -1194,7 +1131,7 @@
             "category_name": "Cricket",
             "iframe": "https://taifood-blog.asia/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "7"
+            "viewers": "6"
           }
         ]
       },
@@ -1203,27 +1140,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 29937,
-            "name": "Puebla vs. León",
-            "tag": "Liga MX",
-            "source_tag": "TUDN",
-            "poster": "https://static.ppvservices.st/assets/thumb/bdf0b14881cedcf659af6e969d41db1b-thumbnail.jpg",
-            "blurhash": "LI7.RCv[IpRiayj[ayay4TRz%2t7",
-            "colors": [
-              "#0032a8",
-              "#007a33"
-            ],
-            "uri_name": "liga-mx/2026-10-09/pue-leo",
-            "starts_at": 1791594000,
-            "ends_at": 1791603000,
-            "always_live": 0,
-            "locale": "es-us",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/liga-mx/2026-10-09/pue-leo",
-            "substreams": [],
-            "viewers": "0"
-          },
           {
             "id": 29938,
             "name": "Tigres UANL vs. Toluca",
@@ -1243,7 +1159,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/liga-mx/2026-10-09/uanl-tol",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "36"
           },
           {
             "id": 29892,
@@ -1285,7 +1201,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/efl-championship/2026-10-10/wba-bir",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 29874,
@@ -1558,7 +1474,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/pl/2026-10-10/sun-bha",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 29956,
@@ -1789,7 +1705,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/pl/2026-10-10/mun-tot",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 29948,
@@ -3252,89 +3168,236 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl-network-29780",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
-            "id": 30125,
-            "name": "Seattle Kraken vs. Detroit Red Wings",
+            "id": 30144,
+            "name": "Philadelphia Flyers vs. Boston Bruins",
             "tag": "NHL",
-            "source_tag": "DSN",
-            "poster": "https://static.ppvservices.st/assets/thumb/77dbfecc13139ce1a7aa77bd7b23fdb6-thumbnail.jpg",
-            "blurhash": "LCDG$k2Z+b,roLayj[fQ0d|bTJNu",
+            "source_tag": "NESN",
+            "poster": "https://static.ppvservices.st/assets/thumb/2f028211506561a0110de3805c435781-thumbnail.jpg",
+            "blurhash": "LRFWnJ{|wI%1j[fQfQjt0fXRX9Iq",
             "colors": [
-              "#000d33",
-              "#e30526"
+              "#fe5823",
+              "#231f20"
             ],
-            "uri_name": "nhl/2026-10-09/sea-det",
-            "starts_at": 1791586800,
-            "ends_at": 1791597600,
+            "uri_name": "nhl/2026-10-10/phi-bos",
+            "starts_at": 1791651600,
+            "ends_at": 1791662400,
             "always_live": 0,
             "locale": "en",
             "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-09/sea-det",
+            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-10/phi-bos",
             "substreams": [],
             "viewers": "0"
           },
           {
-            "id": 30126,
-            "name": "New York Rangers vs. Washington Capitals",
+            "id": 30145,
+            "name": "Vancouver Canucks vs. New Jersey Devils",
             "tag": "NHL",
-            "source_tag": "MNMT",
-            "poster": "https://static.ppvservices.st/assets/thumb/174b000723be0e4cbd0a31d51cdb8658-thumbnail.jpg",
-            "blurhash": "LKDR8h3swNiwjbazayfj0d#6X6t6",
+            "source_tag": "MSGSN",
+            "poster": "https://static.ppvservices.st/assets/thumb/73cf8e6b8972a9592788524585160727-thumbnail.jpg",
+            "blurhash": "L9Dj@}3F;4,;WBRkf6oy00{{OrWA",
             "colors": [
-              "#0056ae",
-              "#d71830"
+              "#003e7e",
+              "#e30b2b"
             ],
-            "uri_name": "nhl/2026-10-09/nyr-wsh",
-            "starts_at": 1791586800,
-            "ends_at": 1791597600,
+            "uri_name": "nhl/2026-10-10/van-nj",
+            "starts_at": 1791660600,
+            "ends_at": 1791671400,
             "always_live": 0,
             "locale": "en",
             "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-09/nyr-wsh",
+            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-10/van-nj",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
-            "id": 30127,
-            "name": "Pittsburgh Penguins vs. Columbus Blue Jackets",
+            "id": 30146,
+            "name": "Edmonton Oilers vs. San Jose Sharks",
             "tag": "NHL",
-            "source_tag": "CBJNHL",
-            "poster": "https://static.ppvservices.st/assets/thumb/b17785667367b7ede8dae0ae67c6ebb0-thumbnail.jpg",
-            "blurhash": "L16kP6}y02H]x]xaayNG004z~qu3",
+            "source_tag": "NBC Sports BA",
+            "poster": "https://static.ppvservices.st/assets/thumb/5f2554ca2da52c5b12310673b23a998e-thumbnail.jpg",
+            "blurhash": "L46Isw_,EL4-xuxafQNG005P-p_3",
+            "colors": [
+              "#00205b",
+              "#00788a"
+            ],
+            "uri_name": "nhl/2026-10-10/edm-sj",
+            "starts_at": 1791662400,
+            "ends_at": 1791673200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-10/edm-sj",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30147,
+            "name": "Minnesota Wild vs. Florida Panthers",
+            "tag": "NHL",
+            "source_tag": "Scripps Sports",
+            "poster": "https://static.ppvservices.st/assets/thumb/922d60a11f7827e5df980161c583a180-thumbnail.jpg",
+            "blurhash": "L7C}662,:*xus:ayayfk01}FTK#9",
+            "colors": [
+              "#124734",
+              "#e51937"
+            ],
+            "uri_name": "nhl/2026-10-10/min-fla",
+            "starts_at": 1791669600,
+            "ends_at": 1791680400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-10/min-fla",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30148,
+            "name": "Utah Mammoth vs. Buffalo Sabres",
+            "tag": "NHL",
+            "source_tag": "MSGB",
+            "poster": "https://static.ppvservices.st/assets/thumb/d100754b195a0920837e250587c2a591-thumbnail.jpg",
+            "blurhash": "L368da4T9K?H%MRPa#xu00-@?aEM",
             "colors": [
               "#000000",
-              "#002d62"
+              "#00468b"
             ],
-            "uri_name": "nhl/2026-10-09/pit-cbj",
-            "starts_at": 1791586800,
-            "ends_at": 1791597600,
+            "uri_name": "nhl/2026-10-10/uta-buf",
+            "starts_at": 1791673200,
+            "ends_at": 1791684000,
             "always_live": 0,
             "locale": "en",
             "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-09/pit-cbj",
+            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-10/uta-buf",
             "substreams": [],
             "viewers": "0"
           },
           {
-            "id": 30128,
-            "name": "Anaheim Ducks vs. Winnipeg Jets",
+            "id": 30149,
+            "name": "Detroit Red Wings vs. Montreal Canadiens",
             "tag": "NHL",
             "source_tag": "ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/7da9c052ecf3a1c095bde875f491bc24-thumbnail.jpg",
-            "blurhash": "LaEm^A|rwJofj[fQfQjt56OEX8R+",
+            "poster": "https://static.ppvservices.st/assets/thumb/bb24b5af5b3dd64fd1879a1d545ea299-thumbnail.jpg",
+            "blurhash": "LAH*aj{zrXS~oLjtf6f60JK5XmnO",
             "colors": [
-              "#fc4c02",
-              "#002d62"
+              "#e30526",
+              "#c41230"
             ],
-            "uri_name": "nhl/2026-10-09/ana-wpg",
-            "starts_at": 1791590400,
-            "ends_at": 1791601200,
+            "uri_name": "nhl/2026-10-10/det-mtl",
+            "starts_at": 1791673200,
+            "ends_at": 1791684000,
             "always_live": 0,
             "locale": "en",
             "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-09/ana-wpg",
+            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-10/det-mtl",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30150,
+            "name": "Nashville Predators vs. Ottawa Senators",
+            "tag": "NHL",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/4832ee8e788ef9812c0d7746176fb207-thumbnail.jpg",
+            "blurhash": "LLJO;8?:otV@oLbHfPjt0NM#Wsbc",
+            "colors": [
+              "#fdba31",
+              "#dd1a32"
+            ],
+            "uri_name": "nhl/2026-10-10/nsh-ott",
+            "starts_at": 1791673200,
+            "ends_at": 1791684000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-10/nsh-ott",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30151,
+            "name": "Dallas Stars vs. Pittsburgh Penguins",
+            "tag": "NHL",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/731991b49c3218345c2a6f20e485764d-thumbnail.jpg",
+            "blurhash": "L86IsKLuJ#-UofWBa{of00#WxbIW",
+            "colors": [
+              "#20864c",
+              "#000000"
+            ],
+            "uri_name": "nhl/2026-10-10/dal-pit",
+            "starts_at": 1791673200,
+            "ends_at": 1791684000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-10/dal-pit",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30152,
+            "name": "Carolina Hurricanes vs. Chicago Blackhawks",
+            "tag": "NHL",
+            "source_tag": "CHSN",
+            "poster": "https://static.ppvservices.st/assets/thumb/304fd92e922345e227c4e59cff4379d6-thumbnail.jpg",
+            "blurhash": "L1Ida,}xy@0vwgsmniRk0053Q7}_",
+            "colors": [
+              "#e30426",
+              "#e31937"
+            ],
+            "uri_name": "nhl/2026-10-10/car-chi",
+            "starts_at": 1791673200,
+            "ends_at": 1791684000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-10/car-chi",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30153,
+            "name": "Columbus Blue Jackets vs. St. Louis Blues",
+            "tag": "NHL",
+            "source_tag": "Blues App",
+            "poster": "https://static.ppvservices.st/assets/thumb/66a8d79c8faed1d3fce7b2f176c0ef5f-thumbnail.jpg",
+            "blurhash": "L356JN.nE7OuozWCayoJ00CA%d$j",
+            "colors": [
+              "#002d62",
+              "#0070b9"
+            ],
+            "uri_name": "nhl/2026-10-10/cbj-stl",
+            "starts_at": 1791673200,
+            "ends_at": 1791684000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-10/cbj-stl",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30154,
+            "name": "Toronto Maple Leafs vs. Colorado Avalanche",
+            "tag": "NHL",
+            "source_tag": "Altitude Sports",
+            "poster": "https://static.ppvservices.st/assets/thumb/13b45d8adfbb6e469992c69a17428932-thumbnail.jpg",
+            "blurhash": "L9A9:DCmnPIUaeWqfQjs00VXt7%L",
+            "colors": [
+              "#003e7e",
+              "#860038"
+            ],
+            "uri_name": "nhl/2026-10-10/tor-col",
+            "starts_at": 1791673200,
+            "ends_at": 1791684000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-10/tor-col",
             "substreams": [],
             "viewers": "0"
           }
@@ -3437,7 +3500,7 @@
                 "iframe": "https://taifood-blog.asia/embed/singapore-grand-prix---sprint-30010"
               }
             ],
-            "viewers": "2"
+            "viewers": "7"
           },
           {
             "id": 30011,
@@ -3653,7 +3716,7 @@
             "category_name": "Rugby",
             "iframe": "https://taifood-blog.asia/embed/247-fox-league",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           }
         ]
       },
@@ -3662,27 +3725,6 @@
         "id": 38,
         "always_live": false,
         "streams": [
-          {
-            "id": 29976,
-            "name": "WWE Friday Night Smackdown",
-            "tag": "Wrestling",
-            "source_tag": "USA",
-            "poster": "https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
-            "blurhash": "LF4ezej]M?s{kFkDf2fKIUWGxsfT",
-            "colors": [
-              "#001b65",
-              "#0001b4"
-            ],
-            "uri_name": "wwe/2026-10-09",
-            "starts_at": 1791590400,
-            "ends_at": 1791601200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Wrestling",
-            "iframe": "https://taifood-blog.asia/embed/wwe/2026-10-09",
-            "substreams": [],
-            "viewers": "2"
-          },
           {
             "id": 29977,
             "name": "AEW Grand Slam: Collision",
@@ -3730,7 +3772,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-south-park",
             "substreams": [],
-            "viewers": "16"
+            "viewers": "15"
           },
           {
             "id": 3663,
@@ -3772,7 +3814,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-family-guy",
             "substreams": [],
-            "viewers": "17"
+            "viewers": "16"
           },
           {
             "id": 5191,
@@ -3814,7 +3856,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "4"
+            "viewers": "5"
           },
           {
             "id": 17270,
@@ -3835,7 +3877,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/rally-tv",
             "substreams": [],
-            "viewers": "3"
+            "viewers": "0"
           }
         ]
       }
