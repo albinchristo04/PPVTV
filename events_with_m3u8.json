@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-13T13:24:42.185968+00:00",
+    "fetched_at": "2026-10-13T22:14:02.744759+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1791897890,
+    "timestamp": 1791929650,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.08398890495300293,
+    "performance": 0.07692193984985352,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl-network",
             "substreams": [],
-            "viewers": "8",
+            "viewers": "15",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -564,7 +564,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cfb/2026-10-17/utah-colo/skycast"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -946,7 +946,7 @@
             "category_name": "Baseball",
             "iframe": "https://taifood-blog.asia/embed/mlb/2026-10-13/cle-tb",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -976,7 +976,7 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/nba/2026-10-13/cle-orl",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -999,7 +999,7 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/nba/2026-10-13/ny-tor",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1045,7 +1045,7 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/nba/2026-10-13/gs-lal",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1282,7 +1282,7 @@
             "category_name": "Combat Sports",
             "iframe": "https://taifood-blog.asia/embed/dwcs/2026-10-13",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "28",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1331,7 +1331,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports"
               }
             ],
-            "viewers": "44",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1354,7 +1354,7 @@
             "category_name": "Cricket",
             "iframe": "https://taifood-blog.asia/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "19",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1365,236 +1365,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 30351,
-            "name": "Lens vs. Sporting CP",
-            "tag": "Champions League",
-            "source_tag": "Champions League",
-            "poster": "https://static.ppvservices.st/assets/thumb/8b0055f43873b49c414a10806d81c042-thumbnail.jpg",
-            "blurhash": "LZDbA.{gwwR-kBj[fQf69aK4X7oc",
-            "colors": [
-              "#e30613",
-              "#008057"
-            ],
-            "uri_name": "ucl/2026-10-13/rcl-scp",
-            "starts_at": 1791909900,
-            "ends_at": 1791918900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-13/rcl-scp",
-            "substreams": [],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30352,
-            "name": "Sabah FK vs. Slavia Prague",
-            "tag": "Champions League",
-            "source_tag": "Champions League",
-            "poster": "https://static.ppvservices.st/assets/thumb/be1c297151d71963505eaafb74a46b17-thumbnail.jpg",
-            "blurhash": "L7I^=CL~nO~Cspj]f7ax00?uXS0f",
-            "colors": [
-              "#ee2020",
-              "#d7141a"
-            ],
-            "uri_name": "ucl/2026-10-13/sab-slp",
-            "starts_at": 1791909900,
-            "ends_at": 1791918900,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-13/sab-slp",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30044,
-            "name": "Wrexham vs. West Bromwich Albion",
-            "tag": "EFL Championship",
-            "source_tag": "Sky Sports+",
-            "poster": "https://static.ppvservices.st/assets/thumb/77e2c9684c4c185c8319af9be1642389-thumbnail.jpg",
-            "blurhash": "LKC=DE{xn4t8ofWBazof0KOstRNG",
-            "colors": [
-              "#c8142f",
-              "#091452"
-            ],
-            "uri_name": "efl-championship/2026-10-13/wxm-wba",
-            "starts_at": 1791917100,
-            "ends_at": 1791926100,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/efl-championship/2026-10-13/wxm-wba",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30353,
-            "name": "Arsenal vs. Lille",
-            "tag": "Champions League",
-            "source_tag": "Champions League",
-            "poster": "https://static.ppvservices.st/assets/thumb/0c28e690dfe3173e02a05fa2dab6defb-thumbnail.jpg",
-            "blurhash": "L2JD*0_Oq]_Nxat7jtV[00YkY54T",
-            "colors": [
-              "#ef0107",
-              "#e30613"
-            ],
-            "uri_name": "ucl/2026-10-13/ars-lill",
-            "starts_at": 1791918000,
-            "ends_at": 1791927000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-13/ars-lill",
-            "substreams": [],
-            "viewers": "2",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30354,
-            "name": "Atlético Madrid vs. Manchester United",
-            "tag": "Champions League",
-            "source_tag": "Champions League",
-            "poster": "https://static.ppvservices.st/assets/thumb/837eebfb23fd641eca8434c85365e9ba-thumbnail.jpg",
-            "blurhash": "L4H*s[3?RPvwkDShbHs900z-tRb|",
-            "colors": [
-              "#ce3524",
-              "#da020e"
-            ],
-            "uri_name": "ucl/2026-10-13/atm-mun",
-            "starts_at": 1791918000,
-            "ends_at": 1791927000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-13/atm-mun",
-            "substreams": [],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30355,
-            "name": "Galatasaray vs. Barcelona",
-            "tag": "Champions League",
-            "source_tag": "Champions League",
-            "poster": "https://static.ppvservices.st/assets/thumb/0e4384196c2fb4321f9d9b41903d3181-thumbnail.jpg",
-            "blurhash": "L6FM;R_4Vs8^%1WYf6oJ009Eo}.9",
-            "colors": [
-              "#a90432",
-              "#a50044"
-            ],
-            "uri_name": "ucl/2026-10-13/gal-bar",
-            "starts_at": 1791918000,
-            "ends_at": 1791927000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-13/gal-bar",
-            "substreams": [],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30356,
-            "name": "Inter Milan vs. Club Brugge",
-            "tag": "Champions League",
-            "source_tag": "Champions League",
-            "poster": "https://static.ppvservices.st/assets/thumb/5ec7aa91f460f6aa5f2bf2a91839571b-thumbnail.jpg",
-            "blurhash": "L67nRq?[M|DNflj[jtWV008^xt%%",
-            "colors": [
-              "#0a2540",
-              "#0a2e7a"
-            ],
-            "uri_name": "ucl/2026-10-13/int-bru",
-            "starts_at": 1791918000,
-            "ends_at": 1791927000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-13/int-bru",
-            "substreams": [],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30357,
-            "name": "RB Leipzig vs. PSV Eindhoven",
-            "tag": "Champions League",
-            "source_tag": "Champions League",
-            "poster": "https://static.ppvservices.st/assets/thumb/d556fadc022e2c48271aee91f783f9dd-thumbnail.jpg",
-            "blurhash": "L1JNnT03zV?X+wtRf6RP00?rLLMN",
-            "colors": [
-              "#e30613",
-              "#ed1c24"
-            ],
-            "uri_name": "ucl/2026-10-13/rbl-psv",
-            "starts_at": 1791918000,
-            "ends_at": 1791927000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-13/rbl-psv",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30358,
-            "name": "Viking FK vs. Bayern Munich",
-            "tag": "Champions League",
-            "source_tag": "Champions League",
-            "poster": "https://static.ppvservices.st/assets/thumb/7c66531118cbffaaa25c82ee54fa6925-thumbnail.jpg",
-            "blurhash": "L6E0mf0o{hpxsoa|fQa}00?IKO*_",
-            "colors": [
-              "#000080",
-              "#dc052d"
-            ],
-            "uri_name": "ucl/2026-10-13/vik-bay",
-            "starts_at": 1791918000,
-            "ends_at": 1791927000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-13/vik-bay",
-            "substreams": [],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 30359,
-            "name": "Villarreal vs. Napoli",
-            "tag": "Champions League",
-            "source_tag": "Champions League",
-            "poster": "https://static.ppvservices.st/assets/thumb/1a5465e82c2d20d1ca91d9b780cd3328-thumbnail.jpg",
-            "blurhash": "LaDv.Z}Mw$X9j[j?fQfR9FJXW-WC",
-            "colors": [
-              "#f4c300",
-              "#00a1e6"
-            ],
-            "uri_name": "ucl/2026-10-13/vil-nap",
-            "starts_at": 1791918000,
-            "ends_at": 1791927000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-13/vil-nap",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 30360,
             "name": "Feyenoord Rotterdam vs. Como",
@@ -1637,7 +1407,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-14/las-liv",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1660,7 +1430,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-14/roma-rma",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1683,7 +1453,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-14/avl-fen",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1729,7 +1499,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-14/mci-psg",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5048,7 +4818,7 @@
             "category_name": "Golf",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -5078,7 +4848,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl-network-29780",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5101,7 +4871,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-13/nj-det",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "160",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5124,7 +4894,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-13/fla-cbj",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "15",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5147,7 +4917,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-13/buf-mtl",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "11",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5170,7 +4940,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-13/wsh-car",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5194,6 +4964,29 @@
             "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-13/sea-phi",
             "substreams": [],
             "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 30472,
+            "name": "NHL Frozen Frenzy",
+            "tag": "NHL",
+            "source_tag": "ESPN2",
+            "poster": "https://static.ppvservices.st/assets/thumb/3f6a2f74c37787408c9e69699fdab96f-thumbnail.jpg",
+            "blurhash": "L08gv%#Z00_1-?#700Ip00Kf00My",
+            "colors": [
+              "#1a1720",
+              "#152527"
+            ],
+            "uri_name": "nhl-frozen-frenzy-30472",
+            "starts_at": 1791932400,
+            "ends_at": 1791950400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Ice Hockey",
+            "iframe": "https://taifood-blog.asia/embed/nhl-frozen-frenzy-30472",
+            "substreams": [],
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5262,7 +5055,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-13/van-nyi",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5476,7 +5269,7 @@
             "category_name": "Rugby",
             "iframe": "https://taifood-blog.asia/embed/247-fox-league",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -5628,7 +5421,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-south-park",
             "substreams": [],
-            "viewers": "11",
+            "viewers": "17",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5674,7 +5467,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-family-guy",
             "substreams": [],
-            "viewers": "14",
+            "viewers": "20",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5697,7 +5490,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5720,7 +5513,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5752,11 +5545,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-10-13T13:36:56.922576+00:00",
+    "extracted_at": "2026-10-13T22:25:26.442130+00:00",
     "source_file": "events.json",
-    "total_streams": 242,
+    "total_streams": 233,
     "found": 0,
-    "not_found": 242,
+    "not_found": 233,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
