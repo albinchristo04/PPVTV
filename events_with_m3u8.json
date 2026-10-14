@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-14T11:02:43.152677+00:00",
+    "fetched_at": "2026-10-14T16:22:59.666797+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1791975770,
+    "timestamp": 1791994980,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.07373404502868652,
+    "performance": 0.07834005355834961,
     "streams": [
       {
         "category": "American Football",
@@ -935,7 +935,7 @@
             "category_name": "Australian Football",
             "iframe": "https://taifood-blog.asia/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -976,29 +976,6 @@
         "id": 37,
         "always_live": false,
         "streams": [
-          {
-            "id": 30470,
-            "name": "Sydney Kings vs. New Zealand Breakers",
-            "tag": "NBL",
-            "source_tag": "ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/609c22afe3bff56c8d6efab52008455b-thumbnail.jpg",
-            "blurhash": "L7Ew6J0vvk%Oi|X8fRjF00}vcAvy",
-            "colors": [
-              "#552583",
-              "#e33c95"
-            ],
-            "uri_name": "nbl/2026-10-14/syd-nzl",
-            "starts_at": 1791966600,
-            "ends_at": 1791977400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nbl/2026-10-14/syd-nzl",
-            "substreams": [],
-            "viewers": "8",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 30463,
             "name": "Brooklyn Nets vs. Miami Heat",
@@ -1041,7 +1018,7 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/nba/2026-10-14/cha-bos",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1274,7 +1251,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports"
               }
             ],
-            "viewers": "3",
+            "viewers": "236",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1297,7 +1274,7 @@
             "category_name": "Cricket",
             "iframe": "https://taifood-blog.asia/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "3",
+            "viewers": "20",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1327,7 +1304,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-14/fey-como",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "18",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1350,7 +1327,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-14/las-liv",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "215",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1373,7 +1350,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-14/roma-rma",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1396,7 +1373,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-14/avl-fen",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1442,7 +1419,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-14/mci-psg",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "7",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1465,7 +1442,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-14/bet-fcp",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2546,7 +2523,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uecl/2026-10-15/bha-zal",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4271,7 +4248,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/allsvenskan/2026-10-18/mal-bkh",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4784,7 +4761,7 @@
             "category_name": "Golf",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4814,7 +4791,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl-network-29780",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4890,7 +4867,7 @@
             "category_name": "Rugby",
             "iframe": "https://taifood-blog.asia/embed/247-fox-league",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -5019,7 +4996,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-south-park",
             "substreams": [],
-            "viewers": "14",
+            "viewers": "12",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5042,7 +5019,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-cows",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5065,7 +5042,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-family-guy",
             "substreams": [],
-            "viewers": "15",
+            "viewers": "9",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5088,7 +5065,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5134,7 +5111,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/rally-tv",
             "substreams": [],
-            "viewers": "3",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -5143,11 +5120,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-10-14T11:13:41.926823+00:00",
+    "extracted_at": "2026-10-14T16:33:58.717893+00:00",
     "source_file": "events.json",
-    "total_streams": 215,
+    "total_streams": 214,
     "found": 0,
-    "not_found": 215,
+    "not_found": 214,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
