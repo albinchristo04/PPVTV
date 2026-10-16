@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-16T10:33:08.960836+00:00",
+    "fetched_at": "2026-10-16T15:58:05.160849+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1792146790,
+    "timestamp": 1792166290,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.04698300361633301,
+    "performance": 0.04887700080871582,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl-network",
             "substreams": [],
-            "viewers": "3",
+            "viewers": "14",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -406,7 +406,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/cfl/2026-10-17/bc-cgy",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -923,7 +923,7 @@
             "category_name": "Baseball",
             "iframe": "https://taifood-blog.asia/embed/mlb/2026-10-16/tb-cle",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -946,7 +946,7 @@
             "category_name": "Baseball",
             "iframe": "https://taifood-blog.asia/embed/mlb/2026-10-16/mil-lad",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -957,29 +957,6 @@
         "id": 37,
         "always_live": false,
         "streams": [
-          {
-            "id": 30508,
-            "name": "Tasmania JackJumpers vs. Adelaide 36ers",
-            "tag": "NBL",
-            "source_tag": "ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/95f2b01cfea0c4808922bb9cb8471568-thumbnail.jpg",
-            "blurhash": "L8C#^{4M[.R-S~sCfQSe02@}T0+^",
-            "colors": [
-              "#008b45",
-              "#ed302e"
-            ],
-            "uri_name": "nbl/2026-10-16/tas-adl",
-            "starts_at": 1792139400,
-            "ends_at": 1792150200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nbl/2026-10-16/tas-adl",
-            "substreams": [],
-            "viewers": "9",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 30495,
             "name": "Miami Heat vs. Orlando Magic",
@@ -1308,6 +1285,36 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/nbl/2026-10-17/syd-per",
             "substreams": [],
+            "viewers": "1",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          }
+        ]
+      },
+      {
+        "category": "Combat Sports",
+        "id": 33,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 30526,
+            "name": "ONE Samurai 4: Haggerty vs. Akimoto",
+            "tag": "Combat Sports",
+            "source_tag": "U-NEXT",
+            "poster": "https://static.ppvservices.st/assets/thumb/4496af3fe0a5b58ed12c8b1fd5cc085b-thumbnail.jpg",
+            "blurhash": "LeL_z%I;+cnP}@s:epWCEfs:SPWY",
+            "colors": [
+              "#f11433",
+              "#fbdfdb"
+            ],
+            "uri_name": "one-samurai-4-haggerty-vs-akimoto-30526",
+            "starts_at": 1792220400,
+            "ends_at": 1792249200,
+            "always_live": 0,
+            "locale": "ja",
+            "category_name": "Combat Sports",
+            "iframe": "https://taifood-blog.asia/embed/one-samurai-4-haggerty-vs-akimoto-30526",
+            "substreams": [],
             "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
@@ -1357,7 +1364,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports"
               }
             ],
-            "viewers": "2",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1380,7 +1387,152 @@
             "category_name": "Cricket",
             "iframe": "https://taifood-blog.asia/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "3",
+            "viewers": "2",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          }
+        ]
+      },
+      {
+        "category": "Darts",
+        "id": 32,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 30519,
+            "name": "Dutch Darts Championship | Day 1 - Afternoon Session",
+            "tag": "Darts",
+            "source_tag": "PDC.TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
+            "blurhash": "LFD-EFzY}^B|+PP7t7Dj004nD%%M",
+            "colors": [
+              "#03151f",
+              "#050b17"
+            ],
+            "uri_name": "dutch-darts-championship--day-1---afternoon-session-30519",
+            "starts_at": 1792148400,
+            "ends_at": 1792166400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Darts",
+            "iframe": "https://taifood-blog.asia/embed/dutch-darts-championship--day-1---afternoon-session-30519",
+            "substreams": [],
+            "viewers": "39",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 30520,
+            "name": "Dutch Darts Championship | Day 1 - Evening Session",
+            "tag": "Darts",
+            "source_tag": "PDC.TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
+            "blurhash": "LFD-EFzY}^B|+PP7t7Dj004nD%%M",
+            "colors": [
+              "#03151f",
+              "#050b17"
+            ],
+            "uri_name": "dutch-darts-championship--day-1---evening-session-30520",
+            "starts_at": 1792170000,
+            "ends_at": 1792188000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Darts",
+            "iframe": "https://taifood-blog.asia/embed/dutch-darts-championship--day-1---evening-session-30520",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 30521,
+            "name": "Dutch Darts Championship | Day 2 - Afternoon Session",
+            "tag": "Darts",
+            "source_tag": "PDC.TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
+            "blurhash": "LFD-EFzY}^B|+PP7t7Dj004nD%%M",
+            "colors": [
+              "#03151f",
+              "#050b17"
+            ],
+            "uri_name": "dutch-darts-championship--day-2---afternoon-session-30521",
+            "starts_at": 1792234800,
+            "ends_at": 1792252800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Darts",
+            "iframe": "https://taifood-blog.asia/embed/dutch-darts-championship--day-2---afternoon-session-30521",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 30522,
+            "name": "Dutch Darts Championship | Day 2 - Evening Session",
+            "tag": "Darts",
+            "source_tag": "PDC.TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
+            "blurhash": "LFD-EFzY}^B|+PP7t7Dj004nD%%M",
+            "colors": [
+              "#03151f",
+              "#050b17"
+            ],
+            "uri_name": "dutch-darts-championship--day-2---evening-session-30522",
+            "starts_at": 1792256400,
+            "ends_at": 1792274400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Darts",
+            "iframe": "https://taifood-blog.asia/embed/dutch-darts-championship--day-2---evening-session-30522",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 30523,
+            "name": "Dutch Darts Championship | Day 3 - Afternoon Session",
+            "tag": "Darts",
+            "source_tag": "PDC.TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
+            "blurhash": "LFD-EFzY}^B|+PP7t7Dj004nD%%M",
+            "colors": [
+              "#03151f",
+              "#050b17"
+            ],
+            "uri_name": "dutch-darts-championship--day-3---afternoon-session-30523",
+            "starts_at": 1792321200,
+            "ends_at": 1792339200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Darts",
+            "iframe": "https://taifood-blog.asia/embed/dutch-darts-championship--day-3---afternoon-session-30523",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 30524,
+            "name": "Dutch Darts Championship | Day 3 - Evening Session",
+            "tag": "Darts",
+            "source_tag": "PDC.TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
+            "blurhash": "LFD-EFzY}^B|+PP7t7Dj004nD%%M",
+            "colors": [
+              "#03151f",
+              "#050b17"
+            ],
+            "uri_name": "dutch-darts-championship--day-3---evening-session-30524",
+            "starts_at": 1792350000,
+            "ends_at": 1792368000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Darts",
+            "iframe": "https://taifood-blog.asia/embed/dutch-darts-championship--day-3---evening-session-30524",
+            "substreams": [],
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1410,7 +1562,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/allsvenskan/2026-10-16/bro-dju",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1479,7 +1631,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/bundesliga/2026-10-16/sge-koe",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1640,7 +1792,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/pl/2026-10-17/eve-che",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1939,7 +2091,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ligue1/2026-10-17/str-psg",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2008,7 +2160,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/laliga/2026-10-17/bet-bar",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3487,7 +3639,7 @@
             "category_name": "Golf",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "7",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -3593,7 +3745,7 @@
             "category_name": "Rugby",
             "iframe": "https://taifood-blog.asia/embed/247-fox-league",
             "substreams": [],
-            "viewers": "7",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -3623,7 +3775,7 @@
             "category_name": "Wrestling",
             "iframe": "https://taifood-blog.asia/embed/wwe/2026-10-16",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3676,7 +3828,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-south-park",
             "substreams": [],
-            "viewers": "15",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3745,7 +3897,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3800,11 +3952,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-10-16T10:41:24.213358+00:00",
+    "extracted_at": "2026-10-16T16:06:28.183385+00:00",
     "source_file": "events.json",
-    "total_streams": 157,
+    "total_streams": 163,
     "found": 0,
-    "not_found": 157,
+    "not_found": 163,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
