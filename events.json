@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-18T10:16:21.720636+00:00",
+    "fetched_at": "2026-10-18T15:16:47.327831+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1792318590,
+    "timestamp": 1792336610,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.04153609275817871,
+    "performance": 0.05628800392150879,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl-network",
             "substreams": [],
-            "viewers": "4"
+            "viewers": "29"
           },
           {
             "id": 30228,
@@ -55,7 +55,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-18/hou-jax",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "2778"
           },
           {
             "id": 30230,
@@ -76,7 +76,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-18/chi-atl",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "2"
           },
           {
             "id": 30232,
@@ -118,7 +118,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-18/ten-ind",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 30234,
@@ -160,7 +160,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-18/no-nyg",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "4"
           },
           {
             "id": 30236,
@@ -363,7 +363,7 @@
             "category_name": "Baseball",
             "iframe": "https://taifood-blog.asia/embed/mlb/2026-10-18/tb-cle",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           }
         ]
       },
@@ -410,7 +410,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports"
               }
             ],
-            "viewers": "60"
+            "viewers": "54"
           },
           {
             "id": 27496,
@@ -431,7 +431,7 @@
             "category_name": "Cricket",
             "iframe": "https://taifood-blog.asia/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "125"
+            "viewers": "10"
           }
         ]
       },
@@ -459,7 +459,7 @@
             "category_name": "Darts",
             "iframe": "https://taifood-blog.asia/embed/dutch-darts-championship--day-3---afternoon-session-30523",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "57"
           },
           {
             "id": 30524,
@@ -490,136 +490,10 @@
         "always_live": false,
         "streams": [
           {
-            "id": 30418,
-            "name": "PEC Zwolle vs. Go Ahead Eagles",
-            "tag": "Eredivisie",
-            "source_tag": "ESPN2",
-            "poster": "https://static.ppvservices.st/assets/thumb/079b90410ba6c6455a385c77248ad8ac-thumbnail.jpg",
-            "blurhash": "LGDH%N2Nv,oZsln%fQW;00,9kpsX",
-            "colors": [
-              "#0033a0",
-              "#d81e05"
-            ],
-            "uri_name": "eredivisie/2026-10-18/pec-gae",
-            "starts_at": 1792318500,
-            "ends_at": 1792327500,
-            "always_live": 0,
-            "locale": "nl",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/eredivisie/2026-10-18/pec-gae",
-            "substreams": [],
-            "viewers": "11"
-          },
-          {
-            "id": 30306,
-            "name": "Udinese vs. Lecce",
-            "tag": "Serie A",
-            "source_tag": "Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/cbb4dbc10d6334e6c1c20e0e13b2b494-thumbnail.jpg",
-            "blurhash": "LDEKZm1U*}V]W=jZjZW;00;LcF$y",
-            "colors": [
-              "#0033a0",
-              "#ff6600"
-            ],
-            "uri_name": "seriea/2026-10-18/udi-lec",
-            "starts_at": 1792319400,
-            "ends_at": 1792328400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/seriea/2026-10-18/udi-lec",
-            "substreams": [],
-            "viewers": "1"
-          },
-          {
-            "id": 30278,
-            "name": "Osasuna vs. Racing Santander",
-            "tag": "LaLiga",
-            "source_tag": "ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/69ed3522d4e937b39346c00f91e195ff-thumbnail.jpg",
-            "blurhash": "LfEx5;{}wJW;fPj[fQay9uJ,X8Wo",
-            "colors": [
-              "#ff6600",
-              "#007a33"
-            ],
-            "uri_name": "laliga/2026-10-18/osa-rac",
-            "starts_at": 1792324800,
-            "ends_at": 1792333800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/laliga/2026-10-18/osa-rac",
-            "substreams": [],
-            "viewers": "1"
-          },
-          {
-            "id": 30425,
-            "name": "IK Sirius vs. IF Elfsborg",
-            "tag": "Allsvenskan",
-            "source_tag": "TV4 Play",
-            "poster": "https://static.ppvservices.st/assets/thumb/7dd1620663d4d693fc071d7a93d1dd83-thumbnail.jpg",
-            "blurhash": "LDEC5k0I,:aIt6bHjtay01=oS$%K",
-            "colors": [
-              "#0b3d91",
-              "#ffc72c"
-            ],
-            "uri_name": "allsvenskan/2026-10-18/sir-elf",
-            "starts_at": 1792324800,
-            "ends_at": 1792333800,
-            "always_live": 0,
-            "locale": "sv",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/allsvenskan/2026-10-18/sir-elf",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
-            "id": 30426,
-            "name": "Västerås SK vs. Mjällby AIF",
-            "tag": "Allsvenskan",
-            "source_tag": "TV4 Play",
-            "poster": "https://static.ppvservices.st/assets/thumb/86acb278a40b355e0ca4488caef8debe-thumbnail.jpg",
-            "blurhash": "L8Ef150u[UH=s.WXfPj?00:hOt^+",
-            "colors": [
-              "#00693e",
-              "#ffb81c"
-            ],
-            "uri_name": "allsvenskan/2026-10-18/vas-mja",
-            "starts_at": 1792324800,
-            "ends_at": 1792333800,
-            "always_live": 0,
-            "locale": "sv",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/allsvenskan/2026-10-18/vas-mja",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
-            "id": 30419,
-            "name": "SC Cambuur vs. AZ Alkmaar",
-            "tag": "Eredivisie",
-            "source_tag": "ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/787806547a92a72b519da814471fa657-thumbnail.jpg",
-            "blurhash": "LRJr?3.co@RkjbbIfQjZ0NM+WZoL",
-            "colors": [
-              "#ffd100",
-              "#e4002b"
-            ],
-            "uri_name": "eredivisie/2026-10-18/cam-az",
-            "starts_at": 1792326600,
-            "ends_at": 1792335600,
-            "always_live": 0,
-            "locale": "nl",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/eredivisie/2026-10-18/cam-az",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
             "id": 30297,
             "name": "AFC Bournemouth vs. Sunderland",
             "tag": "Premier League",
-            "source_tag": "Premier League",
+            "source_tag": "Sky Sports+",
             "poster": "https://static.ppvservices.st/assets/thumb/4453fd4b60de18bc0cbe4a7b1b5103bf-thumbnail.jpg",
             "blurhash": "L2IK#c4Q*|*ynOSeaeni00v2L1cZ",
             "colors": [
@@ -630,17 +504,17 @@
             "starts_at": 1792328400,
             "ends_at": 1792337400,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-gb",
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/pl/2026-10-18/bou-sun",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "55"
           },
           {
             "id": 30298,
             "name": "Brighton & Hove Albion vs. Crystal Palace",
             "tag": "Premier League",
-            "source_tag": "Premier League",
+            "source_tag": "Sky Sports Premier League",
             "poster": "https://static.ppvservices.st/assets/thumb/a94a420f16e62aa671f61c4e728238a7-thumbnail.jpg",
             "blurhash": "LD8OMn%%RkIUWEoLayWV00IAt6xu",
             "colors": [
@@ -651,17 +525,17 @@
             "starts_at": 1792328400,
             "ends_at": 1792337400,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-gb",
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/pl/2026-10-18/bha-cry",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "212"
           },
           {
             "id": 30299,
             "name": "Leeds United vs. Manchester United",
             "tag": "Premier League",
-            "source_tag": "Premier League",
+            "source_tag": "Sky Sports Main Event",
             "poster": "https://static.ppvservices.st/assets/thumb/7dd35cf7c462b888b4e8613532407fa4-thumbnail.jpg",
             "blurhash": "LBE18j3Z#X#Rn+azf6j@02[UXRkV",
             "colors": [
@@ -672,11 +546,11 @@
             "starts_at": 1792328400,
             "ends_at": 1792337400,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-gb",
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/pl/2026-10-18/lee-mun",
             "substreams": [],
-            "viewers": "5"
+            "viewers": "1868"
           },
           {
             "id": 30307,
@@ -697,7 +571,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/seriea/2026-10-18/fio-como",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "42"
           },
           {
             "id": 30316,
@@ -718,7 +592,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ligue1/2026-10-18/ang-olm",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "87"
           },
           {
             "id": 30290,
@@ -739,7 +613,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/bundesliga/2026-10-18/b04-scf",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "714"
           },
           {
             "id": 30279,
@@ -760,7 +634,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/laliga/2026-10-18/cel-ala",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "21"
           },
           {
             "id": 30427,
@@ -781,7 +655,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/allsvenskan/2026-10-18/hbk-ham",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "33"
           },
           {
             "id": 30428,
@@ -802,7 +676,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/allsvenskan/2026-10-18/mal-bkh",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "16"
           },
           {
             "id": 30429,
@@ -823,13 +697,13 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/allsvenskan/2026-10-18/org-gais",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "22"
           },
           {
             "id": 30420,
             "name": "FC Groningen vs. Ajax Amsterdam",
             "tag": "Eredivisie",
-            "source_tag": "ESPN",
+            "source_tag": "ESPN2",
             "poster": "https://static.ppvservices.st/assets/thumb/2693367cf5a36fbc28e7d239f61373a0-thumbnail.jpg",
             "blurhash": "LDD+@,4LwakWkBWBfQof00#Do#v$",
             "colors": [
@@ -844,7 +718,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/eredivisie/2026-10-18/gro-aja",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "171"
           },
           {
             "id": 30317,
@@ -865,7 +739,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ligue1/2026-10-18/hac-aux",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "15"
           },
           {
             "id": 30318,
@@ -886,7 +760,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ligue1/2026-10-18/lor-mon",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "44"
           },
           {
             "id": 30319,
@@ -907,7 +781,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ligue1/2026-10-18/par-ren",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "65"
           },
           {
             "id": 30291,
@@ -928,13 +802,13 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/bundesliga/2026-10-18/bmg-tsg",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "9"
           },
           {
             "id": 30300,
             "name": "Nottingham Forest vs. Arsenal",
             "tag": "Premier League",
-            "source_tag": "Premier League",
+            "source_tag": "Sky Sports Premier League",
             "poster": "https://static.ppvservices.st/assets/thumb/345e6bc1ee17e4f924dbdb1ee6eadbbb-thumbnail.jpg",
             "blurhash": "L1JDw+7gy[ND=JQ-WBx]00FELf,v",
             "colors": [
@@ -945,11 +819,11 @@
             "starts_at": 1792337400,
             "ends_at": 1792346400,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-gb",
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/pl/2026-10-18/nfo-ars",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "507"
           },
           {
             "id": 30308,
@@ -970,7 +844,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/seriea/2026-10-18/mil-ata",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "3"
           },
           {
             "id": 30280,
@@ -991,13 +865,13 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/laliga/2026-10-18/mcf-rso",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 30421,
             "name": "FC Twente vs. FC Utrecht",
             "tag": "Eredivisie",
-            "source_tag": "ESPN",
+            "source_tag": "ESPN2",
             "poster": "https://static.ppvservices.st/assets/thumb/d244b673698aa6507b68085d79d11b98-thumbnail.jpg",
             "blurhash": "LBIBr}{gVETcxuaKayoz00F^pIn4",
             "colors": [
@@ -1271,7 +1145,7 @@
             "category_name": "Golf",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "10"
+            "viewers": "3"
           }
         ]
       },
@@ -1397,7 +1271,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-south-park",
             "substreams": [],
-            "viewers": "8"
+            "viewers": "13"
           },
           {
             "id": 3663,
@@ -1418,7 +1292,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-cows",
             "substreams": [],
-            "viewers": "3"
+            "viewers": "4"
           },
           {
             "id": 8008,
@@ -1439,7 +1313,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-family-guy",
             "substreams": [],
-            "viewers": "25"
+            "viewers": "13"
           },
           {
             "id": 5191,
@@ -1481,7 +1355,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "3"
+            "viewers": "1"
           },
           {
             "id": 17270,
@@ -1523,7 +1397,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-racing",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           }
         ]
       }
