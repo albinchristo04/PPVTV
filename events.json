@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-18T19:59:39.968626+00:00",
+    "fetched_at": "2026-10-19T02:57:33.585739+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1792353580,
+    "timestamp": 1792378660,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.04045605659484863,
+    "performance": 0.04349088668823242,
     "streams": [
       {
         "category": "American Football",
@@ -34,238 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl-network",
             "substreams": [],
-            "viewers": "10"
-          },
-          {
-            "id": 30554,
-            "name": "NFL RedZone",
-            "tag": "NFL",
-            "source_tag": "NFL RedZone",
-            "poster": "https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg",
-            "blurhash": "LNPnht|_0e,@i_f6oKaeQmj[pcfk",
-            "colors": [
-              "#e12424",
-              "#921717"
-            ],
-            "uri_name": "nfl-redzone-30554",
-            "starts_at": 1792341900,
-            "ends_at": 1792367640,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl-redzone-30554",
-            "substreams": [],
-            "viewers": "3483"
-          },
-          {
-            "id": 30230,
-            "name": "Chicago Bears at Atlanta Falcons",
-            "tag": "NFL",
-            "source_tag": "Fox",
-            "poster": "https://static.ppvservices.st/assets/thumb/9fdb7792c436019a960cd3781a313a7b-thumbnail.jpg",
-            "blurhash": "L3BUwa0xqa8H-VwJj[OX00tm%#{1",
-            "colors": [
-              "#0b162a",
-              "#a71930"
-            ],
-            "uri_name": "nfl/2026-10-18/chi-atl",
-            "starts_at": 1792342800,
-            "ends_at": 1792357200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-18/chi-atl",
-            "substreams": [],
-            "viewers": "1387"
-          },
-          {
-            "id": 30232,
-            "name": "Baltimore Ravens at Cleveland Browns",
-            "tag": "NFL",
-            "source_tag": "Fox",
-            "poster": "https://static.ppvservices.st/assets/thumb/44beebb982a024b8807d00e151970253-thumbnail.jpg",
-            "blurhash": "LDFMhj17#U,?niX8jZjZ0K}WozS1",
-            "colors": [
-              "#241773",
-              "#ff3c00"
-            ],
-            "uri_name": "nfl/2026-10-18/bal-cle",
-            "starts_at": 1792342800,
-            "ends_at": 1792357200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-18/bal-cle",
-            "substreams": [],
-            "viewers": "942"
-          },
-          {
-            "id": 30233,
-            "name": "Tennessee Titans at Indianapolis Colts",
-            "tag": "NFL",
-            "source_tag": "Fox",
-            "poster": "https://static.ppvservices.st/assets/thumb/776b703efc4faa6d740c8f911d47e88d-thumbnail.jpg",
-            "blurhash": "LR8r5_%%WEM{j[fkfQfP9DMxoft7",
-            "colors": [
-              "#4b92db",
-              "#002c5f"
-            ],
-            "uri_name": "nfl/2026-10-18/ten-ind",
-            "starts_at": 1792342800,
-            "ends_at": 1792357200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-18/ten-ind",
-            "substreams": [],
-            "viewers": "1087"
-          },
-          {
-            "id": 30234,
-            "name": "New York Jets at New England Patriots",
-            "tag": "NFL",
-            "source_tag": "CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/95471a7641ea8a1e007b61984427767f-thumbnail.jpg",
-            "blurhash": "L66bS-.iInIBaeR*ayof00H@%3x]",
-            "colors": [
-              "#125740",
-              "#002244"
-            ],
-            "uri_name": "nfl/2026-10-18/nyj-ne",
-            "starts_at": 1792342800,
-            "ends_at": 1792357200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-18/nyj-ne",
-            "substreams": [],
-            "viewers": "1317"
-          },
-          {
-            "id": 30235,
-            "name": "New Orleans Saints at New York Giants",
-            "tag": "NFL",
-            "source_tag": "Fox",
-            "poster": "https://static.ppvservices.st/assets/thumb/762111c69e213422ba86181af7b4dc0b-thumbnail.jpg",
-            "blurhash": "LGD]J5~L$x%MoLj[ayj[00oiW?E1",
-            "colors": [
-              "#d3bc8d",
-              "#0b2265"
-            ],
-            "uri_name": "nfl/2026-10-18/no-nyg",
-            "starts_at": 1792342800,
-            "ends_at": 1792357200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-18/no-nyg",
-            "substreams": [],
-            "viewers": "970"
-          },
-          {
-            "id": 30236,
-            "name": "Carolina Panthers at Philadelphia Eagles",
-            "tag": "NFL",
-            "source_tag": "CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/6e25b5e153967e53448b29687e1cbf9c-thumbnail.jpg",
-            "blurhash": "LH4zK-O_Rnxtj]ayj[fRHqxAt6M{",
-            "colors": [
-              "#0085ca",
-              "#004c54"
-            ],
-            "uri_name": "nfl/2026-10-18/car-phi",
-            "starts_at": 1792342800,
-            "ends_at": 1792357200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-18/car-phi",
-            "substreams": [],
-            "viewers": "1303"
-          },
-          {
-            "id": 30237,
-            "name": "Pittsburgh Steelers at Tampa Bay Buccaneers",
-            "tag": "NFL",
-            "source_tag": "CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/19e09e6a2673363563b6dbe81dfb403a-thumbnail.jpg",
-            "blurhash": "LQJFoU?@bqR5oLj?fja}0LMeoMo~",
-            "colors": [
-              "#ffb612",
-              "#d50a0a"
-            ],
-            "uri_name": "nfl/2026-10-18/pit-tb",
-            "starts_at": 1792342800,
-            "ends_at": 1792357200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-18/pit-tb",
-            "substreams": [],
-            "viewers": "1420"
-          },
-          {
-            "id": 30239,
-            "name": "Arizona Cardinals at Los Angeles Rams",
-            "tag": "NFL",
-            "source_tag": "Fox",
-            "poster": "https://static.ppvservices.st/assets/thumb/7aee1d01be35c0cad0448ad98392956e-thumbnail.jpg",
-            "blurhash": "L7A]aS_OrY.9ofayofkB00uPtRDj",
-            "colors": [
-              "#97233f",
-              "#003594"
-            ],
-            "uri_name": "nfl/2026-10-18/ari-lar",
-            "starts_at": 1792353900,
-            "ends_at": 1792368300,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-18/ari-lar",
-            "substreams": [],
-            "viewers": "39"
-          },
-          {
-            "id": 30241,
-            "name": "Los Angeles Chargers at Kansas City Chiefs",
-            "tag": "NFL",
-            "source_tag": "CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/5488ee62ded6eee229fa83d9d89be4f7-thumbnail.jpg",
-            "blurhash": "LIDk$O3Zw2%1oLfkj[az00=Eg3Vs",
-            "colors": [
-              "#0080c6",
-              "#e31837"
-            ],
-            "uri_name": "nfl/2026-10-18/lac-kc",
-            "starts_at": 1792355100,
-            "ends_at": 1792369500,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-18/lac-kc",
-            "substreams": [],
-            "viewers": "23"
-          },
-          {
-            "id": 30242,
-            "name": "Buffalo Bills at Las Vegas Raiders",
-            "tag": "NFL",
-            "source_tag": "CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/15e06b08747b1ebb5262f2312ed2f548-thumbnail.jpg",
-            "blurhash": "L3AKH}00#O%Ys;WBaya{00_IyD$,",
-            "colors": [
-              "#00338d",
-              "#a5acaf"
-            ],
-            "uri_name": "nfl/2026-10-18/buf-lv",
-            "starts_at": 1792355100,
-            "ends_at": 1792369500,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-18/buf-lv",
-            "substreams": [],
-            "viewers": "24"
+            "viewers": "4"
           },
           {
             "id": 30243,
@@ -286,7 +55,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-18/dal-gb",
             "substreams": [],
-            "viewers": "2"
+            "viewers": "4366"
           },
           {
             "id": 30244,
@@ -335,34 +104,6 @@
             "category_name": "Australian Football",
             "iframe": "https://taifood-blog.asia/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "1"
-          }
-        ]
-      },
-      {
-        "category": "Baseball",
-        "id": 36,
-        "always_live": false,
-        "streams": [
-          {
-            "id": 30553,
-            "name": "Tampa Bay Rays vs. Cleveland Guardians",
-            "tag": "MLB",
-            "source_tag": "TBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/33eab9988f0c93af2899463b5bbf7322-thumbnail.jpg",
-            "blurhash": "L7D7~{3?vg*|oMbHofof00{0tlX-",
-            "colors": [
-              "#1a3e6e",
-              "#c41e3a"
-            ],
-            "uri_name": "mlb/2026-10-18/tb-cle",
-            "starts_at": 1792357200,
-            "ends_at": 1792369800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Baseball",
-            "iframe": "https://taifood-blog.asia/embed/mlb/2026-10-18/tb-cle",
-            "substreams": [],
             "viewers": "0"
           }
         ]
@@ -410,7 +151,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports"
               }
             ],
-            "viewers": "6"
+            "viewers": "3"
           },
           {
             "id": 27496,
@@ -431,35 +172,7 @@
             "category_name": "Cricket",
             "iframe": "https://taifood-blog.asia/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "8"
-          }
-        ]
-      },
-      {
-        "category": "Darts",
-        "id": 32,
-        "always_live": false,
-        "streams": [
-          {
-            "id": 30524,
-            "name": "Dutch Darts Championship | Day 3 - Evening Session",
-            "tag": "Darts",
-            "source_tag": "PDC.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
-            "blurhash": "LFD-EFzY}^B|+PP7t7Dj004nD%%M",
-            "colors": [
-              "#03151f",
-              "#050b17"
-            ],
-            "uri_name": "dutch-darts-championship--day-3---evening-session-30524",
-            "starts_at": 1792350000,
-            "ends_at": 1792368000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Darts",
-            "iframe": "https://taifood-blog.asia/embed/dutch-darts-championship--day-3---evening-session-30524",
-            "substreams": [],
-            "viewers": "373"
+            "viewers": "4"
           }
         ]
       },
@@ -468,132 +181,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 30421,
-            "name": "FC Twente vs. FC Utrecht",
-            "tag": "Eredivisie",
-            "source_tag": "ESPN2",
-            "poster": "https://static.ppvservices.st/assets/thumb/d244b673698aa6507b68085d79d11b98-thumbnail.jpg",
-            "blurhash": "LBIBr}{gVETcxuaKayoz00F^pIn4",
-            "colors": [
-              "#e1001a",
-              "#c1121f"
-            ],
-            "uri_name": "eredivisie/2026-10-18/twe-utr",
-            "starts_at": 1792346400,
-            "ends_at": 1792355400,
-            "always_live": 0,
-            "locale": "nl",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/eredivisie/2026-10-18/twe-utr",
-            "substreams": [],
-            "viewers": "16"
-          },
-          {
-            "id": 30422,
-            "name": "NEC Nijmegen vs. Fortuna Sittard",
-            "tag": "Eredivisie",
-            "source_tag": "ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/085e099bf593bdd611abcda5f131af16-thumbnail.jpg",
-            "blurhash": "L6Ig3^08%ojKRPjFf7of00.gI_y4",
-            "colors": [
-              "#c8102e",
-              "#ffe500"
-            ],
-            "uri_name": "eredivisie/2026-10-18/nec-for",
-            "starts_at": 1792346400,
-            "ends_at": 1792355400,
-            "always_live": 0,
-            "locale": "nl",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/eredivisie/2026-10-18/nec-for",
-            "substreams": [],
-            "viewers": "4"
-          },
-          {
-            "id": 30309,
-            "name": "Juventus vs. Lazio",
-            "tag": "Serie A",
-            "source_tag": "Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/444a91915877bb4461b5448dbeb2248b-thumbnail.jpg",
-            "blurhash": "L8AUdU00F2Nwt7flf6ae00ys-qx]",
-            "colors": [
-              "#000000",
-              "#87ceeb"
-            ],
-            "uri_name": "seriea/2026-10-18/juv-laz",
-            "starts_at": 1792349100,
-            "ends_at": 1792358100,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/seriea/2026-10-18/juv-laz",
-            "substreams": [],
-            "viewers": "733"
-          },
-          {
-            "id": 30320,
-            "name": "Lyon vs. Nice",
-            "tag": "Ligue 1",
-            "source_tag": "Ligue 1+",
-            "poster": "https://static.ppvservices.st/assets/thumb/66e467eb08b3fcf4bbda9d8985d04315-thumbnail.jpg",
-            "blurhash": "L2IdtT~qu*8^;M$*bbNZ008^Po.9",
-            "colors": [
-              "#e30613",
-              "#e30613"
-            ],
-            "uri_name": "ligue1/2026-10-18/lyon-nice",
-            "starts_at": 1792349100,
-            "ends_at": 1792358100,
-            "always_live": 0,
-            "locale": "fr",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ligue1/2026-10-18/lyon-nice",
-            "substreams": [],
-            "viewers": "613"
-          },
-          {
-            "id": 30281,
-            "name": "Real Madrid vs. Sevilla",
-            "tag": "LaLiga",
-            "source_tag": "ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/4249f7ff7f94f44bfcce48108fdce502-thumbnail.jpg",
-            "blurhash": "LHJ~0..aotsVodjYfPbI02VybJRl",
-            "colors": [
-              "#ffb300",
-              "#e30613"
-            ],
-            "uri_name": "laliga/2026-10-18/rma-sev",
-            "starts_at": 1792350000,
-            "ends_at": 1792359000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/laliga/2026-10-18/rma-sev",
-            "substreams": [],
-            "viewers": "4994"
-          },
-          {
-            "id": 30350,
-            "name": "FC Cincinnati vs. Columbus Crew",
-            "tag": "MLS",
-            "source_tag": "Apple TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/49582359fb50ec381a12333e28915d57-thumbnail.jpg",
-            "blurhash": "L5KI|G8[tcNpXmShayni00q0Rq%f",
-            "colors": [
-              "#f05323",
-              "#fedd00"
-            ],
-            "uri_name": "mls/2026-10-18/cin-clb",
-            "starts_at": 1792357200,
-            "ends_at": 1792368000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/mls/2026-10-18/cin-clb",
-            "substreams": [],
-            "viewers": "0"
-          },
           {
             "id": 30413,
             "name": "Monterrey vs. Pachuca",
@@ -613,7 +200,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/liga-mx/2026-10-18/mty-pac",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "5"
           },
           {
             "id": 30310,
@@ -697,7 +284,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/laliga/2026-10-19/get-ray",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 30301,
@@ -746,7 +333,7 @@
             "category_name": "Golf",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "4"
+            "viewers": "2"
           }
         ]
       },
@@ -777,27 +364,6 @@
             "viewers": "1"
           },
           {
-            "id": 30551,
-            "name": "Columbus Blue Jackets vs. Minnesota Wild",
-            "tag": "NHL",
-            "source_tag": "MINNHL",
-            "poster": "https://static.ppvservices.st/assets/thumb/8efa7a567ab37c6a6b1ddf2ba156697f-thumbnail.jpg",
-            "blurhash": "L45hx:#eIURhofWXayjZ00I,%Mt8",
-            "colors": [
-              "#002d62",
-              "#124734"
-            ],
-            "uri_name": "nhl/2026-10-18/cbj-min",
-            "starts_at": 1792360800,
-            "ends_at": 1792371600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-18/cbj-min",
-            "substreams": [],
-            "viewers": "0"
-          },
-          {
             "id": 30552,
             "name": "Carolina Hurricanes vs. Calgary Flames",
             "tag": "NHL",
@@ -816,7 +382,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-18/car-cgy",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "55"
           }
         ]
       },
@@ -844,7 +410,7 @@
             "category_name": "Rugby",
             "iframe": "https://taifood-blog.asia/embed/247-fox-league",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           }
         ]
       },
@@ -872,7 +438,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-south-park",
             "substreams": [],
-            "viewers": "12"
+            "viewers": "14"
           },
           {
             "id": 3663,
@@ -914,7 +480,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-family-guy",
             "substreams": [],
-            "viewers": "10"
+            "viewers": "13"
           },
           {
             "id": 5191,
@@ -956,7 +522,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "3"
+            "viewers": "2"
           },
           {
             "id": 17270,
@@ -977,7 +543,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/rally-tv",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "2"
           },
           {
             "id": 30527,
@@ -998,7 +564,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-racing",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           }
         ]
       }
