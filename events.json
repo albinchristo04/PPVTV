@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-20T10:50:53.665577+00:00",
+    "fetched_at": "2026-10-20T16:14:56.146025+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1792493460,
+    "timestamp": 1792512900,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.06920814514160156,
+    "performance": 0.07009387016296387,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl-network",
             "substreams": [],
-            "viewers": "6"
+            "viewers": "7"
           },
           {
             "id": 30555,
@@ -55,7 +55,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-22/ne-chi",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "2"
           },
           {
             "id": 30601,
@@ -358,7 +358,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cfb/2026-10-24/tenn-sc/skycast"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 30590,
@@ -857,7 +857,7 @@
             "category_name": "Australian Football",
             "iframe": "https://taifood-blog.asia/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           }
         ]
       },
@@ -927,7 +927,7 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/nba/2026-10-20/okc-sa",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "2"
           },
           {
             "id": 30796,
@@ -1316,7 +1316,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports"
               }
             ],
-            "viewers": "74"
+            "viewers": "16"
           },
           {
             "id": 27496,
@@ -1337,7 +1337,7 @@
             "category_name": "Cricket",
             "iframe": "https://taifood-blog.asia/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "87"
+            "viewers": "22"
           }
         ]
       },
@@ -1365,7 +1365,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-20/fen-slp",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "9"
           },
           {
             "id": 30671,
@@ -1386,7 +1386,91 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-20/sab-dor",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "31"
+          },
+          {
+            "id": 30801,
+            "name": "The Golazo Show",
+            "tag": "Champions League",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg",
+            "blurhash": "L83cDOj]Dgaya$fQayfQI7ay%Qj@",
+            "colors": [
+              "#001a66",
+              "#001a66"
+            ],
+            "uri_name": "the-golazo-show-30801",
+            "starts_at": 1792519200,
+            "ends_at": 1792537200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/the-golazo-show-30801",
+            "substreams": [],
+            "viewers": "3"
+          },
+          {
+            "id": 30798,
+            "name": "Walsall vs. Oldham Athletic",
+            "tag": "EFL League Two",
+            "source_tag": "Sky Sports+",
+            "poster": "https://static.ppvservices.st/assets/thumb/8d165ac10676cb6cf949cd5b7fd7ba09-thumbnail.jpg",
+            "blurhash": "LPC;rf{@nBSzj[jua|a{0wK7ovjK",
+            "colors": [
+              "#c8142f",
+              "#0e00f6"
+            ],
+            "uri_name": "efl-league-two/2026-10-20/wal-old",
+            "starts_at": 1792521900,
+            "ends_at": 1792530900,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/efl-league-two/2026-10-20/wal-old",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30799,
+            "name": "Rochdale vs. Grimsby Town",
+            "tag": "EFL League Two",
+            "source_tag": "Sky Sports+",
+            "poster": "https://static.ppvservices.st/assets/thumb/92a3b8b0ba937df08fee8ca1d5ddc2be-thumbnail.jpg",
+            "blurhash": "LH9%*n%jIpMxj[j[a|ay00Mw%2tR",
+            "colors": [
+              "#0f1086",
+              "#1a1a1a"
+            ],
+            "uri_name": "efl-league-two/2026-10-20/rch-gri",
+            "starts_at": 1792521900,
+            "ends_at": 1792530900,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/efl-league-two/2026-10-20/rch-gri",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30800,
+            "name": "Wolverhampton Wanderers vs. Portsmouth",
+            "tag": "EFL Championship",
+            "source_tag": "Sky Sports+",
+            "poster": "https://static.ppvservices.st/assets/thumb/076f90c5b4d7b3158fbbfec02ef7e721-thumbnail.jpg",
+            "blurhash": "LaE.0M}yw}ogj[jsfQjt4.NhkARn",
+            "colors": [
+              "#fcb913",
+              "#0000f8"
+            ],
+            "uri_name": "efl-championship/2026-10-20/wol-por",
+            "starts_at": 1792521900,
+            "ends_at": 1792530900,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/efl-championship/2026-10-20/wol-por",
+            "substreams": [],
+            "viewers": "0"
           },
           {
             "id": 30672,
@@ -1459,7 +1543,7 @@
                 "iframe": "https://taifood-blog.asia/embed/liverpool-vs-villarreal-30797"
               }
             ],
-            "viewers": "0"
+            "viewers": "2"
           },
           {
             "id": 30675,
@@ -1522,7 +1606,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ucl/2026-10-20/psg-bar",
             "substreams": [],
-            "viewers": "2"
+            "viewers": "44"
           },
           {
             "id": 30678,
@@ -1549,7 +1633,7 @@
             "id": 30724,
             "name": "Guadalajara vs. Necaxa",
             "tag": "Liga MX",
-            "source_tag": "Liga MX",
+            "source_tag": "UNIVERSO",
             "poster": "https://static.ppvservices.st/assets/thumb/ddb58ac619340ee882071e2c9cffed77-thumbnail.jpg",
             "blurhash": "L5IBTK1]L#]or=oKf6WV00|{y?AC",
             "colors": [
@@ -1570,7 +1654,7 @@
             "id": 30725,
             "name": "Atlético de San Luis vs. Querétaro",
             "tag": "Liga MX",
-            "source_tag": "Liga MX",
+            "source_tag": "ViX Premium Deportes 4",
             "poster": "https://static.ppvservices.st/assets/thumb/32d23b290c5f99fbbaf47cb709cc9608-thumbnail.jpg",
             "blurhash": "LKDuPz{|ict7jZf6f6j[00OXx]Na",
             "colors": [
@@ -1591,7 +1675,7 @@
             "id": 30726,
             "name": "FC Juárez vs. Atlante",
             "tag": "Liga MX",
-            "source_tag": "Liga MX",
+            "source_tag": "SportsGrid",
             "poster": "https://static.ppvservices.st/assets/thumb/ad0bdc49b7ff1fd162ac1299074aa8b8-thumbnail.jpg",
             "blurhash": "L56ImVYl0Kxvt7WBayof00r$~WMz",
             "colors": [
@@ -1612,7 +1696,7 @@
             "id": 30727,
             "name": "Tigres UANL vs. León",
             "tag": "Liga MX",
-            "source_tag": "Liga MX",
+            "source_tag": "SportsGrid",
             "poster": "https://static.ppvservices.st/assets/thumb/c753c71006d2200d5ba1ad66f7346b24-thumbnail.jpg",
             "blurhash": "LdEy3B}TwIbFjsj@fQaz9HJAkWR-",
             "colors": [
@@ -1689,6 +1773,27 @@
             "locale": "en",
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/laliga/2026-10-21/lev-ath",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30802,
+            "name": "The Golazo Show",
+            "tag": "Champions League",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg",
+            "blurhash": "L83cDOj]Dgaya$fQayfQI7ay%Qj@",
+            "colors": [
+              "#001a66",
+              "#001a66"
+            ],
+            "uri_name": "the-golazo-show-30802",
+            "starts_at": 1792605600,
+            "ends_at": 1792623600,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/the-golazo-show-30802",
             "substreams": [],
             "viewers": "0"
           },
@@ -1983,6 +2088,27 @@
             "locale": "en",
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uecl/2026-10-22/kai-pao",
+            "substreams": [],
+            "viewers": "0"
+          },
+          {
+            "id": 30803,
+            "name": "The Golazo Show",
+            "tag": "Europa League",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/9abba790e6243b72b412914826da3049-thumbnail.jpg",
+            "blurhash": "L8FVdRoL0fayn%fQW;fk0za|}sfk",
+            "colors": [
+              "#661a00",
+              "#661a00"
+            ],
+            "uri_name": "the-golazo-show-30803",
+            "starts_at": 1792684800,
+            "ends_at": 1792710000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/the-golazo-show-30803",
             "substreams": [],
             "viewers": "0"
           },
@@ -4644,7 +4770,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl-network-29780",
             "substreams": [],
-            "viewers": "2"
+            "viewers": "3"
           },
           {
             "id": 30765,
@@ -4903,7 +5029,7 @@
             "category_name": "Rugby",
             "iframe": "https://taifood-blog.asia/embed/247-fox-league",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "2"
           }
         ]
       },
@@ -5043,7 +5169,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-south-park",
             "substreams": [],
-            "viewers": "6"
+            "viewers": "11"
           },
           {
             "id": 3663,
@@ -5085,7 +5211,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-family-guy",
             "substreams": [],
-            "viewers": "9"
+            "viewers": "7"
           },
           {
             "id": 5191,
@@ -5106,7 +5232,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 16623,
@@ -5148,7 +5274,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/rally-tv",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "2"
           },
           {
             "id": 30527,
