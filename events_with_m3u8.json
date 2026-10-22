@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-22T11:01:47.885680+00:00",
+    "fetched_at": "2026-10-22T16:30:35.577737+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1792666910,
+    "timestamp": 1792686640,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.07124090194702148,
+    "performance": 0.07608389854431152,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl-network",
             "substreams": [],
-            "viewers": "8",
+            "viewers": "9",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -99,7 +99,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/cfl/2026-10-23/mtl-tor",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -178,7 +178,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/cfb/2026-10-24/iu-mich",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -234,7 +234,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cfb/2026-10-24/lsu-aub/skycast"
               }
             ],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -918,7 +918,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-26/dal-phi",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -948,7 +948,7 @@
             "category_name": "Australian Football",
             "iframe": "https://taifood-blog.asia/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -959,29 +959,6 @@
         "id": 37,
         "always_live": false,
         "streams": [
-          {
-            "id": 30810,
-            "name": "Illawarra Hawks vs. Sydney Kings",
-            "tag": "NBL",
-            "source_tag": "ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/158910895bad35a6626182e0ab01d626-thumbnail.jpg",
-            "blurhash": "LJDje_|qrtaef8j?fQa#0yNvbuS$",
-            "colors": [
-              "#ce202f",
-              "#552583"
-            ],
-            "uri_name": "nbl/2026-10-22/hwk-syd",
-            "starts_at": 1792657800,
-            "ends_at": 1792668600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nbl/2026-10-22/hwk-syd",
-            "substreams": [],
-            "viewers": "10",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 30807,
             "name": "Cleveland Cavaliers vs. Philadelphia 76ers",
@@ -1001,7 +978,7 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/nba/2026-10-22/cle-phi",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1412,7 +1389,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports"
               }
             ],
-            "viewers": "421",
+            "viewers": "52",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1435,7 +1412,7 @@
             "category_name": "Cricket",
             "iframe": "https://taifood-blog.asia/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "132",
+            "viewers": "14",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1465,7 +1442,7 @@
             "category_name": "Darts",
             "iframe": "https://taifood-blog.asia/embed/2026-european-championship--day-1-30899",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1610,7 +1587,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uecl/2026-10-22/kai-pao",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "58",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1633,7 +1610,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/the-golazo-show-30803",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "22",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1656,7 +1633,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uel/2026-10-22/ara-az",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1679,7 +1656,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uel/2026-10-22/dzg-nec",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1702,7 +1679,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uel/2026-10-22/fer-tor",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1725,7 +1702,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uel/2026-10-22/juv-ren",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "40",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1748,7 +1725,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uel/2026-10-22/lech-sun",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "23",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1771,7 +1748,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uel/2026-10-22/ofi-b04",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1794,7 +1771,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uel/2026-10-22/stg-olm",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "21",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1817,7 +1794,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uel/2026-10-22/usg-hbe",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1886,7 +1863,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uecl/2026-10-22/ibe-mja",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1932,7 +1909,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uecl/2026-10-22/jabl-bha",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "19",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2001,7 +1978,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uecl/2026-10-22/rsb-kbh",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2024,7 +2001,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uecl/2026-10-22/trab-hom",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2047,7 +2024,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uel/2026-10-22/bou-mil",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2093,7 +2070,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uel/2026-10-22/cel-cel",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2208,7 +2185,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uel/2026-10-22/omon-slb",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2254,7 +2231,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uel/2026-10-22/plz-lev",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2346,7 +2323,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/uecl/2026-10-22/bbl-kups",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2691,7 +2668,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/pl/2026-10-24/avl-mci",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4347,7 +4324,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/laliga/2026-10-25/bar-rma",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4515,7 +4492,7 @@
             "category_name": "Golf",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -5444,7 +5421,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-south-park",
             "substreams": [],
-            "viewers": "10",
+            "viewers": "11",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5467,7 +5444,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-cows",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5513,7 +5490,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -5582,7 +5559,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-racing",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -5591,11 +5568,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-10-22T11:12:36.013326+00:00",
+    "extracted_at": "2026-10-22T16:41:05.865483+00:00",
     "source_file": "events.json",
-    "total_streams": 217,
+    "total_streams": 216,
     "found": 0,
-    "not_found": 217,
+    "not_found": 216,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
