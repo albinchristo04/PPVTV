@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-23T10:55:10.870457+00:00",
+    "fetched_at": "2026-10-23T16:20:07.499215+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1792752910,
+    "timestamp": 1792772410,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.05006289482116699,
+    "performance": 0.046766042709350586,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl-network",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "9"
           },
           {
             "id": 30601,
@@ -55,7 +55,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/cfl/2026-10-23/mtl-tor",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 30602,
@@ -864,7 +864,7 @@
             "category_name": "Baseball",
             "iframe": "https://taifood-blog.asia/embed/mlb/2026-10-23/tb-mil",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           }
         ]
       },
@@ -873,27 +873,6 @@
         "id": 37,
         "always_live": false,
         "streams": [
-          {
-            "id": 30811,
-            "name": "Perth Wildcats vs. Melbourne United",
-            "tag": "NBL",
-            "source_tag": "ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/b37ba2908cd852ea5df2dff56f1dcb54-thumbnail.jpg",
-            "blurhash": "LUETx+{IsDbwjujsfQfR5PKQX5R*",
-            "colors": [
-              "#ec1c23",
-              "#4370b7"
-            ],
-            "uri_name": "nbl/2026-10-23/per-mel",
-            "starts_at": 1792751400,
-            "ends_at": 1792762200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nbl/2026-10-23/per-mel",
-            "substreams": [],
-            "viewers": "13"
-          },
           {
             "id": 30826,
             "name": "Chicago Bulls vs. Milwaukee Bucks",
@@ -1007,7 +986,7 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/nba/2026-10-23/min-orl",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 30832,
@@ -1038,7 +1017,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-10-23/tor-wsh/away"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 30834,
@@ -1439,6 +1418,53 @@
         ]
       },
       {
+        "category": "Combat Sports",
+        "id": 33,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 30929,
+            "name": "UFC 333: Volkanovski vs Evloev",
+            "tag": "MMA",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/eb39649709502149ded38e5375e3ac2b-thumbnail.jpg",
+            "blurhash": "L7F5Quof[SoN=Y~AkaxaDg?G.9xa",
+            "colors": [
+              "#704d25",
+              "#a98869"
+            ],
+            "uri_name": "ufc-333-volkanovski-vs-evloev-30929",
+            "starts_at": 1792850400,
+            "ends_at": 1792879200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Combat Sports",
+            "iframe": "https://taifood-blog.asia/embed/ufc-333-volkanovski-vs-evloev-30929",
+            "substreams": [
+              {
+                "id": 30930,
+                "name": "UFC 333: Volkanovski vs Evloev",
+                "tag": "MMA",
+                "uri_name": "ufc-333-volkanovski-vs-evloev-30930",
+                "source_tag": "Paramount+",
+                "locale": "es",
+                "iframe": "https://taifood-blog.asia/embed/ufc-333-volkanovski-vs-evloev-30930"
+              },
+              {
+                "id": 30931,
+                "name": "UFC 333: Volkanovski vs Evloev",
+                "tag": "MMA",
+                "uri_name": "ufc-333-volkanovski-vs-evloev-30931",
+                "source_tag": "Paramount+",
+                "locale": "pt",
+                "iframe": "https://taifood-blog.asia/embed/ufc-333-volkanovski-vs-evloev-30931"
+              }
+            ],
+            "viewers": "5"
+          }
+        ]
+      },
+      {
         "category": "Cricket",
         "id": 47,
         "always_live": false,
@@ -1481,7 +1507,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports"
               }
             ],
-            "viewers": "9"
+            "viewers": "12"
           },
           {
             "id": 27496,
@@ -1502,7 +1528,7 @@
             "category_name": "Cricket",
             "iframe": "https://taifood-blog.asia/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "3"
           }
         ]
       },
@@ -1530,7 +1556,7 @@
             "category_name": "Darts",
             "iframe": "https://taifood-blog.asia/embed/2026-european-championship--day-2-30900",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 30901,
@@ -1627,7 +1653,7 @@
             "id": 30751,
             "name": "IF Elfsborg vs. Malmö FF",
             "tag": "Allsvenskan",
-            "source_tag": "TV4 Play",
+            "source_tag": "TV4 Fotboll",
             "poster": "https://static.ppvservices.st/assets/thumb/0fcd36897b20051ff6fada452199a0aa-thumbnail.jpg",
             "blurhash": "LTF$Lj|,sEo}ofaxfQj[4nOubYNG",
             "colors": [
@@ -1642,13 +1668,13 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/allsvenskan/2026-10-23/elf-mal",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "2"
           },
           {
             "id": 30752,
             "name": "Västerås SK vs. Halmstads BK",
             "tag": "Allsvenskan",
-            "source_tag": "TV4 Play",
+            "source_tag": "TV4 Sport Live 1",
             "poster": "https://static.ppvservices.st/assets/thumb/5743084511059a3d8c11ece334d64d7f-thumbnail.jpg",
             "blurhash": "L48rE{Lh9c#9ozayoeWB00vY?GO[",
             "colors": [
@@ -1669,7 +1695,7 @@
             "id": 30742,
             "name": "Go Ahead Eagles vs. Telstar",
             "tag": "Eredivisie",
-            "source_tag": "ESPN",
+            "source_tag": "ESPN2",
             "poster": "https://static.ppvservices.st/assets/thumb/6cf5ef8fa44c2b9c0486a4f214acd759-thumbnail.jpg",
             "blurhash": "LPDkAc}7w0V]j?j?fQf70yNebvS#",
             "colors": [
@@ -1690,7 +1716,7 @@
             "id": 30616,
             "name": "VfB Stuttgart vs. Borussia Mönchengladbach",
             "tag": "Bundesliga",
-            "source_tag": "Bundesliga",
+            "source_tag": "Fandango",
             "poster": "https://static.ppvservices.st/assets/thumb/5a3cb96b8de1f033a58b28f822df6ddc-thumbnail.jpg",
             "blurhash": "LaD@~,|2rrNHofj[fQay57J7kWoy",
             "colors": [
@@ -1774,7 +1800,7 @@
             "id": 30625,
             "name": "Ipswich Town vs. Nottingham Forest",
             "tag": "Premier League",
-            "source_tag": "Premier League",
+            "source_tag": "Sky Sports Premier League",
             "poster": "https://static.ppvservices.st/assets/thumb/410a7c5e8f198a864065858574a87c15-thumbnail.jpg",
             "blurhash": "LGEA$$3Z#roIsAoffQWB0J+tSzs9",
             "colors": [
@@ -1785,11 +1811,11 @@
             "starts_at": 1792782000,
             "ends_at": 1792791000,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-gb",
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/pl/2026-10-23/ips-nfo",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 30733,
@@ -3238,7 +3264,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/pl/2026-10-25/sun-lee",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 30643,
@@ -3364,7 +3390,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/laliga/2026-10-25/bar-rma",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 30738,
@@ -3518,7 +3544,7 @@
             "category_name": "Golf",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "2"
           }
         ]
       },
@@ -3546,7 +3572,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl-network-29780",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 30911,
@@ -3567,7 +3593,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-23/mtl-chi",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 30912,
@@ -3689,7 +3715,7 @@
                 "iframe": "https://taifood-blog.asia/embed/united-states-grand-prix---practice-1-30852"
               }
             ],
-            "viewers": "0"
+            "viewers": "38"
           },
           {
             "id": 30853,
@@ -3783,7 +3809,7 @@
                 "iframe": "https://taifood-blog.asia/embed/united-states-grand-prix---practice-2-30863"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 30907,
@@ -3804,7 +3830,7 @@
             "category_name": "Motorsports",
             "iframe": "https://taifood-blog.asia/embed/motogp/2026/australia/practice-2",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 30908,
@@ -4177,7 +4203,7 @@
             "category_name": "Rugby",
             "iframe": "https://taifood-blog.asia/embed/247-fox-league",
             "substreams": [],
-            "viewers": "5"
+            "viewers": "1"
           }
         ]
       },
@@ -4254,7 +4280,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-south-park",
             "substreams": [],
-            "viewers": "16"
+            "viewers": "13"
           },
           {
             "id": 3663,
@@ -4296,7 +4322,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-family-guy",
             "substreams": [],
-            "viewers": "12"
+            "viewers": "13"
           },
           {
             "id": 5191,
@@ -4317,7 +4343,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 16623,
@@ -4338,7 +4364,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "1"
+            "viewers": "3"
           },
           {
             "id": 17270,
@@ -4359,7 +4385,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/rally-tv",
             "substreams": [],
-            "viewers": "2"
+            "viewers": "3"
           },
           {
             "id": 30527,
