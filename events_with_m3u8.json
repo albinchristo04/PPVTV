@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-26T12:13:11.370123+00:00",
+    "fetched_at": "2026-10-26T22:12:57.228368+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1793016800,
+    "timestamp": 1793052780,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.07038402557373047,
+    "performance": 0.03138399124145508,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl-network",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "12",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -76,7 +76,7 @@
                 "iframe": "https://taifood-blog.asia/embed/dallas-cowboys-at-philadelphia-eagles-31246"
               }
             ],
-            "viewers": "0",
+            "viewers": "16",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -461,7 +461,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/cfl/2026-10-31/ssk-bc",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -978,7 +978,7 @@
             "category_name": "Baseball",
             "iframe": "https://taifood-blog.asia/embed/mlb/2026-10-26/mil-tb",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1018,7 +1018,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-10-26/wsh-cha/away"
               }
             ],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1051,7 +1051,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-10-26/min-cle/away"
               }
             ],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1084,7 +1084,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-10-26/chi-bos/away"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1117,7 +1117,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-10-26/dal-mia/away"
               }
             ],
-            "viewers": "0",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1183,7 +1183,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-10-26/phx-okc/away"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1206,7 +1206,7 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/wnba/2026-10-26/atl-gs",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1466,7 +1466,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports"
               }
             ],
-            "viewers": "8",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1501,94 +1501,25 @@
         "always_live": false,
         "streams": [
           {
-            "id": 31247,
-            "name": "Besiktas vs. Istanbul Basaksehir",
-            "tag": "Turkish Super Lig",
-            "source_tag": "beIN SPORTS CONNECT 4",
-            "poster": "https://static.ppvservices.st/assets/thumb/21452a32cfcb2946b5b8e6930ffe26af-thumbnail.jpg",
-            "blurhash": "LdJstjuPxvWVj[fQfQfk4:VrNGnh",
+            "id": 31244,
+            "name": "2026 Ballon d'Or Ceremony",
+            "tag": "Football",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/bec540b95c735d1b4d8de9054fd61fe0-thumbnail.jpg",
+            "blurhash": "L88NqWWW00t6~pj]9GoJD%t6%LV@",
             "colors": [
-              "#ffffff",
-              "#fe6601"
+              "#000409",
+              "#000306"
             ],
-            "uri_name": "turkish-super-lig/2026-10-26/bes-ibfk",
-            "starts_at": 1793030400,
-            "ends_at": 1793039400,
+            "uri_name": "2026-ballon-dor-ceremony-31244",
+            "starts_at": 1793041200,
+            "ends_at": 1793062800,
             "always_live": 0,
             "locale": "en",
             "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/turkish-super-lig/2026-10-26/bes-ibfk",
+            "iframe": "https://taifood-blog.asia/embed/2026-ballon-dor-ceremony-31244",
             "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 31248,
-            "name": "Caykur Rizespor vs. Trabzonspor",
-            "tag": "Turkish Super Lig",
-            "source_tag": "beIN SPORTS CONNECT 3",
-            "poster": "https://static.ppvservices.st/assets/thumb/0829819685d3325b08959b7c1e2efa76-thumbnail.jpg",
-            "blurhash": "LYE_Uk{]xIM{jZfRfQjZ4-I[S0o}",
-            "colors": [
-              "#ec2021",
-              "#5699ea"
-            ],
-            "uri_name": "turkish-super-lig/2026-10-26/cay-trab",
-            "starts_at": 1793030400,
-            "ends_at": 1793039400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/turkish-super-lig/2026-10-26/cay-trab",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 31249,
-            "name": "Galatasaray vs. Fenerbahce",
-            "tag": "Turkish Super Lig",
-            "source_tag": "beIN SPORTS CONNECT 4",
-            "poster": "https://static.ppvservices.st/assets/thumb/62077b8142a6d9c44f6f28bf3719b956-thumbnail.jpg",
-            "blurhash": "L9I4av0F?*D*t6j]j@ae00tuD??r",
-            "colors": [
-              "#aa0031",
-              "#ffff01"
-            ],
-            "uri_name": "turkish-super-lig/2026-10-26/gal-fen",
-            "starts_at": 1793039400,
-            "ends_at": 1793048400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/turkish-super-lig/2026-10-26/gal-fen",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 31166,
-            "name": "Paris Saint-Germain vs. Lyon",
-            "tag": "Ligue 1",
-            "source_tag": "Ligue 1+",
-            "poster": "https://static.ppvservices.st/assets/thumb/18b8c684a71f92da5fb0c884f5ba9f78-thumbnail.jpg",
-            "blurhash": "LDDacx2z#ExWsoW;j[o000=EXknO",
-            "colors": [
-              "#0033a0",
-              "#e30613"
-            ],
-            "uri_name": "ligue1/2026-10-26/psg-lyon",
-            "starts_at": 1793043000,
-            "ends_at": 1793052000,
-            "always_live": 0,
-            "locale": "fr",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ligue1/2026-10-26/psg-lyon",
-            "substreams": [],
-            "viewers": "0",
+            "viewers": "22660",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1611,30 +1542,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/laliga/2026-10-26/sev-osa",
             "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 31244,
-            "name": "2026 Ballon d'Or Ceremony",
-            "tag": "Football",
-            "source_tag": "CBS Sports Golazo",
-            "poster": "https://static.ppvservices.st/assets/thumb/bec540b95c735d1b4d8de9054fd61fe0-thumbnail.jpg",
-            "blurhash": "L88NqWWW00t6~pj]9GoJD%t6%LV@",
-            "colors": [
-              "#000409",
-              "#000306"
-            ],
-            "uri_name": "2026-ballon-dor-ceremony-31244",
-            "starts_at": 1793044800,
-            "ends_at": 1793055600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/2026-ballon-dor-ceremony-31244",
-            "substreams": [],
-            "viewers": "1",
+            "viewers": "33",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4470,7 +4378,7 @@
             "category_name": "Golf",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4500,7 +4408,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl-network-29780",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4546,7 +4454,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-26/tor-cgy",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4569,7 +4477,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-26/det-edm",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4599,7 +4507,7 @@
             "category_name": "Rugby",
             "iframe": "https://taifood-blog.asia/embed/247-fox-league",
             "substreams": [],
-            "viewers": "3",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4721,7 +4629,7 @@
             "category_name": "Wrestling",
             "iframe": "https://taifood-blog.asia/embed/aew/2026-10-31",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4751,7 +4659,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-south-park",
             "substreams": [],
-            "viewers": "9",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4774,7 +4682,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-cows",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4820,7 +4728,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4843,7 +4751,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "6",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4889,7 +4797,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-racing",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4898,11 +4806,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-10-26T12:23:40.590860+00:00",
+    "extracted_at": "2026-10-26T22:22:43.265917+00:00",
     "source_file": "events.json",
-    "total_streams": 200,
+    "total_streams": 196,
     "found": 0,
-    "not_found": 200,
+    "not_found": 196,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
