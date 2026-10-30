@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-30T12:00:42.722368+00:00",
+    "fetched_at": "2026-10-30T21:53:47.147953+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1793361650,
+    "timestamp": 1793397230,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.029738903045654297,
+    "performance": 0.04778790473937988,
     "streams": [
       {
         "category": "American Football",
@@ -34,7 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl-network",
             "substreams": [],
-            "viewers": "12",
+            "viewers": "16",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -146,7 +146,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/cfb/2026-10-31/wis-iowa",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -225,7 +225,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cfb/2026-10-31/fla-uga/skycast"
               }
             ],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -883,7 +883,7 @@
             "category_name": "Australian Football",
             "iframe": "https://taifood-blog.asia/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1012,7 +1012,7 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/nba/2026-10-30/ny-phi",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "6",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1078,7 +1078,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-10-30/ind-mia/away"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1111,7 +1111,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-10-30/hou-dal/away"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1144,7 +1144,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-10-30/lac-min/away"
               }
             ],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1167,7 +1167,7 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/nba/2026-10-30/lal-gs",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1200,7 +1200,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-10-30/den-phx/away"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1516,7 +1516,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports"
               }
             ],
-            "viewers": "28",
+            "viewers": "10",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1539,7 +1539,7 @@
             "category_name": "Cricket",
             "iframe": "https://taifood-blog.asia/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "488",
+            "viewers": "35",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1551,33 +1551,10 @@
         "always_live": false,
         "streams": [
           {
-            "id": 31167,
-            "name": "Le Havre AC vs. Paris Saint-Germain",
-            "tag": "Ligue 1",
-            "source_tag": "Ligue 1+",
-            "poster": "https://static.ppvservices.st/assets/thumb/da90c19ceaa6748839ab017fe78f3232-thumbnail.jpg",
-            "blurhash": "L25=n:I%4=%OogV@j[og00x3?ZI[",
-            "colors": [
-              "#003259",
-              "#0033a0"
-            ],
-            "uri_name": "ligue1/2026-10-30/hac-psg",
-            "starts_at": 1793383200,
-            "ends_at": 1793392200,
-            "always_live": 0,
-            "locale": "fr",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ligue1/2026-10-30/hac-psg",
-            "substreams": [],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 31127,
             "name": "SV Elversberg vs. Mainz",
             "tag": "Bundesliga",
-            "source_tag": "Bundesliga",
+            "source_tag": "Fandango",
             "poster": "https://static.ppvservices.st/assets/thumb/1b67cb0d4582d448199db3f1520a7c32-thumbnail.jpg",
             "blurhash": "L6D7]m4SqaQ8soW;fQjZ00*L%#.S",
             "colors": [
@@ -1592,7 +1569,30 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/bundesliga/2026-10-30/elv-m05",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "37",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 31416,
+            "name": "Zulte-Waregem vs. Club Brugge",
+            "tag": "Belgian Pro League",
+            "source_tag": "DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/d794009b2d71a004c218fe8ab47bf0e2-thumbnail.jpg",
+            "blurhash": "L35PE@L5I:yEWBoybHR*00%7%2Me",
+            "colors": [
+              "#066a38",
+              "#0b2f7b"
+            ],
+            "uri_name": "belgian-pro-league/2026-10-30/zul-bru",
+            "starts_at": 1793389500,
+            "ends_at": 1793398500,
+            "always_live": 0,
+            "locale": "it",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/belgian-pro-league/2026-10-30/zul-bru",
+            "substreams": [],
+            "viewers": "15",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1615,7 +1615,30 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/laliga/2026-10-30/vil-esp",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "469",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 31421,
+            "name": "Sheffield United vs. Wrexham",
+            "tag": "EFL Championship",
+            "source_tag": "Sky Sports Football",
+            "poster": "https://static.ppvservices.st/assets/thumb/bc8fa38e804912caa9b8a3d0c56fc799-thumbnail.jpg",
+            "blurhash": "LCIBcb|wiJk9azoff6WB00OBk=Nd",
+            "colors": [
+              "#f32728",
+              "#c8142f"
+            ],
+            "uri_name": "efl-championship/2026-10-30/shu-wxm",
+            "starts_at": 1793390400,
+            "ends_at": 1793399400,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/efl-championship/2026-10-30/shu-wxm",
+            "substreams": [],
+            "viewers": "220",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1638,7 +1661,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/ligue1/2026-10-30/lill-rcl",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1081",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1730,7 +1753,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/pl/2026-10-31/che-mun",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2006,7 +2029,53 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/pl/2026-10-31/mci-bha",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 31418,
+            "name": "West Ham United vs. West Bromwich Albion",
+            "tag": "EFL Championship",
+            "source_tag": "Paramount+",
+            "poster": "https://static.ppvservices.st/assets/thumb/6f4e6e85da3507c2549b3ec752ab13aa-thumbnail.jpg",
+            "blurhash": "L5A9+]_#8_.9%MR%WVs:00lA_2Di",
+            "colors": [
+              "#7d2c3b",
+              "#091452"
+            ],
+            "uri_name": "efl-championship/2026-10-31/whu-wba",
+            "starts_at": 1793458800,
+            "ends_at": 1793467800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/efl-championship/2026-10-31/whu-wba",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 31419,
+            "name": "Swansea City vs. Blackburn Rovers",
+            "tag": "EFL Championship",
+            "source_tag": "Viaplay",
+            "poster": "https://static.ppvservices.st/assets/thumb/15018ecc0c2a69e486f3aea3edbb1819-thumbnail.jpg",
+            "blurhash": "LeFr@}~lxsa^j[j[fkay4mIpf5V|",
+            "colors": [
+              "#ffffff",
+              "#0000f8"
+            ],
+            "uri_name": "efl-championship/2026-10-31/swa-blk",
+            "starts_at": 1793458800,
+            "ends_at": 1793467800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/efl-championship/2026-10-31/swa-blk",
+            "substreams": [],
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2051,29 +2120,6 @@
             "locale": "nl",
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/eredivisie/2026-10-31/fey-for",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 31169,
-            "name": "Nice vs. Stade Rennais",
-            "tag": "Ligue 1",
-            "source_tag": "Ligue 1+",
-            "poster": "https://static.ppvservices.st/assets/thumb/f8e289ef63931acdeee0848a91d90f55-thumbnail.jpg",
-            "blurhash": "L1ITzu7d?_#T,CVsbbo}00[uD3Sw",
-            "colors": [
-              "#e30613",
-              "#e30613"
-            ],
-            "uri_name": "ligue1/2026-10-31/nice-ren",
-            "starts_at": 1793463300,
-            "ends_at": 1793472300,
-            "always_live": 0,
-            "locale": "fr",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ligue1/2026-10-31/nice-ren",
             "substreams": [],
             "viewers": "0",
             "m3u8": null,
@@ -2167,7 +2213,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/bundesliga/2026-10-31/bay-dor",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2236,7 +2282,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/eredivisie/2026-10-31/psv-wil",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2466,7 +2512,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/laliga/2026-10-31/bar-ala",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2903,7 +2949,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/seriea/2026-11-01/laz-cag",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3600,7 +3646,7 @@
             "category_name": "Golf",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "15",
+            "viewers": "20",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -3630,7 +3676,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl-network-29780",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3653,7 +3699,7 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-30/nj-vgk",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "18",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3710,102 +3756,6 @@
         "id": 35,
         "always_live": false,
         "streams": [
-          {
-            "id": 31361,
-            "name": "Mexico City Grand Prix - Practice 1",
-            "tag": "Formula 1",
-            "source_tag": "Sky Sports F1",
-            "poster": "https://static.ppvservices.st/assets/thumb/40d6afbebd0384ae1fb4269ccf04f882-thumbnail.jpg",
-            "blurhash": "LMCGJlI9s.M{_4D$s:azt9i^t7WB",
-            "colors": [
-              "#020202",
-              "#ae9098"
-            ],
-            "uri_name": "f1/2026/mexico/fp1",
-            "starts_at": 1793385000,
-            "ends_at": 1793392200,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Motorsports",
-            "iframe": "https://taifood-blog.asia/embed/f1/2026/mexico/fp1",
-            "substreams": [
-              {
-                "id": 31363,
-                "name": "Mexico City Grand Prix - Practice 1",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---practice-1-31363",
-                "source_tag": "Apple TV (F1TV)",
-                "locale": "en-us",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31363"
-              },
-              {
-                "id": 31365,
-                "name": "Mexico City Grand Prix - Practice 1",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---practice-1-31365",
-                "source_tag": "DAZN F1",
-                "locale": "es",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31365"
-              },
-              {
-                "id": 31366,
-                "name": "Mexico City Grand Prix - Practice 1",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---practice-1-31366",
-                "source_tag": "Sky Sport F1",
-                "locale": "de",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31366"
-              },
-              {
-                "id": 31367,
-                "name": "Mexico City Grand Prix - Practice 1",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---practice-1-31367",
-                "source_tag": "Sky Sport F1",
-                "locale": "it",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31367"
-              },
-              {
-                "id": 31368,
-                "name": "Mexico City Grand Prix - Practice 1",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---practice-1-31368",
-                "source_tag": "V Sport Motor",
-                "locale": "sv",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31368"
-              },
-              {
-                "id": 31369,
-                "name": "Mexico City Grand Prix - Practice 1",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---practice-1-31369",
-                "source_tag": "Viaplay",
-                "locale": "nl",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31369"
-              },
-              {
-                "id": 31370,
-                "name": "Mexico City Grand Prix - Practice 1",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---practice-1-31370",
-                "source_tag": "Nova Sport 5",
-                "locale": "cs",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31370"
-              },
-              {
-                "id": 31371,
-                "name": "Mexico City Grand Prix - Practice 1",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---practice-1-31371",
-                "source_tag": "Eleven Sports 1",
-                "locale": "pl",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31371"
-              }
-            ],
-            "viewers": "2",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 31372,
             "name": "Mexico City Grand Prix - Practice 2",
@@ -3898,7 +3848,7 @@
                 "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-2-31382"
               }
             ],
-            "viewers": "0",
+            "viewers": "368",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4216,7 +4166,7 @@
             "category_name": "Rugby",
             "iframe": "https://taifood-blog.asia/embed/247-fox-league",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4246,7 +4196,7 @@
             "category_name": "Wrestling",
             "iframe": "https://taifood-blog.asia/embed/wwe/2026-10-30",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4345,7 +4295,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-family-guy",
             "substreams": [],
-            "viewers": "11",
+            "viewers": "15",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4368,7 +4318,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-the-simpsons",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4391,7 +4341,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "7",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4437,7 +4387,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-racing",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4446,11 +4396,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-10-30T12:09:06.770522+00:00",
+    "extracted_at": "2026-10-30T22:02:16.864750+00:00",
     "source_file": "events.json",
-    "total_streams": 164,
+    "total_streams": 165,
     "found": 0,
-    "not_found": 164,
+    "not_found": 165,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
