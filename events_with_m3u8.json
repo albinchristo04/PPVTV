@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-10-30T04:03:56.984708+00:00",
+    "fetched_at": "2026-10-30T12:00:42.722368+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1793333040,
+    "timestamp": 1793361650,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.04641389846801758,
+    "performance": 0.029738903045654297,
     "streams": [
       {
         "category": "American Football",
@@ -34,49 +34,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/nfl-network",
             "substreams": [],
-            "viewers": "10",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 31066,
-            "name": "Carolina Panthers at Green Bay Packers",
-            "tag": "NFL",
-            "source_tag": "Prime Video",
-            "poster": "https://static.ppvservices.st/assets/thumb/88b0c112edd9d19105dae562c5b37275-thumbnail.jpg",
-            "blurhash": "LH6b}zG1Rp%La}fkfkfQ8^$_t6IU",
-            "colors": [
-              "#0085ca",
-              "#203731"
-            ],
-            "uri_name": "nfl/2026-10-29/car-gb",
-            "starts_at": 1793319300,
-            "ends_at": 1793333700,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-10-29/car-gb",
-            "substreams": [
-              {
-                "id": 31341,
-                "name": "Carolina Panthers at Green Bay Packers",
-                "tag": "NFL",
-                "uri_name": "carolina-panthers-at-green-bay-packers-31341",
-                "source_tag": "Prime Video",
-                "locale": "es",
-                "iframe": "https://taifood-blog.asia/embed/carolina-panthers-at-green-bay-packers-31341"
-              },
-              {
-                "id": 31342,
-                "name": "Carolina Panthers at Green Bay Packers",
-                "tag": "NFL",
-                "uri_name": "carolina-panthers-at-green-bay-packers-31342",
-                "source_tag": "Prime Vision with Next Gen Stats",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/carolina-panthers-at-green-bay-packers-31342"
-              }
-            ],
-            "viewers": "958",
+            "viewers": "12",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -109,7 +67,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cfb/2026-10-31/nd-navy/skycast"
               }
             ],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -188,7 +146,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/cfb/2026-10-31/wis-iowa",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -234,7 +192,7 @@
             "category_name": "American Football",
             "iframe": "https://taifood-blog.asia/embed/cfl/2026-10-31/wpg-tor",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -267,7 +225,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cfb/2026-10-31/fla-uga/skycast"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -925,7 +883,7 @@
             "category_name": "Australian Football",
             "iframe": "https://taifood-blog.asia/embed/247-fox-footy",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -936,85 +894,6 @@
         "id": 37,
         "always_live": false,
         "streams": [
-          {
-            "id": 31304,
-            "name": "Memphis Grizzlies vs. Portland Trail Blazers",
-            "tag": "NBA",
-            "source_tag": "KUNP 16 (Home)",
-            "poster": "https://static.ppvservices.st/assets/thumb/fe7311a7c00d0465667b53a9f7fd3bf3-thumbnail.jpg",
-            "blurhash": "LBDt-q3Gw~%1jFbbbHjF0J]hW-Vs",
-            "colors": [
-              "#5d76a9",
-              "#e03a3e"
-            ],
-            "uri_name": "nba/2026-10-29/mem-por",
-            "starts_at": 1793325600,
-            "ends_at": 1793336400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nba/2026-10-29/mem-por",
-            "substreams": [
-              {
-                "id": 31305,
-                "name": "Memphis Grizzlies vs. Portland Trail Blazers",
-                "tag": "NBA",
-                "uri_name": "nba/2026-10-29/mem-por/away",
-                "source_tag": "NBA League Pass (Away)",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-10-29/mem-por/away"
-              }
-            ],
-            "viewers": "5213",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 31339,
-            "name": "New Zealand Breakers vs. Adelaide 36ers",
-            "tag": "NBL",
-            "source_tag": "ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/c67bd5666258a7368d7168cc9b66dd11-thumbnail.jpg",
-            "blurhash": "LEIe3ox|w4IoWWr?f7X80JImS|$*",
-            "colors": [
-              "#e33c95",
-              "#ed302e"
-            ],
-            "uri_name": "nbl/2026-10-30/nzl-adl",
-            "starts_at": 1793341800,
-            "ends_at": 1793352600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nbl/2026-10-30/nzl-adl",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 31340,
-            "name": "Tasmania JackJumpers vs. Sydney Kings",
-            "tag": "NBL",
-            "source_tag": "ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/72b351c6ad2f9f45d3c75ba729731c4f-thumbnail.jpg",
-            "blurhash": "L97n,jC:OAwJfmoefQWC01#FxHNM",
-            "colors": [
-              "#008b45",
-              "#552583"
-            ],
-            "uri_name": "nbl/2026-10-30/tas-syd",
-            "starts_at": 1793349000,
-            "ends_at": 1793359800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nbl/2026-10-30/tas-syd",
-            "substreams": [],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 31320,
             "name": "Charlotte Hornets vs. Washington Wizards",
@@ -1133,7 +1012,7 @@
             "category_name": "Basketball",
             "iframe": "https://taifood-blog.asia/embed/nba/2026-10-30/ny-phi",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1265,7 +1144,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-10-30/lac-min/away"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1324,6 +1203,273 @@
             "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
+          },
+          {
+            "id": 31359,
+            "name": "Cairns Taipans vs. Melbourne United",
+            "tag": "NBL",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/d27e87349c58e7af7e0627cb8ab55657-thumbnail.jpg",
+            "blurhash": "LXExbV}OsDa$j]j?fQa#55NfW.Sg",
+            "colors": [
+              "#f69138",
+              "#4370b7"
+            ],
+            "uri_name": "nbl/2026-10-31/cns-mel",
+            "starts_at": 1793435400,
+            "ends_at": 1793446200,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://taifood-blog.asia/embed/nbl/2026-10-31/cns-mel",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 31360,
+            "name": "Perth Wildcats vs. Illawarra Hawks",
+            "tag": "NBL",
+            "source_tag": "ESPN",
+            "poster": "https://static.ppvservices.st/assets/thumb/37693c9b1e97d52beb2164e157623035-thumbnail.jpg",
+            "blurhash": "L8H@$k{fv#o}oLf6fQj[0KO?O?RP",
+            "colors": [
+              "#ec1c23",
+              "#ce202f"
+            ],
+            "uri_name": "nbl/2026-10-31/per-hwk",
+            "starts_at": 1793442600,
+            "ends_at": 1793453400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://taifood-blog.asia/embed/nbl/2026-10-31/per-hwk",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 31346,
+            "name": "Portland Trail Blazers vs. Utah Jazz",
+            "tag": "NBA",
+            "source_tag": "KJZZ-TV (Home)",
+            "poster": "https://static.ppvservices.st/assets/thumb/6405a9652bda6c5dc39426ed5c6f2ac9-thumbnail.jpg",
+            "blurhash": "LNEAd4|prsoNn%aeoLbH0wOZbuNa",
+            "colors": [
+              "#e03a3e",
+              "#4e008e"
+            ],
+            "uri_name": "nba/2026-10-31/por-utah",
+            "starts_at": 1793473200,
+            "ends_at": 1793484000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://taifood-blog.asia/embed/nba/2026-10-31/por-utah",
+            "substreams": [
+              {
+                "id": 31347,
+                "name": "Portland Trail Blazers vs. Utah Jazz",
+                "tag": "NBA",
+                "uri_name": "nba/2026-10-31/por-utah/away",
+                "source_tag": "NBA League Pass (Away)",
+                "locale": "en",
+                "iframe": "https://taifood-blog.asia/embed/nba/2026-10-31/por-utah/away"
+              }
+            ],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 31348,
+            "name": "Philadelphia 76ers vs. Charlotte Hornets",
+            "tag": "NBA",
+            "source_tag": "NBA TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/be4944ec3ff6abe18207fc167d5e2be2-thumbnail.jpg",
+            "blurhash": "L47oM4_PD%0LIqELoz%M00B.%g?u",
+            "colors": [
+              "#1d428a",
+              "#008ca8"
+            ],
+            "uri_name": "nba/2026-10-31/phi-cha",
+            "starts_at": 1793484000,
+            "ends_at": 1793494800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://taifood-blog.asia/embed/nba/2026-10-31/phi-cha",
+            "substreams": [],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 31349,
+            "name": "Atlanta Hawks vs. New Orleans Pelicans",
+            "tag": "NBA",
+            "source_tag": "GCSEN (Home)",
+            "poster": "https://static.ppvservices.st/assets/thumb/86b3c710bccce1c08ad816c33cd31404-thumbnail.jpg",
+            "blurhash": "LZDR8J}ssAIoj[j[fkfQ56ELbHxa",
+            "colors": [
+              "#c8102e",
+              "#0a2240"
+            ],
+            "uri_name": "nba/2026-10-31/atl-no",
+            "starts_at": 1793487600,
+            "ends_at": 1793498400,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://taifood-blog.asia/embed/nba/2026-10-31/atl-no",
+            "substreams": [
+              {
+                "id": 31350,
+                "name": "Atlanta Hawks vs. New Orleans Pelicans",
+                "tag": "NBA",
+                "uri_name": "nba/2026-10-31/atl-no/away",
+                "source_tag": "NBA League Pass (Away)",
+                "locale": "en",
+                "iframe": "https://taifood-blog.asia/embed/nba/2026-10-31/atl-no/away"
+              }
+            ],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 31351,
+            "name": "Sacramento Kings vs. Memphis Grizzlies",
+            "tag": "NBA",
+            "source_tag": "DAZN MEM (Home)",
+            "poster": "https://static.ppvservices.st/assets/thumb/9864edaa6555b76bc620ec8522c63036-thumbnail.jpg",
+            "blurhash": "L79jpJ}ENF4.jcjIf6kB0056xu?a",
+            "colors": [
+              "#5a2d81",
+              "#5d76a9"
+            ],
+            "uri_name": "nba/2026-10-31/sac-mem",
+            "starts_at": 1793491200,
+            "ends_at": 1793502000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://taifood-blog.asia/embed/nba/2026-10-31/sac-mem",
+            "substreams": [
+              {
+                "id": 31352,
+                "name": "Sacramento Kings vs. Memphis Grizzlies",
+                "tag": "NBA",
+                "uri_name": "nba/2026-10-31/sac-mem/away",
+                "source_tag": "NBA League Pass (Away)",
+                "locale": "en",
+                "iframe": "https://taifood-blog.asia/embed/nba/2026-10-31/sac-mem/away"
+              }
+            ],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 31353,
+            "name": "Cleveland Cavaliers vs. Milwaukee Bucks",
+            "tag": "NBA",
+            "source_tag": "MyMi (Home)",
+            "poster": "https://static.ppvservices.st/assets/thumb/4239a64f55451d353d0af6069678743b-thumbnail.jpg",
+            "blurhash": "LC9G2L{RrrOqj[ayaza|0gF]kWr?",
+            "colors": [
+              "#860038",
+              "#00471b"
+            ],
+            "uri_name": "nba/2026-10-31/cle-mil",
+            "starts_at": 1793491200,
+            "ends_at": 1793502000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://taifood-blog.asia/embed/nba/2026-10-31/cle-mil",
+            "substreams": [
+              {
+                "id": 31354,
+                "name": "Cleveland Cavaliers vs. Milwaukee Bucks",
+                "tag": "NBA",
+                "uri_name": "nba/2026-10-31/cle-mil/away",
+                "source_tag": "NBA League Pass (Away)",
+                "locale": "en",
+                "iframe": "https://taifood-blog.asia/embed/nba/2026-10-31/cle-mil/away"
+              }
+            ],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 31355,
+            "name": "Minnesota Timberwolves vs. San Antonio Spurs",
+            "tag": "NBA",
+            "source_tag": "DAZN SAS (Home)",
+            "poster": "https://static.ppvservices.st/assets/thumb/89993064cd415366c3ce7944edfd5044-thumbnail.jpg",
+            "blurhash": "LH6[jy%%R.IUkCj[j[ay8^Mws:xu",
+            "colors": [
+              "#266092",
+              "#000000"
+            ],
+            "uri_name": "nba/2026-10-31/min-sa",
+            "starts_at": 1793491200,
+            "ends_at": 1793502000,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://taifood-blog.asia/embed/nba/2026-10-31/min-sa",
+            "substreams": [
+              {
+                "id": 31356,
+                "name": "Minnesota Timberwolves vs. San Antonio Spurs",
+                "tag": "NBA",
+                "uri_name": "nba/2026-10-31/min-sa/away",
+                "source_tag": "NBA League Pass (Away)",
+                "locale": "en",
+                "iframe": "https://taifood-blog.asia/embed/nba/2026-10-31/min-sa/away"
+              }
+            ],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 31357,
+            "name": "Oklahoma City Thunder vs. Houston Rockets",
+            "tag": "NBA",
+            "source_tag": "NBA TV",
+            "poster": "https://static.ppvservices.st/assets/thumb/7640679185fa59ca0f2d2713ffde7853-thumbnail.jpg",
+            "blurhash": "LNCX{x3sw}rqoLj[fQaz5O#7W.of",
+            "colors": [
+              "#007ac1",
+              "#ce0e2d"
+            ],
+            "uri_name": "nba/2026-10-31/okc-hou",
+            "starts_at": 1793493000,
+            "ends_at": 1793503800,
+            "always_live": 0,
+            "locale": "en",
+            "category_name": "Basketball",
+            "iframe": "https://taifood-blog.asia/embed/nba/2026-10-31/okc-hou",
+            "substreams": [
+              {
+                "id": 31358,
+                "name": "Oklahoma City Thunder vs. Houston Rockets",
+                "tag": "NBA",
+                "uri_name": "nba/2026-10-31/okc-hou/away",
+                "source_tag": "Thunder App (Away)",
+                "locale": "en",
+                "iframe": "https://taifood-blog.asia/embed/nba/2026-10-31/okc-hou/away"
+              }
+            ],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
           }
         ]
       },
@@ -1370,7 +1516,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports"
               }
             ],
-            "viewers": "10",
+            "viewers": "28",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1393,7 +1539,7 @@
             "category_name": "Cricket",
             "iframe": "https://taifood-blog.asia/embed/247-fox-cricket",
             "substreams": [],
-            "viewers": "24",
+            "viewers": "488",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1584,7 +1730,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/pl/2026-10-31/che-mun",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1860,7 +2006,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/pl/2026-10-31/mci-bha",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2136,7 +2282,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/mls/2026-10-31/cin-phi",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2987,7 +3133,7 @@
             "category_name": "Football",
             "iframe": "https://taifood-blog.asia/embed/pl/2026-11-01/liv-ars",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3454,7 +3600,7 @@
             "category_name": "Golf",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059",
             "substreams": [],
-            "viewers": "5",
+            "viewers": "15",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -3484,76 +3630,563 @@
             "category_name": "Ice Hockey",
             "iframe": "https://taifood-blog.asia/embed/nhl-network-29780",
             "substreams": [],
-            "viewers": "3",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
           {
-            "id": 31317,
-            "name": "Buffalo Sabres vs. Anaheim Ducks",
+            "id": 31343,
+            "name": "New Jersey Devils vs. Vegas Golden Knights",
             "tag": "NHL",
-            "source_tag": "Disney+",
-            "poster": "https://static.ppvservices.st/assets/thumb/14b9ee3e5a1cd535bb7c64ad5abc19ac-thumbnail.jpg",
-            "blurhash": "LBEde-24:=oHt7ofjtWB00]NO=#-",
+            "source_tag": "Scripps Sports",
+            "poster": "https://static.ppvservices.st/assets/thumb/32a549c07c3660bfe1a72e0b64c0da45-thumbnail.jpg",
+            "blurhash": "LVEAQR|Lr?R*oLjtfQfQ5QJQbbkC",
             "colors": [
-              "#00468b",
-              "#fc4c02"
+              "#e30b2b",
+              "#344043"
             ],
-            "uri_name": "nhl/2026-10-29/buf-ana",
-            "starts_at": 1793325600,
-            "ends_at": 1793336400,
+            "uri_name": "nhl/2026-10-30/nj-vgk",
+            "starts_at": 1793397600,
+            "ends_at": 1793408400,
             "always_live": 0,
             "locale": "en",
             "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-29/buf-ana",
+            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-30/nj-vgk",
             "substreams": [],
-            "viewers": "81",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
           {
-            "id": 31318,
-            "name": "Ottawa Senators vs. Los Angeles Kings",
+            "id": 31344,
+            "name": "Winnipeg Jets vs. Florida Panthers",
             "tag": "NHL",
-            "source_tag": "ABTV",
-            "poster": "https://static.ppvservices.st/assets/thumb/f53dff6f5460bd45184189c0cd823e4b-thumbnail.jpg",
-            "blurhash": "LTC;Fn{~w0W=j[jZfQfk9[K4XRWU",
+            "source_tag": "Scripps Sports",
+            "poster": "https://static.ppvservices.st/assets/thumb/215f401c144a7061d34fdad3d4d59ffe-thumbnail.jpg",
+            "blurhash": "L6DaZX3s@]Mws:WWf6jt00@sP9^Q",
             "colors": [
-              "#dd1a32",
-              "#121212"
+              "#002d62",
+              "#e51937"
             ],
-            "uri_name": "nhl/2026-10-29/ott-la",
-            "starts_at": 1793325600,
-            "ends_at": 1793336400,
+            "uri_name": "nhl/2026-10-30/wpg-fla",
+            "starts_at": 1793401200,
+            "ends_at": 1793412000,
             "always_live": 0,
             "locale": "en",
             "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-29/ott-la",
+            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-30/wpg-fla",
             "substreams": [],
-            "viewers": "70",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
           {
-            "id": 31319,
-            "name": "Vancouver Canucks vs. San Jose Sharks",
+            "id": 31345,
+            "name": "Seattle Kraken vs. Calgary Flames",
             "tag": "NHL",
-            "source_tag": "NBC Sports BA",
-            "poster": "https://static.ppvservices.st/assets/thumb/19a0a883b56c9a0c9ffe7f23c6da0c3b-thumbnail.jpg",
-            "blurhash": "L25Pk2_b9t9ZIVM{ayxu005i-p.7",
+            "source_tag": "ESPN+",
+            "poster": "https://static.ppvservices.st/assets/thumb/2f4dad3158691983a58d31112a5e91bc-thumbnail.jpg",
+            "blurhash": "LDD7Ez2u#8;2oLa|jtfQ0y{|XlOY",
             "colors": [
-              "#003e7e",
-              "#00788a"
+              "#000d33",
+              "#dd1a32"
             ],
-            "uri_name": "nhl/2026-10-29/van-sj",
-            "starts_at": 1793325600,
-            "ends_at": 1793336400,
+            "uri_name": "nhl/2026-10-30/sea-cgy",
+            "starts_at": 1793404800,
+            "ends_at": 1793415600,
             "always_live": 0,
             "locale": "en",
             "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-29/van-sj",
+            "iframe": "https://taifood-blog.asia/embed/nhl/2026-10-30/sea-cgy",
             "substreams": [],
-            "viewers": "402",
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          }
+        ]
+      },
+      {
+        "category": "Motorsports",
+        "id": 35,
+        "always_live": false,
+        "streams": [
+          {
+            "id": 31361,
+            "name": "Mexico City Grand Prix - Practice 1",
+            "tag": "Formula 1",
+            "source_tag": "Sky Sports F1",
+            "poster": "https://static.ppvservices.st/assets/thumb/40d6afbebd0384ae1fb4269ccf04f882-thumbnail.jpg",
+            "blurhash": "LMCGJlI9s.M{_4D$s:azt9i^t7WB",
+            "colors": [
+              "#020202",
+              "#ae9098"
+            ],
+            "uri_name": "f1/2026/mexico/fp1",
+            "starts_at": 1793385000,
+            "ends_at": 1793392200,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Motorsports",
+            "iframe": "https://taifood-blog.asia/embed/f1/2026/mexico/fp1",
+            "substreams": [
+              {
+                "id": 31363,
+                "name": "Mexico City Grand Prix - Practice 1",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-1-31363",
+                "source_tag": "Apple TV (F1TV)",
+                "locale": "en-us",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31363"
+              },
+              {
+                "id": 31365,
+                "name": "Mexico City Grand Prix - Practice 1",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-1-31365",
+                "source_tag": "DAZN F1",
+                "locale": "es",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31365"
+              },
+              {
+                "id": 31366,
+                "name": "Mexico City Grand Prix - Practice 1",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-1-31366",
+                "source_tag": "Sky Sport F1",
+                "locale": "de",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31366"
+              },
+              {
+                "id": 31367,
+                "name": "Mexico City Grand Prix - Practice 1",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-1-31367",
+                "source_tag": "Sky Sport F1",
+                "locale": "it",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31367"
+              },
+              {
+                "id": 31368,
+                "name": "Mexico City Grand Prix - Practice 1",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-1-31368",
+                "source_tag": "V Sport Motor",
+                "locale": "sv",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31368"
+              },
+              {
+                "id": 31369,
+                "name": "Mexico City Grand Prix - Practice 1",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-1-31369",
+                "source_tag": "Viaplay",
+                "locale": "nl",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31369"
+              },
+              {
+                "id": 31370,
+                "name": "Mexico City Grand Prix - Practice 1",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-1-31370",
+                "source_tag": "Nova Sport 5",
+                "locale": "cs",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31370"
+              },
+              {
+                "id": 31371,
+                "name": "Mexico City Grand Prix - Practice 1",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-1-31371",
+                "source_tag": "Eleven Sports 1",
+                "locale": "pl",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-1-31371"
+              }
+            ],
+            "viewers": "2",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 31372,
+            "name": "Mexico City Grand Prix - Practice 2",
+            "tag": "Formula 1",
+            "source_tag": "Sky Sports F1",
+            "poster": "https://static.ppvservices.st/assets/thumb/6167c73a49b71b0996f727fce7fe4ba7-thumbnail.jpg",
+            "blurhash": "LMCGJlI9s.M{_4D$s:azt9i^t7WB",
+            "colors": [
+              "#020202",
+              "#ae9098"
+            ],
+            "uri_name": "f1/2026/mexico/fp2",
+            "starts_at": 1793397600,
+            "ends_at": 1793404800,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Motorsports",
+            "iframe": "https://taifood-blog.asia/embed/f1/2026/mexico/fp2",
+            "substreams": [
+              {
+                "id": 31374,
+                "name": "Mexico City Grand Prix - Practice 2",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-2-31374",
+                "source_tag": "Apple TV (F1TV)",
+                "locale": "en-us",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-2-31374"
+              },
+              {
+                "id": 31376,
+                "name": "Mexico City Grand Prix - Practice 2",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-2-31376",
+                "source_tag": "DAZN F1",
+                "locale": "es",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-2-31376"
+              },
+              {
+                "id": 31377,
+                "name": "Mexico City Grand Prix - Practice 2",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-2-31377",
+                "source_tag": "Sky Sport F1",
+                "locale": "de",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-2-31377"
+              },
+              {
+                "id": 31378,
+                "name": "Mexico City Grand Prix - Practice 2",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-2-31378",
+                "source_tag": "Sky Sport F1",
+                "locale": "it",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-2-31378"
+              },
+              {
+                "id": 31379,
+                "name": "Mexico City Grand Prix - Practice 2",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-2-31379",
+                "source_tag": "V Sport Motor",
+                "locale": "sv",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-2-31379"
+              },
+              {
+                "id": 31380,
+                "name": "Mexico City Grand Prix - Practice 2",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-2-31380",
+                "source_tag": "Viaplay",
+                "locale": "nl",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-2-31380"
+              },
+              {
+                "id": 31381,
+                "name": "Mexico City Grand Prix - Practice 2",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-2-31381",
+                "source_tag": "Nova Sport 5",
+                "locale": "cs",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-2-31381"
+              },
+              {
+                "id": 31382,
+                "name": "Mexico City Grand Prix - Practice 2",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-2-31382",
+                "source_tag": "Eleven Sports 1",
+                "locale": "pl",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-2-31382"
+              }
+            ],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 31383,
+            "name": "Mexico City Grand Prix - Practice 3",
+            "tag": "Formula 1",
+            "source_tag": "Sky Sports F1",
+            "poster": "https://static.ppvservices.st/assets/thumb/16bcb7e02b7d5cc5153a69d5dcd4ae40-thumbnail.jpg",
+            "blurhash": "LMCGJlI9s.M{_4D$s:azt9i^t7WB",
+            "colors": [
+              "#020202",
+              "#ae9098"
+            ],
+            "uri_name": "f1/2026/mexico/fp3",
+            "starts_at": 1793467800,
+            "ends_at": 1793475000,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Motorsports",
+            "iframe": "https://taifood-blog.asia/embed/f1/2026/mexico/fp3",
+            "substreams": [
+              {
+                "id": 31385,
+                "name": "Mexico City Grand Prix - Practice 3",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-3-31385",
+                "source_tag": "Apple TV (F1TV)",
+                "locale": "en-us",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-3-31385"
+              },
+              {
+                "id": 31387,
+                "name": "Mexico City Grand Prix - Practice 3",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-3-31387",
+                "source_tag": "DAZN F1",
+                "locale": "es",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-3-31387"
+              },
+              {
+                "id": 31388,
+                "name": "Mexico City Grand Prix - Practice 3",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-3-31388",
+                "source_tag": "Sky Sport F1",
+                "locale": "de",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-3-31388"
+              },
+              {
+                "id": 31389,
+                "name": "Mexico City Grand Prix - Practice 3",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-3-31389",
+                "source_tag": "Sky Sport F1",
+                "locale": "it",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-3-31389"
+              },
+              {
+                "id": 31390,
+                "name": "Mexico City Grand Prix - Practice 3",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-3-31390",
+                "source_tag": "V Sport Motor",
+                "locale": "sv",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-3-31390"
+              },
+              {
+                "id": 31391,
+                "name": "Mexico City Grand Prix - Practice 3",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-3-31391",
+                "source_tag": "Viaplay",
+                "locale": "nl",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-3-31391"
+              },
+              {
+                "id": 31392,
+                "name": "Mexico City Grand Prix - Practice 3",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-3-31392",
+                "source_tag": "Nova Sport 5",
+                "locale": "cs",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-3-31392"
+              },
+              {
+                "id": 31393,
+                "name": "Mexico City Grand Prix - Practice 3",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---practice-3-31393",
+                "source_tag": "Eleven Sports 1",
+                "locale": "pl",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---practice-3-31393"
+              }
+            ],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 31394,
+            "name": "Mexico City Grand Prix - Qualifying",
+            "tag": "Formula 1",
+            "source_tag": "Sky Sports F1",
+            "poster": "https://static.ppvservices.st/assets/thumb/b84bb2118f8972be6e4f824e63d8a9cb-thumbnail.jpg",
+            "blurhash": "LMCGJlI9s.M{?wD$s:f7t9i^t7WB",
+            "colors": [
+              "#020202",
+              "#ae9098"
+            ],
+            "uri_name": "f1/2026/mexico/qualifying",
+            "starts_at": 1793480400,
+            "ends_at": 1793487600,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Motorsports",
+            "iframe": "https://taifood-blog.asia/embed/f1/2026/mexico/qualifying",
+            "substreams": [
+              {
+                "id": 31396,
+                "name": "Mexico City Grand Prix - Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---qualifying-31396",
+                "source_tag": "Apple TV (F1TV)",
+                "locale": "en-us",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---qualifying-31396"
+              },
+              {
+                "id": 31398,
+                "name": "Mexico City Grand Prix - Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---qualifying-31398",
+                "source_tag": "DAZN F1",
+                "locale": "es",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---qualifying-31398"
+              },
+              {
+                "id": 31399,
+                "name": "Mexico City Grand Prix - Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---qualifying-31399",
+                "source_tag": "Sky Sport F1",
+                "locale": "de",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---qualifying-31399"
+              },
+              {
+                "id": 31400,
+                "name": "Mexico City Grand Prix - Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---qualifying-31400",
+                "source_tag": "Sky Sport F1",
+                "locale": "it",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---qualifying-31400"
+              },
+              {
+                "id": 31401,
+                "name": "Mexico City Grand Prix - Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---qualifying-31401",
+                "source_tag": "V Sport Motor",
+                "locale": "sv",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---qualifying-31401"
+              },
+              {
+                "id": 31402,
+                "name": "Mexico City Grand Prix - Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---qualifying-31402",
+                "source_tag": "Viaplay",
+                "locale": "nl",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---qualifying-31402"
+              },
+              {
+                "id": 31403,
+                "name": "Mexico City Grand Prix - Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---qualifying-31403",
+                "source_tag": "Nova Sport 5",
+                "locale": "cs",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---qualifying-31403"
+              },
+              {
+                "id": 31404,
+                "name": "Mexico City Grand Prix - Qualifying",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---qualifying-31404",
+                "source_tag": "Eleven Sports 1",
+                "locale": "pl",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---qualifying-31404"
+              }
+            ],
+            "viewers": "0",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 31405,
+            "name": "Mexico City Grand Prix - Race",
+            "tag": "Formula 1",
+            "source_tag": "Sky Sports F1",
+            "poster": "https://static.ppvservices.st/assets/thumb/83446bab8578d4240aa6d679b39f3ffd-thumbnail.jpg",
+            "blurhash": "LMC6x}I9xFRP_4D$s:WWt9i^t7ae",
+            "colors": [
+              "#020202",
+              "#ae9098"
+            ],
+            "uri_name": "f1/2026/mexico/race",
+            "starts_at": 1793563200,
+            "ends_at": 1793574000,
+            "always_live": 0,
+            "locale": "en-gb",
+            "category_name": "Motorsports",
+            "iframe": "https://taifood-blog.asia/embed/f1/2026/mexico/race",
+            "substreams": [
+              {
+                "id": 31407,
+                "name": "Mexico City Grand Prix - Race",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---race-31407",
+                "source_tag": "Apple TV (F1TV)",
+                "locale": "en-us",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31407"
+              },
+              {
+                "id": 31409,
+                "name": "Mexico City Grand Prix - Race",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---race-31409",
+                "source_tag": "DAZN F1",
+                "locale": "es",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31409"
+              },
+              {
+                "id": 31410,
+                "name": "Mexico City Grand Prix - Race",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---race-31410",
+                "source_tag": "Sky Sport F1",
+                "locale": "de",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31410"
+              },
+              {
+                "id": 31411,
+                "name": "Mexico City Grand Prix - Race",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---race-31411",
+                "source_tag": "Sky Sport F1",
+                "locale": "it",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31411"
+              },
+              {
+                "id": 31412,
+                "name": "Mexico City Grand Prix - Race",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---race-31412",
+                "source_tag": "V Sport Motor",
+                "locale": "sv",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31412"
+              },
+              {
+                "id": 31413,
+                "name": "Mexico City Grand Prix - Race",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---race-31413",
+                "source_tag": "Viaplay",
+                "locale": "nl",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31413"
+              },
+              {
+                "id": 31414,
+                "name": "Mexico City Grand Prix - Race",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---race-31414",
+                "source_tag": "Nova Sport 5",
+                "locale": "cs",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31414"
+              },
+              {
+                "id": 31415,
+                "name": "Mexico City Grand Prix - Race",
+                "tag": "Formula 1",
+                "uri_name": "mexico-city-grand-prix---race-31415",
+                "source_tag": "Eleven Sports 1",
+                "locale": "pl",
+                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31415"
+              }
+            ],
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -3583,7 +4216,7 @@
             "category_name": "Rugby",
             "iframe": "https://taifood-blog.asia/embed/247-fox-league",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -3666,7 +4299,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-south-park",
             "substreams": [],
-            "viewers": "15",
+            "viewers": "10",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3712,7 +4345,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-family-guy",
             "substreams": [],
-            "viewers": "20",
+            "viewers": "11",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3758,7 +4391,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/247-spongebob-squarepants",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "7",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3781,7 +4414,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/rally-tv",
             "substreams": [],
-            "viewers": "2",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3804,7 +4437,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/sky-sports-racing",
             "substreams": [],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -3813,11 +4446,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-10-30T04:11:51.839021+00:00",
+    "extracted_at": "2026-10-30T12:09:06.770522+00:00",
     "source_file": "events.json",
-    "total_streams": 154,
+    "total_streams": 164,
     "found": 0,
-    "not_found": 154,
+    "not_found": 164,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
