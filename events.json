@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-01T21:37:16.150254+00:00",
+    "fetched_at": "2026-11-02T04:00:20.136425+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1793569040,
+    "timestamp": 1793592020,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.05015397071838379,
+    "performance": 0.05426907539367676,
     "streams": [
       {
         "category": "American Football",
@@ -44,415 +44,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl-network_540p"
               }
             ],
-            "viewers": "24"
-          },
-          {
-            "id": 31494,
-            "name": "NFL RedZone",
-            "tag": "NFL",
-            "source_tag": "HD | NFL RedZone",
-            "poster": "https://static.ppvservices.st/assets/thumb/e1e51ad37e2ebceda796bedcac952dd4-thumbnail.jpg",
-            "blurhash": "LMPnk#|_0e,@nOayoKaeQmj[pcbH",
-            "colors": [
-              "#e22222",
-              "#941818"
-            ],
-            "uri_name": "nfl-redzone-31494",
-            "starts_at": 1793555100,
-            "ends_at": 1793581200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl-redzone-31494",
-            "substreams": [
-              {
-                "id": 1031494,
-                "name": "NFL RedZone",
-                "tag": "NFL",
-                "uri_name": "nfl-redzone-31494_540p",
-                "source_tag": "SD | NFL RedZone",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl-redzone-31494_540p"
-              }
-            ],
-            "viewers": "5564"
-          },
-          {
-            "id": 31068,
-            "name": "Baltimore Ravens at Buffalo Bills",
-            "tag": "NFL",
-            "source_tag": "HD | CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/2ea3c61ffc949f3c0eaed7262de92e28-thumbnail.jpg",
-            "blurhash": "L25}nGm$0Kw7oMbFofae00xM~WO+",
-            "colors": [
-              "#241773",
-              "#00338d"
-            ],
-            "uri_name": "nfl/2026-11-01/bal-buf",
-            "starts_at": 1793556000,
-            "ends_at": 1793570400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/bal-buf",
-            "substreams": [
-              {
-                "id": 1031068,
-                "name": "Baltimore Ravens at Buffalo Bills",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-01/bal-buf_540p",
-                "source_tag": "SD | CBS",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/bal-buf_540p"
-              }
-            ],
-            "viewers": "777"
-          },
-          {
-            "id": 31070,
-            "name": "Tennessee Titans at Cincinnati Bengals",
-            "tag": "NFL",
-            "source_tag": "HD | CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/b99dd6a589dfb170f60a9c3b605f1805-thumbnail.jpg",
-            "blurhash": "LWGQw|3sr_aJfkj[fQa|0dvzbat6",
-            "colors": [
-              "#4b92db",
-              "#fb4f14"
-            ],
-            "uri_name": "nfl/2026-11-01/ten-cin",
-            "starts_at": 1793556000,
-            "ends_at": 1793570400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/ten-cin",
-            "substreams": [
-              {
-                "id": 1031070,
-                "name": "Tennessee Titans at Cincinnati Bengals",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-01/ten-cin_540p",
-                "source_tag": "SD | CBS",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/ten-cin_540p"
-              }
-            ],
-            "viewers": "3356"
-          },
-          {
-            "id": 31071,
-            "name": "Arizona Cardinals at Dallas Cowboys",
-            "tag": "NFL",
-            "source_tag": "HD | Fox",
-            "poster": "https://static.ppvservices.st/assets/thumb/7453e1e64bfd650e387c5f3949d90d1f-thumbnail.jpg",
-            "blurhash": "LD9sGW{un5S$f8j[j[fk0cK6tQae",
-            "colors": [
-              "#97233f",
-              "#003594"
-            ],
-            "uri_name": "nfl/2026-11-01/ari-dal",
-            "starts_at": 1793556000,
-            "ends_at": 1793570400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/ari-dal",
-            "substreams": [
-              {
-                "id": 1031071,
-                "name": "Arizona Cardinals at Dallas Cowboys",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-01/ari-dal_540p",
-                "source_tag": "SD | Fox",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/ari-dal_540p"
-              }
-            ],
-            "viewers": "3850"
-          },
-          {
-            "id": 31073,
-            "name": "Minnesota Vikings at Detroit Lions",
-            "tag": "NFL",
-            "source_tag": "HD | Fox",
-            "poster": "https://static.ppvservices.st/assets/thumb/2f3db9fe81c59b4337b7f9816e5a598c-thumbnail.jpg",
-            "blurhash": "L57eSk_OIVALogj[ofWB00B?-p-N",
-            "colors": [
-              "#4f2683",
-              "#0076b6"
-            ],
-            "uri_name": "nfl/2026-11-01/min-det",
-            "starts_at": 1793556000,
-            "ends_at": 1793570400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/min-det",
-            "substreams": [
-              {
-                "id": 1031073,
-                "name": "Minnesota Vikings at Detroit Lions",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-01/min-det_540p",
-                "source_tag": "SD | Fox",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/min-det_540p"
-              }
-            ],
-            "viewers": "798"
-          },
-          {
-            "id": 31076,
-            "name": "Las Vegas Raiders at New York Jets",
-            "tag": "NFL",
-            "source_tag": "HD | Fox",
-            "poster": "https://static.ppvservices.st/assets/thumb/3bde39dd34da32fe8f6be8dea2b74600-thumbnail.jpg",
-            "blurhash": "LCA-I$~Xi{t7ayofj[WB00R%tQIU",
-            "colors": [
-              "#a5acaf",
-              "#125740"
-            ],
-            "uri_name": "nfl/2026-11-01/lv-nyj",
-            "starts_at": 1793556000,
-            "ends_at": 1793570400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/lv-nyj",
-            "substreams": [
-              {
-                "id": 1031076,
-                "name": "Las Vegas Raiders at New York Jets",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-01/lv-nyj_540p",
-                "source_tag": "SD | Fox",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/lv-nyj_540p"
-              },
-              {
-                "id": 31446,
-                "name": "Las Vegas Raiders at New York Jets",
-                "tag": "NFL",
-                "uri_name": "las-vegas-raiders-at-new-york-jets-31446",
-                "source_tag": "HD | NFL Game Pass on DAZN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/las-vegas-raiders-at-new-york-jets-31446"
-              },
-              {
-                "id": 1031446,
-                "name": "Las Vegas Raiders at New York Jets",
-                "tag": "NFL",
-                "uri_name": "las-vegas-raiders-at-new-york-jets-31446_540p",
-                "source_tag": "SD | NFL Game Pass on DAZN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/las-vegas-raiders-at-new-york-jets-31446_540p"
-              }
-            ],
-            "viewers": "228"
-          },
-          {
-            "id": 31078,
-            "name": "Cleveland Browns at Pittsburgh Steelers",
-            "tag": "NFL",
-            "source_tag": "HD | CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/a804f5c64785c846c711aae94cf1792b-thumbnail.jpg",
-            "blurhash": "L8L2Cqujn2u5wIaLkCkW00UZX-R3",
-            "colors": [
-              "#ff3c00",
-              "#ffb612"
-            ],
-            "uri_name": "nfl/2026-11-01/cle-pit",
-            "starts_at": 1793556000,
-            "ends_at": 1793570400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/cle-pit",
-            "substreams": [
-              {
-                "id": 1031078,
-                "name": "Cleveland Browns at Pittsburgh Steelers",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-01/cle-pit_540p",
-                "source_tag": "SD | CBS",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/cle-pit_540p"
-              }
-            ],
-            "viewers": "314"
-          },
-          {
-            "id": 31080,
-            "name": "Atlanta Falcons at Tampa Bay Buccaneers",
-            "tag": "NFL",
-            "source_tag": "HD | Fox",
-            "poster": "https://static.ppvservices.st/assets/thumb/57fc716e13fefc62a5eb55a34072726c-thumbnail.jpg",
-            "blurhash": "L2F.uR49Di*|xubvoLni00_%.8pH",
-            "colors": [
-              "#a71930",
-              "#d50a0a"
-            ],
-            "uri_name": "nfl/2026-11-01/atl-tb",
-            "starts_at": 1793556000,
-            "ends_at": 1793570400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/atl-tb",
-            "substreams": [
-              {
-                "id": 1031080,
-                "name": "Atlanta Falcons at Tampa Bay Buccaneers",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-01/atl-tb_540p",
-                "source_tag": "SD | Fox",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/atl-tb_540p"
-              }
-            ],
-            "viewers": "150"
-          },
-          {
-            "id": 31083,
-            "name": "Indianapolis Colts at Jacksonville Jaguars",
-            "tag": "NFL",
-            "source_tag": "HD | CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/e541a282ee6f4bb05cfc380b0f623d98-thumbnail.jpg",
-            "blurhash": "L168]h0200^Y$xNyfPxB00~e~q17",
-            "colors": [
-              "#002c5f",
-              "#006778"
-            ],
-            "uri_name": "nfl/2026-11-01/ind-jax",
-            "starts_at": 1793556000,
-            "ends_at": 1793570400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/ind-jax",
-            "substreams": [
-              {
-                "id": 1031083,
-                "name": "Indianapolis Colts at Jacksonville Jaguars",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-01/ind-jax_540p",
-                "source_tag": "SD | CBS",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/ind-jax_540p"
-              }
-            ],
-            "viewers": "132"
-          },
-          {
-            "id": 31084,
-            "name": "Los Angeles Chargers at Los Angeles Rams",
-            "tag": "NFL",
-            "source_tag": "HD | Fox",
-            "poster": "https://static.ppvservices.st/assets/thumb/b4c97e6c40c09ca7025b4c8ac8eb3ce7-thumbnail.jpg",
-            "blurhash": "L57e-.3ZIo^*t7axofWX00^i%L9F",
-            "colors": [
-              "#0080c6",
-              "#003594"
-            ],
-            "uri_name": "nfl/2026-11-01/lac-lar",
-            "starts_at": 1793567100,
-            "ends_at": 1793581500,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/lac-lar",
-            "substreams": [
-              {
-                "id": 1031084,
-                "name": "Los Angeles Chargers at Los Angeles Rams",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-01/lac-lar_540p",
-                "source_tag": "SD | Fox",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/lac-lar_540p"
-              },
-              {
-                "id": 31447,
-                "name": "Los Angeles Chargers at Los Angeles Rams",
-                "tag": "NFL",
-                "uri_name": "los-angeles-chargers-at-los-angeles-rams-31447",
-                "source_tag": "HD | NFL Game Pass on DAZN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/los-angeles-chargers-at-los-angeles-rams-31447"
-              },
-              {
-                "id": 1031447,
-                "name": "Los Angeles Chargers at Los Angeles Rams",
-                "tag": "NFL",
-                "uri_name": "los-angeles-chargers-at-los-angeles-rams-31447_540p",
-                "source_tag": "SD | NFL Game Pass on DAZN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/los-angeles-chargers-at-los-angeles-rams-31447_540p"
-              }
-            ],
-            "viewers": "1738"
-          },
-          {
-            "id": 31085,
-            "name": "Kansas City Chiefs at Denver Broncos",
-            "tag": "NFL",
-            "source_tag": "HD | CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/1d9067e4136765dfa839b0a8d253b2b9-thumbnail.jpg",
-            "blurhash": "L4J}6@24RP#7wJbHjZay00+FtRXm",
-            "colors": [
-              "#e31837",
-              "#fb4f14"
-            ],
-            "uri_name": "nfl/2026-11-01/kc-den",
-            "starts_at": 1793568300,
-            "ends_at": 1793582700,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/kc-den",
-            "substreams": [
-              {
-                "id": 1031085,
-                "name": "Kansas City Chiefs at Denver Broncos",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-01/kc-den_540p",
-                "source_tag": "SD | CBS",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/kc-den_540p"
-              }
-            ],
-            "viewers": "2270"
-          },
-          {
-            "id": 31086,
-            "name": "New England Patriots at Miami Dolphins",
-            "tag": "NFL",
-            "source_tag": "HD | CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/8c4dd300a910c540986fb6752bae2826-thumbnail.jpg",
-            "blurhash": "L46b[U8wIn.7t7o1j[ay00.m%NEL",
-            "colors": [
-              "#002244",
-              "#008e97"
-            ],
-            "uri_name": "nfl/2026-11-01/ne-mia",
-            "starts_at": 1793568300,
-            "ends_at": 1793582700,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/ne-mia",
-            "substreams": [
-              {
-                "id": 1031086,
-                "name": "New England Patriots at Miami Dolphins",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-01/ne-mia_540p",
-                "source_tag": "SD | CBS",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/ne-mia_540p"
-              }
-            ],
-            "viewers": "1665"
+            "viewers": "15"
           },
           {
             "id": 31088,
@@ -483,7 +75,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-01/phi-wsh_540p"
               }
             ],
-            "viewers": "1"
+            "viewers": "5685"
           },
           {
             "id": 31089,
@@ -514,7 +106,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-02/chi-sea_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "2"
           }
         ]
       },
@@ -562,104 +154,6 @@
         "always_live": false,
         "streams": [
           {
-            "id": 31432,
-            "name": "Boston Celtics vs. Orlando Magic",
-            "tag": "NBA",
-            "source_tag": "HD | NBA League Pass (Home)",
-            "poster": "https://static.ppvservices.st/assets/thumb/1c4021fb1ecea50fd203df9b0ee8faa2-thumbnail.jpg",
-            "blurhash": "L96vStytWsIDWVbFfQj[00MooI%M",
-            "colors": [
-              "#008348",
-              "#0150b5"
-            ],
-            "uri_name": "nba/2026-11-01/bos-orl",
-            "starts_at": 1793565000,
-            "ends_at": 1793575800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nba/2026-11-01/bos-orl",
-            "substreams": [
-              {
-                "id": 1031432,
-                "name": "Boston Celtics vs. Orlando Magic",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-01/bos-orl_540p",
-                "source_tag": "SD | NBA League Pass (Home)",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-01/bos-orl_540p"
-              },
-              {
-                "id": 31433,
-                "name": "Boston Celtics vs. Orlando Magic",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-01/bos-orl/away",
-                "source_tag": "HD | NBA League Pass (Away)",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-01/bos-orl/away"
-              },
-              {
-                "id": 1031433,
-                "name": "Boston Celtics vs. Orlando Magic",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-01/bos-orl/away_540p",
-                "source_tag": "SD | NBA League Pass (Away)",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-01/bos-orl/away_540p"
-              }
-            ],
-            "viewers": "2008"
-          },
-          {
-            "id": 31434,
-            "name": "Brooklyn Nets vs. Indiana Pacers",
-            "tag": "NBA",
-            "source_tag": "HD | DAZN IND (Home)",
-            "poster": "https://static.ppvservices.st/assets/thumb/6f589b8e067afd77dcd61f1816093fd6-thumbnail.jpg",
-            "blurhash": "L897bA?wjY9Et6WEj[j=009DbI.9",
-            "colors": [
-              "#000000",
-              "#0c2340"
-            ],
-            "uri_name": "nba/2026-11-01/bkn-ind",
-            "starts_at": 1793570400,
-            "ends_at": 1793581200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nba/2026-11-01/bkn-ind",
-            "substreams": [
-              {
-                "id": 1031434,
-                "name": "Brooklyn Nets vs. Indiana Pacers",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-01/bkn-ind_540p",
-                "source_tag": "SD | DAZN IND (Home)",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-01/bkn-ind_540p"
-              },
-              {
-                "id": 31435,
-                "name": "Brooklyn Nets vs. Indiana Pacers",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-01/bkn-ind/away",
-                "source_tag": "HD | NBA League Pass (Away)",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-01/bkn-ind/away"
-              },
-              {
-                "id": 1031435,
-                "name": "Brooklyn Nets vs. Indiana Pacers",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-01/bkn-ind/away_540p",
-                "source_tag": "SD | NBA League Pass (Away)",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-01/bkn-ind/away_540p"
-              }
-            ],
-            "viewers": "5"
-          },
-          {
             "id": 31436,
             "name": "LA Clippers vs. Golden State Warriors",
             "tag": "NBA",
@@ -706,7 +200,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-01/lac-gs/away_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "1521"
           },
           {
             "id": 31438,
@@ -755,7 +249,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-01/tor-lal/away_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "6220"
           },
           {
             "id": 31493,
@@ -866,7 +360,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-02/det-cha/away_540p"
               }
             ],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 31467,
@@ -1307,7 +801,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-02/utah-sa/away_540p"
               }
             ],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 31485,
@@ -1577,7 +1071,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports_540p"
               }
             ],
-            "viewers": "17"
+            "viewers": "7"
           },
           {
             "id": 27496,
@@ -1608,7 +1102,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-cricket_540p"
               }
             ],
-            "viewers": "6"
+            "viewers": "4"
           }
         ]
       },
@@ -1617,285 +1111,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 31163,
-            "name": "Juventus vs. Napoli",
-            "tag": "Serie A",
-            "source_tag": "HD | Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/169ce687f772b0683706f832af3d9406-thumbnail.jpg",
-            "blurhash": "L77Vfjy@5DEPt7oLaxWB00PE^*%M",
-            "colors": [
-              "#000000",
-              "#00a1e6"
-            ],
-            "uri_name": "seriea/2026-11-01/juv-nap",
-            "starts_at": 1793562300,
-            "ends_at": 1793571300,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/seriea/2026-11-01/juv-nap",
-            "substreams": [
-              {
-                "id": 1031163,
-                "name": "Juventus vs. Napoli",
-                "tag": "Serie A",
-                "uri_name": "seriea/2026-11-01/juv-nap_540p",
-                "source_tag": "SD | Paramount+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/seriea/2026-11-01/juv-nap_540p"
-              }
-            ],
-            "viewers": "1574"
-          },
-          {
-            "id": 31175,
-            "name": "Marseille vs. Toulouse",
-            "tag": "Ligue 1",
-            "source_tag": "HD | Ligue 1+",
-            "poster": "https://static.ppvservices.st/assets/thumb/f9fe6245158309d79849c1d40e1e89bd-thumbnail.jpg",
-            "blurhash": "LH8|o9PEV]ROa}fRj[fQ4mVqt6tR",
-            "colors": [
-              "#0033a0",
-              "#670e36"
-            ],
-            "uri_name": "ligue1/2026-11-01/olm-tou",
-            "starts_at": 1793562300,
-            "ends_at": 1793571300,
-            "always_live": 0,
-            "locale": "fr",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ligue1/2026-11-01/olm-tou",
-            "substreams": [
-              {
-                "id": 1031175,
-                "name": "Marseille vs. Toulouse",
-                "tag": "Ligue 1",
-                "uri_name": "ligue1/2026-11-01/olm-tou_540p",
-                "source_tag": "SD | Ligue 1+",
-                "locale": "fr",
-                "iframe": "https://taifood-blog.asia/embed/ligue1/2026-11-01/olm-tou_540p"
-              }
-            ],
-            "viewers": "814"
-          },
-          {
-            "id": 31125,
-            "name": "Athletic Club vs. Real Sociedad",
-            "tag": "LaLiga",
-            "source_tag": "HD | ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/7c85ee85e5ad33292735fa17de35ed08-thumbnail.jpg",
-            "blurhash": "LWD@tX|;wMV@kBkCazae55I?bbX9",
-            "colors": [
-              "#e30613",
-              "#0033a0"
-            ],
-            "uri_name": "laliga/2026-11-01/ath-rso",
-            "starts_at": 1793563200,
-            "ends_at": 1793572200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/laliga/2026-11-01/ath-rso",
-            "substreams": [
-              {
-                "id": 1031125,
-                "name": "Athletic Club vs. Real Sociedad",
-                "tag": "LaLiga",
-                "uri_name": "laliga/2026-11-01/ath-rso_540p",
-                "source_tag": "SD | ESPN+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/laliga/2026-11-01/ath-rso_540p"
-              }
-            ],
-            "viewers": "303"
-          },
-          {
-            "id": 31199,
-            "name": "Atlanta United FC vs. Toronto FC",
-            "tag": "MLS",
-            "source_tag": "HD | Apple TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/899ede84b8c9517a692bd11b0c9af115-thumbnail.jpg",
-            "blurhash": "LSDQ$j|E#nxHjtj@f6f69sS$X8J7",
-            "colors": [
-              "#ef3e42",
-              "#003087"
-            ],
-            "uri_name": "mls/2026-11-01/atl-tor",
-            "starts_at": 1793568600,
-            "ends_at": 1793579400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/mls/2026-11-01/atl-tor",
-            "substreams": [
-              {
-                "id": 1031199,
-                "name": "Atlanta United FC vs. Toronto FC",
-                "tag": "MLS",
-                "uri_name": "mls/2026-11-01/atl-tor_540p",
-                "source_tag": "SD | Apple TV",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/mls/2026-11-01/atl-tor_540p"
-              }
-            ],
-            "viewers": "17"
-          },
-          {
-            "id": 31200,
-            "name": "Nashville SC vs. Red Bull New York",
-            "tag": "MLS",
-            "source_tag": "HD | Apple TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/03ca2916a47129550927a2df41e76ea7-thumbnail.jpg",
-            "blurhash": "LVJ6r+uWo[n-j[a{fPj[0Na7aiV@",
-            "colors": [
-              "#ece83a",
-              "#e30613"
-            ],
-            "uri_name": "mls/2026-11-01/nsh-rbny",
-            "starts_at": 1793568600,
-            "ends_at": 1793579400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/mls/2026-11-01/nsh-rbny",
-            "substreams": [
-              {
-                "id": 1031200,
-                "name": "Nashville SC vs. Red Bull New York",
-                "tag": "MLS",
-                "uri_name": "mls/2026-11-01/nsh-rbny_540p",
-                "source_tag": "SD | Apple TV",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/mls/2026-11-01/nsh-rbny_540p"
-              }
-            ],
-            "viewers": "12"
-          },
-          {
-            "id": 31201,
-            "name": "Vancouver Whitecaps vs. Seattle Sounders FC",
-            "tag": "MLS",
-            "source_tag": "HD | Apple TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/2b3b9bc6770b63f15debb644d40525b4-thumbnail.jpg",
-            "blurhash": "L13,dj@C4:8Mx[nmWBX4008f?Z@n",
-            "colors": [
-              "#002395",
-              "#005595"
-            ],
-            "uri_name": "mls/2026-11-01/van-sea",
-            "starts_at": 1793568600,
-            "ends_at": 1793579400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/mls/2026-11-01/van-sea",
-            "substreams": [
-              {
-                "id": 1031201,
-                "name": "Vancouver Whitecaps vs. Seattle Sounders FC",
-                "tag": "MLS",
-                "uri_name": "mls/2026-11-01/van-sea_540p",
-                "source_tag": "SD | Apple TV",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/mls/2026-11-01/van-sea_540p"
-              }
-            ],
-            "viewers": "54"
-          },
-          {
-            "id": 31213,
-            "name": "Santos vs. Necaxa",
-            "tag": "Liga MX",
-            "source_tag": "HD | Liga MX",
-            "poster": "https://static.ppvservices.st/assets/thumb/c387d099aea8c4c2a5fbaf0cabba3fdd-thumbnail.jpg",
-            "blurhash": "LAEKu|42z:+_jYbHf6fP00{iyDWX",
-            "colors": [
-              "#007a33",
-              "#e4002b"
-            ],
-            "uri_name": "liga-mx/2026-11-01/san-ncx",
-            "starts_at": 1793574000,
-            "ends_at": 1793583000,
-            "always_live": 0,
-            "locale": "es-us",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/liga-mx/2026-11-01/san-ncx",
-            "substreams": [
-              {
-                "id": 1031213,
-                "name": "Santos vs. Necaxa",
-                "tag": "Liga MX",
-                "uri_name": "liga-mx/2026-11-01/san-ncx_540p",
-                "source_tag": "SD | Liga MX",
-                "locale": "es-us",
-                "iframe": "https://taifood-blog.asia/embed/liga-mx/2026-11-01/san-ncx_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 31202,
-            "name": "New England Revolution vs. Inter Miami CF",
-            "tag": "MLS",
-            "source_tag": "HD | Apple TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/5456c7844a54c280c6a71319dacc8838-thumbnail.jpg",
-            "blurhash": "L67VTR?_Os8_ogayazj[009vxC.T",
-            "colors": [
-              "#003087",
-              "#00a1e6"
-            ],
-            "uri_name": "mls/2026-11-01/ne-mia",
-            "starts_at": 1793577600,
-            "ends_at": 1793588400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/mls/2026-11-01/ne-mia",
-            "substreams": [
-              {
-                "id": 1031202,
-                "name": "New England Revolution vs. Inter Miami CF",
-                "tag": "MLS",
-                "uri_name": "mls/2026-11-01/ne-mia_540p",
-                "source_tag": "SD | Apple TV",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/mls/2026-11-01/ne-mia_540p"
-              }
-            ],
-            "viewers": "2"
-          },
-          {
-            "id": 31214,
-            "name": "Cruz Azul vs. León",
-            "tag": "Liga MX",
-            "source_tag": "HD | Liga MX",
-            "poster": "https://static.ppvservices.st/assets/thumb/cad6acfddf2c31c8ae36423b03ef2cd2-thumbnail.jpg",
-            "blurhash": "LG8E@}#LIWNFa{j[ayay00Np%Lxa",
-            "colors": [
-              "#003da5",
-              "#007a33"
-            ],
-            "uri_name": "liga-mx/2026-11-01/caz-leo",
-            "starts_at": 1793581200,
-            "ends_at": 1793590200,
-            "always_live": 0,
-            "locale": "es-us",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/liga-mx/2026-11-01/caz-leo",
-            "substreams": [
-              {
-                "id": 1031214,
-                "name": "Cruz Azul vs. León",
-                "tag": "Liga MX",
-                "uri_name": "liga-mx/2026-11-01/caz-leo_540p",
-                "source_tag": "SD | Liga MX",
-                "locale": "es-us",
-                "iframe": "https://taifood-blog.asia/embed/liga-mx/2026-11-01/caz-leo_540p"
-              }
-            ],
-            "viewers": "0"
-          },
           {
             "id": 31203,
             "name": "LAFC vs. Minnesota United FC",
@@ -1925,7 +1140,7 @@
                 "iframe": "https://taifood-blog.asia/embed/mls/2026-11-01/lafc-min_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "23"
           },
           {
             "id": 31204,
@@ -1956,7 +1171,7 @@
                 "iframe": "https://taifood-blog.asia/embed/mls/2026-11-01/por-hou_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "49"
           },
           {
             "id": 31164,
@@ -2142,7 +1357,7 @@
                 "iframe": "https://taifood-blog.asia/embed/pl/2026-11-02/new-eve_540p"
               }
             ],
-            "viewers": "1"
+            "viewers": "2"
           }
         ]
       },
@@ -2180,7 +1395,7 @@
                 "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059_540p"
               }
             ],
-            "viewers": "15"
+            "viewers": "1"
           }
         ]
       },
@@ -2218,313 +1433,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl-network-29780_540p"
               }
             ],
-            "viewers": "0"
-          },
-          {
-            "id": 31460,
-            "name": "Minnesota Wild vs. Washington Capitals",
-            "tag": "NHL",
-            "source_tag": "HD | MNMT",
-            "poster": "https://static.ppvservices.st/assets/thumb/fd23fb8ddf0d042e1e9e3019b7924989-thumbnail.jpg",
-            "blurhash": "L9Cz@h34+b,uoLbGayay0e|MXmWA",
-            "colors": [
-              "#124734",
-              "#d71830"
-            ],
-            "uri_name": "nhl/2026-11-01/min-wsh",
-            "starts_at": 1793565000,
-            "ends_at": 1793575800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-01/min-wsh",
-            "substreams": [
-              {
-                "id": 1031460,
-                "name": "Minnesota Wild vs. Washington Capitals",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-01/min-wsh_540p",
-                "source_tag": "SD | MNMT",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-01/min-wsh_540p"
-              }
-            ],
-            "viewers": "171"
-          },
-          {
-            "id": 31461,
-            "name": "Utah Mammoth vs. Philadelphia Flyers",
-            "tag": "NHL",
-            "source_tag": "HD | NBC Sports Phil",
-            "poster": "https://static.ppvservices.st/assets/thumb/2abc7061eb12c5545aef9ea7e9b2547a-thumbnail.jpg",
-            "blurhash": "L8D%%Z0*{eadj[fQjua}00|@Kj=e",
-            "colors": [
-              "#000000",
-              "#fe5823"
-            ],
-            "uri_name": "nhl/2026-11-01/uta-phi",
-            "starts_at": 1793566800,
-            "ends_at": 1793577600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-01/uta-phi",
-            "substreams": [
-              {
-                "id": 1031461,
-                "name": "Utah Mammoth vs. Philadelphia Flyers",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-01/uta-phi_540p",
-                "source_tag": "SD | NBC Sports Phil",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-01/uta-phi_540p"
-              }
-            ],
-            "viewers": "129"
-          },
-          {
-            "id": 31462,
-            "name": "Edmonton Oilers vs. New York Rangers",
-            "tag": "NHL",
-            "source_tag": "HD | MSG",
-            "poster": "https://static.ppvservices.st/assets/thumb/a63f93c5bfb3596d297ebd3350b81f3c-thumbnail.jpg",
-            "blurhash": "L27_W=Y+4qx_%3%2oLIV00kc_1NL",
-            "colors": [
-              "#00205b",
-              "#0056ae"
-            ],
-            "uri_name": "nhl/2026-11-01/edm-nyr",
-            "starts_at": 1793574000,
-            "ends_at": 1793584800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-01/edm-nyr",
-            "substreams": [
-              {
-                "id": 1031462,
-                "name": "Edmonton Oilers vs. New York Rangers",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-01/edm-nyr_540p",
-                "source_tag": "SD | MSG",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-01/edm-nyr_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 31463,
-            "name": "Ottawa Senators vs. Anaheim Ducks",
-            "tag": "NHL",
-            "source_tag": "HD | KTTV",
-            "poster": "https://static.ppvservices.st/assets/thumb/cf9620c5ee35d6e8623a5e5fd5913531-thumbnail.jpg",
-            "blurhash": "L2J4e;03..%~$*nif6S#00_MC+qt",
-            "colors": [
-              "#dd1a32",
-              "#fc4c02"
-            ],
-            "uri_name": "nhl/2026-11-01/ott-ana",
-            "starts_at": 1793581200,
-            "ends_at": 1793592000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-01/ott-ana",
-            "substreams": [
-              {
-                "id": 1031463,
-                "name": "Ottawa Senators vs. Anaheim Ducks",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-01/ott-ana_540p",
-                "source_tag": "SD | KTTV",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-01/ott-ana_540p"
-              }
-            ],
-            "viewers": "0"
-          }
-        ]
-      },
-      {
-        "category": "Motorsports",
-        "id": 35,
-        "always_live": false,
-        "streams": [
-          {
-            "id": 31405,
-            "name": "Mexico City Grand Prix - Race",
-            "tag": "Formula 1",
-            "source_tag": "HD | Sky Sports F1",
-            "poster": "https://static.ppvservices.st/assets/thumb/83446bab8578d4240aa6d679b39f3ffd-thumbnail.jpg",
-            "blurhash": "LMC6x}I9xFRP_4D$s:WWt9i^t7ae",
-            "colors": [
-              "#020202",
-              "#ae9098"
-            ],
-            "uri_name": "f1/2026/mexico/race",
-            "starts_at": 1793563200,
-            "ends_at": 1793574000,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Motorsports",
-            "iframe": "https://taifood-blog.asia/embed/f1/2026/mexico/race",
-            "substreams": [
-              {
-                "id": 1031405,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "f1/2026/mexico/race_540p",
-                "source_tag": "SD | Sky Sports F1",
-                "locale": "en-gb",
-                "iframe": "https://taifood-blog.asia/embed/f1/2026/mexico/race_540p"
-              },
-              {
-                "id": 31407,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---race-31407",
-                "source_tag": "HD | Apple TV (F1TV)",
-                "locale": "en-us",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31407"
-              },
-              {
-                "id": 1031407,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---race-31407_540p",
-                "source_tag": "SD | Apple TV (F1TV)",
-                "locale": "en-us",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31407_540p"
-              },
-              {
-                "id": 31409,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---race-31409",
-                "source_tag": "HD | DAZN F1",
-                "locale": "es",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31409"
-              },
-              {
-                "id": 1031409,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---race-31409_540p",
-                "source_tag": "SD | DAZN F1",
-                "locale": "es",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31409_540p"
-              },
-              {
-                "id": 31410,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---race-31410",
-                "source_tag": "HD | Sky Sport F1",
-                "locale": "de",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31410"
-              },
-              {
-                "id": 1031410,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---race-31410_540p",
-                "source_tag": "SD | Sky Sport F1",
-                "locale": "de",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31410_540p"
-              },
-              {
-                "id": 31411,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---race-31411",
-                "source_tag": "HD | Sky Sport F1",
-                "locale": "it",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31411"
-              },
-              {
-                "id": 1031411,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---race-31411_540p",
-                "source_tag": "SD | Sky Sport F1",
-                "locale": "it",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31411_540p"
-              },
-              {
-                "id": 31412,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---race-31412",
-                "source_tag": "HD | V Sport Motor",
-                "locale": "sv",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31412"
-              },
-              {
-                "id": 1031412,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---race-31412_540p",
-                "source_tag": "SD | V Sport Motor",
-                "locale": "sv",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31412_540p"
-              },
-              {
-                "id": 31413,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---race-31413",
-                "source_tag": "HD | Viaplay",
-                "locale": "nl",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31413"
-              },
-              {
-                "id": 1031413,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---race-31413_540p",
-                "source_tag": "SD | Viaplay",
-                "locale": "nl",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31413_540p"
-              },
-              {
-                "id": 31414,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---race-31414",
-                "source_tag": "HD | Nova Sport 5",
-                "locale": "cs",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31414"
-              },
-              {
-                "id": 1031414,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---race-31414_540p",
-                "source_tag": "SD | Nova Sport 5",
-                "locale": "cs",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31414_540p"
-              },
-              {
-                "id": 31415,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---race-31415",
-                "source_tag": "HD | Eleven Sports 1",
-                "locale": "pl",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31415"
-              },
-              {
-                "id": 1031415,
-                "name": "Mexico City Grand Prix - Race",
-                "tag": "Formula 1",
-                "uri_name": "mexico-city-grand-prix---race-31415_540p",
-                "source_tag": "SD | Eleven Sports 1",
-                "locale": "pl",
-                "iframe": "https://taifood-blog.asia/embed/mexico-city-grand-prix---race-31415_540p"
-              }
-            ],
-            "viewers": "27110"
+            "viewers": "2"
           }
         ]
       },
@@ -2600,7 +1509,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-south-park_540p"
               }
             ],
-            "viewers": "11"
+            "viewers": "15"
           },
           {
             "id": 3663,
@@ -2662,7 +1571,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-family-guy_540p"
               }
             ],
-            "viewers": "7"
+            "viewers": "21"
           },
           {
             "id": 5191,
@@ -2693,7 +1602,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-the-simpsons_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 16623,
@@ -2724,7 +1633,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-spongebob-squarepants_540p"
               }
             ],
-            "viewers": "6"
+            "viewers": "4"
           },
           {
             "id": 17270,
@@ -2745,7 +1654,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/rally-tv",
             "substreams": [],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 30527,
@@ -2776,7 +1685,7 @@
                 "iframe": "https://taifood-blog.asia/embed/sky-sports-racing_540p"
               }
             ],
-            "viewers": "1"
+            "viewers": "0"
           }
         ]
       }
