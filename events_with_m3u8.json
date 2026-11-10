@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-10T14:11:41.557763+00:00",
+    "fetched_at": "2026-11-10T22:45:23.953268+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1794319910,
+    "timestamp": 1794350730,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.050206899642944336,
+    "performance": 0.02613091468811035,
     "streams": [
       {
         "category": "American Football",
@@ -44,7 +44,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl-network_540p"
               }
             ],
-            "viewers": "34",
+            "viewers": "50",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1383,7 +1383,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-footy_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1423,7 +1423,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-10/fla-fsu_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "12",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1540,7 +1540,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-10/mil-ny/away_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1573,7 +1573,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-10/bos-phi_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "13",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2590,7 +2590,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-11/okc-por/away_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2732,7 +2732,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-cricket_540p"
               }
             ],
-            "viewers": "6",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -2744,32 +2744,32 @@
         "always_live": false,
         "streams": [
           {
-            "id": 32052,
-            "name": "Mansfield Town vs. Chesterfield",
+            "id": 32053,
+            "name": "Barnsley vs. Oldham Athletic",
             "tag": "EFL Trophy",
             "source_tag": "HD | Sky Sports",
-            "poster": "https://static.ppvservices.st/assets/thumb/9581b952c41386c5291c3250d626f0ee-thumbnail.jpg",
-            "blurhash": "LcFE_w~0xUs.offQjsj@4.NMW?NK",
+            "poster": "https://static.ppvservices.st/assets/thumb/30ac305e7e3e83f420e274a2bc1b2b70-thumbnail.jpg",
+            "blurhash": "LXEAaR|Arxj@n%jZf7bG5OOGkUS6",
             "colors": [
-              "#fecd33",
-              "#000098"
+              "#f32728",
+              "#0e00f6"
             ],
-            "uri_name": "efl-trophy/2026-11-10/mnf-ches",
-            "starts_at": 1794337200,
-            "ends_at": 1794346200,
+            "uri_name": "efl-trophy/2026-11-11/bar-old",
+            "starts_at": 1794423600,
+            "ends_at": 1794432600,
             "always_live": 0,
             "locale": "en-gb",
             "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/efl-trophy/2026-11-10/mnf-ches",
+            "iframe": "https://taifood-blog.asia/embed/efl-trophy/2026-11-11/bar-old",
             "substreams": [
               {
-                "id": 1032052,
-                "name": "Mansfield Town vs. Chesterfield",
+                "id": 1032053,
+                "name": "Barnsley vs. Oldham Athletic",
                 "tag": "EFL Trophy",
-                "uri_name": "efl-trophy/2026-11-10/mnf-ches_540p",
+                "uri_name": "efl-trophy/2026-11-11/bar-old_540p",
                 "source_tag": "SD | Sky Sports",
                 "locale": "en-gb",
-                "iframe": "https://taifood-blog.asia/embed/efl-trophy/2026-11-10/mnf-ches_540p"
+                "iframe": "https://taifood-blog.asia/embed/efl-trophy/2026-11-11/bar-old_540p"
               }
             ],
             "viewers": "0",
@@ -2845,7 +2845,7 @@
                 "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059_540p"
               }
             ],
-            "viewers": "3",
+            "viewers": "9",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -2885,7 +2885,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl-network-29780_540p"
               }
             ],
-            "viewers": "1",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2918,7 +2918,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-10/col-tor_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2951,7 +2951,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-10/min-mtl_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3017,7 +3017,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-10/nj-wpg_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3156,7 +3156,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-league_540p"
               }
             ],
-            "viewers": "5",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -3229,7 +3229,7 @@
                 "iframe": "https://taifood-blog.asia/embed/aew/2026-11-11_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3368,7 +3368,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-south-park_540p"
               }
             ],
-            "viewers": "12",
+            "viewers": "22",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3434,7 +3434,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-family-guy_540p"
               }
             ],
-            "viewers": "19",
+            "viewers": "22",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3500,7 +3500,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-spongebob-squarepants_540p"
               }
             ],
-            "viewers": "3",
+            "viewers": "4",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3523,7 +3523,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/rally-tv",
             "substreams": [],
-            "viewers": "1",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3556,7 +3556,7 @@
                 "iframe": "https://taifood-blog.asia/embed/sky-sports-racing_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3589,7 +3589,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cnn-31729_540p"
               }
             ],
-            "viewers": "7",
+            "viewers": "9",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3622,7 +3622,7 @@
                 "iframe": "https://taifood-blog.asia/embed/fox-news-31730_540p"
               }
             ],
-            "viewers": "6",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -3631,7 +3631,7 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-11-10T14:16:36.838476+00:00",
+    "extracted_at": "2026-11-10T22:50:14.047748+00:00",
     "source_file": "events.json",
     "total_streams": 98,
     "found": 0,
