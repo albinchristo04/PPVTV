@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-12T06:18:37.770163+00:00",
+    "fetched_at": "2026-11-12T19:27:19.573610+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1794464320,
+    "timestamp": 1794511640,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.06299495697021484,
+    "performance": 0.054440975189208984,
     "streams": [
       {
         "category": "American Football",
@@ -44,7 +44,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl-network_540p"
               }
             ],
-            "viewers": "7",
+            "viewers": "12",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -75,9 +75,45 @@
                 "source_tag": "SD | Prime Video",
                 "locale": "en",
                 "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-12/wsh-nyg_540p"
+              },
+              {
+                "id": 32130,
+                "name": "Washington Commanders at New York Giants",
+                "tag": "NFL",
+                "uri_name": "washington-commanders-at-new-york-giants-32130",
+                "source_tag": "HD | Prime Vision with Next Gen Stats",
+                "locale": "en",
+                "iframe": "https://taifood-blog.asia/embed/washington-commanders-at-new-york-giants-32130"
+              },
+              {
+                "id": 1032130,
+                "name": "Washington Commanders at New York Giants",
+                "tag": "NFL",
+                "uri_name": "washington-commanders-at-new-york-giants-32130_540p",
+                "source_tag": "SD | Prime Vision with Next Gen Stats",
+                "locale": "en",
+                "iframe": "https://taifood-blog.asia/embed/washington-commanders-at-new-york-giants-32130_540p"
+              },
+              {
+                "id": 32131,
+                "name": "Washington Commanders at New York Giants",
+                "tag": "NFL",
+                "uri_name": "washington-commanders-at-new-york-giants-32131",
+                "source_tag": "HD | Prime Video",
+                "locale": "en",
+                "iframe": "https://taifood-blog.asia/embed/washington-commanders-at-new-york-giants-32131"
+              },
+              {
+                "id": 1032131,
+                "name": "Washington Commanders at New York Giants",
+                "tag": "NFL",
+                "uri_name": "washington-commanders-at-new-york-giants-32131_540p",
+                "source_tag": "SD | Prime Video",
+                "locale": "en",
+                "iframe": "https://taifood-blog.asia/embed/washington-commanders-at-new-york-giants-32131_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -713,7 +749,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cfb/2026-11-14/utah-ariz_540p"
               }
             ],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1383,7 +1419,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-footy_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1394,105 +1430,6 @@
         "id": 37,
         "always_live": false,
         "streams": [
-          {
-            "id": 32051,
-            "name": "USC Trojans at California Golden Bears",
-            "tag": "College Basketball",
-            "source_tag": "HD | ESPN2",
-            "poster": "https://static.ppvservices.st/assets/thumb/8c8dd23bfa37f9c69c568e4693cf728b-thumbnail.jpg",
-            "blurhash": "LABB#N{Ov~%GWEodj@WD0NX%bvIt",
-            "colors": [
-              "#9d2235",
-              "#041e42"
-            ],
-            "uri_name": "cbb/2026-11-11/usc-cal",
-            "starts_at": 1794456000,
-            "ends_at": 1794466800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-11/usc-cal",
-            "substreams": [
-              {
-                "id": 1032051,
-                "name": "USC Trojans at California Golden Bears",
-                "tag": "College Basketball",
-                "uri_name": "cbb/2026-11-11/usc-cal_540p",
-                "source_tag": "SD | ESPN2",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-11/usc-cal_540p"
-              }
-            ],
-            "viewers": "51",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32065,
-            "name": "Adelaide 36ers vs. Melbourne United",
-            "tag": "NBL",
-            "source_tag": "HD | ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/4cadf993f7ca00cfc8c6d095efb77606-thumbnail.jpg",
-            "blurhash": "LRD*SP{br^s;W=bFfQjb9YOtX5Na",
-            "colors": [
-              "#ed302e",
-              "#4370b7"
-            ],
-            "uri_name": "nbl/2026-11-12/adl-mel",
-            "starts_at": 1794472200,
-            "ends_at": 1794483000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nbl/2026-11-12/adl-mel",
-            "substreams": [
-              {
-                "id": 1032065,
-                "name": "Adelaide 36ers vs. Melbourne United",
-                "tag": "NBL",
-                "uri_name": "nbl/2026-11-12/adl-mel_540p",
-                "source_tag": "SD | ESPN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nbl/2026-11-12/adl-mel_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32066,
-            "name": "Perth Wildcats vs. Tasmania JackJumpers",
-            "tag": "NBL",
-            "source_tag": "HD | ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/5c8ae34e1a86d3fe51d26014a4bdb16c-thumbnail.jpg",
-            "blurhash": "LYDRQY{Ow]X7j[f6fQj[9]KMW=Wo",
-            "colors": [
-              "#ec1c23",
-              "#008b45"
-            ],
-            "uri_name": "nbl/2026-11-12/per-tas",
-            "starts_at": 1794479400,
-            "ends_at": 1794490200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nbl/2026-11-12/per-tas",
-            "substreams": [
-              {
-                "id": 1032066,
-                "name": "Perth Wildcats vs. Tasmania JackJumpers",
-                "tag": "NBL",
-                "uri_name": "nbl/2026-11-12/per-tas_540p",
-                "source_tag": "SD | ESPN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nbl/2026-11-12/per-tas_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 32060,
             "name": "Toronto Raptors vs. Philadelphia 76ers",
@@ -1555,7 +1492,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-12/det-wsh_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2648,7 +2585,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports_540p"
               }
             ],
-            "viewers": "36",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2681,7 +2618,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-cricket_540p"
               }
             ],
-            "viewers": "6",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -2692,138 +2629,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 32085,
-            "name": "New Zealand vs. India",
-            "tag": "Men's International Friendly",
-            "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/df9c4246c6141494454b479eb2a509b2-thumbnail.jpg",
-            "blurhash": "LPE1y[_-$gxssoa|j@o10fXkSgI;",
-            "colors": [
-              "#ec2021",
-              "#1e8742"
-            ],
-            "uri_name": "mens-international-friendly/2026-11-12/nzl-ind",
-            "starts_at": 1794463800,
-            "ends_at": 1794472800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/mens-international-friendly/2026-11-12/nzl-ind",
-            "substreams": [
-              {
-                "id": 1032085,
-                "name": "New Zealand vs. India",
-                "tag": "Men's International Friendly",
-                "uri_name": "mens-international-friendly/2026-11-12/nzl-ind_540p",
-                "source_tag": "SD | DAZN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/mens-international-friendly/2026-11-12/nzl-ind_540p"
-              }
-            ],
-            "viewers": "108",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32076,
-            "name": "Ghana vs. Somalia",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 1",
-            "poster": "https://static.ppvservices.st/assets/thumb/81c2f5f43c7d85ec1856a8c834bf5217-thumbnail.jpg",
-            "blurhash": "LdEyl3}gsqS%oLjsfQbG9FJEWVaL",
-            "colors": [
-              "#fbd534",
-              "#428fdf"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-12/gha-som",
-            "starts_at": 1794495600,
-            "ends_at": 1794504600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/gha-som",
-            "substreams": [
-              {
-                "id": 1032076,
-                "name": "Ghana vs. Somalia",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-12/gha-som_540p",
-                "source_tag": "SD | beIN SPORTS 1",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/gha-som_540p"
-              }
-            ],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32077,
-            "name": "Congo DR vs. Sierra Leone",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 3",
-            "poster": "https://static.ppvservices.st/assets/thumb/2cc5cbd17a4a10557819639aaaae4f91-thumbnail.jpg",
-            "blurhash": "LO73:%iqa*oyk9f9bHbFD4o?j=W9",
-            "colors": [
-              "#428fdf",
-              "#1eb439"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-12/cod-sle",
-            "starts_at": 1794499200,
-            "ends_at": 1794508200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/cod-sle",
-            "substreams": [
-              {
-                "id": 1032077,
-                "name": "Congo DR vs. Sierra Leone",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-12/cod-sle_540p",
-                "source_tag": "SD | beIN SPORTS 3",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/cod-sle_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32078,
-            "name": "Equatorial Guinea vs. Zimbabwe",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 5",
-            "poster": "https://static.ppvservices.st/assets/thumb/4aeea3c59e811ae89712a1d3395ccfb5-thumbnail.jpg",
-            "blurhash": "L6J6+70GYqs+bsSgj[r[00?#rfyS",
-            "colors": [
-              "#d50133",
-              "#ffff01"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-12/eqg-zim",
-            "starts_at": 1794499200,
-            "ends_at": 1794508200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/eqg-zim",
-            "substreams": [
-              {
-                "id": 1032078,
-                "name": "Equatorial Guinea vs. Zimbabwe",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-12/eqg-zim_540p",
-                "source_tag": "SD | beIN SPORTS 5",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/eqg-zim_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 32068,
             "name": "Armenia vs. Cyprus",
@@ -2853,7 +2658,7 @@
                 "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/arm-cyp_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "19",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2886,7 +2691,7 @@
                 "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/tur-bel_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1028",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2919,7 +2724,7 @@
                 "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/gui-eri_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "10",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2952,7 +2757,7 @@
                 "iframe": "https://taifood-blog.asia/embed/mens-international-friendly/2026-11-12/ltu-sur_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2985,7 +2790,7 @@
                 "iframe": "https://taifood-blog.asia/embed/mens-international-friendly/2026-11-12/mlt-swz_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "6",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3018,7 +2823,7 @@
                 "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/ben-cta_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "24",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3051,7 +2856,7 @@
                 "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/cmr-nam_540p"
               }
             ],
-            "viewers": "1",
+            "viewers": "161",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3084,7 +2889,7 @@
                 "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/civ-gam_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "493",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3117,7 +2922,7 @@
                 "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/sen-sud_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "295",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3150,7 +2955,7 @@
                 "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/alb-fin_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "9",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3183,7 +2988,7 @@
                 "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/cze-esp_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "52",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3216,7 +3021,7 @@
                 "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/eng-cro_540p"
               }
             ],
-            "viewers": "1",
+            "viewers": "191",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3249,7 +3054,7 @@
                 "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/ita-fra_540p"
               }
             ],
-            "viewers": "1",
+            "viewers": "295",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3282,7 +3087,7 @@
                 "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/mne-lva_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3315,7 +3120,7 @@
                 "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/smr-blr_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3421,7 +3226,7 @@
                 "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059_540p"
               }
             ],
-            "viewers": "9",
+            "viewers": "13",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -3461,7 +3266,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl-network-29780_540p"
               }
             ],
-            "viewers": "4",
+            "viewers": "11",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3494,7 +3299,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/car-sea_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "311",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -3864,7 +3669,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-league_540p"
               }
             ],
-            "viewers": "3",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -3970,7 +3775,7 @@
                 "iframe": "https://taifood-blog.asia/embed/aew/2026-11-14_540p"
               }
             ],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4010,7 +3815,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-south-park_540p"
               }
             ],
-            "viewers": "17",
+            "viewers": "18",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4043,7 +3848,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-cows_540p"
               }
             ],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4076,7 +3881,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-family-guy_540p"
               }
             ],
-            "viewers": "27",
+            "viewers": "21",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4142,7 +3947,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-spongebob-squarepants_540p"
               }
             ],
-            "viewers": "3",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4231,7 +4036,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cnn-31729_540p"
               }
             ],
-            "viewers": "3",
+            "viewers": "6",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -4264,7 +4069,7 @@
                 "iframe": "https://taifood-blog.asia/embed/fox-news-31730_540p"
               }
             ],
-            "viewers": "3",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -4273,11 +4078,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-11-12T06:24:27.429152+00:00",
+    "extracted_at": "2026-11-12T19:32:47.898609+00:00",
     "source_file": "events.json",
-    "total_streams": 118,
+    "total_streams": 111,
     "found": 0,
-    "not_found": 118,
+    "not_found": 111,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
