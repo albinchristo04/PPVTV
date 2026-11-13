@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-12T19:27:19.573610+00:00",
+    "fetched_at": "2026-11-13T04:46:25.796921+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1794511640,
+    "timestamp": 1794545190,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.054440975189208984,
+    "performance": 0.051239967346191406,
     "streams": [
       {
         "category": "American Football",
@@ -44,7 +44,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl-network_540p"
               }
             ],
-            "viewers": "12"
+            "viewers": "10"
           },
           {
             "id": 31952,
@@ -111,7 +111,7 @@
                 "iframe": "https://taifood-blog.asia/embed/washington-commanders-at-new-york-giants-32131_540p"
               }
             ],
-            "viewers": "1"
+            "viewers": "1468"
           },
           {
             "id": 31977,
@@ -1347,7 +1347,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-footy_540p"
               }
             ],
-            "viewers": "1"
+            "viewers": "0"
           }
         ]
       },
@@ -1356,117 +1356,6 @@
         "id": 37,
         "always_live": false,
         "streams": [
-          {
-            "id": 32060,
-            "name": "Toronto Raptors vs. Philadelphia 76ers",
-            "tag": "NBA",
-            "source_tag": "HD | Home",
-            "poster": "https://static.ppvservices.st/assets/thumb/d3cd8bf6f050a18b29084be0f2bee11a-thumbnail.jpg",
-            "blurhash": "LTEnVg}AwfR5WCofayWV0KI:W;kq",
-            "colors": [
-              "#d91244",
-              "#1d428a"
-            ],
-            "uri_name": "nba/2026-11-12/tor-phi",
-            "starts_at": 1794528000,
-            "ends_at": 1794538800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nba/2026-11-12/tor-phi",
-            "substreams": [
-              {
-                "id": 1032060,
-                "name": "Toronto Raptors vs. Philadelphia 76ers",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-12/tor-phi_540p",
-                "source_tag": "SD | Home",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-12/tor-phi_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32061,
-            "name": "Detroit Pistons vs. Washington Wizards",
-            "tag": "NBA",
-            "source_tag": "HD | Home",
-            "poster": "https://static.ppvservices.st/assets/thumb/f3b098cce9e6f6e35604282b79145019-thumbnail.jpg",
-            "blurhash": "L9Em|d1k+wB:xGS2j[oL00S}S~{x",
-            "colors": [
-              "#1d428a",
-              "#e31837"
-            ],
-            "uri_name": "nba/2026-11-12/det-wsh",
-            "starts_at": 1794528000,
-            "ends_at": 1794538800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nba/2026-11-12/det-wsh",
-            "substreams": [
-              {
-                "id": 1032061,
-                "name": "Detroit Pistons vs. Washington Wizards",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-12/det-wsh_540p",
-                "source_tag": "SD | Home",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-12/det-wsh_540p"
-              }
-            ],
-            "viewers": "1"
-          },
-          {
-            "id": 32062,
-            "name": "Dallas Mavericks vs. Minnesota Timberwolves",
-            "tag": "NBA",
-            "source_tag": "HD | NBA TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/f9189dd3aca77fc80c7335f51d6aabc6-thumbnail.jpg",
-            "blurhash": "L37x,,4$of~qozV[j[of00.7WW4m",
-            "colors": [
-              "#0064b1",
-              "#266092"
-            ],
-            "uri_name": "nba/2026-11-12/dal-min",
-            "starts_at": 1794531600,
-            "ends_at": 1794542400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nba/2026-11-12/dal-min",
-            "substreams": [
-              {
-                "id": 1032062,
-                "name": "Dallas Mavericks vs. Minnesota Timberwolves",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-12/dal-min_540p",
-                "source_tag": "SD | NBA TV",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-12/dal-min_540p"
-              },
-              {
-                "id": 32063,
-                "name": "Dallas Mavericks vs. Minnesota Timberwolves",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-12/dal-min/away",
-                "source_tag": "HD | Away",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-12/dal-min/away"
-              },
-              {
-                "id": 1032063,
-                "name": "Dallas Mavericks vs. Minnesota Timberwolves",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-12/dal-min/away_540p",
-                "source_tag": "SD | Away",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-12/dal-min/away_540p"
-              }
-            ],
-            "viewers": "0"
-          },
           {
             "id": 32064,
             "name": "Charlotte Hornets vs. Phoenix Suns",
@@ -1496,7 +1385,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-12/cha-phx_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "497"
           },
           {
             "id": 32067,
@@ -1527,7 +1416,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-12/mtst-byu_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "7"
           },
           {
             "id": 32115,
@@ -1997,7 +1886,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-13/atl-chi_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 32106,
@@ -2453,7 +2342,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports_540p"
               }
             ],
-            "viewers": "8"
+            "viewers": "510"
           },
           {
             "id": 27496,
@@ -2484,7 +2373,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-cricket_540p"
               }
             ],
-            "viewers": "2"
+            "viewers": "233"
           }
         ]
       },
@@ -2494,469 +2383,314 @@
         "always_live": false,
         "streams": [
           {
-            "id": 32068,
-            "name": "Armenia vs. Cyprus",
+            "id": 32132,
+            "name": "Moldova vs. Kazakhstan",
             "tag": "UEFA Nations League",
             "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/0652868a024912ae66659423fb284315-thumbnail.jpg",
-            "blurhash": "LMEnMR_##sx]n+jZazj@0JY5SwIW",
+            "poster": "https://static.ppvservices.st/assets/thumb/5795b1a658ce48a9d8ca7ee77bf5802d-thumbnail.jpg",
+            "blurhash": "L55?_I*KGHCkogf6WWfk00HU#j:%",
             "colors": [
-              "#dc2400",
-              "#195dcc"
+              "#0146ad",
+              "#01abc2"
             ],
-            "uri_name": "uefa-nations-league/2026-11-12/arm-cyp",
-            "starts_at": 1794502800,
-            "ends_at": 1794511800,
+            "uri_name": "uefa-nations-league/2026-11-13/mda-kaz",
+            "starts_at": 1794589200,
+            "ends_at": 1794598200,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-ca",
             "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/arm-cyp",
+            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/mda-kaz",
             "substreams": [
               {
-                "id": 1032068,
-                "name": "Armenia vs. Cyprus",
+                "id": 1032132,
+                "name": "Moldova vs. Kazakhstan",
                 "tag": "UEFA Nations League",
-                "uri_name": "uefa-nations-league/2026-11-12/arm-cyp_540p",
+                "uri_name": "uefa-nations-league/2026-11-13/mda-kaz_540p",
                 "source_tag": "SD | DAZN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/arm-cyp_540p"
+                "locale": "en-ca",
+                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/mda-kaz_540p"
               }
             ],
-            "viewers": "19"
+            "viewers": "0"
           },
           {
-            "id": 32069,
-            "name": "Türkiye vs. Belgium",
+            "id": 32133,
+            "name": "Andorra vs. Gibraltar",
             "tag": "UEFA Nations League",
             "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/fc928917bb9b2e9219feb0f8a58b8316-thumbnail.jpg",
-            "blurhash": "LaJ?Ku*Jx]XQoLfkfQfQ0yV?Rjn5",
-            "colors": [
-              "#ffffff",
-              "#e20612"
-            ],
-            "uri_name": "uefa-nations-league/2026-11-12/tur-bel",
-            "starts_at": 1794502800,
-            "ends_at": 1794511800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/tur-bel",
-            "substreams": [
-              {
-                "id": 1032069,
-                "name": "Türkiye vs. Belgium",
-                "tag": "UEFA Nations League",
-                "uri_name": "uefa-nations-league/2026-11-12/tur-bel_540p",
-                "source_tag": "SD | DAZN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/tur-bel_540p"
-              }
-            ],
-            "viewers": "1028"
-          },
-          {
-            "id": 32079,
-            "name": "Guinea vs. Eritrea",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 7",
-            "poster": "https://static.ppvservices.st/assets/thumb/32cef62e1ba1c4bd261fe7f3df507e9c-thumbnail.jpg",
-            "blurhash": "LOD+6K_,t4rdj=jufPf60hK5agO,",
-            "colors": [
-              "#d00300",
-              "#42b02b"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-12/gui-eri",
-            "starts_at": 1794502800,
-            "ends_at": 1794511800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/gui-eri",
-            "substreams": [
-              {
-                "id": 1032079,
-                "name": "Guinea vs. Eritrea",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-12/gui-eri_540p",
-                "source_tag": "SD | beIN SPORTS 7",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/gui-eri_540p"
-              }
-            ],
-            "viewers": "10"
-          },
-          {
-            "id": 32086,
-            "name": "Lithuania vs. Suriname",
-            "tag": "Men's International Friendly",
-            "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/c679f495659130793f25459938347e19-thumbnail.jpg",
-            "blurhash": "LcE.{Z~2xDflkAj@fQaz9JNLWXR*",
-            "colors": [
-              "#ffe401",
-              "#007932"
-            ],
-            "uri_name": "mens-international-friendly/2026-11-12/ltu-sur",
-            "starts_at": 1794502800,
-            "ends_at": 1794511800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/mens-international-friendly/2026-11-12/ltu-sur",
-            "substreams": [
-              {
-                "id": 1032086,
-                "name": "Lithuania vs. Suriname",
-                "tag": "Men's International Friendly",
-                "uri_name": "mens-international-friendly/2026-11-12/ltu-sur_540p",
-                "source_tag": "SD | DAZN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/mens-international-friendly/2026-11-12/ltu-sur_540p"
-              }
-            ],
-            "viewers": "2"
-          },
-          {
-            "id": 32087,
-            "name": "Malta vs. Eswatini",
-            "tag": "Men's International Friendly",
-            "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/73bb5c2415d9d35b998ac62575e991dc-thumbnail.jpg",
-            "blurhash": "LUEAXE}4xJWVjujsfQfQ0xI]W9W?",
-            "colors": [
-              "#dc2400",
-              "#1f20ec"
-            ],
-            "uri_name": "mens-international-friendly/2026-11-12/mlt-swz",
-            "starts_at": 1794504600,
-            "ends_at": 1794513600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/mens-international-friendly/2026-11-12/mlt-swz",
-            "substreams": [
-              {
-                "id": 1032087,
-                "name": "Malta vs. Eswatini",
-                "tag": "Men's International Friendly",
-                "uri_name": "mens-international-friendly/2026-11-12/mlt-swz_540p",
-                "source_tag": "SD | DAZN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/mens-international-friendly/2026-11-12/mlt-swz_540p"
-              }
-            ],
-            "viewers": "6"
-          },
-          {
-            "id": 32080,
-            "name": "Benin vs. Central African Republic",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 3",
-            "poster": "https://static.ppvservices.st/assets/thumb/dec4658a2327742a14b97deb2735ff39-thumbnail.jpg",
-            "blurhash": "L67_fgUMFrKjX9oua#V{00ss,[z;",
-            "colors": [
-              "#008651",
-              "#061d47"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-12/ben-cta",
-            "starts_at": 1794510000,
-            "ends_at": 1794519000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/ben-cta",
-            "substreams": [
-              {
-                "id": 1032080,
-                "name": "Benin vs. Central African Republic",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-12/ben-cta_540p",
-                "source_tag": "SD | beIN SPORTS 3",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/ben-cta_540p"
-              }
-            ],
-            "viewers": "24"
-          },
-          {
-            "id": 32081,
-            "name": "Cameroon vs. Namibia",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 4",
-            "poster": "https://static.ppvservices.st/assets/thumb/160906c26b91be374baa9234142072ac-thumbnail.jpg",
-            "blurhash": "L8C#xd4Pw|9$n+bYo2WX01vjt6]}",
-            "colors": [
-              "#197b62",
-              "#d00300"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-12/cmr-nam",
-            "starts_at": 1794510000,
-            "ends_at": 1794519000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/cmr-nam",
-            "substreams": [
-              {
-                "id": 1032081,
-                "name": "Cameroon vs. Namibia",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-12/cmr-nam_540p",
-                "source_tag": "SD | beIN SPORTS 4",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/cmr-nam_540p"
-              }
-            ],
-            "viewers": "161"
-          },
-          {
-            "id": 32082,
-            "name": "Ivory Coast vs. Gambia",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 5",
-            "poster": "https://static.ppvservices.st/assets/thumb/acc99cab400751466588ec87671c00e3-thumbnail.jpg",
-            "blurhash": "LIIo92~7xCixsCW:fQn*0MIWShS~",
-            "colors": [
-              "#ff8201",
-              "#c7102e"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-12/civ-gam",
-            "starts_at": 1794510000,
-            "ends_at": 1794519000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/civ-gam",
-            "substreams": [
-              {
-                "id": 1032082,
-                "name": "Ivory Coast vs. Gambia",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-12/civ-gam_540p",
-                "source_tag": "SD | beIN SPORTS 5",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/civ-gam_540p"
-              }
-            ],
-            "viewers": "493"
-          },
-          {
-            "id": 32083,
-            "name": "Senegal vs. Sudan",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS",
-            "poster": "https://static.ppvservices.st/assets/thumb/621f1dd3d745e2dc0a39654f2070e067-thumbnail.jpg",
-            "blurhash": "LbI:zo*Jk=SOoLbHfQjt0fRQennN",
-            "colors": [
-              "#ffffff",
-              "#d00300"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-12/sen-sud",
-            "starts_at": 1794510000,
-            "ends_at": 1794519000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/sen-sud",
-            "substreams": [
-              {
-                "id": 1032083,
-                "name": "Senegal vs. Sudan",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-12/sen-sud_540p",
-                "source_tag": "SD | beIN SPORTS",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-12/sen-sud_540p"
-              }
-            ],
-            "viewers": "295"
-          },
-          {
-            "id": 32070,
-            "name": "Albania vs. Finland",
-            "tag": "UEFA Nations League",
-            "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/cac3a3b505fe4fa2fa62c7be617e46ab-thumbnail.jpg",
-            "blurhash": "LTD@F6{K#;b^j[jsf7fQ5PO@SeRj",
+            "poster": "https://static.ppvservices.st/assets/thumb/21c38ec2ed4e1b07042576515d4e561c-thumbnail.jpg",
+            "blurhash": "L4Ix2QHXv$%%%gVsafo}00?wTII7",
             "colors": [
               "#e70103",
-              "#013580"
+              "#de2a19"
             ],
-            "uri_name": "uefa-nations-league/2026-11-12/alb-fin",
-            "starts_at": 1794512700,
-            "ends_at": 1794521700,
+            "uri_name": "uefa-nations-league/2026-11-13/and-gib",
+            "starts_at": 1794599100,
+            "ends_at": 1794608100,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-ca",
             "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/alb-fin",
+            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/and-gib",
             "substreams": [
               {
-                "id": 1032070,
-                "name": "Albania vs. Finland",
+                "id": 1032133,
+                "name": "Andorra vs. Gibraltar",
                 "tag": "UEFA Nations League",
-                "uri_name": "uefa-nations-league/2026-11-12/alb-fin_540p",
+                "uri_name": "uefa-nations-league/2026-11-13/and-gib_540p",
                 "source_tag": "SD | DAZN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/alb-fin_540p"
+                "locale": "en-ca",
+                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/and-gib_540p"
               }
             ],
-            "viewers": "9"
+            "viewers": "0"
           },
           {
-            "id": 32071,
-            "name": "Czechia vs. Spain",
+            "id": 32134,
+            "name": "Bulgaria vs. Iceland",
             "tag": "UEFA Nations League",
             "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/89bb7be460f9227bce8a8bf3aa4b250f-thumbnail.jpg",
-            "blurhash": "L4Hk*C?1rDZe%Mo}WBVs00vwTdY7",
+            "poster": "https://static.ppvservices.st/assets/thumb/0c6e85f4b67db546244b203fbe2c6164-thumbnail.jpg",
+            "blurhash": "LRC#KF}3wQV]ofkCazae54I^X3XA",
             "colors": [
-              "#d6151a",
-              "#c60d1f"
+              "#d52613",
+              "#0d30fe"
             ],
-            "uri_name": "uefa-nations-league/2026-11-12/cze-esp",
-            "starts_at": 1794512700,
-            "ends_at": 1794521700,
+            "uri_name": "uefa-nations-league/2026-11-13/bul-isl",
+            "starts_at": 1794599100,
+            "ends_at": 1794608100,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-ca",
             "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/cze-esp",
+            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/bul-isl",
             "substreams": [
               {
-                "id": 1032071,
-                "name": "Czechia vs. Spain",
+                "id": 1032134,
+                "name": "Bulgaria vs. Iceland",
                 "tag": "UEFA Nations League",
-                "uri_name": "uefa-nations-league/2026-11-12/cze-esp_540p",
+                "uri_name": "uefa-nations-league/2026-11-13/bul-isl_540p",
                 "source_tag": "SD | DAZN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/cze-esp_540p"
+                "locale": "en-ca",
+                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/bul-isl_540p"
               }
             ],
-            "viewers": "52"
+            "viewers": "0"
           },
           {
-            "id": 32072,
-            "name": "England vs. Croatia",
+            "id": 32135,
+            "name": "Liechtenstein vs. Azerbaijan",
             "tag": "UEFA Nations League",
             "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/24cf8ef1ec9798401747838b86feb2cf-thumbnail.jpg",
-            "blurhash": "LfKv5ZqFtRaeoLbHfQjs0eVZRjjF",
+            "poster": "https://static.ppvservices.st/assets/thumb/78fc9b52ec51374a90d0962cef03d48f-thumbnail.jpg",
+            "blurhash": "L46tr1L|NOcqSkSwWVr^00lOxSZh",
+            "colors": [
+              "#0000cc",
+              "#2d4aae"
+            ],
+            "uri_name": "uefa-nations-league/2026-11-13/lie-aze",
+            "starts_at": 1794599100,
+            "ends_at": 1794608100,
+            "always_live": 0,
+            "locale": "en-ca",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/lie-aze",
+            "substreams": [
+              {
+                "id": 1032135,
+                "name": "Liechtenstein vs. Azerbaijan",
+                "tag": "UEFA Nations League",
+                "uri_name": "uefa-nations-league/2026-11-13/lie-aze_540p",
+                "source_tag": "SD | DAZN",
+                "locale": "en-ca",
+                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/lie-aze_540p"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 32136,
+            "name": "Luxembourg vs. Estonia",
+            "tag": "UEFA Nations League",
+            "source_tag": "HD | DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/b508f0c576001a283875836aa8c36b65-thumbnail.jpg",
+            "blurhash": "LWD*PT{vw$WUjFoJf7WX54JUW-XA",
+            "colors": [
+              "#e70103",
+              "#195dcc"
+            ],
+            "uri_name": "uefa-nations-league/2026-11-13/lux-est",
+            "starts_at": 1794599100,
+            "ends_at": 1794608100,
+            "always_live": 0,
+            "locale": "en-ca",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/lux-est",
+            "substreams": [
+              {
+                "id": 1032136,
+                "name": "Luxembourg vs. Estonia",
+                "tag": "UEFA Nations League",
+                "uri_name": "uefa-nations-league/2026-11-13/lux-est_540p",
+                "source_tag": "SD | DAZN",
+                "locale": "en-ca",
+                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/lux-est_540p"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 32137,
+            "name": "Netherlands vs. Greece",
+            "tag": "UEFA Nations League",
+            "source_tag": "HD | DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/3f2cbed1a9de71ff0ebf0231f55fa977-thumbnail.jpg",
+            "blurhash": "LaFE4t{^whbboKo0fQa}55OFW.S4",
+            "colors": [
+              "#fb5e01",
+              "#295da8"
+            ],
+            "uri_name": "uefa-nations-league/2026-11-13/ned-gre",
+            "starts_at": 1794599100,
+            "ends_at": 1794608100,
+            "always_live": 0,
+            "locale": "en-ca",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/ned-gre",
+            "substreams": [
+              {
+                "id": 1032137,
+                "name": "Netherlands vs. Greece",
+                "tag": "UEFA Nations League",
+                "uri_name": "uefa-nations-league/2026-11-13/ned-gre_540p",
+                "source_tag": "SD | DAZN",
+                "locale": "en-ca",
+                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/ned-gre_540p"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 32138,
+            "name": "Scotland vs. North Macedonia",
+            "tag": "UEFA Nations League",
+            "source_tag": "HD | DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/c5f5163d17ab2dfaa382bc37d3f797bf-thumbnail.jpg",
+            "blurhash": "LBEme13G+}+?oLa}ayfP01{vOWS*",
+            "colors": [
+              "#1a2d68",
+              "#e70103"
+            ],
+            "uri_name": "uefa-nations-league/2026-11-13/sco-mkd",
+            "starts_at": 1794599100,
+            "ends_at": 1794608100,
+            "always_live": 0,
+            "locale": "en-ca",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/sco-mkd",
+            "substreams": [
+              {
+                "id": 1032138,
+                "name": "Scotland vs. North Macedonia",
+                "tag": "UEFA Nations League",
+                "uri_name": "uefa-nations-league/2026-11-13/sco-mkd_540p",
+                "source_tag": "SD | DAZN",
+                "locale": "en-ca",
+                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/sco-mkd_540p"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 32139,
+            "name": "Serbia vs. Germany",
+            "tag": "UEFA Nations League",
+            "source_tag": "HD | DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/5274c2404968f4438f152a8f06b33909-thumbnail.jpg",
+            "blurhash": "L9JsU=4T*Jn2RQnha|W=00yVIUpx",
+            "colors": [
+              "#e70103",
+              "#ffffff"
+            ],
+            "uri_name": "uefa-nations-league/2026-11-13/srb-ger",
+            "starts_at": 1794599100,
+            "ends_at": 1794608100,
+            "always_live": 0,
+            "locale": "en-ca",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/srb-ger",
+            "substreams": [
+              {
+                "id": 1032139,
+                "name": "Serbia vs. Germany",
+                "tag": "UEFA Nations League",
+                "uri_name": "uefa-nations-league/2026-11-13/srb-ger_540p",
+                "source_tag": "SD | DAZN",
+                "locale": "en-ca",
+                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/srb-ger_540p"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 32140,
+            "name": "Slovakia vs. Faroe Islands",
+            "tag": "UEFA Nations League",
+            "source_tag": "HD | DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/eafbfebc28b59688250e6e6d5e355e99-thumbnail.jpg",
+            "blurhash": "L9FPBw04~UtStRkDa}V@00~mIT%D",
+            "colors": [
+              "#0d30fe",
+              "#ffffff"
+            ],
+            "uri_name": "uefa-nations-league/2026-11-13/svk-fro",
+            "starts_at": 1794599100,
+            "ends_at": 1794608100,
+            "always_live": 0,
+            "locale": "en-ca",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/svk-fro",
+            "substreams": [
+              {
+                "id": 1032140,
+                "name": "Slovakia vs. Faroe Islands",
+                "tag": "UEFA Nations League",
+                "uri_name": "uefa-nations-league/2026-11-13/svk-fro_540p",
+                "source_tag": "SD | DAZN",
+                "locale": "en-ca",
+                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/svk-fro_540p"
+              }
+            ],
+            "viewers": "0"
+          },
+          {
+            "id": 32141,
+            "name": "Slovenia vs. Switzerland",
+            "tag": "UEFA Nations League",
+            "source_tag": "HD | DAZN",
+            "poster": "https://static.ppvservices.st/assets/thumb/8282d442bfa2d6fefa4e0f01b6e26643-thumbnail.jpg",
+            "blurhash": "LcKb:%UatlsmofkCfQay0xrXRjRj",
             "colors": [
               "#ffffff",
               "#fe0000"
             ],
-            "uri_name": "uefa-nations-league/2026-11-12/eng-cro",
-            "starts_at": 1794512700,
-            "ends_at": 1794521700,
+            "uri_name": "uefa-nations-league/2026-11-13/svn-sui",
+            "starts_at": 1794599100,
+            "ends_at": 1794608100,
             "always_live": 0,
-            "locale": "en",
+            "locale": "en-ca",
             "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/eng-cro",
+            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/svn-sui",
             "substreams": [
               {
-                "id": 1032072,
-                "name": "England vs. Croatia",
+                "id": 1032141,
+                "name": "Slovenia vs. Switzerland",
                 "tag": "UEFA Nations League",
-                "uri_name": "uefa-nations-league/2026-11-12/eng-cro_540p",
+                "uri_name": "uefa-nations-league/2026-11-13/svn-sui_540p",
                 "source_tag": "SD | DAZN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/eng-cro_540p"
+                "locale": "en-ca",
+                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-13/svn-sui_540p"
               }
             ],
-            "viewers": "191"
-          },
-          {
-            "id": 32073,
-            "name": "Italy vs. France",
-            "tag": "UEFA Nations League",
-            "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/d9f075a09fb29c211f177cf499ca7664-thumbnail.jpg",
-            "blurhash": "LG8;A[kvSPN{j]fRazfQ00i^slwa",
-            "colors": [
-              "#103cd3",
-              "#00007e"
-            ],
-            "uri_name": "uefa-nations-league/2026-11-12/ita-fra",
-            "starts_at": 1794512700,
-            "ends_at": 1794521700,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/ita-fra",
-            "substreams": [
-              {
-                "id": 1032073,
-                "name": "Italy vs. France",
-                "tag": "UEFA Nations League",
-                "uri_name": "uefa-nations-league/2026-11-12/ita-fra_540p",
-                "source_tag": "SD | DAZN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/ita-fra_540p"
-              }
-            ],
-            "viewers": "295"
-          },
-          {
-            "id": 32074,
-            "name": "Montenegro vs. Latvia",
-            "tag": "UEFA Nations League",
-            "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/0f072253413b16cb809783968f711a5e-thumbnail.jpg",
-            "blurhash": "LJG5Ur{yr?S$oLjtayfQ0}K5S#WB",
-            "colors": [
-              "#e70103",
-              "#982242"
-            ],
-            "uri_name": "uefa-nations-league/2026-11-12/mne-lva",
-            "starts_at": 1794512700,
-            "ends_at": 1794521700,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/mne-lva",
-            "substreams": [
-              {
-                "id": 1032074,
-                "name": "Montenegro vs. Latvia",
-                "tag": "UEFA Nations League",
-                "uri_name": "uefa-nations-league/2026-11-12/mne-lva_540p",
-                "source_tag": "SD | DAZN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/mne-lva_540p"
-              }
-            ],
-            "viewers": "3"
-          },
-          {
-            "id": 32075,
-            "name": "San Marino vs. Belarus",
-            "tag": "UEFA Nations League",
-            "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/5931b7c941820f052e2473b235a487da-thumbnail.jpg",
-            "blurhash": "L8EzZr0I}umk%2kVfRV[00[8IT.R",
-            "colors": [
-              "#00bdfd",
-              "#ffffff"
-            ],
-            "uri_name": "uefa-nations-league/2026-11-12/smr-blr",
-            "starts_at": 1794512700,
-            "ends_at": 1794521700,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/smr-blr",
-            "substreams": [
-              {
-                "id": 1032075,
-                "name": "San Marino vs. Belarus",
-                "tag": "UEFA Nations League",
-                "uri_name": "uefa-nations-league/2026-11-12/smr-blr_540p",
-                "source_tag": "SD | DAZN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-12/smr-blr_540p"
-              }
-            ],
-            "viewers": "2"
+            "viewers": "0"
           },
           {
             "id": 32084,
@@ -3056,7 +2790,7 @@
                 "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059_540p"
               }
             ],
-            "viewers": "13"
+            "viewers": "4"
           }
         ]
       },
@@ -3094,286 +2828,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl-network-29780_540p"
               }
             ],
-            "viewers": "11"
-          },
-          {
-            "id": 32089,
-            "name": "Carolina Hurricanes vs. Seattle Kraken",
-            "tag": "NHL",
-            "source_tag": "HD | CARNHL",
-            "poster": "https://static.ppvservices.st/assets/thumb/50ce9121d3d35225d9dcfd5360146918-thumbnail.jpg",
-            "blurhash": "LYC|:s|uwJNvjujtf6fQ9@JRbboL",
-            "colors": [
-              "#e30426",
-              "#000d33"
-            ],
-            "uri_name": "nhl/2026-11-12/car-sea",
-            "starts_at": 1794502800,
-            "ends_at": 1794513600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/car-sea",
-            "substreams": [
-              {
-                "id": 1032089,
-                "name": "Carolina Hurricanes vs. Seattle Kraken",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-12/car-sea_540p",
-                "source_tag": "SD | CARNHL",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/car-sea_540p"
-              }
-            ],
-            "viewers": "311"
-          },
-          {
-            "id": 32090,
-            "name": "Montreal Canadiens vs. Boston Bruins",
-            "tag": "NHL",
-            "source_tag": "HD | NESN",
-            "poster": "https://static.ppvservices.st/assets/thumb/7a62f631097614e5a654cd1e02e34c51-thumbnail.jpg",
-            "blurhash": "LFDkAN{Prr%JoLjtf6jt01XjkWIr",
-            "colors": [
-              "#c41230",
-              "#231f20"
-            ],
-            "uri_name": "nhl/2026-11-12/mtl-bos",
-            "starts_at": 1794528000,
-            "ends_at": 1794538800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/mtl-bos",
-            "substreams": [
-              {
-                "id": 1032090,
-                "name": "Montreal Canadiens vs. Boston Bruins",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-12/mtl-bos_540p",
-                "source_tag": "SD | NESN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/mtl-bos_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32091,
-            "name": "Minnesota Wild vs. Toronto Maple Leafs",
-            "tag": "NHL",
-            "source_tag": "HD | ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/67efcb14354f2cc44ec48b7e0af230c4-thumbnail.jpg",
-            "blurhash": "L7725O9DIV?vayoeayWC00?d%L9F",
-            "colors": [
-              "#124734",
-              "#003e7e"
-            ],
-            "uri_name": "nhl/2026-11-12/min-tor",
-            "starts_at": 1794528000,
-            "ends_at": 1794538800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/min-tor",
-            "substreams": [
-              {
-                "id": 1032091,
-                "name": "Minnesota Wild vs. Toronto Maple Leafs",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-12/min-tor_540p",
-                "source_tag": "SD | ESPN+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/min-tor_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32092,
-            "name": "Colorado Avalanche vs. Ottawa Senators",
-            "tag": "NHL",
-            "source_tag": "HD | ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/a4feb46d69449fdf6aeb5e1870b95171-thumbnail.jpg",
-            "blurhash": "L3FM9e3smRu%wIR*aykC00_$u4.T",
-            "colors": [
-              "#860038",
-              "#dd1a32"
-            ],
-            "uri_name": "nhl/2026-11-12/col-ott",
-            "starts_at": 1794528000,
-            "ends_at": 1794538800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/col-ott",
-            "substreams": [
-              {
-                "id": 1032092,
-                "name": "Colorado Avalanche vs. Ottawa Senators",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-12/col-ott_540p",
-                "source_tag": "SD | ESPN+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/col-ott_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32093,
-            "name": "Washington Capitals vs. New Jersey Devils",
-            "tag": "NHL",
-            "source_tag": "HD | MSGSN",
-            "poster": "https://static.ppvservices.st/assets/thumb/4d43a26192404a4110aa811297600722-thumbnail.jpg",
-            "blurhash": "L1IT|V01*K?v-BRjjFoz00_2HWH?",
-            "colors": [
-              "#d71830",
-              "#e30b2b"
-            ],
-            "uri_name": "nhl/2026-11-12/wsh-nj",
-            "starts_at": 1794528000,
-            "ends_at": 1794538800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/wsh-nj",
-            "substreams": [
-              {
-                "id": 1032093,
-                "name": "Washington Capitals vs. New Jersey Devils",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-12/wsh-nj_540p",
-                "source_tag": "SD | MSGSN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/wsh-nj_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32094,
-            "name": "Tampa Bay Lightning vs. Columbus Blue Jackets",
-            "tag": "NHL",
-            "source_tag": "HD | CBJNHL",
-            "poster": "https://static.ppvservices.st/assets/thumb/dd6b418c22fdc18ddf3bee927ab968ca-thumbnail.jpg",
-            "blurhash": "L66*,x%%D*MdkCayWCWB00I9-pyC",
-            "colors": [
-              "#003e7e",
-              "#002d62"
-            ],
-            "uri_name": "nhl/2026-11-12/tb-cbj",
-            "starts_at": 1794528000,
-            "ends_at": 1794538800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/tb-cbj",
-            "substreams": [
-              {
-                "id": 1032094,
-                "name": "Tampa Bay Lightning vs. Columbus Blue Jackets",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-12/tb-cbj_540p",
-                "source_tag": "SD | CBJNHL",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/tb-cbj_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32095,
-            "name": "Detroit Red Wings vs. Florida Panthers",
-            "tag": "NHL",
-            "source_tag": "HD | Disney+",
-            "poster": "https://static.ppvservices.st/assets/thumb/a15502978ed3624eedd0f342a7ca9cc0-thumbnail.jpg",
-            "blurhash": "L3Im~j{hzp7bxGaye.jZ001@L1[v",
-            "colors": [
-              "#e30526",
-              "#e51937"
-            ],
-            "uri_name": "nhl/2026-11-12/det-fla",
-            "starts_at": 1794529800,
-            "ends_at": 1794540600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/det-fla",
-            "substreams": [
-              {
-                "id": 1032095,
-                "name": "Detroit Red Wings vs. Florida Panthers",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-12/det-fla_540p",
-                "source_tag": "SD | Disney+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/det-fla_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32096,
-            "name": "Buffalo Sabres vs. Chicago Blackhawks",
-            "tag": "NHL",
-            "source_tag": "HD | CHSN",
-            "poster": "https://static.ppvservices.st/assets/thumb/971e106ef7b438329b906a985444d537-thumbnail.jpg",
-            "blurhash": "LCDQ.y3Z+wVrogofjtWB0J+ZS~$+",
-            "colors": [
-              "#00468b",
-              "#e31937"
-            ],
-            "uri_name": "nhl/2026-11-12/buf-chi",
-            "starts_at": 1794531600,
-            "ends_at": 1794542400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/buf-chi",
-            "substreams": [
-              {
-                "id": 1032096,
-                "name": "Buffalo Sabres vs. Chicago Blackhawks",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-12/buf-chi_540p",
-                "source_tag": "SD | CHSN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/buf-chi_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32097,
-            "name": "Winnipeg Jets vs. Dallas Stars",
-            "tag": "NHL",
-            "source_tag": "HD | KDFI",
-            "poster": "https://static.ppvservices.st/assets/thumb/f534e3354d6129baa13a7bd70d90c36c-thumbnail.jpg",
-            "blurhash": "L56lb=.,I-9skCj[ayay00AR%3-;",
-            "colors": [
-              "#002d62",
-              "#20864c"
-            ],
-            "uri_name": "nhl/2026-11-12/wpg-dal",
-            "starts_at": 1794531600,
-            "ends_at": 1794542400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/wpg-dal",
-            "substreams": [
-              {
-                "id": 1032097,
-                "name": "Winnipeg Jets vs. Dallas Stars",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-12/wpg-dal_540p",
-                "source_tag": "SD | KDFI",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/wpg-dal_540p"
-              }
-            ],
-            "viewers": "0"
+            "viewers": "5"
           },
           {
             "id": 32098,
@@ -3404,7 +2859,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/stl-uta_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "360"
           },
           {
             "id": 32099,
@@ -3435,7 +2890,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-12/nyi-la_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "170"
           }
         ]
       },
@@ -3473,7 +2928,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-league_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           }
         ]
       },
@@ -3511,7 +2966,7 @@
                 "iframe": "https://taifood-blog.asia/embed/tna/2026-11-12_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "21"
           },
           {
             "id": 32019,
@@ -3542,7 +2997,7 @@
                 "iframe": "https://taifood-blog.asia/embed/wwe/2026-11-13_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 32020,
@@ -3611,7 +3066,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-south-park_540p"
               }
             ],
-            "viewers": "18"
+            "viewers": "14"
           },
           {
             "id": 3663,
@@ -3673,7 +3128,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-family-guy_540p"
               }
             ],
-            "viewers": "21"
+            "viewers": "35"
           },
           {
             "id": 5191,
@@ -3735,7 +3190,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-spongebob-squarepants_540p"
               }
             ],
-            "viewers": "2"
+            "viewers": "4"
           },
           {
             "id": 17270,
@@ -3818,7 +3273,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cnn-31729_540p"
               }
             ],
-            "viewers": "6"
+            "viewers": "7"
           },
           {
             "id": 31730,
