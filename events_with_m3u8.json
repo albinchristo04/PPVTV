@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-15T22:24:57.789746+00:00",
+    "fetched_at": "2026-11-16T04:27:10.802510+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1794781500,
+    "timestamp": 1794803230,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.025291919708251953,
+    "performance": 0.05009198188781738,
     "streams": [
       {
         "category": "American Football",
@@ -44,172 +44,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl-network_540p"
               }
             ],
-            "viewers": "33",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32261,
-            "name": "NFL RedZone",
-            "tag": "NFL",
-            "source_tag": "HD | NFL RedZone",
-            "poster": "https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg",
-            "blurhash": "LNPnht|_0e,@i_f6oKaeQmj[pcfk",
-            "colors": [
-              "#e12424",
-              "#921717"
-            ],
-            "uri_name": "nfl-redzone-32261",
-            "starts_at": 1794765600,
-            "ends_at": 1794790800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl-redzone-32261",
-            "substreams": [
-              {
-                "id": 1032261,
-                "name": "NFL RedZone",
-                "tag": "NFL",
-                "uri_name": "nfl-redzone-32261_540p",
-                "source_tag": "SD | NFL RedZone",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl-redzone-32261_540p"
-              }
-            ],
-            "viewers": "5450",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 31970,
-            "name": "Seattle Seahawks at Las Vegas Raiders",
-            "tag": "NFL",
-            "source_tag": "HD | CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/5d2b3b489d2fceb05d10990d63a1c44b-thumbnail.jpg",
-            "blurhash": "L4C7$H4AE5reoyWUjuj[00z%-pxc",
-            "colors": [
-              "#69be28",
-              "#a5acaf"
-            ],
-            "uri_name": "nfl/2026-11-15/sea-lv",
-            "starts_at": 1794776700,
-            "ends_at": 1794791100,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-15/sea-lv",
-            "substreams": [
-              {
-                "id": 1031970,
-                "name": "Seattle Seahawks at Las Vegas Raiders",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-15/sea-lv_540p",
-                "source_tag": "SD | CBS",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-15/sea-lv_540p"
-              }
-            ],
-            "viewers": "5525",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 31973,
-            "name": "Los Angeles Rams at Arizona Cardinals",
-            "tag": "NFL",
-            "source_tag": "HD | CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/456ed7690ea865b2e54b5c806284996b-thumbnail.jpg",
-            "blurhash": "LFA]aSGwa1MxoMfkayay00VXtQ%M",
-            "colors": [
-              "#003594",
-              "#97233f"
-            ],
-            "uri_name": "nfl/2026-11-15/lar-ari",
-            "starts_at": 1794776700,
-            "ends_at": 1794791100,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-15/lar-ari",
-            "substreams": [
-              {
-                "id": 1031973,
-                "name": "Los Angeles Rams at Arizona Cardinals",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-15/lar-ari_540p",
-                "source_tag": "SD | CBS",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-15/lar-ari_540p"
-              }
-            ],
-            "viewers": "1756",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 31974,
-            "name": "San Francisco 49ers at Dallas Cowboys",
-            "tag": "NFL",
-            "source_tag": "HD | Fox",
-            "poster": "https://static.ppvservices.st/assets/thumb/fcbe26fb7e2a47c54dc5cbf02fe4d5db-thumbnail.jpg",
-            "blurhash": "LIAu%j{]nSS5f8j@j[ay54JVoyof",
-            "colors": [
-              "#aa0000",
-              "#003594"
-            ],
-            "uri_name": "nfl/2026-11-15/sf-dal",
-            "starts_at": 1794777900,
-            "ends_at": 1794792300,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-15/sf-dal",
-            "substreams": [
-              {
-                "id": 1031974,
-                "name": "San Francisco 49ers at Dallas Cowboys",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-15/sf-dal_540p",
-                "source_tag": "SD | Fox",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-15/sf-dal_540p"
-              }
-            ],
-            "viewers": "6356",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32014,
-            "name": "Montreal Alouettes at Edmonton Elks",
-            "tag": "Canadian Football",
-            "source_tag": "HD | TSN1",
-            "poster": "https://static.ppvservices.st/assets/thumb/f5a362d080ef15e5bd72e04b7d3c970b-thumbnail.jpg",
-            "blurhash": "LA8|Fj{SMdOooLjtfQa|0eKK%Nr@",
-            "colors": [
-              "#7a2b3b",
-              "#0f4d2c"
-            ],
-            "uri_name": "cfl/2026-11-15/mtl-edm",
-            "starts_at": 1794783600,
-            "ends_at": 1794796200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/cfl/2026-11-15/mtl-edm",
-            "substreams": [
-              {
-                "id": 1032014,
-                "name": "Montreal Alouettes at Edmonton Elks",
-                "tag": "Canadian Football",
-                "uri_name": "cfl/2026-11-15/mtl-edm_540p",
-                "source_tag": "SD | TSN1",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/cfl/2026-11-15/mtl-edm_540p"
-              }
-            ],
-            "viewers": "73",
+            "viewers": "11",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -242,7 +77,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-15/pit-cin_540p"
               }
             ],
-            "viewers": "5",
+            "viewers": "3977",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -315,7 +150,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-footy_540p"
               }
             ],
-            "viewers": "2",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -326,390 +161,6 @@
         "id": 37,
         "always_live": false,
         "streams": [
-          {
-            "id": 32201,
-            "name": "Baylor Bears at Texas Longhorns",
-            "tag": "College Basketball",
-            "source_tag": "HD | ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/b85310bb60b74da1654be74b45cf9974-thumbnail.jpg",
-            "blurhash": "L2CYU41o{e1U%1slxYxZ00#xKj|-",
-            "colors": [
-              "#154734",
-              "#af5c37"
-            ],
-            "uri_name": "cbb/2026-11-15/bay-tex",
-            "starts_at": 1794772800,
-            "ends_at": 1794783600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-15/bay-tex",
-            "substreams": [
-              {
-                "id": 1032201,
-                "name": "Baylor Bears at Texas Longhorns",
-                "tag": "College Basketball",
-                "uri_name": "cbb/2026-11-15/bay-tex_540p",
-                "source_tag": "SD | ESPN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-15/bay-tex_540p"
-              }
-            ],
-            "viewers": "99",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32185,
-            "name": "Los Angeles Lakers vs. Phoenix Suns",
-            "tag": "NBA",
-            "source_tag": "HD | Home",
-            "poster": "https://static.ppvservices.st/assets/thumb/3f678db824ca83a8cfa9543c537e7cb1-thumbnail.jpg",
-            "blurhash": "L39$x1.TVEMJn,S4oJf800h|t,u4",
-            "colors": [
-              "#552583",
-              "#29127a"
-            ],
-            "uri_name": "nba/2026-11-15/lal-phx",
-            "starts_at": 1794776400,
-            "ends_at": 1794787200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/lal-phx",
-            "substreams": [
-              {
-                "id": 1032185,
-                "name": "Los Angeles Lakers vs. Phoenix Suns",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-15/lal-phx_540p",
-                "source_tag": "SD | Home",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/lal-phx_540p"
-              },
-              {
-                "id": 32186,
-                "name": "Los Angeles Lakers vs. Phoenix Suns",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-15/lal-phx/away",
-                "source_tag": "HD | Away",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/lal-phx/away"
-              },
-              {
-                "id": 1032186,
-                "name": "Los Angeles Lakers vs. Phoenix Suns",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-15/lal-phx/away_540p",
-                "source_tag": "SD | Away",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/lal-phx/away_540p"
-              }
-            ],
-            "viewers": "3902",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32187,
-            "name": "Charlotte Hornets vs. LA Clippers",
-            "tag": "NBA",
-            "source_tag": "HD | Home",
-            "poster": "https://static.ppvservices.st/assets/thumb/21759766c62e5fb6175a6f614bbf59f9-thumbnail.jpg",
-            "blurhash": "L77_=?80S~?at7ofj[ay00=_soDj",
-            "colors": [
-              "#008ca8",
-              "#12173f"
-            ],
-            "uri_name": "nba/2026-11-15/cha-lac",
-            "starts_at": 1794778200,
-            "ends_at": 1794789000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/cha-lac",
-            "substreams": [
-              {
-                "id": 1032187,
-                "name": "Charlotte Hornets vs. LA Clippers",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-15/cha-lac_540p",
-                "source_tag": "SD | Home",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/cha-lac_540p"
-              }
-            ],
-            "viewers": "525",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32188,
-            "name": "San Antonio Spurs vs. Utah Jazz",
-            "tag": "NBA",
-            "source_tag": "HD | Home",
-            "poster": "https://static.ppvservices.st/assets/thumb/c722824b0b5a6290ba08e8f6e288acce-thumbnail.jpg",
-            "blurhash": "L57KJg0vM,?It7Rjt6V[00?K%KD%",
-            "colors": [
-              "#000000",
-              "#4e008e"
-            ],
-            "uri_name": "nba/2026-11-15/sa-utah",
-            "starts_at": 1794780000,
-            "ends_at": 1794790800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/sa-utah",
-            "substreams": [
-              {
-                "id": 1032188,
-                "name": "San Antonio Spurs vs. Utah Jazz",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-15/sa-utah_540p",
-                "source_tag": "SD | Home",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/sa-utah_540p"
-              },
-              {
-                "id": 32189,
-                "name": "San Antonio Spurs vs. Utah Jazz",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-15/sa-utah/away",
-                "source_tag": "HD | Away",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/sa-utah/away"
-              },
-              {
-                "id": 1032189,
-                "name": "San Antonio Spurs vs. Utah Jazz",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-15/sa-utah/away_540p",
-                "source_tag": "SD | Away",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/sa-utah/away_540p"
-              }
-            ],
-            "viewers": "1987",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32190,
-            "name": "Dallas Mavericks vs. Boston Celtics",
-            "tag": "NBA",
-            "source_tag": "HD | Home",
-            "poster": "https://static.ppvservices.st/assets/thumb/8a2fe6577ec8a3199addd8cb78d2ebb7-thumbnail.jpg",
-            "blurhash": "LB735,Q%bJ%eWVj[j[ay00tdj[IU",
-            "colors": [
-              "#0064b1",
-              "#008348"
-            ],
-            "uri_name": "nba/2026-11-15/dal-bos",
-            "starts_at": 1794783600,
-            "ends_at": 1794794400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/dal-bos",
-            "substreams": [
-              {
-                "id": 1032190,
-                "name": "Dallas Mavericks vs. Boston Celtics",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-15/dal-bos_540p",
-                "source_tag": "SD | Home",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/dal-bos_540p"
-              },
-              {
-                "id": 32191,
-                "name": "Dallas Mavericks vs. Boston Celtics",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-15/dal-bos/away",
-                "source_tag": "HD | Away",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/dal-bos/away"
-              },
-              {
-                "id": 1032191,
-                "name": "Dallas Mavericks vs. Boston Celtics",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-15/dal-bos/away_540p",
-                "source_tag": "SD | Away",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/dal-bos/away_540p"
-              }
-            ],
-            "viewers": "6",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32192,
-            "name": "New York Knicks vs. Toronto Raptors",
-            "tag": "NBA",
-            "source_tag": "HD | Home",
-            "poster": "https://static.ppvservices.st/assets/thumb/a4beabaa0a189a03e3ec9442a408613f-thumbnail.jpg",
-            "blurhash": "L9EUG_0O,H.9s:j@j@bH00~CSzVD",
-            "colors": [
-              "#1d428a",
-              "#d91244"
-            ],
-            "uri_name": "nba/2026-11-15/ny-tor",
-            "starts_at": 1794783600,
-            "ends_at": 1794794400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/ny-tor",
-            "substreams": [
-              {
-                "id": 1032192,
-                "name": "New York Knicks vs. Toronto Raptors",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-15/ny-tor_540p",
-                "source_tag": "SD | Home",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/ny-tor_540p"
-              }
-            ],
-            "viewers": "6",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32193,
-            "name": "Houston Rockets vs. Washington Wizards",
-            "tag": "NBA",
-            "source_tag": "HD | Home",
-            "poster": "https://static.ppvservices.st/assets/thumb/1d15974f2b88953c07574cc2e1c05c5f-thumbnail.jpg",
-            "blurhash": "L6HuFqD4a0P;$jR+j[so00P:kq*y",
-            "colors": [
-              "#ce0e2d",
-              "#e31837"
-            ],
-            "uri_name": "nba/2026-11-15/hou-wsh",
-            "starts_at": 1794787200,
-            "ends_at": 1794798000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/hou-wsh",
-            "substreams": [
-              {
-                "id": 1032193,
-                "name": "Houston Rockets vs. Washington Wizards",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-15/hou-wsh_540p",
-                "source_tag": "SD | Home",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/hou-wsh_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32202,
-            "name": "Syracuse Orange at St. John's Red Storm",
-            "tag": "College Basketball",
-            "source_tag": "HD | NBCSN",
-            "poster": "https://static.ppvservices.st/assets/thumb/0a6ba36f611ce7a4664d14fc6b7e72d7-thumbnail.jpg",
-            "blurhash": "L5Evy}15{h7}s:ayjZof00%MKh{K",
-            "colors": [
-              "#000e54",
-              "#d10000"
-            ],
-            "uri_name": "cbb/2026-11-15/syr-sju",
-            "starts_at": 1794787200,
-            "ends_at": 1794798000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-15/syr-sju",
-            "substreams": [
-              {
-                "id": 1032202,
-                "name": "Syracuse Orange at St. John's Red Storm",
-                "tag": "College Basketball",
-                "uri_name": "cbb/2026-11-15/syr-sju_540p",
-                "source_tag": "SD | NBCSN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-15/syr-sju_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32203,
-            "name": "Arkansas-Pine Bluff Golden Lions at USC Trojans",
-            "tag": "College Basketball",
-            "source_tag": "HD | B1G+",
-            "poster": "https://static.ppvservices.st/assets/thumb/7c25a206fe6fda0f72bd870e35ec6501-thumbnail.jpg",
-            "blurhash": "LGG79c~eoui~oKj@a|az0iIba$WV",
-            "colors": [
-              "#e0aa0f",
-              "#9d2235"
-            ],
-            "uri_name": "cbb/2026-11-15/uapb-usc",
-            "starts_at": 1794787200,
-            "ends_at": 1794798000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-15/uapb-usc",
-            "substreams": [
-              {
-                "id": 1032203,
-                "name": "Arkansas-Pine Bluff Golden Lions at USC Trojans",
-                "tag": "College Basketball",
-                "uri_name": "cbb/2026-11-15/uapb-usc_540p",
-                "source_tag": "SD | B1G+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-15/uapb-usc_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32194,
-            "name": "Atlanta Hawks vs. Milwaukee Bucks",
-            "tag": "NBA",
-            "source_tag": "HD | Home",
-            "poster": "https://static.ppvservices.st/assets/thumb/1977dfacfe3638fc7f070d5e4fca7167-thumbnail.jpg",
-            "blurhash": "LZDa_i}asTI.j[jufkfQ56ELWqxa",
-            "colors": [
-              "#c8102e",
-              "#00471b"
-            ],
-            "uri_name": "nba/2026-11-15/atl-mil",
-            "starts_at": 1794790800,
-            "ends_at": 1794801600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/atl-mil",
-            "substreams": [
-              {
-                "id": 1032194,
-                "name": "Atlanta Hawks vs. Milwaukee Bucks",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-15/atl-mil_540p",
-                "source_tag": "SD | Home",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/atl-mil_540p"
-              }
-            ],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 32195,
             "name": "Oklahoma City Thunder vs. Sacramento Kings",
@@ -757,7 +208,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-15/okc-sac/away_540p"
               }
             ],
-            "viewers": "1",
+            "viewers": "859",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1199,7 +650,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports_540p"
               }
             ],
-            "viewers": "22",
+            "viewers": "20",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1232,7 +683,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-cricket_540p"
               }
             ],
-            "viewers": "14",
+            "viewers": "13",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1243,39 +694,6 @@
         "id": 32,
         "always_live": false,
         "streams": [
-          {
-            "id": 32252,
-            "name": "Grand Slam of Darts | Day 2, Session 2",
-            "tag": "PDC Darts",
-            "source_tag": "HD | PDC.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
-            "blurhash": "LeDe-5?@ovD7kpa1k-VdEJJ#bEwP",
-            "colors": [
-              "#20422a",
-              "#78ff87"
-            ],
-            "uri_name": "grand-slam-of-darts--day-2-session-2-32252",
-            "starts_at": 1794769200,
-            "ends_at": 1794787200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Darts",
-            "iframe": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-2-session-2-32252",
-            "substreams": [
-              {
-                "id": 1032252,
-                "name": "Grand Slam of Darts | Day 2, Session 2",
-                "tag": "PDC Darts",
-                "uri_name": "grand-slam-of-darts--day-2-session-2-32252_540p",
-                "source_tag": "SD | PDC.TV",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-2-session-2-32252_540p"
-              }
-            ],
-            "viewers": "319",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 32253,
             "name": "Grand Slam of Darts | Day 3",
@@ -1305,7 +723,7 @@
                 "iframe": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-3-32253_540p"
               }
             ],
-            "viewers": "1",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1576,7 +994,7 @@
                 "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059_540p"
               }
             ],
-            "viewers": "16",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1616,106 +1034,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl-network-29780_540p"
               }
             ],
-            "viewers": "4",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32226,
-            "name": "Edmonton Oilers vs. Philadelphia Flyers",
-            "tag": "NHL",
-            "source_tag": "HD | NBC Sports Phil",
-            "poster": "https://static.ppvservices.st/assets/thumb/7ddca8d8fb008425ed58887e59d7b6d0-thumbnail.jpg",
-            "blurhash": "L8EdSU2z{fITt7ofjaR*00:jKi^Q",
-            "colors": [
-              "#00205b",
-              "#fe5823"
-            ],
-            "uri_name": "nhl/2026-11-15/edm-phi",
-            "starts_at": 1794789000,
-            "ends_at": 1794799800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-15/edm-phi",
-            "substreams": [
-              {
-                "id": 1032226,
-                "name": "Edmonton Oilers vs. Philadelphia Flyers",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-15/edm-phi_540p",
-                "source_tag": "SD | NBC Sports Phil",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-15/edm-phi_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32227,
-            "name": "Florida Panthers vs. Dallas Stars",
-            "tag": "NHL",
-            "source_tag": "HD | Scripps Sports",
-            "poster": "https://static.ppvservices.st/assets/thumb/4ccc0601ee133bbe6c1563bff961e523-thumbnail.jpg",
-            "blurhash": "LVD8ax{Ps9W:j[jtfQa|9tK3bbW:",
-            "colors": [
-              "#e51937",
-              "#20864c"
-            ],
-            "uri_name": "nhl/2026-11-15/fla-dal",
-            "starts_at": 1794790800,
-            "ends_at": 1794801600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-15/fla-dal",
-            "substreams": [
-              {
-                "id": 1032227,
-                "name": "Florida Panthers vs. Dallas Stars",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-15/fla-dal_540p",
-                "source_tag": "SD | Scripps Sports",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-15/fla-dal_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32228,
-            "name": "Calgary Flames vs. Anaheim Ducks",
-            "tag": "NHL",
-            "source_tag": "HD | KCOP",
-            "poster": "https://static.ppvservices.st/assets/thumb/73247e31f9e86f7d124f5fdf72935db3-thumbnail.jpg",
-            "blurhash": "L3Jgg803*{8bxaniayX800LeGu_$",
-            "colors": [
-              "#dd1a32",
-              "#fc4c02"
-            ],
-            "uri_name": "nhl/2026-11-15/cgy-ana",
-            "starts_at": 1794790800,
-            "ends_at": 1794801600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-15/cgy-ana",
-            "substreams": [
-              {
-                "id": 1032228,
-                "name": "Calgary Flames vs. Anaheim Ducks",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-15/cgy-ana_540p",
-                "source_tag": "SD | KCOP",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-15/cgy-ana_540p"
-              }
-            ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1748,7 +1067,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-15/van-vgk_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "537",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1781,7 +1100,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-15/nsh-sj_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "328",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1861,7 +1180,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-south-park_540p"
               }
             ],
-            "viewers": "15",
+            "viewers": "26",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1894,7 +1213,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-cows_540p"
               }
             ],
-            "viewers": "4",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1927,7 +1246,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-family-guy_540p"
               }
             ],
-            "viewers": "15",
+            "viewers": "29",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1960,7 +1279,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-the-simpsons_540p"
               }
             ],
-            "viewers": "5",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1993,7 +1312,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-spongebob-squarepants_540p"
               }
             ],
-            "viewers": "9",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2016,7 +1335,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/rally-tv",
             "substreams": [],
-            "viewers": "4",
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2082,7 +1401,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cnn-31729_540p"
               }
             ],
-            "viewers": "7",
+            "viewers": "0",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2124,11 +1443,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-11-15T22:27:57.214572+00:00",
+    "extracted_at": "2026-11-16T04:29:11.363545+00:00",
     "source_file": "events.json",
-    "total_streams": 58,
+    "total_streams": 39,
     "found": 0,
-    "not_found": 58,
+    "not_found": 39,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
