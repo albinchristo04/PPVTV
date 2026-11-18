@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-17T15:25:03.251467+00:00",
+    "fetched_at": "2026-11-18T00:25:20.126220+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1794929110,
+    "timestamp": 1794961520,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.06140613555908203,
+    "performance": 0.0663909912109375,
     "streams": [
       {
         "category": "American Football",
@@ -44,7 +44,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl-network_540p"
               }
             ],
-            "viewers": "9",
+            "viewers": "12",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1325,7 +1325,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-23/cin-wsh_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -1377,39 +1377,6 @@
         "always_live": false,
         "streams": [
           {
-            "id": 32284,
-            "name": "Rutgers Scarlet Knights at Houston Cougars",
-            "tag": "College Basketball",
-            "source_tag": "HD | ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/5385a4c9623e71b14820224f8956f0ad-thumbnail.jpg",
-            "blurhash": "L1Ht]_{1vg%g#moLR*xa00PATdMx",
-            "colors": [
-              "#ce0e2d",
-              "#c8102e"
-            ],
-            "uri_name": "cbb/2026-11-17/rutg-hou",
-            "starts_at": 1794942000,
-            "ends_at": 1794952800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-17/rutg-hou",
-            "substreams": [
-              {
-                "id": 1032284,
-                "name": "Rutgers Scarlet Knights at Houston Cougars",
-                "tag": "College Basketball",
-                "uri_name": "cbb/2026-11-17/rutg-hou_540p",
-                "source_tag": "SD | ESPN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-17/rutg-hou_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 32285,
             "name": "Notre Dame Fighting Irish at Florida Gators",
             "tag": "College Basketball",
@@ -1438,7 +1405,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-17/nd-fla_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "157",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1471,7 +1438,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-17/ill-duke_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "341",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1504,7 +1471,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-17/rid-mia_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1537,7 +1504,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-17/ny-tor_540p"
               }
             ],
-            "viewers": "1",
+            "viewers": "403",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1570,7 +1537,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-17/kenn-ala_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1603,7 +1570,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-17/ark-iu_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1654,7 +1621,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-17/por-min/away_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "18",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1687,7 +1654,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-17/det-sa_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "36",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1753,7 +1720,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-17/msu-tenn_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1819,7 +1786,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-17/unlv-ku_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -1903,7 +1870,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-17/cha-lal/home_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2104,7 +2071,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-18/mil-mia/away_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2254,7 +2221,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-18/wsh-tor/away_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2353,7 +2320,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-18/atl-okc_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2653,7 +2620,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-18/phx-sac/away_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2762,7 +2729,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports_540p"
               }
             ],
-            "viewers": "21",
+            "viewers": "14",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -2795,7 +2762,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-cricket_540p"
               }
             ],
-            "viewers": "14",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -2806,39 +2773,6 @@
         "id": 32,
         "always_live": false,
         "streams": [
-          {
-            "id": 32254,
-            "name": "Grand Slam of Darts | Day 4",
-            "tag": "PDC Darts",
-            "source_tag": "HD | PDC.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
-            "blurhash": "LeDe-5?@ovD7kpa1k-VdEJJ#bEwP",
-            "colors": [
-              "#20422a",
-              "#78ff87"
-            ],
-            "uri_name": "grand-slam-of-darts--day-4-32254",
-            "starts_at": 1794942000,
-            "ends_at": 1794960000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Darts",
-            "iframe": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-4-32254",
-            "substreams": [
-              {
-                "id": 1032254,
-                "name": "Grand Slam of Darts | Day 4",
-                "tag": "PDC Darts",
-                "uri_name": "grand-slam-of-darts--day-4-32254_540p",
-                "source_tag": "SD | PDC.TV",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-4-32254_540p"
-              }
-            ],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
           {
             "id": 32255,
             "name": "Grand Slam of Darts | Day 5",
@@ -3045,864 +2979,6 @@
         "always_live": false,
         "streams": [
           {
-            "id": 32524,
-            "name": "Burundi vs. Zambia",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 5",
-            "poster": "https://static.ppvservices.st/assets/thumb/2407fdd29c4863c80665bd5b93a92d31-thumbnail.jpg",
-            "blurhash": "LSCFOz{lxDNZj@jafQfQ9bJ6Sgoz",
-            "colors": [
-              "#d00300",
-              "#02843e"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/bdi-zam",
-            "starts_at": 1794920400,
-            "ends_at": 1794929400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/bdi-zam",
-            "substreams": [
-              {
-                "id": 1032524,
-                "name": "Burundi vs. Zambia",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/bdi-zam_540p",
-                "source_tag": "SD | beIN SPORTS 5",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/bdi-zam_540p"
-              }
-            ],
-            "viewers": "5",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32525,
-            "name": "Ethiopia vs. Mozambique",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 6",
-            "poster": "https://static.ppvservices.st/assets/thumb/2c4a0f7554dfa474b12b96452c33cd0b-thumbnail.jpg",
-            "blurhash": "L8CrS|4N-Pj=Ndf~fRah03+dR:#W",
-            "colors": [
-              "#078730",
-              "#d00300"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/eth-moz",
-            "starts_at": 1794920400,
-            "ends_at": 1794929400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/eth-moz",
-            "substreams": [
-              {
-                "id": 1032525,
-                "name": "Ethiopia vs. Mozambique",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/eth-moz_540p",
-                "source_tag": "SD | beIN SPORTS 6",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/eth-moz_540p"
-              }
-            ],
-            "viewers": "9",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32526,
-            "name": "Lesotho vs. Gabon",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 3",
-            "poster": "https://static.ppvservices.st/assets/thumb/862b9ba8a21cca5735ce30fe8a3401b8-thumbnail.jpg",
-            "blurhash": "LN6b.XiqX9f4fRf9fQfi8_bBoIf$",
-            "colors": [
-              "#0000cc",
-              "#02843e"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/les-gab",
-            "starts_at": 1794920400,
-            "ends_at": 1794929400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/les-gab",
-            "substreams": [
-              {
-                "id": 1032526,
-                "name": "Lesotho vs. Gabon",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/les-gab_540p",
-                "source_tag": "SD | beIN SPORTS 3",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/les-gab_540p"
-              }
-            ],
-            "viewers": "6",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32527,
-            "name": "Malawi vs. Egypt",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 7",
-            "poster": "https://static.ppvservices.st/assets/thumb/5a26499b7123d20b986251ab46dd52aa-thumbnail.jpg",
-            "blurhash": "L3H88BDgn4?c+zRlfks.00.TXmDh",
-            "colors": [
-              "#d00300",
-              "#d00300"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/mwi-egy",
-            "starts_at": 1794920400,
-            "ends_at": 1794929400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/mwi-egy",
-            "substreams": [
-              {
-                "id": 1032527,
-                "name": "Malawi vs. Egypt",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/mwi-egy_540p",
-                "source_tag": "SD | beIN SPORTS 7",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/mwi-egy_540p"
-              }
-            ],
-            "viewers": "49",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32528,
-            "name": "South Sudan vs. Angola",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 4",
-            "poster": "https://static.ppvservices.st/assets/thumb/274bd0b361978b0cbcffe18b030dc762-thumbnail.jpg",
-            "blurhash": "L4Gqn$}uVu#8+_NubHw{0KvytPGF",
-            "colors": [
-              "#d8131a",
-              "#bd0028"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/ssd-ang",
-            "starts_at": 1794920400,
-            "ends_at": 1794929400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/ssd-ang",
-            "substreams": [
-              {
-                "id": 1032528,
-                "name": "South Sudan vs. Angola",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/ssd-ang_540p",
-                "source_tag": "SD | beIN SPORTS 4",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/ssd-ang_540p"
-              }
-            ],
-            "viewers": "5",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32529,
-            "name": "Tanzania vs. Nigeria",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 8",
-            "poster": "https://static.ppvservices.st/assets/thumb/a7767df8ababe2752c979d1bb2174f70-thumbnail.jpg",
-            "blurhash": "L65i~9DMSv-:k8a_bHbJ00.4s=E0",
-            "colors": [
-              "#0134a1",
-              "#008651"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/tan-nga",
-            "starts_at": 1794920400,
-            "ends_at": 1794929400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/tan-nga",
-            "substreams": [
-              {
-                "id": 1032529,
-                "name": "Tanzania vs. Nigeria",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/tan-nga_540p",
-                "source_tag": "SD | beIN SPORTS 8",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/tan-nga_540p"
-              }
-            ],
-            "viewers": "97",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32530,
-            "name": "Gambia vs. Ivory Coast",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 7",
-            "poster": "https://static.ppvservices.st/assets/thumb/e09e4f496940da2934e66a7b243e4c7d-thumbnail.jpg",
-            "blurhash": "L4Io9205Ol_1+|wLfkOW00~mxID%",
-            "colors": [
-              "#c7102e",
-              "#ff8201"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/gam-civ",
-            "starts_at": 1794931200,
-            "ends_at": 1794940200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/gam-civ",
-            "substreams": [
-              {
-                "id": 1032530,
-                "name": "Gambia vs. Ivory Coast",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/gam-civ_540p",
-                "source_tag": "SD | beIN SPORTS 7",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/gam-civ_540p"
-              }
-            ],
-            "viewers": "5",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32531,
-            "name": "Guinea-Bissau vs. Madagascar",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 6",
-            "poster": "https://static.ppvservices.st/assets/thumb/e0297c62c720a6dc226818449c065a34-thumbnail.jpg",
-            "blurhash": "L5J#1fEIUx-H-7btagRT00s[pvJ1",
-            "colors": [
-              "#ee3441",
-              "#f9423a"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/gnb-mad",
-            "starts_at": 1794931200,
-            "ends_at": 1794940200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/gnb-mad",
-            "substreams": [
-              {
-                "id": 1032531,
-                "name": "Guinea-Bissau vs. Madagascar",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/gnb-mad_540p",
-                "source_tag": "SD | beIN SPORTS 6",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/gnb-mad_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32532,
-            "name": "Kenya vs. South Africa",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 8",
-            "poster": "https://static.ppvservices.st/assets/thumb/9bb4df24b63bdbc57eda57bd70721a53-thumbnail.jpg",
-            "blurhash": "L4HvY902%;x]$MR-oKoJ00~nN3$]",
-            "colors": [
-              "#bb0102",
-              "#feb71d"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/ken-rsa",
-            "starts_at": 1794931200,
-            "ends_at": 1794940200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/ken-rsa",
-            "substreams": [
-              {
-                "id": 1032532,
-                "name": "Kenya vs. South Africa",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/ken-rsa_540p",
-                "source_tag": "SD | beIN SPORTS 8",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/ken-rsa_540p"
-              }
-            ],
-            "viewers": "5",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32533,
-            "name": "Libya vs. Tunisia",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 4",
-            "poster": "https://static.ppvservices.st/assets/thumb/e61daa8ee9e9ed443489a5e9872f9db3-thumbnail.jpg",
-            "blurhash": "L6I0[8InnO}a#nr@fkX70L^7XS1G",
-            "colors": [
-              "#e70103",
-              "#d00300"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/lby-tun",
-            "starts_at": 1794931200,
-            "ends_at": 1794940200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/lby-tun",
-            "substreams": [
-              {
-                "id": 1032533,
-                "name": "Libya vs. Tunisia",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/lby-tun_540p",
-                "source_tag": "SD | beIN SPORTS 4",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/lby-tun_540p"
-              }
-            ],
-            "viewers": "2",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32534,
-            "name": "Sierra Leone vs. Congo DR",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 3",
-            "poster": "https://static.ppvservices.st/assets/thumb/4adbcfe9392a61664c63d62051279444-thumbnail.jpg",
-            "blurhash": "L973:%c]S9RRkRbXjZa$00Q|sktA",
-            "colors": [
-              "#1eb439",
-              "#428fdf"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/sle-cod",
-            "starts_at": 1794931200,
-            "ends_at": 1794940200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/sle-cod",
-            "substreams": [
-              {
-                "id": 1032534,
-                "name": "Sierra Leone vs. Congo DR",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/sle-cod_540p",
-                "source_tag": "SD | beIN SPORTS 3",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/sle-cod_540p"
-              }
-            ],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32535,
-            "name": "Togo vs. Algeria",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 5",
-            "poster": "https://static.ppvservices.st/assets/thumb/7ea5e7ab8a22ee23d917e3a00a42fab2-thumbnail.jpg",
-            "blurhash": "L58=[L9E-WN6spnkn+bG00yGEd$[",
-            "colors": [
-              "#189255",
-              "#4e9944"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/tog-alg",
-            "starts_at": 1794931200,
-            "ends_at": 1794940200,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/tog-alg",
-            "substreams": [
-              {
-                "id": 1032535,
-                "name": "Togo vs. Algeria",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/tog-alg_540p",
-                "source_tag": "SD | beIN SPORTS 5",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/tog-alg_540p"
-              }
-            ],
-            "viewers": "2",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32536,
-            "name": "Botswana vs. Uganda",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 5",
-            "poster": "https://static.ppvservices.st/assets/thumb/b931cfe6b306276977c5bf9cec084c59-thumbnail.jpg",
-            "blurhash": "LhEMp~1Bw~s8fkfRfQa|9G$cWUkA",
-            "colors": [
-              "#0098fd",
-              "#fbdc05"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/bot-uga",
-            "starts_at": 1794942000,
-            "ends_at": 1794951000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/bot-uga",
-            "substreams": [
-              {
-                "id": 1032536,
-                "name": "Botswana vs. Uganda",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/bot-uga_540p",
-                "source_tag": "SD | beIN SPORTS 5",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/bot-uga_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32537,
-            "name": "Congo vs. Comoros",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 4",
-            "poster": "https://static.ppvservices.st/assets/thumb/7e72cb3b7db2776bf3daa53ed1bc6adb-thumbnail.jpg",
-            "blurhash": "LND[IC{4t3OYocWXfQo00gOrf8oH",
-            "colors": [
-              "#d50133",
-              "#3e8f33"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/cgo-com",
-            "starts_at": 1794942000,
-            "ends_at": 1794951000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/cgo-com",
-            "substreams": [
-              {
-                "id": 1032537,
-                "name": "Congo vs. Comoros",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/cgo-com_540p",
-                "source_tag": "SD | beIN SPORTS 4",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/cgo-com_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32538,
-            "name": "Liberia vs. Cape Verde",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 7",
-            "poster": "https://static.ppvservices.st/assets/thumb/d50cc4b6cc006e52a0a6244bd5042c84-thumbnail.jpg",
-            "blurhash": "L37T;d}{E20%R-j?WVWC000:%L}?",
-            "colors": [
-              "#002059",
-              "#00007e"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/lbr-cpv",
-            "starts_at": 1794942000,
-            "ends_at": 1794951000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/lbr-cpv",
-            "substreams": [
-              {
-                "id": 1032538,
-                "name": "Liberia vs. Cape Verde",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/lbr-cpv_540p",
-                "source_tag": "SD | beIN SPORTS 7",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/lbr-cpv_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32539,
-            "name": "Mauritania vs. Burkina Faso",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 3",
-            "poster": "https://static.ppvservices.st/assets/thumb/be155a0e73bfe3be85c48f396be82460-thumbnail.jpg",
-            "blurhash": "L2579Z4SIo_l,rK3j[#o00_k%23-",
-            "colors": [
-              "#02843e",
-              "#028002"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/mtn-bka",
-            "starts_at": 1794942000,
-            "ends_at": 1794951000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/mtn-bka",
-            "substreams": [
-              {
-                "id": 1032539,
-                "name": "Mauritania vs. Burkina Faso",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/mtn-bka_540p",
-                "source_tag": "SD | beIN SPORTS 3",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/mtn-bka_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32540,
-            "name": "Rwanda vs. Mali",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 6",
-            "poster": "https://static.ppvservices.st/assets/thumb/2bceacaba35a33345b817c48ed8f800c-thumbnail.jpg",
-            "blurhash": "LNDKUo};#-t1j]fRfRj?4XRjSzNM",
-            "colors": [
-              "#e1e202",
-              "#14b43a"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/rwa-mli",
-            "starts_at": 1794942000,
-            "ends_at": 1794951000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/rwa-mli",
-            "substreams": [
-              {
-                "id": 1032540,
-                "name": "Rwanda vs. Mali",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/rwa-mli_540p",
-                "source_tag": "SD | beIN SPORTS 6",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/rwa-mli_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32516,
-            "name": "Bosnia-Herzegovina vs. Romania",
-            "tag": "UEFA Nations League",
-            "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/0679f7927bcc855a5e0d95e2130a8dd4-thumbnail.jpg",
-            "blurhash": "LBEek{0F^Js,s-j?ayWX02}*I[$|",
-            "colors": [
-              "#112854",
-              "#fdd118"
-            ],
-            "uri_name": "uefa-nations-league/2026-11-17/bih-rou",
-            "starts_at": 1794944700,
-            "ends_at": 1794953700,
-            "always_live": 0,
-            "locale": "en-ca",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-17/bih-rou",
-            "substreams": [
-              {
-                "id": 1032516,
-                "name": "Bosnia-Herzegovina vs. Romania",
-                "tag": "UEFA Nations League",
-                "uri_name": "uefa-nations-league/2026-11-17/bih-rou_540p",
-                "source_tag": "SD | DAZN",
-                "locale": "en-ca",
-                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-17/bih-rou_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32517,
-            "name": "Denmark vs. Norway",
-            "tag": "UEFA Nations League",
-            "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/7df59e50835410d354a6e0a6ef0da87f-thumbnail.jpg",
-            "blurhash": "L1Hb7J~W{2r^-BfjWBjt00IA3oX4",
-            "colors": [
-              "#d02a3e",
-              "#c7102e"
-            ],
-            "uri_name": "uefa-nations-league/2026-11-17/den-nor",
-            "starts_at": 1794944700,
-            "ends_at": 1794953700,
-            "always_live": 0,
-            "locale": "en-ca",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-17/den-nor",
-            "substreams": [
-              {
-                "id": 1032517,
-                "name": "Denmark vs. Norway",
-                "tag": "UEFA Nations League",
-                "uri_name": "uefa-nations-league/2026-11-17/den-nor_540p",
-                "source_tag": "SD | DAZN",
-                "locale": "en-ca",
-                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-17/den-nor_540p"
-              }
-            ],
-            "viewers": "3",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32518,
-            "name": "Hungary vs. Northern Ireland",
-            "tag": "UEFA Nations League",
-            "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/78273b0e964d2ff2097e61b2f1cfeff6-thumbnail.jpg",
-            "blurhash": "L1H8]R9@{1}^[]#TWBKN00^S7|0x",
-            "colors": [
-              "#ce2029",
-              "#cc0001"
-            ],
-            "uri_name": "uefa-nations-league/2026-11-17/hun-nir",
-            "starts_at": 1794944700,
-            "ends_at": 1794953700,
-            "always_live": 0,
-            "locale": "en-ca",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-17/hun-nir",
-            "substreams": [
-              {
-                "id": 1032518,
-                "name": "Hungary vs. Northern Ireland",
-                "tag": "UEFA Nations League",
-                "uri_name": "uefa-nations-league/2026-11-17/hun-nir_540p",
-                "source_tag": "SD | DAZN",
-                "locale": "en-ca",
-                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-17/hun-nir_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32519,
-            "name": "Israel vs. Austria",
-            "tag": "UEFA Nations League",
-            "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/fa3072f727127332f4f4f55c9422905d-thumbnail.jpg",
-            "blurhash": "LFEKm83ZwOv}oMa}ayfQ00+tSwoy",
-            "colors": [
-              "#2f50a1",
-              "#d52b2c"
-            ],
-            "uri_name": "uefa-nations-league/2026-11-17/isr-aut",
-            "starts_at": 1794944700,
-            "ends_at": 1794953700,
-            "always_live": 0,
-            "locale": "en-ca",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-17/isr-aut",
-            "substreams": [
-              {
-                "id": 1032519,
-                "name": "Israel vs. Austria",
-                "tag": "UEFA Nations League",
-                "uri_name": "uefa-nations-league/2026-11-17/isr-aut_540p",
-                "source_tag": "SD | DAZN",
-                "locale": "en-ca",
-                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-17/isr-aut_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32520,
-            "name": "Poland vs. Sweden",
-            "tag": "UEFA Nations League",
-            "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/4a4d549243ea2d9be420492b53f517d9-thumbnail.jpg",
-            "blurhash": "LcKT#YyGt9S2ofj]fQay0LRiR%r=",
-            "colors": [
-              "#ffffff",
-              "#fecb02"
-            ],
-            "uri_name": "uefa-nations-league/2026-11-17/pol-swe",
-            "starts_at": 1794944700,
-            "ends_at": 1794953700,
-            "always_live": 0,
-            "locale": "en-ca",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-17/pol-swe",
-            "substreams": [
-              {
-                "id": 1032520,
-                "name": "Poland vs. Sweden",
-                "tag": "UEFA Nations League",
-                "uri_name": "uefa-nations-league/2026-11-17/pol-swe_540p",
-                "source_tag": "SD | DAZN",
-                "locale": "en-ca",
-                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-17/pol-swe_540p"
-              }
-            ],
-            "viewers": "1",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32521,
-            "name": "Republic of Ireland vs. Kosovo",
-            "tag": "UEFA Nations League",
-            "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/1f62d310a7a90d355de03a7031c4f900-thumbnail.jpg",
-            "blurhash": "LH6]08*1O=ENj]j?aza|4mIJwJ-C",
-            "colors": [
-              "#049962",
-              "#0000cc"
-            ],
-            "uri_name": "uefa-nations-league/2026-11-17/irl-kos",
-            "starts_at": 1794944700,
-            "ends_at": 1794953700,
-            "always_live": 0,
-            "locale": "en-ca",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-17/irl-kos",
-            "substreams": [
-              {
-                "id": 1032521,
-                "name": "Republic of Ireland vs. Kosovo",
-                "tag": "UEFA Nations League",
-                "uri_name": "uefa-nations-league/2026-11-17/irl-kos_540p",
-                "source_tag": "SD | DAZN",
-                "locale": "en-ca",
-                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-17/irl-kos_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32522,
-            "name": "Ukraine vs. Georgia",
-            "tag": "UEFA Nations League",
-            "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/d032fdb3f00c1032e6fe710c0fd1a960-thumbnail.jpg",
-            "blurhash": "L9Kn3GHX-t-CWsR.a|s+00%QIUJ;",
-            "colors": [
-              "#fddc01",
-              "#ffffff"
-            ],
-            "uri_name": "uefa-nations-league/2026-11-17/ukr-geo",
-            "starts_at": 1794944700,
-            "ends_at": 1794953700,
-            "always_live": 0,
-            "locale": "en-ca",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-17/ukr-geo",
-            "substreams": [
-              {
-                "id": 1032522,
-                "name": "Ukraine vs. Georgia",
-                "tag": "UEFA Nations League",
-                "uri_name": "uefa-nations-league/2026-11-17/ukr-geo_540p",
-                "source_tag": "SD | DAZN",
-                "locale": "en-ca",
-                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-17/ukr-geo_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32523,
-            "name": "Wales vs. Portugal",
-            "tag": "UEFA Nations League",
-            "source_tag": "HD | DAZN",
-            "poster": "https://static.ppvservices.st/assets/thumb/2bd6191bdf5d219be11417274621ab09-thumbnail.jpg",
-            "blurhash": "L3I1v5?b{MMJ=zxbafNF00m83Ut,",
-            "colors": [
-              "#e70103",
-              "#d9291c"
-            ],
-            "uri_name": "uefa-nations-league/2026-11-17/wal-por",
-            "starts_at": 1794944700,
-            "ends_at": 1794953700,
-            "always_live": 0,
-            "locale": "en-ca",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-17/wal-por",
-            "substreams": [
-              {
-                "id": 1032523,
-                "name": "Wales vs. Portugal",
-                "tag": "UEFA Nations League",
-                "uri_name": "uefa-nations-league/2026-11-17/wal-por_540p",
-                "source_tag": "SD | DAZN",
-                "locale": "en-ca",
-                "iframe": "https://taifood-blog.asia/embed/uefa-nations-league/2026-11-17/wal-por_540p"
-              }
-            ],
-            "viewers": "2",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
-            "id": 32541,
-            "name": "Niger vs. Morocco",
-            "tag": "AFCON Qualifying",
-            "source_tag": "HD | beIN SPORTS 8",
-            "poster": "https://static.ppvservices.st/assets/thumb/fa0b0ba49d061f4e6896de2ba5404138-thumbnail.jpg",
-            "blurhash": "L7IndeUWnhv4$PsofkS201qcXSTw",
-            "colors": [
-              "#df5107",
-              "#df2228"
-            ],
-            "uri_name": "afcon-qualifying/2026-11-17/nig-mar",
-            "starts_at": 1794945600,
-            "ends_at": 1794954600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/nig-mar",
-            "substreams": [
-              {
-                "id": 1032541,
-                "name": "Niger vs. Morocco",
-                "tag": "AFCON Qualifying",
-                "uri_name": "afcon-qualifying/2026-11-17/nig-mar_540p",
-                "source_tag": "SD | beIN SPORTS 8",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/afcon-qualifying/2026-11-17/nig-mar_540p"
-              }
-            ],
-            "viewers": "0",
-            "m3u8": null,
-            "m3u8_status": "not_found"
-          },
-          {
             "id": 32542,
             "name": "United States vs. Haiti",
             "tag": "Concacaf Nations League",
@@ -3931,7 +3007,40 @@
                 "iframe": "https://taifood-blog.asia/embed/concacaf-nations-league/2026-11-18/usa-hai_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "915",
+            "m3u8": null,
+            "m3u8_status": "not_found"
+          },
+          {
+            "id": 32544,
+            "name": "Mexico vs. Jamaica",
+            "tag": "Concacaf Nations League",
+            "source_tag": "HD | TUDN",
+            "poster": "https://static.ppvservices.st/assets/thumb/395c6f876afb5b92810a51126457c6d9-thumbnail.jpg",
+            "blurhash": "L28FDA4lAUL6oya#j[bF00%l=f+U",
+            "colors": [
+              "#016948",
+              "#358b44"
+            ],
+            "uri_name": "concacaf-nations-league/2026-11-18/mex-jam",
+            "starts_at": 1794969000,
+            "ends_at": 1794978000,
+            "always_live": 0,
+            "locale": "es",
+            "category_name": "Football",
+            "iframe": "https://taifood-blog.asia/embed/concacaf-nations-league/2026-11-18/mex-jam",
+            "substreams": [
+              {
+                "id": 1032544,
+                "name": "Mexico vs. Jamaica",
+                "tag": "Concacaf Nations League",
+                "uri_name": "concacaf-nations-league/2026-11-18/mex-jam_540p",
+                "source_tag": "SD | TUDN",
+                "locale": "es",
+                "iframe": "https://taifood-blog.asia/embed/concacaf-nations-league/2026-11-18/mex-jam_540p"
+              }
+            ],
+            "viewers": "5",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -6578,7 +5687,7 @@
                 "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059_540p"
               }
             ],
-            "viewers": "8",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -6618,7 +5727,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl-network-29780_540p"
               }
             ],
-            "viewers": "4",
+            "viewers": "10",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -6651,7 +5760,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-17/la-bos_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "218",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -6684,7 +5793,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-17/edm-fla_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "525",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -6717,7 +5826,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-17/cbj-nyi_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "58",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -6750,7 +5859,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-17/buf-phi_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "93",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -6783,7 +5892,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-17/ott-wpg_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "281",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -6816,7 +5925,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-17/wsh-tb_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "18",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -6849,7 +5958,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-17/tor-chi_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "100",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -6915,7 +6024,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-17/nsh-min_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -6981,7 +6090,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-17/cgy-sj_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -7913,7 +7022,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-league_540p"
               }
             ],
-            "viewers": "2",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -7953,7 +7062,7 @@
                 "iframe": "https://taifood-blog.asia/embed/tennis-channel_540p"
               }
             ],
-            "viewers": "25",
+            "viewers": "10",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -7986,7 +7095,7 @@
                 "iframe": "https://taifood-blog.asia/embed/sky-sports-tennis-32479_540p"
               }
             ],
-            "viewers": "12",
+            "viewers": "6",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -8026,7 +7135,7 @@
                 "iframe": "https://taifood-blog.asia/embed/wwe/2026-11-17_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -8231,7 +7340,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-cows_540p"
               }
             ],
-            "viewers": "0",
+            "viewers": "1",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -8264,7 +7373,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-family-guy_540p"
               }
             ],
-            "viewers": "21",
+            "viewers": "26",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -8297,7 +7406,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-the-simpsons_540p"
               }
             ],
-            "viewers": "2",
+            "viewers": "3",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -8330,7 +7439,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-spongebob-squarepants_540p"
               }
             ],
-            "viewers": "10",
+            "viewers": "2",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -8419,7 +7528,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cnn-31729_540p"
               }
             ],
-            "viewers": "3",
+            "viewers": "7",
             "m3u8": null,
             "m3u8_status": "not_found"
           },
@@ -8452,7 +7561,7 @@
                 "iframe": "https://taifood-blog.asia/embed/fox-news-31730_540p"
               }
             ],
-            "viewers": "3",
+            "viewers": "8",
             "m3u8": null,
             "m3u8_status": "not_found"
           }
@@ -8461,11 +7570,11 @@
     ]
   },
   "m3u8_metadata": {
-    "extracted_at": "2026-11-17T15:36:20.708443+00:00",
+    "extracted_at": "2026-11-18T00:35:24.180721+00:00",
     "source_file": "events.json",
-    "total_streams": 223,
+    "total_streams": 196,
     "found": 0,
-    "not_found": 223,
+    "not_found": 196,
     "methods": "HTTP HTML + nested iframe + browser network + performance + page data + nested frames"
   }
 }
