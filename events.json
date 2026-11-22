@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-22T13:57:02.237684+00:00",
+    "fetched_at": "2026-11-22T23:08:18.453071+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1795355830,
+    "timestamp": 1795388900,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.05498099327087402,
+    "performance": 0.05537104606628418,
     "streams": [
       {
         "category": "American Football",
@@ -44,224 +44,38 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl-network_540p"
               }
             ],
-            "viewers": "17"
+            "viewers": "28"
           },
           {
-            "id": 32265,
-            "name": "Miami Dolphins at Buffalo Bills",
+            "id": 32681,
+            "name": "NFL RedZone",
             "tag": "NFL",
-            "source_tag": "HD | CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/8ef336a0c50ee1242249738c0d17507a-thumbnail.jpg",
-            "blurhash": "LB6v42y.I.Mzj]bGj[f600Q;xuxa",
+            "source_tag": "HD | NFL RedZone",
+            "poster": "https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg",
+            "blurhash": "LNPnht|_0e,@i_f6oKaeQmj[pcfk",
             "colors": [
-              "#008e97",
-              "#00338d"
+              "#e12424",
+              "#921717"
             ],
-            "uri_name": "nfl/2026-11-22/mia-buf",
+            "uri_name": "nfl-redzone-32681",
             "starts_at": 1795370400,
-            "ends_at": 1795384800,
+            "ends_at": 1795395600,
             "always_live": 0,
             "locale": "en",
             "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/mia-buf",
+            "iframe": "https://taifood-blog.asia/embed/nfl-redzone-32681",
             "substreams": [
               {
-                "id": 1032265,
-                "name": "Miami Dolphins at Buffalo Bills",
+                "id": 1032681,
+                "name": "NFL RedZone",
                 "tag": "NFL",
-                "uri_name": "nfl/2026-11-22/mia-buf_540p",
-                "source_tag": "SD | CBS",
+                "uri_name": "nfl-redzone-32681_540p",
+                "source_tag": "SD | NFL RedZone",
                 "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/mia-buf_540p"
+                "iframe": "https://taifood-blog.asia/embed/nfl-redzone-32681_540p"
               }
             ],
-            "viewers": "1"
-          },
-          {
-            "id": 32266,
-            "name": "New Orleans Saints at Chicago Bears",
-            "tag": "NFL",
-            "source_tag": "HD | Fox",
-            "poster": "https://static.ppvservices.st/assets/thumb/12892e0e45d80e9a14591d9df7eeeb39-thumbnail.jpg",
-            "blurhash": "LLDIq2~nxVr?soW:fjo10fMzf,Nu",
-            "colors": [
-              "#d3bc8d",
-              "#0b162a"
-            ],
-            "uri_name": "nfl/2026-11-22/no-chi",
-            "starts_at": 1795370400,
-            "ends_at": 1795384800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/no-chi",
-            "substreams": [
-              {
-                "id": 1032266,
-                "name": "New Orleans Saints at Chicago Bears",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-22/no-chi_540p",
-                "source_tag": "SD | Fox",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/no-chi_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32268,
-            "name": "Tennessee Titans at Dallas Cowboys",
-            "tag": "NFL",
-            "source_tag": "HD | Fox",
-            "poster": "https://static.ppvservices.st/assets/thumb/960a647ff5f1033a6178a97b832d1ba4-thumbnail.jpg",
-            "blurhash": "LL8r65.TR*M{a}j[jtay8^Mwt6xa",
-            "colors": [
-              "#4b92db",
-              "#003594"
-            ],
-            "uri_name": "nfl/2026-11-22/ten-dal",
-            "starts_at": 1795370400,
-            "ends_at": 1795384800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/ten-dal",
-            "substreams": [
-              {
-                "id": 1032268,
-                "name": "Tennessee Titans at Dallas Cowboys",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-22/ten-dal_540p",
-                "source_tag": "SD | Fox",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/ten-dal_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32271,
-            "name": "Tampa Bay Buccaneers at Detroit Lions",
-            "tag": "NFL",
-            "source_tag": "HD | Fox",
-            "poster": "https://static.ppvservices.st/assets/thumb/924ba5beb568852d851d2c1761758086-thumbnail.jpg",
-            "blurhash": "LRCOkS{IwNX9j[jtj[ay9YKQbbax",
-            "colors": [
-              "#d50a0a",
-              "#0076b6"
-            ],
-            "uri_name": "nfl/2026-11-22/tb-det",
-            "starts_at": 1795370400,
-            "ends_at": 1795384800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/tb-det",
-            "substreams": [
-              {
-                "id": 1032271,
-                "name": "Tampa Bay Buccaneers at Detroit Lions",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-22/tb-det_540p",
-                "source_tag": "SD | Fox",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/tb-det_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32273,
-            "name": "Arizona Cardinals at Kansas City Chiefs",
-            "tag": "NFL",
-            "source_tag": "HD | CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/b50b17f2132692023271eb950da8e298-thumbnail.jpg",
-            "blurhash": "L6GY$v0yQ-?vsVfkkCj[00~CyDMJ",
-            "colors": [
-              "#97233f",
-              "#e31837"
-            ],
-            "uri_name": "nfl/2026-11-22/ari-kc",
-            "starts_at": 1795370400,
-            "ends_at": 1795384800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/ari-kc",
-            "substreams": [
-              {
-                "id": 1032273,
-                "name": "Arizona Cardinals at Kansas City Chiefs",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-22/ari-kc_540p",
-                "source_tag": "SD | CBS",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/ari-kc_540p"
-              }
-            ],
-            "viewers": "1"
-          },
-          {
-            "id": 32275,
-            "name": "Pittsburgh Steelers at Philadelphia Eagles",
-            "tag": "NFL",
-            "source_tag": "HD | CBS",
-            "poster": "https://static.ppvservices.st/assets/thumb/09d7e86837e0009177066376f3bff538-thumbnail.jpg",
-            "blurhash": "LgE{2o}=wcRij[jsj[az9FIpbbf,",
-            "colors": [
-              "#ffb612",
-              "#004c54"
-            ],
-            "uri_name": "nfl/2026-11-22/pit-phi",
-            "starts_at": 1795370400,
-            "ends_at": 1795384800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/pit-phi",
-            "substreams": [
-              {
-                "id": 1032275,
-                "name": "Pittsburgh Steelers at Philadelphia Eagles",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-22/pit-phi_540p",
-                "source_tag": "SD | CBS",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/pit-phi_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32276,
-            "name": "Baltimore Ravens at Carolina Panthers",
-            "tag": "NFL",
-            "source_tag": "HD | Fox",
-            "poster": "https://static.ppvservices.st/assets/thumb/244be1edbd14d25dd29a536c32018542-thumbnail.jpg",
-            "blurhash": "L34y$*?_9tESkDj?j@a#00Gd?H-;",
-            "colors": [
-              "#241773",
-              "#0085ca"
-            ],
-            "uri_name": "nfl/2026-11-22/bal-car",
-            "starts_at": 1795370400,
-            "ends_at": 1795384800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "American Football",
-            "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/bal-car",
-            "substreams": [
-              {
-                "id": 1032276,
-                "name": "Baltimore Ravens at Carolina Panthers",
-                "tag": "NFL",
-                "uri_name": "nfl/2026-11-22/bal-car_540p",
-                "source_tag": "SD | Fox",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/bal-car_540p"
-              }
-            ],
-            "viewers": "1"
+            "viewers": "5622"
           },
           {
             "id": 32279,
@@ -292,7 +106,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/nyj-lac_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "1773"
           },
           {
             "id": 32280,
@@ -323,7 +137,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/lv-den_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "2884"
           },
           {
             "id": 32281,
@@ -354,7 +168,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/jax-nyg_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "3732"
           },
           {
             "id": 32282,
@@ -385,7 +199,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-22/min-sf_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "10"
           },
           {
             "id": 32283,
@@ -454,7 +268,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-footy_540p"
               }
             ],
-            "viewers": "2"
+            "viewers": "4"
           }
         ]
       },
@@ -463,37 +277,6 @@
         "id": 37,
         "always_live": false,
         "streams": [
-          {
-            "id": 32639,
-            "name": "Nebraska Cornhuskers at Butler Bulldogs",
-            "tag": "College Basketball",
-            "source_tag": "HD | FS1",
-            "poster": "https://static.ppvservices.st/assets/thumb/ce1d60b4d9455afa887087f44ca8306f-thumbnail.jpg",
-            "blurhash": "LUFWeR{LwKcEoLf6fQj[0xO?X7RP",
-            "colors": [
-              "#e31937",
-              "#0d1361"
-            ],
-            "uri_name": "cbb/2026-11-22/neb-btlr",
-            "starts_at": 1795366800,
-            "ends_at": 1795377600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-22/neb-btlr",
-            "substreams": [
-              {
-                "id": 1032639,
-                "name": "Nebraska Cornhuskers at Butler Bulldogs",
-                "tag": "College Basketball",
-                "uri_name": "cbb/2026-11-22/neb-btlr_540p",
-                "source_tag": "SD | FS1",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-22/neb-btlr_540p"
-              }
-            ],
-            "viewers": "0"
-          },
           {
             "id": 32628,
             "name": "Detroit Pistons vs. Atlanta Hawks",
@@ -523,7 +306,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-22/det-atl_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "570"
           },
           {
             "id": 32629,
@@ -572,7 +355,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-22/okc-mia/away_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "979"
           },
           {
             "id": 32631,
@@ -634,7 +417,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-22/den-chi_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "3"
           },
           {
             "id": 32633,
@@ -683,7 +466,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-22/dal-utah/away_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 32635,
@@ -732,7 +515,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-22/ind-ny/away_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "3"
           },
           {
             "id": 32637,
@@ -763,7 +546,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-22/bos-gs_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "2"
           },
           {
             "id": 32658,
@@ -1345,7 +1128,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports_540p"
               }
             ],
-            "viewers": "301"
+            "viewers": "272"
           },
           {
             "id": 27496,
@@ -1376,7 +1159,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-cricket_540p"
               }
             ],
-            "viewers": "15"
+            "viewers": "10"
           }
         ]
       },
@@ -1386,41 +1169,10 @@
         "always_live": false,
         "streams": [
           {
-            "id": 32259,
-            "name": "Grand Slam of Darts | Day 9, Session 1",
-            "tag": "PDC Darts",
-            "source_tag": "HD | PDC.TV",
-            "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
-            "blurhash": "LeDe-5?@ovD7kpa1k-VdEJJ#bEwP",
-            "colors": [
-              "#20422a",
-              "#78ff87"
-            ],
-            "uri_name": "grand-slam-of-darts--day-9-session-1-32259",
-            "starts_at": 1795348800,
-            "ends_at": 1795366800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Darts",
-            "iframe": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-9-session-1-32259",
-            "substreams": [
-              {
-                "id": 1032259,
-                "name": "Grand Slam of Darts | Day 9, Session 1",
-                "tag": "PDC Darts",
-                "uri_name": "grand-slam-of-darts--day-9-session-1-32259_540p",
-                "source_tag": "SD | PDC.TV",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-9-session-1-32259_540p"
-              }
-            ],
-            "viewers": "635"
-          },
-          {
             "id": 32260,
             "name": "Grand Slam of Darts | Day 9, Session 2",
             "tag": "PDC Darts",
-            "source_tag": "HD | PDC.TV",
+            "source_tag": "HD | Sky Sports Main Event",
             "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
             "blurhash": "LeDe-5?@ovD7kpa1k-VdEJJ#bEwP",
             "colors": [
@@ -1440,12 +1192,12 @@
                 "name": "Grand Slam of Darts | Day 9, Session 2",
                 "tag": "PDC Darts",
                 "uri_name": "grand-slam-of-darts--day-9-session-2-32260_540p",
-                "source_tag": "SD | PDC.TV",
+                "source_tag": "SD | Sky Sports Main Event",
                 "locale": "en",
                 "iframe": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-9-session-2-32260_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "37"
           }
         ]
       },
@@ -1454,688 +1206,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 32357,
-            "name": "Juventus vs. Venezia",
-            "tag": "Serie A",
-            "source_tag": "HD | Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/191431447e73bdde9e1c2cab0566e882-thumbnail.jpg",
-            "blurhash": "L77dzj%h4TI9t7kCaxae00Mw_4x^",
-            "colors": [
-              "#000000",
-              "#000000"
-            ],
-            "uri_name": "seriea/2026-11-22/juv-ven",
-            "starts_at": 1795347000,
-            "ends_at": 1795356000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/seriea/2026-11-22/juv-ven",
-            "substreams": [
-              {
-                "id": 1032357,
-                "name": "Juventus vs. Venezia",
-                "tag": "Serie A",
-                "uri_name": "seriea/2026-11-22/juv-ven_540p",
-                "source_tag": "SD | Paramount+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/seriea/2026-11-22/juv-ven_540p"
-              }
-            ],
-            "viewers": "112"
-          },
-          {
-            "id": 32329,
-            "name": "Barcelona vs. Villarreal",
-            "tag": "LaLiga",
-            "source_tag": "HD | ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/4747fd4590bc916f5e78a33ae81930a2-thumbnail.jpg",
-            "blurhash": "L3HJvo0GuAI[-lspayR+00_Bo7^[",
-            "colors": [
-              "#a50044",
-              "#f4c300"
-            ],
-            "uri_name": "laliga/2026-11-22/bar-vil",
-            "starts_at": 1795352400,
-            "ends_at": 1795361400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/laliga/2026-11-22/bar-vil",
-            "substreams": [
-              {
-                "id": 1032329,
-                "name": "Barcelona vs. Villarreal",
-                "tag": "LaLiga",
-                "uri_name": "laliga/2026-11-22/bar-vil_540p",
-                "source_tag": "SD | ESPN+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/laliga/2026-11-22/bar-vil_540p"
-              }
-            ],
-            "viewers": "8190"
-          },
-          {
-            "id": 32398,
-            "name": "BK Häcken vs. IF Elfsborg",
-            "tag": "Allsvenskan",
-            "source_tag": "HD | TV4 Sport Live 2",
-            "poster": "https://static.ppvservices.st/assets/thumb/7b1e805bc0bae7fcbbd73b5a47b2d15a-thumbnail.jpg",
-            "blurhash": "L9K0#y*Fs7Mxs;WFWBf401IBSQxu",
-            "colors": [
-              "#ffe000",
-              "#ffc72c"
-            ],
-            "uri_name": "allsvenskan/2026-11-22/bkh-elf",
-            "starts_at": 1795352400,
-            "ends_at": 1795361400,
-            "always_live": 0,
-            "locale": "sv",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/allsvenskan/2026-11-22/bkh-elf",
-            "substreams": [
-              {
-                "id": 1032398,
-                "name": "BK Häcken vs. IF Elfsborg",
-                "tag": "Allsvenskan",
-                "uri_name": "allsvenskan/2026-11-22/bkh-elf_540p",
-                "source_tag": "SD | TV4 Sport Live 2",
-                "locale": "sv",
-                "iframe": "https://taifood-blog.asia/embed/allsvenskan/2026-11-22/bkh-elf_540p"
-              }
-            ],
-            "viewers": "23"
-          },
-          {
-            "id": 32399,
-            "name": "IK Sirius vs. Djurgården",
-            "tag": "Allsvenskan",
-            "source_tag": "HD | TV4 Fotboll",
-            "poster": "https://static.ppvservices.st/assets/thumb/0d2940c93b46311132f2c1b48e3aff3a-thumbnail.jpg",
-            "blurhash": "L26ue+Mv03z.-nozayWA00,B~UGI",
-            "colors": [
-              "#0b3d91",
-              "#1d5caa"
-            ],
-            "uri_name": "allsvenskan/2026-11-22/sir-dju",
-            "starts_at": 1795352400,
-            "ends_at": 1795361400,
-            "always_live": 0,
-            "locale": "sv",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/allsvenskan/2026-11-22/sir-dju",
-            "substreams": [
-              {
-                "id": 1032399,
-                "name": "IK Sirius vs. Djurgården",
-                "tag": "Allsvenskan",
-                "uri_name": "allsvenskan/2026-11-22/sir-dju_540p",
-                "source_tag": "SD | TV4 Fotboll",
-                "locale": "sv",
-                "iframe": "https://taifood-blog.asia/embed/allsvenskan/2026-11-22/sir-dju_540p"
-              }
-            ],
-            "viewers": "359"
-          },
-          {
-            "id": 32392,
-            "name": "Ajax Amsterdam vs. ADO Den Haag",
-            "tag": "Eredivisie",
-            "source_tag": "HD | ESPN3",
-            "poster": "https://static.ppvservices.st/assets/thumb/d3710adf62c3f822a8bf4c798412f900-thumbnail.jpg",
-            "blurhash": "LQDSH+{.r=V=s:azfQoK02I-kDXT",
-            "colors": [
-              "#d2122e",
-              "#007a33"
-            ],
-            "uri_name": "eredivisie/2026-11-22/aja-ado",
-            "starts_at": 1795354200,
-            "ends_at": 1795363200,
-            "always_live": 0,
-            "locale": "nl",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/eredivisie/2026-11-22/aja-ado",
-            "substreams": [
-              {
-                "id": 1032392,
-                "name": "Ajax Amsterdam vs. ADO Den Haag",
-                "tag": "Eredivisie",
-                "uri_name": "eredivisie/2026-11-22/aja-ado_540p",
-                "source_tag": "SD | ESPN3",
-                "locale": "nl",
-                "iframe": "https://taifood-blog.asia/embed/eredivisie/2026-11-22/aja-ado_540p"
-              }
-            ],
-            "viewers": "454"
-          },
-          {
-            "id": 32393,
-            "name": "Sparta Rotterdam vs. AZ Alkmaar",
-            "tag": "Eredivisie",
-            "source_tag": "HD | ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/f39d97481c05191479729385b9d2d902-thumbnail.jpg",
-            "blurhash": "LBHlrcHWiw8_sVkCf6WB00Hskq?b",
-            "colors": [
-              "#af1e2d",
-              "#e4002b"
-            ],
-            "uri_name": "eredivisie/2026-11-22/spa-az",
-            "starts_at": 1795354200,
-            "ends_at": 1795363200,
-            "always_live": 0,
-            "locale": "nl",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/eredivisie/2026-11-22/spa-az",
-            "substreams": [
-              {
-                "id": 1032393,
-                "name": "Sparta Rotterdam vs. AZ Alkmaar",
-                "tag": "Eredivisie",
-                "uri_name": "eredivisie/2026-11-22/spa-az_540p",
-                "source_tag": "SD | ESPN",
-                "locale": "nl",
-                "iframe": "https://taifood-blog.asia/embed/eredivisie/2026-11-22/spa-az_540p"
-              }
-            ],
-            "viewers": "28"
-          },
-          {
-            "id": 32350,
-            "name": "Hull City vs. Brighton & Hove Albion",
-            "tag": "Premier League",
-            "source_tag": "HD | Sky Sports Premier League",
-            "poster": "https://static.ppvservices.st/assets/thumb/9c263c78546dddab35ffc94a8363961f-thumbnail.jpg",
-            "blurhash": "LUE.Ik|,#;tSfkjtfQfP0KOuX7M{",
-            "colors": [
-              "#f5a11e",
-              "#0057b7"
-            ],
-            "uri_name": "pl/2026-11-22/hul-bha",
-            "starts_at": 1795356000,
-            "ends_at": 1795365000,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/pl/2026-11-22/hul-bha",
-            "substreams": [
-              {
-                "id": 1032350,
-                "name": "Hull City vs. Brighton & Hove Albion",
-                "tag": "Premier League",
-                "uri_name": "pl/2026-11-22/hul-bha_540p",
-                "source_tag": "SD | Sky Sports Premier League",
-                "locale": "en-gb",
-                "iframe": "https://taifood-blog.asia/embed/pl/2026-11-22/hul-bha_540p"
-              }
-            ],
-            "viewers": "577"
-          },
-          {
-            "id": 32358,
-            "name": "Bologna vs. Udinese",
-            "tag": "Serie A",
-            "source_tag": "HD | Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/2f2bbc111219fb8abbd2ef9ee9f6b10c-thumbnail.jpg",
-            "blurhash": "L57BThwC00R#W=j[f5ay00XA~qst",
-            "colors": [
-              "#1a2f48",
-              "#0033a0"
-            ],
-            "uri_name": "seriea/2026-11-22/bol-udi",
-            "starts_at": 1795356000,
-            "ends_at": 1795365000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/seriea/2026-11-22/bol-udi",
-            "substreams": [
-              {
-                "id": 1032358,
-                "name": "Bologna vs. Udinese",
-                "tag": "Serie A",
-                "uri_name": "seriea/2026-11-22/bol-udi_540p",
-                "source_tag": "SD | Paramount+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/seriea/2026-11-22/bol-udi_540p"
-              }
-            ],
-            "viewers": "12"
-          },
-          {
-            "id": 32359,
-            "name": "Sassuolo vs. Genoa",
-            "tag": "Serie A",
-            "source_tag": "HD | Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/c05c3a1b71b2f3a11d275e916008f196-thumbnail.jpg",
-            "blurhash": "LNDtuN{]rE$gs:WBjZof0dSPo}J.",
-            "colors": [
-              "#e30613",
-              "#0033a0"
-            ],
-            "uri_name": "seriea/2026-11-22/sas-gen",
-            "starts_at": 1795356000,
-            "ends_at": 1795365000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/seriea/2026-11-22/sas-gen",
-            "substreams": [
-              {
-                "id": 1032359,
-                "name": "Sassuolo vs. Genoa",
-                "tag": "Serie A",
-                "uri_name": "seriea/2026-11-22/sas-gen_540p",
-                "source_tag": "SD | Paramount+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/seriea/2026-11-22/sas-gen_540p"
-              }
-            ],
-            "viewers": "16"
-          },
-          {
-            "id": 32369,
-            "name": "Paris FC vs. Angers",
-            "tag": "Ligue 1",
-            "source_tag": "HD | Ligue 1+",
-            "poster": "https://static.ppvservices.st/assets/thumb/840993d7ee5158d225a3df40e3a94bb1-thumbnail.jpg",
-            "blurhash": "L9C$~307-5-:t7WBj[j]00~SS$V?",
-            "colors": [
-              "#0033a0",
-              "#d9c395"
-            ],
-            "uri_name": "ligue1/2026-11-22/par-ang",
-            "starts_at": 1795356000,
-            "ends_at": 1795365000,
-            "always_live": 0,
-            "locale": "fr",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ligue1/2026-11-22/par-ang",
-            "substreams": [
-              {
-                "id": 1032369,
-                "name": "Paris FC vs. Angers",
-                "tag": "Ligue 1",
-                "uri_name": "ligue1/2026-11-22/par-ang_540p",
-                "source_tag": "SD | Ligue 1+",
-                "locale": "fr",
-                "iframe": "https://taifood-blog.asia/embed/ligue1/2026-11-22/par-ang_540p"
-              }
-            ],
-            "viewers": "5"
-          },
-          {
-            "id": 32341,
-            "name": "FC Augsburg vs. Mainz",
-            "tag": "Bundesliga",
-            "source_tag": "HD | Fandango",
-            "poster": "https://static.ppvservices.st/assets/thumb/c9d1741bda41dc94fd3eaf8b41b64c36-thumbnail.jpg",
-            "blurhash": "L9I1=s~BMJMJt7kCj[ae00IByXpv",
-            "colors": [
-              "#e30613",
-              "#c3141e"
-            ],
-            "uri_name": "bundesliga/2026-11-22/fca-m05",
-            "starts_at": 1795357800,
-            "ends_at": 1795366800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/bundesliga/2026-11-22/fca-m05",
-            "substreams": [
-              {
-                "id": 1032341,
-                "name": "FC Augsburg vs. Mainz",
-                "tag": "Bundesliga",
-                "uri_name": "bundesliga/2026-11-22/fca-m05_540p",
-                "source_tag": "SD | Fandango",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/bundesliga/2026-11-22/fca-m05_540p"
-              }
-            ],
-            "viewers": "2"
-          },
-          {
-            "id": 32330,
-            "name": "Racing Santander vs. Real Sociedad",
-            "tag": "LaLiga",
-            "source_tag": "HD | ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/a5013db01b1b958870ac8a0ba7a70ebb-thumbnail.jpg",
-            "blurhash": "L66+R:UIENw|V@bHWVoJ00rO-oNN",
-            "colors": [
-              "#007a33",
-              "#0033a0"
-            ],
-            "uri_name": "laliga/2026-11-22/rac-rso",
-            "starts_at": 1795360500,
-            "ends_at": 1795369500,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/laliga/2026-11-22/rac-rso",
-            "substreams": [
-              {
-                "id": 1032330,
-                "name": "Racing Santander vs. Real Sociedad",
-                "tag": "LaLiga",
-                "uri_name": "laliga/2026-11-22/rac-rso_540p",
-                "source_tag": "SD | ESPN+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/laliga/2026-11-22/rac-rso_540p"
-              }
-            ],
-            "viewers": "2"
-          },
-          {
-            "id": 32400,
-            "name": "IF Brommapojkarna vs. Halmstads BK",
-            "tag": "Allsvenskan",
-            "source_tag": "HD | TV4 Sport Live 1",
-            "poster": "https://static.ppvservices.st/assets/thumb/2201737488ff4467e39850167a42bfbb-thumbnail.jpg",
-            "blurhash": "LGChsu_}v*%Mj[ayj[f60JX.kpIo",
-            "colors": [
-              "#c8102e",
-              "#0047ab"
-            ],
-            "uri_name": "allsvenskan/2026-11-22/bro-hbk",
-            "starts_at": 1795361400,
-            "ends_at": 1795370400,
-            "always_live": 0,
-            "locale": "sv",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/allsvenskan/2026-11-22/bro-hbk",
-            "substreams": [
-              {
-                "id": 1032400,
-                "name": "IF Brommapojkarna vs. Halmstads BK",
-                "tag": "Allsvenskan",
-                "uri_name": "allsvenskan/2026-11-22/bro-hbk_540p",
-                "source_tag": "SD | TV4 Sport Live 1",
-                "locale": "sv",
-                "iframe": "https://taifood-blog.asia/embed/allsvenskan/2026-11-22/bro-hbk_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32394,
-            "name": "Go Ahead Eagles vs. Fortuna Sittard",
-            "tag": "Eredivisie",
-            "source_tag": "HD | ESPN2",
-            "poster": "https://static.ppvservices.st/assets/thumb/7e6aaaec8c8ffd9fb5e0b9aa04144304-thumbnail.jpg",
-            "blurhash": "L6J6y504yLI^jXs.a#WB00*FNh%W",
-            "colors": [
-              "#d81e05",
-              "#ffe500"
-            ],
-            "uri_name": "eredivisie/2026-11-22/gae-for",
-            "starts_at": 1795362300,
-            "ends_at": 1795371300,
-            "always_live": 0,
-            "locale": "nl",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/eredivisie/2026-11-22/gae-for",
-            "substreams": [
-              {
-                "id": 1032394,
-                "name": "Go Ahead Eagles vs. Fortuna Sittard",
-                "tag": "Eredivisie",
-                "uri_name": "eredivisie/2026-11-22/gae-for_540p",
-                "source_tag": "SD | ESPN2",
-                "locale": "nl",
-                "iframe": "https://taifood-blog.asia/embed/eredivisie/2026-11-22/gae-for_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32370,
-            "name": "Lorient vs. Stade Rennais",
-            "tag": "Ligue 1",
-            "source_tag": "HD | Ligue 1+",
-            "poster": "https://static.ppvservices.st/assets/thumb/0d43678c181f9ec6f83f94005214f66b-thumbnail.jpg",
-            "blurhash": "L8JgsV~Rv|V@t7bbbHjY01M|O?bI",
-            "colors": [
-              "#ff6600",
-              "#e30613"
-            ],
-            "uri_name": "ligue1/2026-11-22/lor-ren",
-            "starts_at": 1795364100,
-            "ends_at": 1795373100,
-            "always_live": 0,
-            "locale": "fr",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ligue1/2026-11-22/lor-ren",
-            "substreams": [
-              {
-                "id": 1032370,
-                "name": "Lorient vs. Stade Rennais",
-                "tag": "Ligue 1",
-                "uri_name": "ligue1/2026-11-22/lor-ren_540p",
-                "source_tag": "SD | Ligue 1+",
-                "locale": "fr",
-                "iframe": "https://taifood-blog.asia/embed/ligue1/2026-11-22/lor-ren_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32342,
-            "name": "Werder Bremen vs. Hamburg SV",
-            "tag": "Bundesliga",
-            "source_tag": "HD | Fandango",
-            "poster": "https://static.ppvservices.st/assets/thumb/237287cd556b8184671ad551272f6fb6-thumbnail.jpg",
-            "blurhash": "L96]h4P=E0w%kCfifQfQ00v=-qRi",
-            "colors": [
-              "#009655",
-              "#0a3f86"
-            ],
-            "uri_name": "bundesliga/2026-11-22/svw-hsv",
-            "starts_at": 1795365000,
-            "ends_at": 1795374000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/bundesliga/2026-11-22/svw-hsv",
-            "substreams": [
-              {
-                "id": 1032342,
-                "name": "Werder Bremen vs. Hamburg SV",
-                "tag": "Bundesliga",
-                "uri_name": "bundesliga/2026-11-22/svw-hsv_540p",
-                "source_tag": "SD | Fandango",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/bundesliga/2026-11-22/svw-hsv_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32351,
-            "name": "Liverpool vs. Manchester United",
-            "tag": "Premier League",
-            "source_tag": "HD | Sky Sports Premier League",
-            "poster": "https://static.ppvservices.st/assets/thumb/06f2151b64027a437b011debdeeb087b-thumbnail.jpg",
-            "blurhash": "L4H*p-2zm,,kxGfkaeae00,kX-Ni",
-            "colors": [
-              "#c8102e",
-              "#da020e"
-            ],
-            "uri_name": "pl/2026-11-22/liv-mun",
-            "starts_at": 1795365000,
-            "ends_at": 1795374000,
-            "always_live": 0,
-            "locale": "en-gb",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/pl/2026-11-22/liv-mun",
-            "substreams": [
-              {
-                "id": 1032351,
-                "name": "Liverpool vs. Manchester United",
-                "tag": "Premier League",
-                "uri_name": "pl/2026-11-22/liv-mun_540p",
-                "source_tag": "SD | Sky Sports Premier League",
-                "locale": "en-gb",
-                "iframe": "https://taifood-blog.asia/embed/pl/2026-11-22/liv-mun_540p"
-              }
-            ],
-            "viewers": "28"
-          },
-          {
-            "id": 32360,
-            "name": "AC Milan vs. Frosinone",
-            "tag": "Serie A",
-            "source_tag": "HD | Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/ba0bbe01e3206edd18c210450083d8dc-thumbnail.jpg",
-            "blurhash": "L7JGGr4Zx#K6ogn$jYWY00d6O_-z",
-            "colors": [
-              "#e21c2a",
-              "#ffed00"
-            ],
-            "uri_name": "seriea/2026-11-22/mil-fro",
-            "starts_at": 1795366800,
-            "ends_at": 1795375800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/seriea/2026-11-22/mil-fro",
-            "substreams": [
-              {
-                "id": 1032360,
-                "name": "AC Milan vs. Frosinone",
-                "tag": "Serie A",
-                "uri_name": "seriea/2026-11-22/mil-fro_540p",
-                "source_tag": "SD | Paramount+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/seriea/2026-11-22/mil-fro_540p"
-              }
-            ],
-            "viewers": "1"
-          },
-          {
-            "id": 32331,
-            "name": "Osasuna vs. Málaga",
-            "tag": "LaLiga",
-            "source_tag": "HD | ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/e72a9dc8b31d702fad830f91d6f3c50f-thumbnail.jpg",
-            "blurhash": "LfE-zX{vwObIoLayfQj[9ZK6X5Wr",
-            "colors": [
-              "#ff6600",
-              "#0088ce"
-            ],
-            "uri_name": "laliga/2026-11-22/osa-mcf",
-            "starts_at": 1795368600,
-            "ends_at": 1795377600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/laliga/2026-11-22/osa-mcf",
-            "substreams": [
-              {
-                "id": 1032331,
-                "name": "Osasuna vs. Málaga",
-                "tag": "LaLiga",
-                "uri_name": "laliga/2026-11-22/osa-mcf_540p",
-                "source_tag": "SD | ESPN+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/laliga/2026-11-22/osa-mcf_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32361,
-            "name": "Atalanta vs. Inter Milan",
-            "tag": "Serie A",
-            "source_tag": "HD | Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/eefda32024bb995cc0949cc2f464b8a4-thumbnail.jpg",
-            "blurhash": "L98;.XJb9G%NkDbIf6jr00$}.7IT",
-            "colors": [
-              "#2d5cae",
-              "#0a2540"
-            ],
-            "uri_name": "seriea/2026-11-22/ata-int",
-            "starts_at": 1795376700,
-            "ends_at": 1795385700,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/seriea/2026-11-22/ata-int",
-            "substreams": [
-              {
-                "id": 1032361,
-                "name": "Atalanta vs. Inter Milan",
-                "tag": "Serie A",
-                "uri_name": "seriea/2026-11-22/ata-int_540p",
-                "source_tag": "SD | Paramount+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/seriea/2026-11-22/ata-int_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32371,
-            "name": "Marseille vs. Le Mans",
-            "tag": "Ligue 1",
-            "source_tag": "HD | Ligue 1+",
-            "poster": "https://static.ppvservices.st/assets/thumb/170408145612d6c62b5b43194a624403-thumbnail.jpg",
-            "blurhash": "LLC=113Zw3Vrj[azfQj[0dvybutR",
-            "colors": [
-              "#0033a0",
-              "#d42a1c"
-            ],
-            "uri_name": "ligue1/2026-11-22/olm-mns",
-            "starts_at": 1795376700,
-            "ends_at": 1795385700,
-            "always_live": 0,
-            "locale": "fr",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ligue1/2026-11-22/olm-mns",
-            "substreams": [
-              {
-                "id": 1032371,
-                "name": "Marseille vs. Le Mans",
-                "tag": "Ligue 1",
-                "uri_name": "ligue1/2026-11-22/olm-mns_540p",
-                "source_tag": "SD | Ligue 1+",
-                "locale": "fr",
-                "iframe": "https://taifood-blog.asia/embed/ligue1/2026-11-22/olm-mns_540p"
-              }
-            ],
-            "viewers": "2"
-          },
-          {
-            "id": 32332,
-            "name": "Getafe vs. Atlético Madrid",
-            "tag": "LaLiga",
-            "source_tag": "HD | ESPN+",
-            "poster": "https://static.ppvservices.st/assets/thumb/6a15934d8c30ce21ca2ba438237c43c8-thumbnail.jpg",
-            "blurhash": "LMC;_22Nw5jJbIjZf6bH0c#kXPs*",
-            "colors": [
-              "#0000cc",
-              "#ce3524"
-            ],
-            "uri_name": "laliga/2026-11-22/get-atm",
-            "starts_at": 1795377600,
-            "ends_at": 1795386600,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/laliga/2026-11-22/get-atm",
-            "substreams": [
-              {
-                "id": 1032332,
-                "name": "Getafe vs. Atlético Madrid",
-                "tag": "LaLiga",
-                "uri_name": "laliga/2026-11-22/get-atm_540p",
-                "source_tag": "SD | ESPN+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/laliga/2026-11-22/get-atm_540p"
-              }
-            ],
-            "viewers": "0"
-          },
           {
             "id": 32384,
             "name": "Guadalajara vs. Cruz Azul",
@@ -2165,7 +1235,7 @@
                 "iframe": "https://taifood-blog.asia/embed/liga-mx/2026-11-22/gdl-caz_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "187"
           },
           {
             "id": 32385,
@@ -2351,7 +1421,7 @@
                 "iframe": "https://taifood-blog.asia/embed/pl/2026-11-23/bre-eve_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           }
         ]
       },
@@ -2389,7 +1459,7 @@
                 "iframe": "https://taifood-blog.asia/embed/sky-sports-golf-29059_540p"
               }
             ],
-            "viewers": "11"
+            "viewers": "6"
           }
         ]
       },
@@ -2427,38 +1497,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl-network-29780_540p"
               }
             ],
-            "viewers": "2"
-          },
-          {
-            "id": 32653,
-            "name": "Carolina Hurricanes vs. New York Rangers",
-            "tag": "NHL",
-            "source_tag": "HD | MSG",
-            "poster": "https://static.ppvservices.st/assets/thumb/40e2ec2a8323dc09937350322ae0a0f7-thumbnail.jpg",
-            "blurhash": "LTD*J5{cwMbwjbjtjtay55OsbuR*",
-            "colors": [
-              "#e30426",
-              "#0056ae"
-            ],
-            "uri_name": "nhl/2026-11-22/car-nyr",
-            "starts_at": 1795368600,
-            "ends_at": 1795379400,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Ice Hockey",
-            "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-22/car-nyr",
-            "substreams": [
-              {
-                "id": 1032653,
-                "name": "Carolina Hurricanes vs. New York Rangers",
-                "tag": "NHL",
-                "uri_name": "nhl/2026-11-22/car-nyr_540p",
-                "source_tag": "SD | MSG",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-22/car-nyr_540p"
-              }
-            ],
-            "viewers": "0"
+            "viewers": "8"
           },
           {
             "id": 32654,
@@ -2489,7 +1528,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-22/buf-tb_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "187"
           },
           {
             "id": 32655,
@@ -2520,7 +1559,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-22/edm-stl_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 32656,
@@ -2551,7 +1590,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-22/pit-dal_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 32657,
@@ -2620,7 +1659,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-league_540p"
               }
             ],
-            "viewers": "1"
+            "viewers": "3"
           }
         ]
       },
@@ -2658,7 +1697,7 @@
                 "iframe": "https://taifood-blog.asia/embed/tennis-channel_540p"
               }
             ],
-            "viewers": "14"
+            "viewers": "27"
           },
           {
             "id": 32479,
@@ -2689,7 +1728,7 @@
                 "iframe": "https://taifood-blog.asia/embed/sky-sports-tennis-32479_540p"
               }
             ],
-            "viewers": "9"
+            "viewers": "17"
           }
         ]
       },
@@ -2727,7 +1766,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-south-park_540p"
               }
             ],
-            "viewers": "15"
+            "viewers": "11"
           },
           {
             "id": 3663,
@@ -2758,7 +1797,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-cows_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 8008,
@@ -2789,7 +1828,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-family-guy_540p"
               }
             ],
-            "viewers": "18"
+            "viewers": "19"
           },
           {
             "id": 5191,
@@ -2820,7 +1859,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-the-simpsons_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 16623,
@@ -2851,7 +1890,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-spongebob-squarepants_540p"
               }
             ],
-            "viewers": "6"
+            "viewers": "2"
           },
           {
             "id": 17270,
@@ -2872,7 +1911,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/rally-tv",
             "substreams": [],
-            "viewers": "4"
+            "viewers": "3"
           },
           {
             "id": 30527,
@@ -2903,7 +1942,7 @@
                 "iframe": "https://taifood-blog.asia/embed/sky-sports-racing_540p"
               }
             ],
-            "viewers": "2"
+            "viewers": "1"
           },
           {
             "id": 31729,
@@ -2934,7 +1973,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cnn-31729_540p"
               }
             ],
-            "viewers": "4"
+            "viewers": "6"
           },
           {
             "id": 31730,
@@ -2965,7 +2004,7 @@
                 "iframe": "https://taifood-blog.asia/embed/fox-news-31730_540p"
               }
             ],
-            "viewers": "1"
+            "viewers": "3"
           }
         ]
       }
