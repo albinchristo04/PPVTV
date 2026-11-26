@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-25T16:41:42.980056+00:00",
+    "fetched_at": "2026-11-26T01:28:36.897083+00:00",
     "source": "https://api.ppv.st/api/streams",
     "total_events": null
   },
   "events": {
     "success": true,
-    "timestamp": 1795624910,
+    "timestamp": 1795656520,
     "READ_ME": "Interested in using our API? Contact us for more information.",
-    "performance": 0.08539891242980957,
+    "performance": 0.03996706008911133,
     "streams": [
       {
         "category": "American Football",
@@ -44,7 +44,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl-network_540p"
               }
             ],
-            "viewers": "13"
+            "viewers": "12"
           },
           {
             "id": 32683,
@@ -75,7 +75,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nfl/2026-11-25/gb-lar_540p"
               }
             ],
-            "viewers": "2"
+            "viewers": "7438"
           },
           {
             "id": 32685,
@@ -870,7 +870,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cfb/2026-11-28/bois-csu_540p"
               }
             ],
-            "viewers": "1"
+            "viewers": "0"
           },
           {
             "id": 32747,
@@ -1471,7 +1471,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-fox-footy_540p"
               }
             ],
-            "viewers": "3"
+            "viewers": "2"
           }
         ]
       },
@@ -1480,223 +1480,6 @@
         "id": 37,
         "always_live": false,
         "streams": [
-          {
-            "id": 32899,
-            "name": "Virginia Cavaliers at Marquette Golden Eagles",
-            "tag": "College Basketball",
-            "source_tag": "HD | ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/66759433dc91c436645c9d5e49276d8f-thumbnail.jpg",
-            "blurhash": "L58gml8wRj?]t7f+WBoe00?]t78{",
-            "colors": [
-              "#232d4b",
-              "#003366"
-            ],
-            "uri_name": "cbb/2026-11-25/uva-marq",
-            "starts_at": 1795626000,
-            "ends_at": 1795636800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-25/uva-marq",
-            "substreams": [
-              {
-                "id": 1032899,
-                "name": "Virginia Cavaliers at Marquette Golden Eagles",
-                "tag": "College Basketball",
-                "uri_name": "cbb/2026-11-25/uva-marq_540p",
-                "source_tag": "SD | ESPN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-25/uva-marq_540p"
-              }
-            ],
-            "viewers": "4"
-          },
-          {
-            "id": 32900,
-            "name": "Arizona State Sun Devils at LSU Tigers",
-            "tag": "College Basketball",
-            "source_tag": "HD | CBSSN",
-            "poster": "https://static.ppvservices.st/assets/thumb/1d7f43dba162b8f5bb3f056753ff9662-thumbnail.jpg",
-            "blurhash": "LcF;u~~1xWWXj@j@fQfQ59I[WEWE",
-            "colors": [
-              "#ffc627",
-              "#461d76"
-            ],
-            "uri_name": "cbb/2026-11-25/asu-lsu",
-            "starts_at": 1795633200,
-            "ends_at": 1795644000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-25/asu-lsu",
-            "substreams": [
-              {
-                "id": 1032900,
-                "name": "Arizona State Sun Devils at LSU Tigers",
-                "tag": "College Basketball",
-                "uri_name": "cbb/2026-11-25/asu-lsu_540p",
-                "source_tag": "SD | CBSSN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-25/asu-lsu_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32919,
-            "name": "Ole Miss Rebels at Arizona Wildcats",
-            "tag": "College Basketball",
-            "source_tag": "HD | ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/5b616639860c46507420cb9a04294a54-thumbnail.jpg",
-            "blurhash": "L5D7,Z0K[Wy?RPXSsor?00_3KOqa",
-            "colors": [
-              "#13294b",
-              "#cc0033"
-            ],
-            "uri_name": "cbb/2026-11-25/miss-ariz",
-            "starts_at": 1795635000,
-            "ends_at": 1795645800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-25/miss-ariz",
-            "substreams": [
-              {
-                "id": 1032919,
-                "name": "Ole Miss Rebels at Arizona Wildcats",
-                "tag": "College Basketball",
-                "uri_name": "cbb/2026-11-25/miss-ariz_540p",
-                "source_tag": "SD | ESPN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-25/miss-ariz_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32901,
-            "name": "South Carolina Gamecocks at USC Trojans",
-            "tag": "College Basketball",
-            "source_tag": "HD | CBSSN",
-            "poster": "https://static.ppvservices.st/assets/thumb/852add9543d248107b27d37b31be4b0f-thumbnail.jpg",
-            "blurhash": "L2CECA3;RP:5s.fka}oJ00_$xuL2",
-            "colors": [
-              "#73000a",
-              "#9d2235"
-            ],
-            "uri_name": "cbb/2026-11-25/sc-usc",
-            "starts_at": 1795642200,
-            "ends_at": 1795653000,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-25/sc-usc",
-            "substreams": [
-              {
-                "id": 1032901,
-                "name": "South Carolina Gamecocks at USC Trojans",
-                "tag": "College Basketball",
-                "uri_name": "cbb/2026-11-25/sc-usc_540p",
-                "source_tag": "SD | CBSSN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-25/sc-usc_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32883,
-            "name": "Miami Heat vs. Philadelphia 76ers",
-            "tag": "NBA",
-            "source_tag": "HD | ESPN",
-            "poster": "https://static.ppvservices.st/assets/thumb/2a09f23a6f6e5186d3a92bec589691e4-thumbnail.jpg",
-            "blurhash": "L8B2i;_#s=$+NaxtaeRk00X:jYJ8",
-            "colors": [
-              "#98002e",
-              "#1d428a"
-            ],
-            "uri_name": "nba/2026-11-25/mia-phi",
-            "starts_at": 1795644000,
-            "ends_at": 1795654800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/nba/2026-11-25/mia-phi",
-            "substreams": [
-              {
-                "id": 1032883,
-                "name": "Miami Heat vs. Philadelphia 76ers",
-                "tag": "NBA",
-                "uri_name": "nba/2026-11-25/mia-phi_540p",
-                "source_tag": "SD | ESPN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/nba/2026-11-25/mia-phi_540p"
-              }
-            ],
-            "viewers": "2"
-          },
-          {
-            "id": 32902,
-            "name": "Southern Jaguars at Nebraska Cornhuskers",
-            "tag": "College Basketball",
-            "source_tag": "HD | BTN",
-            "poster": "https://static.ppvservices.st/assets/thumb/a63c3ee59ae776ce114e41bfe4f89126-thumbnail.jpg",
-            "blurhash": "LFEm-A3s,uz;oLbHj[jZ0J:jSdb^",
-            "colors": [
-              "#004b97",
-              "#e31937"
-            ],
-            "uri_name": "cbb/2026-11-25/sou-neb",
-            "starts_at": 1795644000,
-            "ends_at": 1795654800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-25/sou-neb",
-            "substreams": [
-              {
-                "id": 1032902,
-                "name": "Southern Jaguars at Nebraska Cornhuskers",
-                "tag": "College Basketball",
-                "uri_name": "cbb/2026-11-25/sou-neb_540p",
-                "source_tag": "SD | BTN",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-25/sou-neb_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32903,
-            "name": "Memphis Tigers at Penn State Nittany Lions",
-            "tag": "College Basketball",
-            "source_tag": "HD | ESPNU",
-            "poster": "https://static.ppvservices.st/assets/thumb/d2747b4cc8ef9331742476683e7c4ed8-thumbnail.jpg",
-            "blurhash": "LB5ricpMR.jEfRayfQj[4maIs:bI",
-            "colors": [
-              "#004991",
-              "#061440"
-            ],
-            "uri_name": "cbb/2026-11-25/mem-psu",
-            "starts_at": 1795644000,
-            "ends_at": 1795654800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Basketball",
-            "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-25/mem-psu",
-            "substreams": [
-              {
-                "id": 1032903,
-                "name": "Memphis Tigers at Penn State Nittany Lions",
-                "tag": "College Basketball",
-                "uri_name": "cbb/2026-11-25/mem-psu_540p",
-                "source_tag": "SD | ESPNU",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-25/mem-psu_540p"
-              }
-            ],
-            "viewers": "0"
-          },
           {
             "id": 32920,
             "name": "BYU Cougars at Providence Friars",
@@ -1726,7 +1509,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-25/byu-prov_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "17"
           },
           {
             "id": 32884,
@@ -1757,7 +1540,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-25/chi-cha_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "680"
           },
           {
             "id": 32904,
@@ -1788,7 +1571,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-25/conn-duke_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "61"
           },
           {
             "id": 32885,
@@ -1837,7 +1620,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-25/cle-ny/away_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "2041"
           },
           {
             "id": 32887,
@@ -1868,7 +1651,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-25/min-okc_540p"
               }
             ],
-            "viewers": "1"
+            "viewers": "3212"
           },
           {
             "id": 32888,
@@ -1917,7 +1700,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-25/lac-mem/away_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "332"
           },
           {
             "id": 32890,
@@ -1966,7 +1749,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-25/bkn-mil/away_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "246"
           },
           {
             "id": 32892,
@@ -2015,7 +1798,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-25/phx-hou/away_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "49"
           },
           {
             "id": 32894,
@@ -2046,7 +1829,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-25/sac-gs_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "2"
           },
           {
             "id": 32895,
@@ -2095,7 +1878,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nba/2026-11-25/sa-por/home_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "4"
           },
           {
             "id": 32921,
@@ -2250,7 +2033,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cbb/2026-11-26/smu-lsu_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           }
         ]
       },
@@ -2324,7 +2107,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-willow-sports_540p"
               }
             ],
-            "viewers": "27"
+            "viewers": "19"
           },
           {
             "id": 27496,
@@ -2364,285 +2147,6 @@
         "id": 34,
         "always_live": false,
         "streams": [
-          {
-            "id": 32822,
-            "name": "Sabah FK vs. Barcelona",
-            "tag": "Champions League",
-            "source_tag": "HD | Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/c1c8ab8e97f2dfb8e1c7e38111f6b10c-thumbnail.jpg",
-            "blurhash": "LEG#ki{gnOxrs:WXfPoJ0yTGbvIt",
-            "colors": [
-              "#ee2020",
-              "#a50044"
-            ],
-            "uri_name": "ucl/2026-11-25/sab-bar",
-            "starts_at": 1795628700,
-            "ends_at": 1795637700,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/sab-bar",
-            "substreams": [
-              {
-                "id": 1032822,
-                "name": "Sabah FK vs. Barcelona",
-                "tag": "Champions League",
-                "uri_name": "ucl/2026-11-25/sab-bar_540p",
-                "source_tag": "SD | Paramount+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/sab-bar_540p"
-              }
-            ],
-            "viewers": "27"
-          },
-          {
-            "id": 32823,
-            "name": "Slavia Prague vs. Villarreal",
-            "tag": "Champions League",
-            "source_tag": "HD | Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/f60060edcc6760995f934e4e48d76f75-thumbnail.jpg",
-            "blurhash": "L6I.vJ4ZtvP9xDahfQj?03d6Rq,-",
-            "colors": [
-              "#d7141a",
-              "#f4c300"
-            ],
-            "uri_name": "ucl/2026-11-25/slp-vil",
-            "starts_at": 1795628700,
-            "ends_at": 1795637700,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/slp-vil",
-            "substreams": [
-              {
-                "id": 1032823,
-                "name": "Slavia Prague vs. Villarreal",
-                "tag": "Champions League",
-                "uri_name": "ucl/2026-11-25/slp-vil_540p",
-                "source_tag": "SD | Paramount+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/slp-vil_540p"
-              }
-            ],
-            "viewers": "4"
-          },
-          {
-            "id": 32824,
-            "name": "Atlético Madrid vs. Viking FK",
-            "tag": "Champions League",
-            "source_tag": "HD | Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/1361c5a83d1494781f2c8dbf12b7fc74-thumbnail.jpg",
-            "blurhash": "LLDG{G}RwMrqbHbHfQjs0{NHf*OZ",
-            "colors": [
-              "#ce3524",
-              "#000080"
-            ],
-            "uri_name": "ucl/2026-11-25/atm-vfk",
-            "starts_at": 1795636800,
-            "ends_at": 1795645800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/atm-vfk",
-            "substreams": [
-              {
-                "id": 1032824,
-                "name": "Atlético Madrid vs. Viking FK",
-                "tag": "Champions League",
-                "uri_name": "ucl/2026-11-25/atm-vfk_540p",
-                "source_tag": "SD | Paramount+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/atm-vfk_540p"
-              }
-            ],
-            "viewers": "0"
-          },
-          {
-            "id": 32825,
-            "name": "Club Brugge vs. Liverpool",
-            "tag": "Champions League",
-            "source_tag": "HD | Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/2ca022888f384b55b66804ce29f871bc-thumbnail.jpg",
-            "blurhash": "L7CEbE3G+d#ljaWBj[oe00{xTIoc",
-            "colors": [
-              "#0a2e7a",
-              "#c8102e"
-            ],
-            "uri_name": "ucl/2026-11-25/bru-liv",
-            "starts_at": 1795636800,
-            "ends_at": 1795645800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/bru-liv",
-            "substreams": [
-              {
-                "id": 1032825,
-                "name": "Club Brugge vs. Liverpool",
-                "tag": "Champions League",
-                "uri_name": "ucl/2026-11-25/bru-liv_540p",
-                "source_tag": "SD | Paramount+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/bru-liv_540p"
-              }
-            ],
-            "viewers": "1"
-          },
-          {
-            "id": 32826,
-            "name": "Inter Milan vs. VfB Stuttgart",
-            "tag": "Champions League",
-            "source_tag": "HD | Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/48c9804f682ccc4f1053cabbda1e2d34-thumbnail.jpg",
-            "blurhash": "L7Edbw3Y[WvxxuR%f6og00{cOrxd",
-            "colors": [
-              "#0a2540",
-              "#e30613"
-            ],
-            "uri_name": "ucl/2026-11-25/int-vfb",
-            "starts_at": 1795636800,
-            "ends_at": 1795645800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/int-vfb",
-            "substreams": [
-              {
-                "id": 1032826,
-                "name": "Inter Milan vs. VfB Stuttgart",
-                "tag": "Champions League",
-                "uri_name": "ucl/2026-11-25/int-vfb_540p",
-                "source_tag": "SD | Paramount+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/int-vfb_540p"
-              }
-            ],
-            "viewers": "1"
-          },
-          {
-            "id": 32827,
-            "name": "Lille vs. Bayern Munich",
-            "tag": "Champions League",
-            "source_tag": "HD | Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/d36deb84dbb1ca477e54e2946c967ed9-thumbnail.jpg",
-            "blurhash": "L1Ix5o{t*y-F#:R*jZso00E.G[JN",
-            "colors": [
-              "#e30613",
-              "#dc052d"
-            ],
-            "uri_name": "ucl/2026-11-25/lill-bay",
-            "starts_at": 1795636800,
-            "ends_at": 1795645800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/lill-bay",
-            "substreams": [
-              {
-                "id": 1032827,
-                "name": "Lille vs. Bayern Munich",
-                "tag": "Champions League",
-                "uri_name": "ucl/2026-11-25/lill-bay_540p",
-                "source_tag": "SD | Paramount+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/lill-bay_540p"
-              }
-            ],
-            "viewers": "2"
-          },
-          {
-            "id": 32828,
-            "name": "Paris Saint-Germain vs. AS Roma",
-            "tag": "Champions League",
-            "source_tag": "HD | Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/7855d89c9c2a7ec0fd69494f54eab939-thumbnail.jpg",
-            "blurhash": "LH9~w77jr^r;oea#fQj?54wFkBbc",
-            "colors": [
-              "#0033a0",
-              "#970a2c"
-            ],
-            "uri_name": "ucl/2026-11-25/psg-roma",
-            "starts_at": 1795636800,
-            "ends_at": 1795645800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/psg-roma",
-            "substreams": [
-              {
-                "id": 1032828,
-                "name": "Paris Saint-Germain vs. AS Roma",
-                "tag": "Champions League",
-                "uri_name": "ucl/2026-11-25/psg-roma_540p",
-                "source_tag": "SD | Paramount+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/psg-roma_540p"
-              }
-            ],
-            "viewers": "2"
-          },
-          {
-            "id": 32829,
-            "name": "Shakhtar Donetsk vs. Fenerbahce",
-            "tag": "Champions League",
-            "source_tag": "HD | Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/94307b01c3eed5e6a9110c235a492f02-thumbnail.jpg",
-            "blurhash": "L8KvZbuntwXnxFjbj@ay00UWRptc",
-            "colors": [
-              "#ff5900",
-              "#ffff00"
-            ],
-            "uri_name": "ucl/2026-11-25/shk-fen",
-            "starts_at": 1795636800,
-            "ends_at": 1795645800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/shk-fen",
-            "substreams": [
-              {
-                "id": 1032829,
-                "name": "Shakhtar Donetsk vs. Fenerbahce",
-                "tag": "Champions League",
-                "uri_name": "ucl/2026-11-25/shk-fen_540p",
-                "source_tag": "SD | Paramount+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/shk-fen_540p"
-              }
-            ],
-            "viewers": "1"
-          },
-          {
-            "id": 32830,
-            "name": "Sporting CP vs. Manchester United",
-            "tag": "Champions League",
-            "source_tag": "HD | Paramount+",
-            "poster": "https://static.ppvservices.st/assets/thumb/9d94f7f3af859407a2e0a6c51019c622-thumbnail.jpg",
-            "blurhash": "LAC}:=4Q-6+tj@WWjtj[02{LS$S%",
-            "colors": [
-              "#008057",
-              "#da020e"
-            ],
-            "uri_name": "ucl/2026-11-25/scp-mun",
-            "starts_at": 1795636800,
-            "ends_at": 1795645800,
-            "always_live": 0,
-            "locale": "en",
-            "category_name": "Football",
-            "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/scp-mun",
-            "substreams": [
-              {
-                "id": 1032830,
-                "name": "Sporting CP vs. Manchester United",
-                "tag": "Champions League",
-                "uri_name": "ucl/2026-11-25/scp-mun_540p",
-                "source_tag": "SD | Paramount+",
-                "locale": "en",
-                "iframe": "https://taifood-blog.asia/embed/ucl/2026-11-25/scp-mun_540p"
-              }
-            ],
-            "viewers": "2"
-          },
           {
             "id": 32849,
             "name": "Kairat Almaty vs. Mjällby AIF",
@@ -2765,7 +2269,7 @@
                 "iframe": "https://taifood-blog.asia/embed/uel/2026-11-26/dzg-b04_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 32834,
@@ -5841,7 +5345,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl-network-29780_540p"
               }
             ],
-            "viewers": "1"
+            "viewers": "2"
           },
           {
             "id": 32905,
@@ -5872,7 +5376,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-25/wpg-bos_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "304"
           },
           {
             "id": 32906,
@@ -5903,7 +5407,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-25/nyr-buf_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "95"
           },
           {
             "id": 32907,
@@ -5934,7 +5438,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-25/car-tb_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "168"
           },
           {
             "id": 32908,
@@ -5965,7 +5469,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-25/ott-fla_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "423"
           },
           {
             "id": 32909,
@@ -5996,7 +5500,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-25/stl-nyi_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "65"
           },
           {
             "id": 32910,
@@ -6027,7 +5531,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-25/cgy-pit_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "24"
           },
           {
             "id": 32911,
@@ -6058,7 +5562,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-25/phi-wsh_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "117"
           },
           {
             "id": 32912,
@@ -6089,7 +5593,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-25/nj-cbj_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "56"
           },
           {
             "id": 32913,
@@ -6120,7 +5624,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-25/van-det_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "169"
           },
           {
             "id": 32914,
@@ -6151,7 +5655,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-25/nsh-dal_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "41"
           },
           {
             "id": 32915,
@@ -6182,7 +5686,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-25/uta-min_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "97"
           },
           {
             "id": 32916,
@@ -6213,7 +5717,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-25/mtl-col_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "8"
           },
           {
             "id": 32917,
@@ -6275,7 +5779,7 @@
                 "iframe": "https://taifood-blog.asia/embed/nhl/2026-11-25/sj-ana_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           }
         ]
       },
@@ -6351,7 +5855,7 @@
                 "iframe": "https://taifood-blog.asia/embed/tennis-channel_540p"
               }
             ],
-            "viewers": "31"
+            "viewers": "7"
           }
         ]
       },
@@ -6389,7 +5893,7 @@
                 "iframe": "https://taifood-blog.asia/embed/aew/2026-11-25_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "186"
           },
           {
             "id": 32879,
@@ -6520,7 +6024,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-south-park_540p"
               }
             ],
-            "viewers": "18"
+            "viewers": "16"
           },
           {
             "id": 3663,
@@ -6551,7 +6055,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-cows_540p"
               }
             ],
-            "viewers": "0"
+            "viewers": "1"
           },
           {
             "id": 8008,
@@ -6582,7 +6086,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-family-guy_540p"
               }
             ],
-            "viewers": "12"
+            "viewers": "23"
           },
           {
             "id": 5191,
@@ -6613,7 +6117,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-the-simpsons_540p"
               }
             ],
-            "viewers": "3"
+            "viewers": "2"
           },
           {
             "id": 16623,
@@ -6644,7 +6148,7 @@
                 "iframe": "https://taifood-blog.asia/embed/247-spongebob-squarepants_540p"
               }
             ],
-            "viewers": "3"
+            "viewers": "1"
           },
           {
             "id": 17270,
@@ -6665,7 +6169,7 @@
             "category_name": "24/7 Streams",
             "iframe": "https://taifood-blog.asia/embed/rally-tv",
             "substreams": [],
-            "viewers": "2"
+            "viewers": "1"
           },
           {
             "id": 31729,
@@ -6696,7 +6200,7 @@
                 "iframe": "https://taifood-blog.asia/embed/cnn-31729_540p"
               }
             ],
-            "viewers": "9"
+            "viewers": "5"
           },
           {
             "id": 31730,
@@ -6727,7 +6231,7 @@
                 "iframe": "https://taifood-blog.asia/embed/fox-news-31730_540p"
               }
             ],
-            "viewers": "3"
+            "viewers": "5"
           }
         ]
       }
